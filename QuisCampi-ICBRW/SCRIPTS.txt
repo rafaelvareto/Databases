@@ -1,0 +1,11 @@
+# copy specific files from one folder to another, but keeping directory structure
+rsync -rv --include '*/' --include '*.jpg' --exclude '*' --prune-empty-dirs /home/rafael/STORAGE/datasets/DATASETS/quiscamp/qcDatasetRep/ /home/rafael/Downloads/QC-imagesOnly/
+
+
+# checking files from folder that are not in another by hash comparison
+diff <(find /home/rafael/STORAGE/datasets/DATASETS/icbrw/ -type f -exec md5sum {} \; | cut -f 1 -d ' ' | sort) \ <(find /home/rafael/STORAGE/datasets/DATASETS/quiscamp/qcDatasetRep/ -type f -exec md5sum {} \; | cut -f 1 -d ' ' | sort)
+
+diff <(find /home/rafael/Downloads/contrast-datasets/icbrw_GalleryImages/ -iname "*.jpg" -type f -exec md5sum {} \; | cut -f 1 -d ' ' | sort) \
+<(find /home/rafael/Downloads/contrast-datasets/QuisCampi_Gallery/ -iname "*.jpg" -type f -exec md5sum {} \; | cut -f 1 -d ' ' | sort)
+
+grep -Ff <(for i in icbrw_GalleryImages/*.jpg ; do md5sum $i | awk {'print $1'}; done) <(find QuisCampi_Gallery/ -iname  "*.jpg" | xargs md5sum) | awk {'print $2'} | sort -V > mutualExclusiveFiles.txt
