@@ -92,7 +92,8 @@ def download_subject(args, textfile_name):
 def main(args):
     socket.setdefaulttimeout(30)
     textfile_names = os.listdir(args.dataset_descriptor)
-    Parallel(n_jobs=20, verbose=11, backend='threading')(
+    textfile_names.sort()
+    Parallel(n_jobs=50, verbose=11, backend='threading')(
         delayed(download_subject) (args, textfile_name) for textfile_name in textfile_names
     )
     
