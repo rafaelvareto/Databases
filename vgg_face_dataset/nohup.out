@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "download_vgg_face_dataset.py", line 31, in <module>
+    from skimage import io
+ImportError: No module named skimage
