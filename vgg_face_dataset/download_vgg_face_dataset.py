@@ -27,16 +27,32 @@ from __future__ import division
 from __future__ import print_function
 
 import argparse
+import matplotlib
 import numpy as np
 import os
 import socket
 import sys
 
-from httplib import HTTPException
+matplotlib.use('Agg')
+
+if (sys.version_info > (3, 0)):
+    python_version = 3
+else:
+    python_version = 2
+
+if python_version == 3:
+    from http.client import HTTPException    
+else:
+    from httplib import HTTPException
 from joblib import Parallel, delayed
 from scipy import misc
 from skimage import io
-from urllib2 import HTTPError, URLError
+if python_version == 3:
+    from urllib.request import urlopen
+    from urllib.error import HTTPError, URLError
+else:
+    from urllib2 import HTTPError, URLError
+
 
 def download_subject(args, textfile_name):
     if textfile_name.endswith('.txt'):
@@ -52,16 +68,20 @@ def download_subject(args, textfile_name):
                 x = line.split(' ')
                 filename = x[0]
                 url = x[1]
-                box = np.rint(np.array(map(float, x[2:6])))  # x1,y1,x2,y2
+                if python_version == 3:
+                    box = np.rint(np.array(list(map(float, x[2:6]))))  # x1,y1,x2,y2
+                else:
+                    box = np.rint(np.array(map(float, x[2:6])))  # x1,y1,x2,y2
                 image_path = os.path.join(args.dataset_descriptor, dir_name, filename+'.'+args.output_format)
                 error_path = os.path.join(args.dataset_descriptor, dir_name, filename+'.err')
                 if not os.path.exists(image_path) and not os.path.exists(error_path):
                     try:
                         img = io.imread(url, mode='RGB')
-                    except (HTTPException, HTTPError, URLError, IOError, ValueError, IndexError, OSError) as e:
+                    except (HTTPException, HTTPError, URLError, ZeroDivisionError, IOError, ValueError, IndexError, OSError) as e:
                         error_message = '{}: {}'.format(url, e)
                         # save_error_message_file(error_path, error_message)
                     else:
+                        print(img.shape)
                         try:
                             if img.ndim == 2:
                                 img = to_rgb(img)
@@ -84,20 +104,25 @@ def download_subject(args, textfile_name):
                             error_message = '{}: {}'.format(url, e)
                             # save_error_message_file(error_path, error_message)
                 else:
-                    print('%s %s already exists' % (textfile_name.replace('.txt',''), filename))
+                    # print('%s %s already exists' % (textfile_name.replace('.txt',''), filename))
                     counter += 1
                     if counter > 99:
                         return
 
 def main(args):
-    socket.setdefaulttimeout(30)
+    socket.setdefaulttimeout(20)
     textfile_names = os.listdir(args.dataset_descriptor)
-    textfile_names.sort()
-    Parallel(n_jobs=50, verbose=11, backend='threading')(
+    textfile_names.sort(reverse=False)
+    Parallel(n_jobs=30, verbose=11, backend='threading')(
         delayed(download_subject) (args, textfile_name) for textfile_name in textfile_names
     )
-    
-            
+
+    # socket.setdefaulttimeout(20)
+    # textfile_names = os.listdir(args.dataset_descriptor)
+    # textfile_names.sort()
+    # for textfile_name in textfile_names:
+    #     download_subject(args, textfile_name)
+
 def save_error_message_file(filename, error_message):
     print(error_message)
     with open(filename, "w") as textfile:
