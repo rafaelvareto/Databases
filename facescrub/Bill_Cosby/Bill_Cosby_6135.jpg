@@ -1,0 +1,330 @@
+<!doctype html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 ie-lt10 ie-lt9 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 ie-lt10 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head id="quicktakenews" data-template-set="html5-reset-wordpress-theme">
+
+	<meta charset="UTF-8">
+
+	<!-- Always force latest IE rendering engine (even in intranet) -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+
+	
+	<title>Front Page | QuickTake News™</title>
+
+	<meta name="title" content="Front Page | QuickTake News™">
+
+	<meta name="author" content="QuickTake News" />
+	<meta name="Copyright" content="Copyright &copy; QuickTake News™ 2014. All Rights Reserved.">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 minimal-ui" /><meta name=”mobile-web-app-capable” content=”yes”><link rel="shortcut icon" sizes=”1024x1024” href="http://thequicktake.pub/wp-content/uploads/2014/09/favicon.ico" /><link rel="apple-touch-icon" href="http://thequicktake.pub/wp-content/uploads/2014/09/favicon.png">
+	<!-- concatenate and minify for production -->
+	<link rel="stylesheet" href="http://thequicktake.pub/wp-content/themes/quicktake/reset.css" />
+	<link rel="stylesheet" href="http://thequicktake.pub/wp-content/themes/quicktake/style.css" />
+	
+	<!-- Google Fonts -->
+	<!-- <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'> -->
+	<link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+	<!-- This is an un-minified, complete version of Modernizr.
+		 Before you move to production, you should generate a custom build that only has the detects you need. -->
+	<script src="http://thequicktake.pub/wp-content/themes/quicktake/_/js/modernizr-2.8.0.dev.js"></script>
+
+	<!-- Application-specific meta tags -->
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://thequicktake.pub/xmlrpc.php" />
+	
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://thequicktake.pub/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Front Page | QuickTake News™" />
+<meta property="og:url" content="http://thequicktake.pub/" />
+<meta property="og:site_name" content="QuickTake News™" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://thequicktake.pub/", "potentialAction": { "@type": "SearchAction", "target": "http://thequicktake.pub/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="QuickTake News™ &raquo; Feed" href="http://thequicktake.pub/feed/" />
+<link rel="alternate" type="application/rss+xml" title="QuickTake News™ &raquo; Comments Feed" href="http://thequicktake.pub/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="QuickTake News™ &raquo; Front Page Comments Feed" href="http://thequicktake.pub/front/feed/" />
+<link rel='stylesheet' id='cb_icon_fonts-css'  href='http://thequicktake.pub/wp-content/plugins/iconica-vector-icons/cb-style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cb_animations-css'  href='http://thequicktake.pub/wp-content/plugins/iconica-vector-icons/cb-animation.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='VsTr-frontend-css'  href='http://thequicktake.pub/wp-content/plugins/WP_VisitorsTracker/assets/css/frontend.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='weatherslider_css-css'  href='http://thequicktake.pub/wp-content/plugins/WeatherSlider/css/weatherslider.css?ver=2.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bigfoot-number-css'  href='http://thequicktake.pub/wp-content/plugins/crab-footnotes/css/bigfoot-number/bigfoot-number.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bigfoot-custom-css'  href='http://thequicktake.pub/wp-content/plugins/crab-footnotes/css/bigfoot-default/bigfoot-custom.css' type='text/css' media='all' />
+<style type='text/css'>
+
+                div.footnote-main-wrapper {
+                     background-color: #3d0f0f;
+                }
+
+                div.footnote-content-wrapper {
+                    background-color: #3d0f0f;
+                    color: #ede8e8;
+                }
+
+                div.tooltip {
+                    background-color: #3d0f0f;
+                }
+</style>
+<link rel='stylesheet' id='keyword-tooltip-css'  href='http://thequicktake.pub/wp-content/plugins/keyword-tooltips/css/front.css?ver=2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wprssmi_template_styles-css'  href='http://thequicktake.pub/wp-content/plugins/wp-rss-multi-importer/templates/templates.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cs_weather-css'  href='http://thequicktake.pub/wp-content/plugins/cs_weather/css/weather.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://thequicktake.pub/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/thequicktake.pub\/wp-admin\/admin-ajax.php";
+var vstr_userID = ["0"];
+var vstr_mode = ["all"];
+var vstr_ip = ["66.177.65.76"];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/WP_VisitorsTracker/assets/js/frontend.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;language=en&#038;ver=3'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/WeatherSlider/js/jquery-animate-background-position.js?ver=2.6.3'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/WeatherSlider/js/jquery-easing-1.3.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/WeatherSlider/js/weatherslider.kreaturamedia.jquery.js?ver=2.6.3'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/crab-footnotes/js/bigfoot.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/crab-footnotes/js/main-bigfoot.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/keyword-tooltips/js/script.js?ver=2.14'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thequicktake.pub/xmlrpc.php?rsd" />
+<link rel='shortlink' href='http://wp.me/P51q1G-p' />
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #156fbf; background-image: url('/wp-content/uploads/2014/09/bg-texture.jpg'); background-repeat: repeat; background-position: top center; background-attachment: scroll; }
+</style>
+
+<style type="text/css">span.keywordtooltip-11 {color: #dd3333; cursor: auto; box-shadow: #888 0px 0px 5px; border-radius: 2px;}
+#keywordtooltip-11 {background: #F8F8F8 url() 0 0 repeat; width: 400px; opacity: 0.95; box-shadow: 2px 2px 2px rgba(0,0,0,0.5); border-radius: 2px; border: 1px solid #CCCCCC;}
+
+</style>
+</head>
+
+<body class="home page page-id-25 page-template-default custom-background">
+	
+	<div class="highlight">
+	
+		<div class="wrapper">
+	
+			<header id="header" role="banner">
+			
+				<h1>
+				
+					<a id="logo" href="/news/" title="QuickTake News™" rel="home">
+					
+						QuickTake News™ - Unfair, Unbalanced—Just the Truth™					
+					</a>
+					
+				</h1>
+				
+				<div class="infobar">
+					
+					TheQuickTake.pub • November 24th, 2014					
+				</div>
+					
+			</header>
+	
+ 	
+ 	<div class="thin-wrapper">
+	
+	<div class="BreakingNewsController bn-easing" id="BreakingNewsController2480">	<div class="bn-title"></div>    <ul><li><a href=http://thequicktake.pub/law-lawlessness/defense-attornies/>Where / Are / Defense / Attornies</a></li><li><a href=http://thequicktake.pub/quick-take-news/high/>On / High</a></li><li><a href=http://thequicktake.pub/law-lawlessness/law-prosecutors/law-king-county-wa/wa-mentally-ill/>Wa. / So What / Mentally Ill</a></li><li><a href=http://thequicktake.pub/law-lawlessness/law-police-beat/one-can-weep/>One / Can / Only / Weep</a></li><li><a href=http://thequicktake.pub/videos-general/video-indepth/snl-cartoon/>So What / SNL / Cartoon</a></li><li><a href=http://thequicktake.pub/world-news/world-government/world-u-s/obama-constitution/>Obama : So What Constitution</a></li><li><a href=http://thequicktake.pub/videos-general/video-intube/facial-facts/>Facial / Facts</a></li><li><a href=http://thequicktake.pub/quick-take-news/half-right-wrong/>Half / Right / All / Wrong</a></li>    </ul>    <div class="bn-arrows"><span class="bn-arrows-left"></span><span class="bn-arrows-right"></span></div></div><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="http://thequicktake.pub/wp-content/plugins/breakingnews/js/BreakingNews.js"></script><link rel="stylesheet" href="http://thequicktake.pub/wp-content/plugins/breakingnews/css/BreakingNews.css"/><script>$(document).ready(function(e) {
+			$("#BreakingNewsController2480").BreakingNews({	background:"#CDB79E",title:"BREAKING NEWS", titlecolor:"#FFF", titlebgcolor:"#6495ed", linkcolor:"#333", linkhovercolor:"#CC0C35", fonttextsize:16, isbold:false, border:"solid 4px #8b6914", width:"100%", autoplay:true, timer:3000, effect:"slide", data:false});
+			});</script>	
+	<h4>• Top Page Take •</h4>
+		
+	
+
+
+
+		
+
+
+
+	<div class="post-170552 post type-post status-publish format-standard has-post-thumbnail hentry category-law-lawlessness post-list-item two-col three-col" id="post-170552" style="background-image: url(http://thequicktake.pub/wp-content/uploads/2014/11/wacdl.png);">
+	
+				
+		<ul class="post-categories">
+	<li><a href="http://thequicktake.pub/section/law-lawlessness/" rel="category tag">Law \ Lawlessness</a></li></ul>		
+		<a class="click-box" href="http://thequicktake.pub/law-lawlessness/defense-attornies/">
+		
+			<span class="post-info">
+			
+				<h3>Where / Are / Defense / Attornies</h3>
+				
+				<time datetime="2014-11-24T14:20:27-08:00" pubdate class="updated">November 24th, 2014</time>
+				
+			</span>
+		
+		</a>
+	
+	</div>
+
+
+	
+	<a class="large-button" href="/news/">Continue to <span>QuickTake News™</span></a>
+		 	
+</div> 
+
+			
+			<div class="site-tagline">
+			
+				Unfair, Unbalanced—Just the Truth™				
+			</div>
+			
+			<nav id="nav" role="navigation">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-1035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="http://thequicktake.pub/news/">Top / News</a></li>
+<li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="http://thequicktake.pub/contact/qtn-concept/">QTN / Concept</a></li>
+<li id="menu-item-914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-914"><a href="http://thequicktake.pub/contact/">Contact / Editor</a></li>
+</ul></div>			</nav>
+			
+			<div class="thin-wrapper">
+				
+				<form role="search" method="get" id="searchform" action="http://thequicktake.pub/">
+
+	<input type="text" id="s" name="s" value="" placeholder="Search QTN" />
+	
+</form>				
+			</div>
+			
+			<div class="thin-wrapper" style="text-align: center;">
+				
+								
+				<select name='cat' id='cat' class='postform' >
+	<option value='-1'>:: Select News Section ::</option>
+	<option class="level-0" value="1">A QTN.pub / Take</option>
+	<option class="level-0" value="62">Awards</option>
+	<option class="level-1" value="70">&nbsp;&nbsp;&nbsp;Award \ B.M.B.</option>
+	<option class="level-1" value="7">&nbsp;&nbsp;&nbsp;Award \ Integrity</option>
+	<option class="level-0" value="16">Health \ Care</option>
+	<option class="level-1" value="71">&nbsp;&nbsp;&nbsp;Health \ Deaths</option>
+	<option class="level-1" value="61">&nbsp;&nbsp;&nbsp;Health \ Ebola</option>
+	<option class="level-0" value="13">Law \ Lawlessness</option>
+	<option class="level-1" value="14">&nbsp;&nbsp;&nbsp;Law \ Police Beat</option>
+	<option class="level-1" value="19">&nbsp;&nbsp;&nbsp;Law \ Prosecutors</option>
+	<option class="level-2" value="27">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Law \ King County Wa.</option>
+	<option class="level-3" value="81">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;King County \ Satterberg</option>
+	<option class="level-2" value="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Law \ Texas Prosecutors</option>
+	<option class="level-0" value="17">Religion \ News</option>
+	<option class="level-0" value="4">Science \ News</option>
+	<option class="level-1" value="65">&nbsp;&nbsp;&nbsp;Science \ Animal</option>
+	<option class="level-1" value="92">&nbsp;&nbsp;&nbsp;Science \ Comp</option>
+	<option class="level-1" value="6">&nbsp;&nbsp;&nbsp;Science \ Psychology</option>
+	<option class="level-1" value="5">&nbsp;&nbsp;&nbsp;Science \ Technology</option>
+	<option class="level-0" value="85">Vanity \ Affairs</option>
+	<option class="level-1" value="72">&nbsp;&nbsp;&nbsp;Vanity \ Fashion</option>
+	<option class="level-0" value="56">Videos \ General</option>
+	<option class="level-1" value="21">&nbsp;&nbsp;&nbsp;Videos \ Indepth</option>
+	<option class="level-1" value="15">&nbsp;&nbsp;&nbsp;Videos \ Ingeneral</option>
+	<option class="level-1" value="18">&nbsp;&nbsp;&nbsp;Videos \ Insports</option>
+	<option class="level-1" value="82">&nbsp;&nbsp;&nbsp;Videos \ InTube</option>
+	<option class="level-0" value="57">Weather \ General</option>
+	<option class="level-1" value="66">&nbsp;&nbsp;&nbsp;Weather \ Cities</option>
+	<option class="level-0" value="22">White Papers</option>
+	<option class="level-0" value="23">World \ News</option>
+	<option class="level-1" value="31">&nbsp;&nbsp;&nbsp;World \ Conflicts</option>
+	<option class="level-1" value="11">&nbsp;&nbsp;&nbsp;World \ Economy</option>
+	<option class="level-1" value="12">&nbsp;&nbsp;&nbsp;World \ Government</option>
+	<option class="level-2" value="28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World \ U.S. Government</option>
+</select>
+ 
+				
+				<script type="text/javascript"><!--
+				    var dropdown = document.getElementById("cat");
+				    function onCatChange() {
+						if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+							location.href = "http://thequicktake.pub/?cat="+dropdown.options[dropdown.selectedIndex].value;
+						}
+				    }
+				    dropdown.onchange = onCatChange;
+				--></script>
+				
+			</div>
+			
+			<footer id="footer" class="source-org vcard copyright" role="contentinfo">
+				<small>&copy; 2014 QuickTake News™. All rights reserved.</small>
+			</footer>
+	
+		</div><!-- End Wrapper -->
+	
+	</div><!-- End Highlight -->
+	
+	<!-- this is where we put our custom functions -->
+	
+	<script src="http://thequicktake.pub/wp-content/themes/quicktake/_/js/jquery.zrssfeed.min.js"></script>
+	<script src="http://thequicktake.pub/wp-content/themes/quicktake/_/js/functions.js">
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>jQuery(document).ready(function(){ jQuery('a.colorbox').colorbox({iframe:true, width:'80%', height:'80%'});jQuery('a.rssmi_youtube').colorbox({iframe:true, innerWidth:425, innerHeight:344})});</script>		
+<div style="display:none;" class="keywordtooltip-box keywordtooltip-font-dark" id="keywordtooltip-11">
+	<div class="keywordtooltip-box-11" style="margin: 10px;">
+	<p>King County Prosecutor Dan Satterberg, like prosecutors around the country display a wanton dis-regard for evidence. See www.hardtruth.us for facts that evidence was created to frame trials.</p>
+	</div>
+	<span class="keywordtooltip-box-close">×</span>
+</div><link rel='stylesheet' id='wprssmi_colorbox-css'  href='http://thequicktake.pub/wp-content/plugins/wp-rss-multi-importer/css/colorbox.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-includes/js/comment-reply.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/wp-rss-multi-importer/scripts/jquery.colorbox-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thequicktake.pub/wp-content/plugins/wp-rss-multi-importer/scripts/detect-mobile.js?ver=4.0.1'></script>
+
+	<script src="http://stats.wp.com/e-201448.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'74220056',post:'25',tz:'-8'});
+	var load_cmc = function(){linktracker_init(74220056,25,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>	
+	<!-- CLICKY -->
+	
+	<script type="text/javascript">
+	var clicky_site_ids = clicky_site_ids || [];
+	clicky_site_ids.push(100772618);
+	(function() {
+	  var s = document.createElement('script');
+	  s.type = 'text/javascript';
+	  s.async = true;
+	  s.src = '//static.getclicky.com/js';
+	  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+	})();
+	</script>
+	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100772618ns.gif" /></p></noscript>
+	
+
+<!-- jQuery is called via the WordPress-friendly way via functions.php -->
+
+<!-- Asynchronous google analytics; this is the official snippet.
+         Replace UA-XXXXXX-XX with your site's ID and domainname.com with your domain, then uncomment to enable.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-XXXXXX-XX', 'domainname.com');
+  ga('send', 'pageview');
+
+</script>
+-->
+
+</body>
+
+</html>

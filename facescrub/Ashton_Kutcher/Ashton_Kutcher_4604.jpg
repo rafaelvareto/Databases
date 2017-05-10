@@ -1,0 +1,618 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://techglam.com/wp-content/themes/TechGlam/style.css" />
+<link rel="shortcut icon" href="http://techglam.com/wp-content/themes/TechGlam/images/favicon.ico" />  
+<link rel="pingback" href="http://techglam.com/xmlrpc.php" />  
+<script type='text/javascript' src="http://techglam.com/wp-content/themes/TechGlam/js/jquery.js"></script>  
+<script type='text/javascript' src="http://techglam.com/wp-content/themes/TechGlam/jquery_002.js" ></script> 
+<script type="text/javascript" src="http://techglam.com/wp-content/themes/TechGlam/js/contentslider.js"></script>
+  <!-- newly added codes-->
+		<script type="text/javascript">
+	(function($) {
+		$(document).ready(function() { 
+			
+			$('a[href=#top]').click(function(){	$('html, body').animate({scrollTop:0}, 'slow');	return false; });
+			
+			$("ul.tabs").tabs("div.panes > div");			
+			$("ul.sc_tabs").tabs("div.sc_tabs-content > div");
+			
+			$("#mediabar .container").jCarouselLite({
+								scroll: 2,
+				speed: 800,	
+				visible: 6,
+				start: 0,
+				circular: false,
+				btnPrev: "#previous_button",
+				btnNext: "#next_button"
+			});
+			
+			$('#slides').slides({
+								preload: true,
+				autoHeight: true
+			});			
+		});
+	})(jQuery);
+	</script>  
+  <!-- new codes ends here --> 
+  
+  <!-- this is for copay pasting-->  
+  <!-- BEGIN Tynt Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('cV5AP-Rhqr4Pyfacwqm_6r');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END Tynt Script --> 
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.22 - http://yoast.com/wordpress/seo/ -->
+<title>Page Not Found - TechGlam</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Page Not Found - TechGlam" />
+<meta property="og:site_name" content="TechGlam" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="TechGlam &raquo; Feed" href="http://techglam.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TechGlam &raquo; Comments Feed" href="http://techglam.com/comments/feed/" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41373524-1']);
+				            _gaq.push(['_setAllowLinker',true],['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel='stylesheet' id='sociablecss-css'  href='http://techglam.com/wp-content/plugins/sociable/css/sociable.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='http://techglam.com/wp-content/plugins/table-of-contents-plus/screen.css?ver=1308' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://techglam.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.63' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://techglam.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4' type='text/css' media='screen' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='http://techglam.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://techglam.com/wp-content/plugins/sociable/js/sociable.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://techglam.com/wp-content/plugins/sociable/js/vuible.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://techglam.com/wp-content/plugins/sociable/js/addtofavorites.js?ver=3.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/techglam.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","level":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://techglam.com/wp-content/plugins/simple-ads-manager/js/sam-layout.js?ver=1.7.63'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://techglam.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://techglam.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.5" />
+<script type='text/javascript'>var base_url_sociable = 'http://techglam.com/wp-content/plugins/sociable/'</script><script type='text/javascript' src='http://apis.google.com/js/plusone.js'></script><style type="text/css">div#toc_container {background: #f9f9f9;border: 1px solid #aaaaaa;}div#toc_container p.toc_title {color: #000105;}div#toc_container p.toc_title a,div#toc_container ul.toc_list a {color: #1578d1;}div#toc_container p.toc_title a:hover,div#toc_container ul.toc_list a:hover {color: #096d2e;}div#toc_container p.toc_title a:hover,div#toc_container ul.toc_list a:hover {color: #096d2e;}div#toc_container p.toc_title a:visited,div#toc_container ul.toc_list a:visited {color: #0e6218;}</style><link type="text/css" rel="stylesheet" href="http://techglam.com/wp-content/plugins/wp-activity/wp-activity.css" /><style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://techglam.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+	
+</head>
+
+<body class="home blog">
+
+  <!-- Project Wonderful Ad Box Loader -->
+
+<div class="wrapper">
+
+	<!--header of the webiste starts-->
+    <div id="header">
+    
+        <!--header top starts-->
+        <div id="header_top">
+            <!--search starts-->
+          <div id="search">
+<style>
+#searchbox{background:#eaf8fc;background-image:-moz-linear-gradient(#fff,#d4e8ec);background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#d4e8ec),color-stop(1,#fff));-moz-border-radius:35px;border-radius:35px;border-width:1px;border-style:solid;border-color:#c4d9df #a4c3ca #83afb7;width:400px;height:35px;margin:0;margin-left:-10px;margin-top:-7px;float:left;overflow:hidden;padding-top:3px}#search,#submit{float:left}#search{padding:5px 9px;height:18px;width:270px;border:1px solid #a4c3ca;font:400 13px 'trebuchet MS',arial,helvetica;background:#f1f1f1;margin-left:5px;-moz-border-radius:50px 3px 3px 50px;border-radius:50px 3px 3px 50px;-moz-box-shadow:0 1px 3px rgba(0,0,0,.25) inset,0 1px 0 rgba(255,255,255,1);-webkit-box-shadow:0 1px 3px rgba(0,0,0,.25) inset,0 1px 0 rgba(255,255,255,1);box-shadow:0 1px 3px rgba(0,0,0,.25) inset,0 1px 0 rgba(255,255,255,1)}#submit{background:#6cbb6b;background-image:-moz-linear-gradient(#95d788,#6cbb6b);background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#6cbb6b),color-stop(1,#95d788));-moz-border-radius:3px 50px 50px 3px;border-radius:3px 50px 50px 3px;border-width:1px;border-style:solid;border-color:#7eba7c #578e57 #447d43;-moz-box-shadow:0 0 1px rgba(0,0,0,.3),0 1px 0 rgba(255,255,255,.3) inset;-webkit-box-shadow:0 0 1px rgba(0,0,0,.3),0 1px 0 rgba(255,255,255,.3) inset;box-shadow:0 0 1px rgba(0,0,0,.3),0 1px 0 rgba(255,255,255,.3) inset;height:30px;margin:0 0 0 10px;padding:0;width:90px;cursor:pointer;font:700 14px Arial,Helvetica;color:#23441e;text-shadow:0 1px 0 rgba(255,255,255,.5)}#submit:hover{background:#95d788;background-image:-moz-linear-gradient(#6cbb6b,#95d788);background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#95d788),color-stop(1,#6cbb6b))}#submit:active{background:#95d788;outline:0;-moz-box-shadow:0 1px 4px rgba(0,0,0,.5) inset;-webkit-box-shadow:0 1px 4px rgba(0,0,0,.5) inset;box-shadow:0 1px 4px rgba(0,0,0,.5) inset}#submit::-moz-focus-inner{border:0}		
+</style>
+
+
+<form id="searchbox" action="http://techglam.com/">
+    <input id="search" type="text" placeholder="Type here" name="s" >
+    <input id="submit" type="submit" value="Search">
+</form>
+           
+            </div>
+
+             <!--search ends-->
+          <div id="like" style="border:0px;">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like" data-href="http://www.facebook.com/techglam" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+
+
+<a href="https://twitter.com/techglamz" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+            </div>
+     
+            <!--login/register button-->
+           <div id="register">
+                <ul>
+                    				
+					<div id="login_logout_whole">
+						<li id="login_logout-4" class="widget-container_1000">
+<!-- Login-Logout plugin v.2.4 wordpress.org/extend/plugins/login-logout/ -->
+<ul class="wrap_login_logout">
+<li class="item_login"><a href="http://techglam.com/wp-login.php?redirect_to=http%3A%2F%2Ftechglam.com%2Fwp-content%2Fuploads%2F2013%2F08%2FAshton-Kutcher.jpg">Login</a></li>
+</ul>
+</li>                  </div>
+				
+      
+                  
+                  <li> <div id="write_for_us">
+                    
+                    <a href="http://techglam.com/write-for-us/">Write for us </a>                  
+                 
+                    </div></li>
+                  
+                </ul>
+           </div><!--login/register ends-->
+        </div><!--header_top ends-->
+        
+      
+      
+        
+        <!--logo starts-->
+        <div id="logo">
+            <a href="http://techglam.com"><img src="http://techglam.com/wp-content/themes/TechGlam/images/logo.png" alt="[LOGO]" width="220" height="80"/></a>
+        </div><!--logo ends-->
+        <!--banner for advertisement-->
+        <div id="banner">
+          <!-- BEGIN JS TAG - ATF - ESC - 728x90 < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=2379846&cb=[CACHEBUSTER]&referrer=[REFERRER_URL]&pubclickenc=%5BINSERT_CLICK_TAG%5D" TYPE="text/javascript"></SCRIPT>
+<!-- END TAG -->
+        </div><!--banner ends-->
+    </div><!--header ends-->
+
+
+<!-- the main category menu starts here-->
+    <div id="main_menu">
+        <ul id="nav">
+	       <li><a href="http://techglam.com">Home</a></li>	
+	       <li><a href="http://techglam.com/category/technology/">Technology</a>
+                <ul id="first_sub_menu"><!-- Begin Sub Level -->
+                    <li><a href="http://techglam.com/category/technology/news">News</a></li>
+                    <li><a href="http://techglam.com/category/technology/tips">Tips</a></li>
+                    <li><a href="http://techglam.com/category/technology/reviews">Reviews</a></li>
+			<li><a href="http://techglam.com/category/technology/internet-marketing/">Internet Marketing</a></li>
+                </ul><!-- End Sub Level -->
+            </li>	
+            <li><a href="http://techglam.com/category/entertainment/">Entertainment</a>
+                <ul id="second_sub_menu"><!-- Begin Sub Level -->
+                    <li><a href="http://techglam.com/category/entertainment/celeb-news/">Celeb News</a></li>
+                    <li><a href="http://techglam.com/category/entertainment/movies">Movies</a></li>
+                    <li><a href="http://techglam.com/category/entertainment/games">Games</a></li>
+                </ul><!-- End Sub Level -->
+            </li>
+    
+            <li><a href="http://techglam.com/category/finance/">Finance</a>
+                <ul id="third_sub_menu"><!-- Begin Sub Level -->
+                
+                    <li><a href="http://techglam.com/category/finance/knowledge">Knowledge</a></li>
+                    <li><a href="http://techglam.com/category/finance/make-money-online/">Make Money Online</a></li>
+                    <li><a href="http://techglam.com/category/finance/insurance/">Insurance</a></li>
+                    
+                </ul><!-- End Sub Level -->
+            </li>	
+            <li><a href="http://techglam.com/category/health-fitness/">Health & Fitness</a>
+
+<ul id="thirdd_sub_menu"><!-- Begin Sub Level -->
+                    <li><a href="http://techglam.com/category/health-fitness/Nutrition">Nutrition</a></li>
+                   <li><a href="http://techglam.com/category/health-fitness/exercise/">Exercise</a></li>
+
+<li><a href="http://techglam.com/category/health-fitness/Supplements/">Supplements</a></li>
+                   
+                </ul><!-- End Sub Level -->
+
+</li>            
+            <li><a href="http://techglam.com/category/lifestyle/">Lifestyle</a>
+                <ul id="fourth_sub_menu"><!-- Begin Sub Level -->
+                    <li><a href="http://techglam.com/category/lifestyle/home-living/">Home & Living</a></li>
+                    <li><a href="http://techglam.com/category/lifestyle/beauty/">Beauty</a></li>
+                    <li><a href="http://techglam.com/category/lifestyle/Inspiration/">Inspiration</a></li>
+		    <li><a href="http://techglam.com/category/lifestyle/fashion/">Fashion</a></li>
+		    <li><a href="http://techglam.com/category/lifestyle/relationships/">Relationships</a></li>
+                </ul><!-- End Sub Level -->
+            </li>
+            <li><a href="http://techglam.com/category/travel/">Travel</a></li>
+            <li><a href="http://techglam.com/category/real-estate/">Real Estate</a>
+<ul id="fifth_sub_menu"><!-- Begin Sub Level -->
+                    <li><a href="http://techglam.com/category/real-estate/mortgage/">Mortgage</a></li>
+</ul>
+
+</li>
+            <li><a href="http://techglam.com/advertisers/">Advertisers</a></li>
+            <li><a href="http://techglam.com/write-for-us/">Careers</a></li>
+        </ul>
+    </div><!--main menu ends-->	<div id="container">	
+	
+		<div id="bcrum">
+			<a href="http://techglam.com" title="technology tips, news, reviews, seo, internet marketing, lose weight, build muscle, celebrity gossip, lifestyle, finance, travel">Home</a> &raquo; 404 Error		</div>
+	
+		<div class="post">
+			<h2 class="archive_title">Apologies, but the page you requested could not be found.</h2>
+		</div>
+		
+	</div><!-- /container -->
+
+	<div id="sidebar">
+		
+
+
+  
+  
+ 
+      <div id="gab_tabs-3" class="widget gab_tabs"><div class="widgetinner"><h3 class="widgettitle">Featured Posts</h3>
+
+			<div class="light_cs">
+				<ul class="tabs">
+					<li><a href="#first">Latest</a></li>
+					<li><a href="#third">Popular</a></li>
+					<li><a href="#second">Most viewed</a></li>
+				</ul>
+				
+				<div class="panes">
+					<div> <!-- for latest post-->
+					<ul>
+                    
+                    
+					<li>
+					<a href="http://techglam.com/time-warner-interested-80-billion-takeover-fox/" class="pad">Time Warner Not Interested In $80 billion Takeover By Fox</a>
+					<span class="block">by <a href="http://techglam.com/author/admin/" title="Posts by TechGlamTeam" rel="author">TechGlamTeam</a> - 
+                    <a href="http://techglam.com/time-warner-interested-80-billion-takeover-fox/"><span class="dsq-postid" rel="12463 http://techglam.com/?p=12463">No Comments</span></a></span>
+					</li>
+                                        
+					<li>
+					<a href="http://techglam.com/yahoo-sports-fantasy-soccer-app-soccer-fans/" class="pad">Yahoo Sports Fantasy Soccer App For Soccer Fans</a>
+					<span class="block">by <a href="http://techglam.com/author/admin/" title="Posts by TechGlamTeam" rel="author">TechGlamTeam</a> - 
+                    <a href="http://techglam.com/yahoo-sports-fantasy-soccer-app-soccer-fans/"><span class="dsq-postid" rel="12458 http://techglam.com/?p=12458">No Comments</span></a></span>
+					</li>
+                                        
+					<li>
+					<a href="http://techglam.com/nvidia-tegra-note-7-lte-launched/" class="pad">NVIDIA Tegra Note 7 LTE Launched</a>
+					<span class="block">by <a href="http://techglam.com/author/admin/" title="Posts by TechGlamTeam" rel="author">TechGlamTeam</a> - 
+                    <a href="http://techglam.com/nvidia-tegra-note-7-lte-launched/"><span class="dsq-postid" rel="12454 http://techglam.com/?p=12454">No Comments</span></a></span>
+					</li>
+                                        
+					<li>
+					<a href="http://techglam.com/think-negative-to-grow-negative-resistance-training/" class="pad">Think ‘Negative’ To Grow: Negative Resistance Training</a>
+					<span class="block">by <a href="http://techglam.com/author/ibelieve/" title="Posts by shashank shalabh" rel="author">shashank shalabh</a> - 
+                    <a href="http://techglam.com/think-negative-to-grow-negative-resistance-training/"><span class="dsq-postid" rel="12448 http://techglam.com/?p=12448">No Comments</span></a></span>
+					</li>
+                        <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'techglam';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+                    
+					</ul>
+					</div> <!-- this is the end of latest post-->
+					
+					<div>
+					<ul>
+						<li><a href="http://techglam.com/samsung-galaxy-s4-versus-iphone-5-lg-nexus-4-and-htc-one/">Samsung Galaxy S4 versus iPhone 5, LG Nexus 4 and HTC One</a></li>
+		<li><a href="http://techglam.com/selena-gomez-justin-beiber-and-taylor-swift-to-sit-together-at-billboard-awards/">Selena Gomez Justin Beiber Taylor Swift to sit together at Billboard Awards</a></li>
+		<li><a href="http://techglam.com/how-to-squat-properly-why-you-suck-at-squats/">How To Squat Properly: Why You Suck At Squats?</a></li>
+		<li><a href="http://techglam.com/the-myths-related-to-weight-training-and-fat-loss/">The Myths Related To Weight Training And Fat Loss</a></li>
+		<li><a href="http://techglam.com/catherine-zeta-jones-visits-mental-health-facility-for-bipolar-disorder/">Catherine Zeta Jones visits Mental Health Facility For Bipolar Disorder</a></li>
+		<li><a href="http://techglam.com/looking-back-into-old-school-bodybuilding-the-1970s/">Looking Back Into Old School Bodybuilding: The 1970s</a></li>
+							</ul>
+					</div>
+					
+
+					<div>
+					<ul>
+						<li><a href="http://techglam.com/samsung-galaxy-s4-versus-iphone-5-lg-nexus-4-and-htc-one/">Samsung Galaxy S4 versus iPhone 5, LG Nexus 4 and HTC One</a></li>
+		<li><a href="http://techglam.com/selena-gomez-justin-beiber-and-taylor-swift-to-sit-together-at-billboard-awards/">Selena Gomez Justin Beiber Taylor Swift to sit together at Billboard Awards</a></li>
+		<li><a href="http://techglam.com/how-to-squat-properly-why-you-suck-at-squats/">How To Squat Properly: Why You Suck At Squats?</a></li>
+		<li><a href="http://techglam.com/the-myths-related-to-weight-training-and-fat-loss/">The Myths Related To Weight Training And Fat Loss</a></li>
+		<li><a href="http://techglam.com/catherine-zeta-jones-visits-mental-health-facility-for-bipolar-disorder/">Catherine Zeta Jones visits Mental Health Facility For Bipolar Disorder</a></li>
+							</ul>
+                    </div>
+				</div>
+			</div>
+	
+			</div></div>      
+            
+            
+           
+             <div class="clear"></div>
+            
+     <!-- this is Sidebar Ad1 '300x250' -->       
+  
+<div class="textwidget">
+
+<!-- BEGIN JS TAG - BTF - ESC - 300x250 < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=2379848&cb=[CACHEBUSTER]&referrer=[REFERRER_URL]&pubclickenc=%5BINSERT_CLICK_TAG%5D" TYPE="text/javascript"></SCRIPT>
+<!-- END TAG -->
+  </div>
+  
+ <!-- end of Sidebar Ad1 '300x250' -->
+
+<div class="clear"></div>
+
+  
+  <div id="poll">
+    <h3 class="widgettitle" style="border-bottom: 1px solid silver;">Latest Poll</h3>
+    <img style="margin-bottom: 2px;" src="http://techglam.com/wp-content/themes/TechGlam/Poll.jpg" width="300" height="169" alt="poll image">
+    
+    
+        <li>
+      
+        <ul>
+            <li><div id="polls-13" class="wp-polls">
+	<form id="polls_form_13" class="wp-polls-form" action="/wp-content/uploads/2013/08/Ashton-Kutcher.jpg" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_13_nonce" name="wp-polls-nonce" value="17244e7b76" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="13" /></p>
+		<p style="text-align: center;"><strong>Which is your favorite bodybuilding protein?</strong></p><div id="polls-13-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-34" name="poll_13" value="34" /> <label for="poll-answer-34">whey protein</label></li>
+		<li><input type="radio" id="poll-answer-35" name="poll_13" value="35" /> <label for="poll-answer-35">egg protein</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(13);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(13); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-13-loading" class="wp-polls-loading"><img src="http://techglam.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+</li>
+        </ul>
+    </li>
+  
+  </div>
+  
+  
+            <div id="third_widget_area">
+               
+            </div>
+            
+            
+            
+            
+            
+            <div class="clear" style="height: 10px;"></div>
+            
+            
+            
+            <div class="textwidget">
+
+<!-- BEGIN JS TAG - BTF - INT - 300x250 < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=2379854&cb=[CACHEBUSTER]&referrer=[REFERRER_URL]&pubclickenc=%5BINSERT_CLICK_TAG%5D" TYPE="text/javascript"></SCRIPT>
+<!-- END TAG -->
+</div>
+
+		
+		<div class="clear" style="height: 10px;"></div>
+
+
+
+<div class="textwidget">
+
+<a href='http://www.smartgreycells.com/' target='_blank'><img src='http://techglam.com/wp-content/plugins/sam-images/sgc1.jpg' /></a>
+  </div>
+        
+        
+          <!-- end of Sidebar Ad2 '300x250' -->
+     
+		
+		<div class="clear"></div>
+
+  <div class="textwidget" style="margin-top: 10px; margin-bottom: 5px;">
+
+  <!-- this is Sidebar Ad3 '125*125' -->
+<div style="float: left; width: 125px;">
+<a href='http://techglam.com/advertisers/' target='_blank'><img src='http://techglam.com/wp-content/plugins/sam-images/advertise_here.jpg' /></a></div>
+
+ <!-- end of Sidebar Ad3 '125*125' -->
+ 
+ 
+ 
+ 
+ 
+ <!-- this is Sidebar Ad4 '125*125' -->
+<div style="float: left; width: 125px; margin-left: 50px;">
+
+
+<a href='http://techglam.com/advertisers/' target='_blank'><img src='http://techglam.com/wp-content/plugins/sam-images/advertise_here.jpg' /></a></div>
+ <!-- end of Sidebar Ad4 '125*125' -->
+ 
+ <div class="clear"></div>
+ 
+<!-- this is Sidebar Ad5 '125*125' -->
+
+<div style="margin-top: 10px; float: left;width: 125px;">
+<a href='http://techglam.com/advertisers/' target='_blank'><img src='http://techglam.com/wp-content/plugins/sam-images/advertise_here.jpg' /></a></div>
+ <!-- end of Sidebar Ad5 '125*125' -->
+
+
+
+<!-- this is Sidebar Ad6 '125*125' -->
+<div style="margin-top: 10px; float: left; width: 125px; margin-left: 50px;">
+
+
+<a href='http://techglam.com/advertisers/' target='_blank'><img src='http://techglam.com/wp-content/plugins/sam-images/advertise_here.jpg' /></a></div>
+
+<!-- end of Sidebar Ad6 '125*125' -->
+
+
+
+	<div class="clear"></div>
+
+
+
+
+
+<!-- this is Sidebar Ad7 '300*250' -->
+
+<div class="textwidget" style="margin-top: 10px;">
+
+
+
+
+<!-- BEGIN JS TAG - BTF - US - 300x250 < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=2379842&cb=[CACHEBUSTER]&referrer=[REFERRER_URL]&pubclickenc=%5BINSERT_CLICK_TAG%5D" TYPE="text/javascript"></SCRIPT>
+<!-- END TAG -->
+
+  </div>
+  <!-- end of Sidebar Ad7 '300*250' -->
+  
+        </div>
+        
+     
+		
+		<div class="clear"></div>
+        
+        
+        
+        
+<!-- this is Sidebar Ad8 '300*250' -->
+
+  <div class="textwidget" style="margin-top: 5px;">
+
+<a href='http://techglam.com/advertisers/' target='_blank'><img src='http://techglam.com/wp-content/plugins/sam-images/advertise_here.jpg' /></a>
+
+
+
+  </div>
+    <!-- end of Sidebar Ad8 '300*250' -->
+  
+  
+  <div class="clear"></div>
+  
+  	</div>
+
+	<div class="clear"></div>
+
+
+
+
+</div><!-- #main -->
+</div><!--container ends-->
+<div id="footer">
+
+
+
+<p id="footer_center" align="center">
+<a href="http://techglam.com/">Home</a>|
+<a href="http://techglam.com/about/">About</a>|
+<a href="http://techglam.com/category/technology">Technology</a>|
+<a href="http://techglam.com/category/entertainment">Entertainment</a>|
+<a href="http://techglam.com/category/finance">Finance</a>|
+<a href="http://techglam.com/category/health-fitness/">Health & Fitness</a>|
+<a href="http://techglam.com/category/real-estate/">Real Estate</a>|
+<a href="http://techglam.com/category/lifestyle">Lifestyle</a>|
+<a href="http://techglam.com/category/travel">Travel</a>|
+<a href=" http://techglam.com/rss">Rss</a>|
+<a href=" http://techglam.com/sitemap.xml">Sitemap</a>|
+<a href="http://techglam.com/disclaimer/">Disclaimer</a>|
+<a href="http://techglam.com/privacy/">Privacy</a>|
+<a href="http://techglam.com/contact/">Contact</a>
+
+<br/>
+Copyright 2013, TechGlam.com
+
+</p>
+
+<br/>
+
+
+<div id="footer-left-side">
+<a href="#top" title="techglam" rel="home"> TechGlam</a>
+
+
+
+</div><!-- #site-info -->
+
+
+
+
+</div><!--footer ends-->
+
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"smooth_scroll":"1","visibility_show":"show","visibility_hide":"hide","width":"Auto"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://techglam.com/wp-content/plugins/table-of-contents-plus/front.js?ver=1308'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/techglam.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://techglam.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.63'></script>
+<!--Begin Real Time on Site and Bounce Rate -->
+<script>
+var _gaq = _gaq || [];
+(function (tos) {
+  window.setInterval(function () {
+    tos = (function (t) {
+      return t[0] == 50 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 10);
+    })(tos.split(':').reverse());
+    window.pageTracker ? pageTracker._trackEvent('Time', 'Log', tos) : _gaq.push(['_trackEvent', 'Time', 'Log', tos]);
+  }, 10000);
+})('00');
+</script>
+<!--End Real Time on Site and Bounce Rate -->
+
+
+
+
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 953/1083 objects using disk
+
+ Served from: techglam.com @ 2014-11-24 17:21:06 by W3 Total Cache -->

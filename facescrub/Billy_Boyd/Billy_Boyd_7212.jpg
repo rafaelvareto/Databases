@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>No Response from Application Web Server</title>
+</head>
+
+<body bgcolor="white">
+<font color="red">
+<h1>No Response from Application Web Server</h1>
+</font>
+
+There was no response from the application web server for the page you requested. <br>Please notify the site's webmaster and try your request again later.
+<hr>
+
+</body> </html>

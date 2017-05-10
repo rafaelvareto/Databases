@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en-US" class="oldie"><![endif]-->
+<!--[if (gte IE 9) | !(IE)]><!-->
+<html lang="en-US" class="modern"><!--<![endif]-->
+    <head>
+        <meta charset="UTF-8" />
+
+        <!-- Always force latest IE rendering engine & Chrome Frame -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+        <!-- Meta Viewport -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- Publishrr Version No: 2.0.2858 -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- Site meta -->
+<title></title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="icon" href="http://www.samaa.tv/assets/samaa_tv/images/favicon.ico" type="image/x-icon" />
+<link href='http://www.samaa.tv/news_sitemap' rel='Samaa Tv' title='Samaa Tv' type='application/rss+xml'><!-- End Site meta -->
+<!-- End Site meta -->
+
+
+<!-- Facebook -->
+<meta property="fb:app_id" content="643541532378447"/>
+<meta property="og:title" content=""/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:site_name" content="Samaa TV"/>
+<meta property="og:description" content=""/>
+
+
+
+
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/reset.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/main-stylesheet.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/lightbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/shortcode.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/fonts.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/colors.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/samaa_theme/responsive.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/colorbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/custom_style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/video-js/video-js.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/category_page.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.samaa.tv/assets/samaa_tv/css/frontend/headlines_slider/bjqs.css" type="text/css" media="screen" />
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+
+        /*--------------------------------------------------------
+         File            : facebook sdk
+         -----------------------------------------------------------*/
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id))
+                return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=643541532378447";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        /*--------------------------------------------------------
+         File            : 
+         Description		: google ad code api request
+         Module			: google ad code
+         -----------------------------------------------------------*/
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-12962126-3']);
+        _gaq.push(['_setDomainName', 'samaa.tv']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+
+
+        /*--------------------------------------------------------
+         File            : 
+         Description		: google ad code push method
+         Module			: google ad code
+         -----------------------------------------------------------*/
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/14309701/Bottom_Mrec_ROS', [300, 250], 'div-gpt-ad-1395047472501-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Home_FB', [468, 60], 'div-gpt-ad-1395047472501-1').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Home_LB', [728, 90], 'div-gpt-ad-1395047472501-2').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Home_Mrec', [300, 250], 'div-gpt-ad-1395047472501-3').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Homepage_Bottom_Mrec', [300, 250], 'div-gpt-ad-1395047472501-4').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Homepage_Bottom_urdu_Mrec', [300, 250], 'div-gpt-ad-1395047472501-5').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_category_FB', [468, 60], 'div-gpt-ad-1395047472501-6').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_category_LB', [728, 90], 'div-gpt-ad-1395047472501-7').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_category_Mrec_Top', [300, 250], 'div-gpt-ad-1395047472501-8').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_detail_FB', [468, 60], 'div-gpt-ad-1395047472501-9').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_detail_LB', [728, 90], 'div-gpt-ad-1395047472501-10').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_detail_Mrec_Top', [300, 250], 'div-gpt-ad-1395047472501-11').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Programs_category_FB', [468, 60], 'div-gpt-ad-1395047472501-12').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Programs_category_LB', [728, 90], 'div-gpt-ad-1395047472501-13').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Programs_category_Mrec_Top', [300, 250], 'div-gpt-ad-1395047472501-14').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Programs_videos_FB', [468, 60], 'div-gpt-ad-1395047472501-15').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Programs_videos_LB', [728, 90], 'div-gpt-ad-1395047472501-16').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/Programs_videos_Mrec_Top', [300, 250], 'div-gpt-ad-1395047472501-17').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/static_pages_FB', [468, 60], 'div-gpt-ad-1395047472501-18').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/static_pages_LB', [728, 90], 'div-gpt-ad-1395047472501-19').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/static_pages_Mrec_Top', [300, 250], 'div-gpt-ad-1395047472501-20').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_detail_FB', [468, 60], 'div-gpt-ad-1402901152636-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.defineSlot('/14309701/News_detail_LB', [728, 90], 'div-gpt-ad-1402901367283-0').addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+            googletag.defineSlot('/14309701/News_detail_Mrec_Top', [300, 250], 'div-gpt-ad-1402901432911-0').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+            googletag.enableServices();
+        });
+    </script>
+    		
+
+<script type="text/javascript">
+    /*--------------------------------------------------------
+     File            : third_party_services_header.js
+     Description		: third party js files
+     Module			: all pages
+     -----------------------------------------------------------*/
+    var base_url = 'http://www.samaa.tv/';
+    var asset_dir = 'http://www.samaa.tv/assets/samaa_tv/';
+    var local_dev = 0;
+    var commenting_system_type = 'disqus';
+    var fb_app_id = 643541532378447;
+</script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/samaa_theme/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/video-js/video.js"></script>
+<script>
+    videojs.options.flash.swf = "http://www.samaa.tv/assets/samaa_tv/video-js/video-js.swf";
+</script>
+    </head>
+
+    <body>
+
+        <div class="boxed">
+
+            
+            <style type="text/css">
+    .header-weather > .reporting{ 
+        float: right;
+    }
+</style>
+<div class="header">
+    <div class="main-menu sticky">
+
+        <!-- BEGIN .wrapper -->
+        <div class="wrapper">
+			
+						
+            <ul class="the-menu">
+                <li>
+                    <a href="http://www.samaa.tv/">Home</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/pakistan">Pakistan</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/international">International</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/sports">Sports</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/entertainment">Entertainment</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/health">Health</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/technology">Technology</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/economy">Economy</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/weird">weird</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/Programs">Programs</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/editor-s-choice">Ed's Choice</a>
+                </li>
+                <li>
+                    <a href="http://i.samaa.tv/">Bas Karo</a>
+                </li>
+                <li>
+                    <a href="http://www.samaa.tv/blogs"><span>Blog</span></a>
+                    <ul>
+                        <li>
+                            <a href="http://www.samaa.tv/you-blog">You Blog</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.samaa.tv/notes">Notes</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.samaa.tv/v-log">V-log</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.samaa.tv/twitterites">Twitterites</a> 
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+            <!-- END .wrapper -->
+        </div>
+    </div>
+    <!-- BEGIN .wrapper -->
+    <div class="wrapper" style="">
+
+        <div class="header-logo" style="margin-top:-15px;">
+            <a href="http://www.samaa.tv/">
+                <img src="http://www.samaa.tv/assets/samaa_tv/images/client/samaa_logo.png" alt="Samaa TV" />
+            </a>
+        </div>
+
+        <div class="header-menu">
+            <ul>
+                <li><a href="http://urdu.samaa.tv/" target="_blank">Samaa Urdu</a></li>
+                <li><a href="http://www.samaafm.com/" target="_blank">Samaa FM</a></li>
+                <li><a href="http://live.samaa.tv/" target="_blank">Samaa TV Live</a></li>
+                <br/>
+                <div style="margin-top: 5px;"></div>
+                <li>
+                    <iframe src="http://free.timeanddate.com/clock/i428hhi7/n756/fcfff/tct/pct/tt0/tw0/tm1/ta1/tb2" frameborder="0" width="203" height="18" allowTransparency="true"></iframe>
+
+                </li>
+            </ul>
+        </div>
+
+
+        <div class="header-addons" style="width:44%">
+            <script>
+function weather_info(city_id)
+{
+	$.ajax({
+			type	 : 'POST',
+			url	 : 'http://www.samaa.tv/ajax_weather_info',
+			data     : {
+				city_id:city_id
+			},
+			success: function(data){
+				$(".reporting").html(data);
+				                     
+			}				
+		});
+}
+</script>
+
+<div class="header-weather">
+	
+	
+
+<div class="reporting">
+		
+	<span class="report" id='weather_high_0' >+24&deg;C</span>
+	
+					<img src='http://www.samaa.tv/assets/samaa_tv/images/client/weather-images/01d.png' />				
+				<span class="city"><small>	
+
+			Sky Is Clear 		</small><b>Karachi,PK</b></span>
+			
+			</div>
+    <select id="weather_widget" name="weather_widget" onchange="weather_info($('#weather_widget').val())" style=" margin-right: 3px;">
+				<option value="3">Islamabad</option><option selected="selected" value="2">Karachi</option><option value="1">Lahore</option>			</select>
+
+		</div>		                <div id="searchbox" class="header-addons" style="width: 52%; ">
+                    <style type="text/css">
+                        .gsc-search-button{
+                            position: relative;
+                            top: 1px;
+                        }
+                        .gsc-control-cse{
+                            background: inherit;
+                        }
+                        .cse .gsc-control-cse, .gsc-control-cse{
+                            border: none;
+                        }
+                        .gsc-results-wrapper-overlay{
+                            top:17%;
+                        }
+                    </style>
+
+
+                    <script>
+                        (function() {
+                            var cx = '002440136688485674925:lz7lieb6zg8';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                                    '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+                    </script>
+                    <gcse:search></gcse:search>
+                </div>
+                        </div>
+    </div>
+
+
+
+    <div class="secondary-menu">
+
+        <!-- BEGIN .wrapper -->
+        <div class="wrapper">
+
+            <ul>
+                <li >
+                    <a href="http://www.samaa.tv/nadeem-malik-live">Nadeem Malik Live</a>
+                </li>
+                
+                <li >
+                    <a href="http://www.samaa.tv/subah-saverey-samaa-kay-saath">Subah Saverey Samaa Kay Saath</a>
+                </li>
+                <li >
+                    <a href="http://www.samaa.tv/news-beat">News Beat</a>
+                </li>
+                <li >
+						<a href="http://www.samaa.tv/awaz">Awaz</a>
+					</li>
+                <li >
+                    <a href="http://www.samaa.tv/qutb-online">Qutb Online</a>
+                </li>
+                <li >
+                    <a href="http://www.samaa.tv/meri-kahani-meri-zabani">Meri Kahani Meri Zabani</a>
+                </li>
+                <li >
+                    <a href="http://www.samaa.tv/court-no-5">COURT NO 5</a>
+                </li>
+                <li >
+                    <a href="http://www.samaa.tv/wardaat">Wardaat</a>
+                </li>
+
+            </ul>
+
+            <!-- END .wrapper -->
+        </div>
+    </div>
+
+    <!-- END .header -->
+
+</div>
+
+<!--Add banner ads_data coming from layouts -->
+<!--Add banner -->
+    <!-- News_detail_LB -->
+	<div style="margin-top: 10px; margin-bottom: 10px; overflow: hidden;">
+		<div id='div-gpt-ad-1402901367283-0' style='width:728px; margin: 0 auto;'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() {
+					googletag.display('div-gpt-ad-1402901367283-0');
+				});
+			</script>
+		</div>
+	</div>
+    
+<div class="wrapper">
+	<div class="breaking-news" id="breaking-news-scroller">
+		<span class="the-title"> Live News Tickers </span>
+		<div class="slide_container" style="margin-left: -60px;">
+			<ul>
+				                    <li>
+                        <label class="email-feed-ticker">لاہور:کوٹ لکھپت جیل کی طرف درجنوں ایمبولینس روانہ</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">لاہور:کوٹ لکھپت جیل کوسیکیورٹی فورسز نے حصار میں لے لیا</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">سعودی عرب کی جانب سے عمرہ زائرین کیلئے نئے قوانین کا نفاذ</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">فیصل آباد:ابیولاکےمشتبہ مریض نے خوف وہراس پھیلا دیا</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">کراچی:گھرمیں گیس لیکج کی وجہ سےحادثہ پیش آیا،ریسکیوذرائع</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">فیصل آباد:ایبولاکےمشتبہ مریض نے خوف وہراس پھیلا دیا</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">دونوں ڈاکوایک گھنٹہ قبل حراست سےفرارہوئےتھے،پولیس</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">فیصل آباد:رسالے والاروڈ پرمبینہ پولیس مقابلہ،2 ڈاکو ہلاک</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">محکمہ صحت پنجاب اورعالمی ادارہ صحت کی ٹيميں چنيوٹ پہنچ گئيں</label>
+					</li>
+				                    <li>
+                        <label class="email-feed-ticker">نیوزی لینڈ کرکٹ بورڈنےڈینیئل ویٹوری کےشارجہ پہنچنےکی تصدیق کردی</label>
+					</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+            <div class="content">
+
+                <div class="wrapper">
+                    <style type="text/css">
+	.breaking-news
+	{
+		display: none !important;
+	}
+</style>
+
+<div class="main-content">
+
+	<div class="full-width">
+		<div class="big-error-sign">
+			<h2>404</h2>
+			<strong>We seem to have lost You in the clouds</strong>
+			<span>The page You're looking for is not here.<br>Maybe You should 
+				<a href="http://www.samaa.tv/">go home</a> or try a search:
+			</span>
+		</div>
+	</div>
+
+	<div class="error-search">
+          <div id="searchbox" class="header-addons" style="width: 100%; ">
+                    <style type="text/css">
+                        .gsc-search-button{
+                            position: relative;
+                            top: 1px;
+                        }
+                        .gsc-control-cse{
+                            background: inherit;
+                        }
+                        .cse .gsc-control-cse, .gsc-control-cse{
+                            border: none;
+                        }
+                        .gsc-results-wrapper-overlay{
+                            top:17%;
+                        }
+                    </style>
+
+
+                    <script>
+                        (function() {
+                            var cx = '002440136688485674925:lz7lieb6zg8';
+                            var gcse = document.createElement('script');
+                            gcse.type = 'text/javascript';
+                            gcse.async = true;
+                            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                                    '//www.google.com/cse/cse.js?cx=' + cx;
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(gcse, s);
+                        })();
+                    </script>
+                    <gcse:search></gcse:search>
+                </div>
+<!--		<form action="#" method="get">
+			<input type="text" placeholder="Search something.." value="" class="search-input">
+			<input type="submit" value="Search" class="search-button">
+		</form>-->
+	</div>
+
+	<div class="clear-float"></div>
+
+</div>
+                </div>
+
+
+                <div class="clear-float"></div>
+                <div id="custom-footer" class="footer" >
+	
+	<div class="wrapper" >
+	
+		<ul class="corporate-box left" >
+			<h2 class="list-title" >
+				Corporate
+			</h2>
+			<li><a href="http://www.samaa.tv/about-us.html">About Us</a></li>
+			<li><a href="http://www.samaa.tv/advertise-with-us.html">Advertise With Us</a></li>
+			<li><a href="http://www.samaa.tv/contact-us.html">Contact Us</a></li>
+			<li><a href="http://www.samaa.tv/feedback-forum.html">Feedback</a></li>
+			<li><a href="http://www.samaa.tv/faqs.html">FAQs</a></li>
+			<li><a href="http://www.samaa.tv/anchor-profiles.html">Anchor Profiles</a></li>
+			<li><a href="http://www.samaa.tv/sms-complaints.html">SMS Complaints</a></li>
+		</ul>
+
+
+		<ul class="left stay-connected-box" >
+			<h2 class="list-title" >
+				Stay Connected
+			</h2>
+			<li><a href="http://live.samaa.tv/">Watch Live</a></li>
+			<li><a href="http://www.samaa.tv/Programs">Programs</a></li>
+			<li><a href="http://www.samaa.tv/editor-s-choice">Editor's Choice</a></li>
+			<li><a href="http://urdu.samaa.tv/">Urdu</a></li>
+			<li><a href="http://www.samaa.tv/rss_feeds">RSS</a></li>
+			<li>
+                <a class="lightboxTrigger social-icon" href="#lightboxContent"><i class="number"></i>	<span class="sms-alert">SMS Alert</span></a>
+            </li>
+			<li><a href="http://www.samaa.tv/mobile-apps.html">Mobile Apps</a></li>
+		</ul>
+		
+		<ul class="left news-box" >
+			<h2 class="list-title" >
+				News
+			</h2>
+			<ul class="left">
+			
+			<li>
+				<a href="http://www.samaa.tv/pakistan">
+					Pakistan
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/international">
+					International
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/sports">
+					Sports
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/entertainment">
+					Entertainment
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/health">
+					Health
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/technology">
+					Technology
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/economy">
+					Economy
+				</a>
+			</li>
+			</ul>
+			<ul class="left" >
+			<li>
+				<a href="http://www.samaa.tv/blog">
+					Blog
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/twitterites">
+					Twitterites
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/you-blog">
+					You Blog
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/notes">
+					Notes
+				</a>
+			</li>
+			<li>
+				<a href="http://www.samaa.tv/v-log">
+					V-Log
+				</a>
+			</li>
+		</ul>
+		</ul>
+		
+		<ul class="left">
+			<h2 class="list-title" >
+				Follow Us
+			</h2>
+			<li><a href="https://www.facebook.com/samaatvnews">Facebook</a></li>
+			<li><a href="https://twitter.com/SAMAATV">Twitter</a></li>
+            <li><a href="http://www.youtube.com/user/samaatvnews?feature=mhee">Youtube</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.Samaatv.samaaapp3&amp;hl=en" class="social-icon" target="_blank"><i class="number"></i>	<span class="android">Android app</span></a></li>
+            <li><a href="https://itunes.apple.com/us/app/samaa-tv/id556536573?ls=1&amp;mt=8" class="social-icon" target="_blank"><i class="number"></i>	<span class="ios">IOS app</span></a></li>
+			
+		</ul>
+		
+	</div>
+	
+	
+</div>
+
+
+ 
+	<script type="text/javascript">
+        try
+        {
+            //this code will get all parent frames if they lies in same domain else exception
+            var arrFrames = parent.document.getElementsByTagName("IFRAME");
+            for (var i = 0; i < arrFrames.length; i++) {
+              //if (arrFrames[i].contentWindow === window) 
+                    // alert("same domain");
+            }
+        }
+        catch(err)
+        {
+            // alert("eeee");
+            document.getElementsByTagName("html")[0].style.display="none"; 
+            document.getElementsByTagName("html")[0].innerHTML = "";
+            window.parent.location="http://www.samaa.tv/";
+        }	
+	</script>
+	<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/font_detector.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/samaa_theme/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/samaa_theme/theme-scripts.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/news_ticker.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/samaa_theme/lightbox.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/samaa_theme/jquery.dragscroll.min.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/colorbox.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/jquery.custom.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/category_page.js"></script>
+<script type="text/javascript" src="http://www.samaa.tv/assets/samaa_tv/js/frontend/headlines_slider/bjqs-1.3.js"></script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.samaa.tv/NewsPictures/20121171848_samaa_tv.jpg";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5";
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+xajax.config.JavaScriptURI = "http://www.samaa.tv/xajax";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.samaa.tv/xajax/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+ //  alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: http://www.samaa.tv/xajax/xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type='text/javascript' charset='UTF-8'>
+/* <![CDATA[ */
+xajax_category_news_listing_xajax = function() { return xajax.request( { xjxfun: 'category_news_listing_xajax' }, { parameters: arguments } ); };
+xajax_category_news_box = function() { return xajax.request( { xjxfun: 'category_news_box' }, { parameters: arguments } ); };
+xajax_email_subscriber_add_xajax = function() { return xajax.request( { xjxfun: 'email_subscriber_add_xajax' }, { parameters: arguments } ); };
+xajax_poll_vote_data_xajax = function() { return xajax.request( { xjxfun: 'poll_vote_data_xajax' }, { parameters: arguments } ); };
+xajax_poll_vote_stat_xajax = function() { return xajax.request( { xjxfun: 'poll_vote_stat_xajax' }, { parameters: arguments } ); };
+xajax_ajax_get_print_archive = function() { return xajax.request( { xjxfun: 'ajax_get_print_archive' }, { parameters: arguments } ); };
+xajax_benchmarking_add_xajax = function() { return xajax.request( { xjxfun: 'benchmarking_add_xajax' }, { parameters: arguments } ); };
+xajax_ajax_news_pagination = function() { return xajax.request( { xjxfun: 'ajax_news_pagination' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+<script>
+
+$(document).ready(function()
+{
+    $('#banner-fade').bjqs({
+        height: 400,
+        width: 800,
+        responsive: true
+    });
+
+});
+</script> 
+            </div>
+
+        </div>
+
+    </body>	
+
+</html>

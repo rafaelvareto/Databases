@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<title>Page not found | Blogcritics</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://blogcritics.org/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Blogcritics &raquo; Feed" href="http://blogcritics.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Blogcritics &raquo; Comments Feed" href="http://blogcritics.org/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://blogcritics.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ssbaFont-css'  href='//fonts.googleapis.com/css?family=Indie+Flower&#038;ver=4.0.1' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://blogcritics.org/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='tie-style-css'  href='http://blogcritics.org/wp-content/themes/sahifa/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Droid+Sans-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='amazon-link-style-css'  href='http://blogcritics.org/wp-content/plugins/amazon-link/Amazon.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blogcritics.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.1.3 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1811558-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://blogcritics.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://blogcritics.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blogcritics.org/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3'></script>
+<script type='text/javascript' src='http://blogcritics.org/wp-content/plugins/jetpack/_inc/jquery.spin.js?ver=1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogcritics.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogcritics.org/wp-includes/wlwmanifest.xml" /> 
+
+<meta name="framework" content="Alkivia Framework 0.8" />
+<style type="text/css">	.ssba {
+											
+											
+											
+											-moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px;  border-radius: 10px; -o-border-radius: 10px;
+										}
+										.ssba img		
+										{ 	
+											width: 35px !important;
+											padding: 6px;
+											border:  0;
+											box-shadow: none !important;
+											display: inline !important;
+											vertical-align: middle;
+										}
+										.ssba, .ssba a		
+										{
+											text-decoration:none;
+											background: none;
+											font-family: Indie Flower;
+											font-size: 	20px;
+											
+											
+										}.ssba_sharecount:after, .ssba_sharecount:before {
+											right: 100%;
+											border: solid transparent;
+											content: " ";
+											height: 0;
+											width: 0;
+											position: absolute;
+											pointer-events: none;
+										}
+										.ssba_sharecount:after {
+											border-color: rgba(224, 221, 221, 0);
+											border-right-color: #f5f5f5;
+											border-width: 5px;
+											top: 50%;
+											margin-top: -5px;
+										}
+										.ssba_sharecount:before {
+											border-color: rgba(85, 94, 88, 0);
+											border-right-color: #e0dddd;
+											border-width: 6px;
+											top: 50%;
+											margin-top: -6px;
+										}
+										.ssba_sharecount {
+											font: 11px Arial, Helvetica, sans-serif;
+											
+											padding: 5px;
+											-khtml-border-radius: 6px;
+											-o-border-radius: 6px;
+											-webkit-border-radius: 6px;
+											-moz-border-radius: 6px;
+											border-radius: 6px;
+											position: relative;
+											border: 1px solid #e0dddd;color: #555e58;
+												background: #f5f5f5;
+											}
+											.ssba_sharecount:after {
+												border-right-color: #f5f5f5;
+											}</style><link rel="shortcut icon" href="http://blogcritics.org/wp-content/uploads/bcimages/2014/03/bcicon.jpg" title="Favicon" />	
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->	
+<!--[if lt IE 9]>
+<script src="http://blogcritics.org/wp-content/themes/sahifa/js/html5.js"></script>
+<script src="http://blogcritics.org/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="http://blogcritics.org/wp-content/themes/sahifa/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://blogcritics.org/wp-content/themes/sahifa/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://blogcritics.org/wp-content/themes/sahifa/css/ie7.css" />
+<![endif]-->
+<script type='text/javascript'>
+	/* <![CDATA[ */
+	var tievar = {'go_to' : 'Go to...'};
+	var tie = {"ajaxurl":"http://blogcritics.org/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+	/* ]]> */
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+<style type="text/css" media="screen"> 
+::-webkit-scrollbar {width: 8px; height:8px; }
+
+body {
+ background-color: #940a0a !important; background-position: top center;
+}
+		#main-nav,.cat-box-content,#sidebar .widget-container,.post-listing {border-bottom-color: #940a0a;}
+	.search-block .search-button,
+	#topcontrol,
+	#main-nav ul li.current-menu-item a,
+	#main-nav ul li.current-menu-item a:hover,
+	#main-nav ul li.current-menu-parent a,
+	#main-nav ul li.current-menu-parent a:hover,
+	#main-nav ul li.current-page-ancestor a,
+	#main-nav ul li.current-page-ancestor a:hover,
+	.pagination span.current,
+	.share-post span.share-text,
+	.flex-control-paging li a.flex-active,
+	.ei-slider-thumbs li.ei-slider-element,
+	.review-percentage .review-item span span,.review-final-score ,
+	.woocommerce span.onsale, .woocommerce-page span.onsale ,
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle  {
+		background-color:#940a0a !important;
+	}
+	::-webkit-scrollbar-thumb{background-color:#940a0a !important;}
+	footer#theme-footer, .top-nav, .top-nav ul li.current-menu-item:after,#main-nav ul li.mega-menu .mega-menu-block, #main-nav ul ul {border-top-color: #940a0a;}
+	.search-block:after {border-right-color:#940a0a;}
+	#main-nav ul > li.parent-list:hover > a:after{border-color:transparent transparent #940a0a;}
+a {
+	color: #000000;	}
+a:hover {
+	color: #050000;	}
+body.single .post .entry a, body.page .post .entry a {
+	color: #940a0a;	}
+body.single .post .entry a:hover, body.page .post .entry a:hover {
+	color: #940a0a;	text-decoration: underline;}
+
+</style> 
+
+</head>
+<body id="top" class="error404">
+	<div class="background-cover"></div>
+			<header id="theme-header" class="theme-header">
+						<div class="top-nav">
+								
+				<div class="top-menu"><ul id="menu-top" class="menu"><li id="menu-item-5264769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5264769"><a href="/contact/">Contact Us</a></li>
+<li id="menu-item-5264771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5264771"><a href="/write-for-blogcritics/">Writer Sign Up</a></li>
+<li id="menu-item-5264773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5264773"><a href="/about/">About</a></li>
+</ul></div>
+			<div class="social-icons icon_16">
+		<a class="tooldown" title="Rss" href="http://blogcritics.org/feed/" target="_blank"><i class="tieicon-rss"></i></a><a class="tooldown" title="Google+" href="https://plus.google.com/b/100293724534298138450/+BlogcriticsOrg123" target="_blank"><i class="tieicon-gplus"></i></a><a class="tooldown" title="Facebook" href="https://www.facebook.com/pages/Blogcritics/132856246726018" target="_blank"><i class="tieicon-facebook"></i></a><a class="tooldown" title="Twitter" href="http://twitter.com/blogcritics" target="_blank"><i class="tieicon-twitter"></i></a>	</div>
+
+		
+	
+			</div><!-- .top-menu /-->
+			
+		<div class="header-content">
+			<div class="logo">
+			<h1>								<a title="Blogcritics" href="http://blogcritics.org/">
+					<img src="http://blogcritics.org/wp-content/uploads/bcimages/2014/03/bc2.jpg" alt="Blogcritics" /><strong>Blogcritics The critical lens on today&#039;s culture &amp; entertainment</strong>
+				</a>
+			</h1>			</div><!-- .logo /-->
+			<div class="ads-top">					<!-- BEGIN TECHNORATI MEDIA AD TAGS FOR Section BlogCritics, Ad Size: Leaderboard (728x90) -->
+<script type="text/javascript">
+   document.write('<scri' + 'pt type="text/javascript" src="'
+   + (document.location.protocol == 'https:' ? 'https://uat-secure' : 'http://ad-cdn')
+   + '.technoratimedia.com/00/39/54/uat_35439.js?ad_size=728x90"></scri' + 'pt>');
+</script>
+<!-- END TECHNORATI MEDIA TAGS FOR Section BlogCritics, Ad Size: Leaderboard (728x90) -->				</div>			<div class="clear"></div>
+		</div>	
+													<nav id="main-nav">
+				<div class="container">
+					<div class="main-menu"><ul id="menu-main" class="menu"><li id="menu-item-5264473" class="menu-item  menu-item-type-custom  menu-item-object-custom"><a href="/">Home</a></li>
+<li id="menu-item-5264475" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/tv/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/', 'TV']);" >TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-5265485" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-reviews-recaps/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-reviews-recaps/', 'Reviews &amp; Recaps']);" >Reviews &#038; Recaps</a></li>
+	<li id="menu-item-5265515" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/interviews-tv/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/interviews-tv/', 'Interviews']);" >Interviews</a></li>
+	<li id="menu-item-5274805" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/film/columns-film/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/film/columns-film/', 'Weekly TV Coverage']);" >Weekly TV Coverage</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5267599" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/gleekonomics/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/gleekonomics/', 'Gleekonomics']);" >Gleekonomics</a></li>
+		<li id="menu-item-5267603" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/jeroming-the-tv-landscape/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/jeroming-the-tv-landscape/', 'Jeroming the TV Landscape']);" >Jeroming the TV Landscape</a></li>
+		<li id="menu-item-5340221" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/the-gallifreyian-groupie/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/the-gallifreyian-groupie/', 'The Gallifreyan Groupie']);" >The Gallifreyan Groupie</a></li>
+		<li id="menu-item-5267607" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/once-upon-a-time/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/once-upon-a-time/', 'Once Upon a Time&#8230;There Was a Place Called Storybrooke']);" >Once Upon a Time&#8230;There Was a Place Called Storybrooke</a></li>
+		<li id="menu-item-5295573" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/lets-talk-tv-with-barbara-barnett/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/lets-talk-tv-with-barbara-barnett/', 'Let&#8217;s Talk TV with Barbara Barnett']);" >Let&#8217;s Talk TV with Barbara Barnett</a></li>
+		<li id="menu-item-5267597" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/supernatural/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/supernatural/', 'Supernatural Musings']);" >Supernatural Musings</a></li>
+		<li id="menu-item-5267601" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/idol-wired/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/idol-wired/', 'Idol Wired']);" >Idol Wired</a></li>
+		<li id="menu-item-5267609" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/sci-fi-primetime/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/sci-fi-primetime/', 'Sci-Fi Primetime']);" >Sci-Fi Primetime</a></li>
+		<li id="menu-item-5267605" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/tv/tv-columns/mad-men-confidential/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/tv/tv-columns/mad-men-confidential/', 'Mad Men Confidential']);" >Mad Men Confidential</a></li>
+	</ul> <!--End Sub Menu-->
+</li>
+</ul> <!--End Sub Menu-->
+</li>
+<li id="menu-item-5264553" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/music/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/music/', 'Music']);" >Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-5264585" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/music/reviews-music/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/music/reviews-music/', 'Reviews music']);" >Reviews music</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5277445" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/music/reviews-music/album-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/music/reviews-music/album-reviews/', 'Album Reviews']);" >Album Reviews</a></li>
+		<li id="menu-item-5264589" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/music/reviews-music/concert-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/music/reviews-music/concert-reviews/', 'Concert Reviews']);" >Concert Reviews</a></li>
+		<li id="menu-item-5277447" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/music/reviews-music/music-dvd-blu-ray-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/music/reviews-music/music-dvd-blu-ray-reviews/', 'Music DVD &amp; Blu-ray Reviews']);" >Music DVD &#038; Blu-ray Reviews</a></li>
+	</ul> <!--End Sub Menu-->
+</li>
+	<li id="menu-item-5264577" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/music/interviews-music/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/music/interviews-music/', 'Interviews music']);" >Interviews music</a></li>
+</ul> <!--End Sub Menu-->
+</li>
+<li id="menu-item-5264599" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/books/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/books/', 'Books']);" >Books</a>
+<ul class="sub-menu">
+	<li id="menu-item-5264625" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/books/reviews-books/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/books/reviews-books/', 'Book Reviews']);" >Book Reviews</a></li>
+	<li id="menu-item-5265519" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/books/book-interviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/books/book-interviews/', 'Interviews']);" >Interviews</a></li>
+</ul> <!--End Sub Menu-->
+</li>
+<li id="menu-item-5264731" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/gaming/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/gaming/', 'Gaming']);" >Gaming</a>
+<ul class="sub-menu">
+	<li id="menu-item-5264745" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/gaming/gaming-reviews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/gaming/gaming-reviews/', 'Gaming Reviews']);" >Gaming Reviews</a></li>
+	<li id="menu-item-5264743" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/gaming/previews/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/gaming/previews/', 'Previews']);" >Previews</a></li>
+	<li id="menu-item-5264741" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/gaming/conferences/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/gaming/conferences/', 'Conferences']);" >Conferences</a></li>
+</ul> <!--End Sub Menu-->
+</li>
+<li id="menu-item-5264641" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/culture/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/', 'Culture and Society']);" >Culture and Society</a>
+<ul class="sub-menu">
+	<li id="menu-item-5264647" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/culture/arts/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/arts/', 'Arts']);" >Arts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5275059" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/arts/cabaret/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/arts/cabaret/', 'Cabaret']);" >Cabaret</a></li>
+		<li id="menu-item-5275061" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/arts/dance/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/arts/dance/', 'Dance']);" >Dance</a></li>
+		<li id="menu-item-5275063" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/arts/opera-arts/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/arts/opera-arts/', 'Opera']);" >Opera</a></li>
+		<li id="menu-item-5275067" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/arts/theater/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/arts/theater/', 'Theater']);" >Theater</a></li>
+	</ul> <!--End Sub Menu-->
+</li>
+	<li id="menu-item-5292699" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/culture/culture-columns/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/culture-columns/', 'Culture Columns']);" >Culture Columns</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5292701" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/culture-columns/ending-world-hunger/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/culture-columns/ending-world-hunger/', 'Ending World Hunger']);" >Ending World Hunger</a></li>
+		<li id="menu-item-5292703" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/culture-columns/hometown-heroes-culture-columns/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/culture-columns/hometown-heroes-culture-columns/', 'Hometown Heroes']);" >Hometown Heroes</a></li>
+	</ul> <!--End Sub Menu-->
+</li>
+	<li id="menu-item-5264643" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/politics/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/politics/', 'Politics']);" >Politics</a></li>
+	<li id="menu-item-5264659" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/travel/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/travel/', 'Travel']);" >Travel</a></li>
+	<li id="menu-item-5264661" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/scitech/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/scitech/', 'Science and Technology']);" >Science and Technology</a></li>
+	<li id="menu-item-5264645" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/sports/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/sports/', 'Sports']);" >Sports</a></li>
+	<li id="menu-item-5264663" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/spirituality/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/spirituality/', 'Spirituality']);" >Spirituality</a></li>
+	<li id="menu-item-5264657" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/tips-and-advice/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/tips-and-advice/', 'Tips and Advice']);" >Tips and Advice</a></li>
+	<li id="menu-item-5264655" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/health-and-fitness/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/health-and-fitness/', 'Health and Fitness']);" >Health and Fitness</a></li>
+	<li id="menu-item-5264653" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/culture/food-and-drink/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/culture/food-and-drink/', 'Food and Drink']);" >Food and Drink</a></li>
+</ul> <!--End Sub Menu-->
+</li>
+<li id="menu-item-5264679" class="menu-item  menu-item-type-taxonomy  menu-item-object-category  menu-item-has-children"><a href="http://blogcritics.org/category/film/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/film/', 'Film']);" >Film</a>
+<ul class="sub-menu">
+	<li id="menu-item-5264711" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/film/reviews-film/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/film/reviews-film/', 'Reviews film']);" >Reviews film</a></li>
+	<li id="menu-item-5264685" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/film/interviews-film/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/film/interviews-film/', 'Interviews film']);" >Interviews film</a></li>
+</ul> <!--End Sub Menu-->
+</li>
+<li id="menu-item-5367196" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/editor-picks/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/editor-picks/', 'Editor Picks']);" >Editor Picks</a></li>
+<li id="menu-item-5406273" class="menu-item  menu-item-type-taxonomy  menu-item-object-category"><a href="http://blogcritics.org/category/flash-fiction-2/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://blogcritics.org/category/flash-fiction-2/', 'Flash Fiction']);" >Flash Fiction</a></li>
+</ul></div>									</div>
+			</nav><!-- .main-nav /-->
+					</header><!-- #header /-->
+	
+		
+	<div class="breaking-news">
+		<span>Today on Blogcritics</span>
+				
+					<ul>
+			<!-- Google Ads Injected by Adsense Explosion 1.1.5 --><div class="adsxpls" id="adsxpls1" style="padding:7px; float: right; padding-right: 0; margin: 0px;"><!-- AdSense Plugin Explosion num: 1 --><script type="text/javascript"><!--
+
+google_ad_client = "pub-3219627867632523"; google_alternate_color = "FFFFFF";
+google_ad_width = 468; google_ad_height = 60; google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_ad_channel =""; google_color_border = "336699";
+google_color_link = "0000FF"; google_color_bg = "FFFFFF";
+google_color_text = "000000"; google_color_url = "008000";
+google_ui_features = "rc:0"; //--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>				<li><a href="http://blogcritics.org/interview-terry-nicholetti-author-of-goldstar-magic-family-pen-pal-kit-including-noralees-adventures-on-planet-ifwee/" title="Interview: Terry Nicholetti, Author of &#8216;GoldStar Magic! Family Pen-Pal Kit&#8217; Including &#8216;NoraLee’s Adventures on Planet Ifwee&#8217;">Interview: Terry Nicholetti, Author of &#8216;GoldStar Magic! Family Pen-Pal Kit&#8217; Including &#8216;NoraLee’s Adventures on Planet Ifwee&#8217;</a></li>
+							<li><a href="http://blogcritics.org/music-review-various-artists-julian-ovenden-elizabeth-mcgovern-katie-marshall-christmas-at-downton-abbey-2-cd-set/" title="Music Review: Various Artists (Julian Ovenden, Elizabeth McGovern, Katie Marshall) &#8211; &#8216;Christmas at Downton Abbey&#8217; [2-CD Set]">Music Review: Various Artists (Julian Ovenden, Elizabeth McGovern, Katie Marshall) &#8211; &#8216;Christmas at Downton Abbey&#8217; [2-CD Set]</a></li>
+							<li><a href="http://blogcritics.org/movie-review-the-theory-of-everything/" title="Movie Review: &#8216;The Theory of Everything&#8217;">Movie Review: &#8216;The Theory of Everything&#8217;</a></li>
+			<!-- Google Ads Injected by Adsense Explosion 1.1.5 --><div class="adsxpls" id="adsxpls2" style="padding:7px; float: left; padding-left: 0px; margin: 0px;"><!-- AdSense Plugin Explosion num: 2 --><script type="text/javascript"><!--
+
+google_ad_client = "pub-3219627867632523"; google_alternate_color = "FFFFFF";
+google_ad_width = 250; google_ad_height = 250; google_ad_format = "250x250_as";
+google_ad_type = "text_image";
+google_ad_channel =""; google_color_border = "E3FA11";
+google_color_link = "FFFFFF"; google_color_bg = "A2AB2B";
+google_color_text = "000000"; google_color_url = "FFFFFF";
+google_ui_features = "rc:0"; //--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>				<li><a href="http://blogcritics.org/interview-jeff-gunhus-author-of-night-terror-and-the-templar-chronicles-series/" title="Interview: Jeff Gunhus, Author of &#8216;Night Terror&#8217; and the &#8216;Templar Chronicles&#8217; Series">Interview: Jeff Gunhus, Author of &#8216;Night Terror&#8217; and the &#8216;Templar Chronicles&#8217; Series</a></li>
+							<li><a href="http://blogcritics.org/book-review-the-jesus-and-mary-chain-barbed-wire-kisses-by-zoe-howe/" title="Book Review: &#8216;The Jesus and Mary Chain: Barbed Wire Kisses&#8217; by Zoe Howe">Book Review: &#8216;The Jesus and Mary Chain: Barbed Wire Kisses&#8217; by Zoe Howe</a></li>
+						</ul>
+					
+						<script type="text/javascript">
+			jQuery(document).ready(function(){
+								jQuery('.breaking-news ul').innerfade({animationtype: 'fade', speed: 750 , timeout: 3500});
+							});
+		</script>
+	</div> <!-- .breaking-news -->
+	
+	<div id="main-content" class="container">	<div class="content">
+			
+		<div class="post-listing post error404">
+			<div class="post-inner">
+				<h2 class="post-title">Not Found</h2>
+				<div class="clear"></div>
+				<div class="entry">
+					<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+
+					<div id="sitemap">
+						<div class="sitemap-col">
+							<h2>Pages</h2>
+							<ul id="sitemap-pages"><li class="page_item page-item-5001965"><a href="http://blogcritics.org/about/">About Blogcritics</a></li>
+<li class="page_item page-item-5001945"><a href="http://blogcritics.org/privacy-policy/">Blogcritics Privacy Policy</a></li>
+<li class="page_item page-item-5001927"><a href="http://blogcritics.org/tos/">Blogcritics Terms of Service</a></li>
+<li class="page_item page-item-5000807 page_item_has_children"><a href="http://blogcritics.org/contact/">Contact Blogcritics</a>
+<ul class='children'>
+	<li class="page_item page-item-5279075"><a href="http://blogcritics.org/contact/contact-a-writer/">Contact a Blogcritics Writer</a></li>
+	<li class="page_item page-item-5279055"><a href="http://blogcritics.org/contact/contact-the-editors/">Contact the Editors</a></li>
+	<li class="page_item page-item-5279085"><a href="http://blogcritics.org/contact/review-requests/">Review Requests</a></li>
+</ul>
+</li>
+<li class="page_item page-item-5001953"><a href="http://blogcritics.org/dmca/">Digital Millennium Copyright Act</a></li>
+<li class="page_item page-item-5286529"><a href="http://blogcritics.org/gaming-stars/">Gaming Stars</a></li>
+<li class="page_item page-item-5368046"><a href="http://blogcritics.org/sign-our-mailing-list/">Sign Our Mailing List</a></li>
+<li class="page_item page-item-5002027"><a href="http://blogcritics.org/submitting-an-article/">Submitting an Article for Publication &#8211; Revised 4-1-14</a></li>
+<li class="page_item page-item-5275337"><a href="http://blogcritics.org/writer-support-page/">User Support Page</a></li>
+<li class="page_item page-item-5000815"><a href="http://blogcritics.org/write-for-blogcritics/">Write for Blogcritics</a></li>
+</ul>
+						</div> <!-- end .sitemap-col -->
+							
+						<div class="sitemap-col">
+							<h2>Categories</h2>
+							<ul id="sitemap-categories">	<li class="cat-item cat-item-2"><a href="http://blogcritics.org/category/books/" >Books</a>
+<ul class='children'>
+	<li class="cat-item cat-item-26"><a href="http://blogcritics.org/category/books/book-interviews/" title="Exclusive Interviews with authors, publishers and others in the book world">Book Interviews</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://blogcritics.org/category/books/news/" title="Publishing news">Book News</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://blogcritics.org/category/books/reviews-books/" title="Book reviews and views">Book Reviews</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://blogcritics.org/category/books/columns-books/" title="Regular columns and features on a variety of topic of interest to the book world">Columns</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-172"><a href="http://blogcritics.org/category/books/columns-books/sixty-minute-manga/" title="News and Reviews from the Manga World">Sixty-Minute Manga</a>
+</li>
+	<li class="cat-item cat-item-173"><a href="http://blogcritics.org/category/books/columns-books/spine-mingling-author-interviews/" title="Interviews with Mayra Calvani">Spine Mingling: Author Interviews</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://blogcritics.org/category/books/feature-stories/" title="In-depth feature articles exploring the world of books">Feature Stories</a>
+</li>
+	<li class="cat-item cat-item-174"><a href="http://blogcritics.org/category/books/book-genres/" title="Book Genres">Genres</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-33"><a href="http://blogcritics.org/category/books/book-genres/childrens-books/" >Children&#039;s Books</a>
+</li>
+	<li class="cat-item cat-item-899"><a href="http://blogcritics.org/category/books/book-genres/erotica/" >Erotica</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://blogcritics.org/category/books/book-genres/general-fiction/" >Fiction</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://blogcritics.org/category/books/book-genres/graphic-novels-and-comics/" >Graphic Novels and Comics</a>
+</li>
+	<li class="cat-item cat-item-225507"><a href="http://blogcritics.org/category/books/book-genres/historical-fiction-book-genres/" >Historical Fiction</a>
+</li>
+	<li class="cat-item cat-item-224493"><a href="http://blogcritics.org/category/books/book-genres/history-books/" >History Books</a>
+</li>
+	<li class="cat-item cat-item-224216"><a href="http://blogcritics.org/category/books/book-genres/instructional-books/" >Instructional Books</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://blogcritics.org/category/books/book-genres/literary-fiction/" >Literary Fiction</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://blogcritics.org/category/books/book-genres/manga/" >Manga</a>
+</li>
+	<li class="cat-item cat-item-224263"><a href="http://blogcritics.org/category/books/book-genres/memoir-book-genres/" >Memoir</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://blogcritics.org/category/books/book-genres/mystery-and-thriller/" >Mystery and Thriller</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://blogcritics.org/category/books/book-genres/non-fiction/" >Non-Fiction</a>
+</li>
+	<li class="cat-item cat-item-889"><a href="http://blogcritics.org/category/books/book-genres/poetry/" >Poetry</a>
+</li>
+	<li class="cat-item cat-item-761"><a href="http://blogcritics.org/category/books/book-genres/romance/" >Romance</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://blogcritics.org/category/books/book-genres/sci-fi-and-fantasy/" >Sci-fi and Fantasy</a>
+</li>
+	<li class="cat-item cat-item-689"><a href="http://blogcritics.org/category/books/book-genres/self-help/" >Self-Help</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://blogcritics.org/category/books/book-genres/young-adult-literature/" >Young Adult and Children&#039;s Literature</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-223601"><a href="http://blogcritics.org/category/contests-and-giveaways/" title="Contests and Giveaways">Contests and Giveaways</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://blogcritics.org/category/culture/" >Culture and Society</a>
+<ul class='children'>
+	<li class="cat-item cat-item-89"><a href="http://blogcritics.org/category/culture/arts/" >Arts</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-141"><a href="http://blogcritics.org/category/culture/arts/cabaret/" >Cabaret</a>
+</li>
+	<li class="cat-item cat-item-91"><a href="http://blogcritics.org/category/culture/arts/dance/" >Dance</a>
+</li>
+	<li class="cat-item cat-item-140"><a href="http://blogcritics.org/category/culture/arts/opera-arts/" >Opera</a>
+</li>
+	<li class="cat-item cat-item-206823"><a href="http://blogcritics.org/category/culture/arts/standup-comedy-arts/" >Standup Comedy</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://blogcritics.org/category/culture/arts/theater/" >Theater</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://blogcritics.org/category/culture/arts/visual-arts/" >Visual Arts</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-595"><a href="http://blogcritics.org/category/culture/baseball/" >Baseball</a>
+</li>
+	<li class="cat-item cat-item-98"><a href="http://blogcritics.org/category/culture/business/" >Business</a>
+</li>
+	<li class="cat-item cat-item-208257"><a href="http://blogcritics.org/category/culture/comic-con-culture/" >Comic-Con</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-223959"><a href="http://blogcritics.org/category/culture/comic-con-culture/comic-con-2014/" title="comic-con coverage">Comic-Con 2014</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-693"><a href="http://blogcritics.org/category/culture/crime/" >Crime</a>
+</li>
+	<li class="cat-item cat-item-112"><a href="http://blogcritics.org/category/culture/culture-columns/" >Culture Columns</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-113"><a href="http://blogcritics.org/category/culture/culture-columns/ending-world-hunger/" >Ending World Hunger</a>
+</li>
+	<li class="cat-item cat-item-209013"><a href="http://blogcritics.org/category/culture/culture-columns/hometown-heroes-culture-columns/" >Hometown Heroes</a>
+</li>
+	<li class="cat-item cat-item-223753"><a href="http://blogcritics.org/category/culture/culture-columns/prison-life-culture-columns/" >Prison Life</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="http://blogcritics.org/category/culture/culture-columns/spirituality-and-health/" >Spirituality and Health</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://blogcritics.org/category/culture/culture-interviews/" >Culture Interviews</a>
+</li>
+	<li class="cat-item cat-item-225994"><a href="http://blogcritics.org/category/culture/dating-and-romance/" >Dating and Romance</a>
+</li>
+	<li class="cat-item cat-item-206715"><a href="http://blogcritics.org/category/culture/economics-culture/" >Economics</a>
+</li>
+	<li class="cat-item cat-item-809"><a href="http://blogcritics.org/category/culture/education/" >Education</a>
+</li>
+	<li class="cat-item cat-item-981"><a href="http://blogcritics.org/category/culture/environment/" >Environment</a>
+</li>
+	<li class="cat-item cat-item-415"><a href="http://blogcritics.org/category/culture/family/" >Family</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://blogcritics.org/category/culture/fashion/" >Fashion</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="http://blogcritics.org/category/culture/food-and-drink/" >Food and Drink</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="http://blogcritics.org/category/culture/health-and-fitness/" >Health and Fitness</a>
+</li>
+	<li class="cat-item cat-item-679"><a href="http://blogcritics.org/category/culture/history/" >History</a>
+</li>
+	<li class="cat-item cat-item-26883"><a href="http://blogcritics.org/category/culture/holidays/" >Holidays</a>
+</li>
+	<li class="cat-item cat-item-13755"><a href="http://blogcritics.org/category/culture/home/" >Home</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="http://blogcritics.org/category/culture/leisure/" >Leisure</a>
+</li>
+	<li class="cat-item cat-item-733"><a href="http://blogcritics.org/category/culture/media/" >Media</a>
+</li>
+	<li class="cat-item cat-item-9005"><a href="http://blogcritics.org/category/culture/memoir/" >Memoir</a>
+</li>
+	<li class="cat-item cat-item-417"><a href="http://blogcritics.org/category/culture/military/" >Military</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://blogcritics.org/category/culture/money/" >Money</a>
+</li>
+	<li class="cat-item cat-item-218397"><a href="http://blogcritics.org/category/culture/news-and-events/" >News and Events</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://blogcritics.org/category/culture/op-ed/" >Op Ed</a>
+</li>
+	<li class="cat-item cat-item-903"><a href="http://blogcritics.org/category/culture/philosophy/" >Philosophy</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="http://blogcritics.org/category/culture/politics/" >Politics</a>
+</li>
+	<li class="cat-item cat-item-681"><a href="http://blogcritics.org/category/culture/religion/" >Religion</a>
+</li>
+	<li class="cat-item cat-item-101"><a href="http://blogcritics.org/category/culture/scitech/" >Science and Technology</a>
+</li>
+	<li class="cat-item cat-item-683"><a href="http://blogcritics.org/category/culture/society/" >Society</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://blogcritics.org/category/culture/spirituality/" >Spirituality</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="http://blogcritics.org/category/culture/sports/" >Sports</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-215147"><a href="http://blogcritics.org/category/culture/sports/wrestling-sports/" >Wrestling</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-104"><a href="http://blogcritics.org/category/culture/tips-and-advice/" >Tips and Advice</a>
+</li>
+	<li class="cat-item cat-item-208805"><a href="http://blogcritics.org/category/culture/transportation-culture/" >Transportation</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://blogcritics.org/category/culture/travel/" >Travel</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-224"><a href="http://blogcritics.org/category/editor-picks/" >Editor Picks</a>
+<ul class='children'>
+	<li class="cat-item cat-item-227"><a href="http://blogcritics.org/category/editor-picks/books-picks/" >Editor Pick: Books</a>
+</li>
+	<li class="cat-item cat-item-228"><a href="http://blogcritics.org/category/editor-picks/culture-society-picks/" >Editor Pick: Culture and Society</a>
+</li>
+	<li class="cat-item cat-item-229"><a href="http://blogcritics.org/category/editor-picks/film-picks/" >Editor Pick: Film</a>
+</li>
+	<li class="cat-item cat-item-230"><a href="http://blogcritics.org/category/editor-picks/gaming-picks/" >Editor Pick: Gaming</a>
+</li>
+	<li class="cat-item cat-item-226"><a href="http://blogcritics.org/category/editor-picks/music-picks/" >Editor Pick: Music</a>
+</li>
+	<li class="cat-item cat-item-225"><a href="http://blogcritics.org/category/editor-picks/tv-picks/" >Editor Pick: TV</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://blogcritics.org/category/film/" >Film</a>
+<ul class='children'>
+	<li class="cat-item cat-item-397"><a href="http://blogcritics.org/category/film/festivals/" title="BC&#039;s film festival coverage">Festivals</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="http://blogcritics.org/category/film/columns-film/" title="BC&#039;s Regular Film-related Columns">Film Columns</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-156"><a href="http://blogcritics.org/category/film/columns-film/cinema-macabre/" title="Horror Movies Great, Good and Absolutely Terrible">Cinema Macabre</a>
+</li>
+	<li class="cat-item cat-item-176"><a href="http://blogcritics.org/category/film/columns-film/to-live-and-write-in-la/" >To Live and Write in LA</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://blogcritics.org/category/film/features/" >Film Feature Articles</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="http://blogcritics.org/category/film/film-news/" title="News from around the movie industry">Film News</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="http://blogcritics.org/category/film/genres-film/" >Genres</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-50"><a href="http://blogcritics.org/category/film/genres-film/actionadventure/" >Action/Adventure</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://blogcritics.org/category/film/genres-film/animated/" >Animated</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://blogcritics.org/category/film/genres-film/blockbusters/" >Blockbusters</a>
+</li>
+	<li class="cat-item cat-item-409"><a href="http://blogcritics.org/category/film/genres-film/childrens-and-family-movies/" >Children&#039;s and Family Movies</a>
+</li>
+	<li class="cat-item cat-item-178"><a href="http://blogcritics.org/category/film/genres-film/classic-films/" >Classic Films</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://blogcritics.org/category/film/genres-film/comedy/" >Comedy</a>
+</li>
+	<li class="cat-item cat-item-71"><a href="http://blogcritics.org/category/film/genres-film/documentaries-genres-film/" >Documentaries</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://blogcritics.org/category/film/genres-film/drama/" >Drama</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://blogcritics.org/category/film/genres-film/horror/" >Horror</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://blogcritics.org/category/film/genres-film/independent-cinema/" >Independent Cinema</a>
+</li>
+	<li class="cat-item cat-item-821"><a href="http://blogcritics.org/category/film/genres-film/instructional/" >Instructional</a>
+</li>
+	<li class="cat-item cat-item-216257"><a href="http://blogcritics.org/category/film/genres-film/movie-musicals-genres-film/" >Movie Musicals</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://blogcritics.org/category/film/genres-film/sci-fifantasy/" >Sci-Fi/Fantasy</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://blogcritics.org/category/film/interviews-film/" >Interviews film</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://blogcritics.org/category/film/reviews-film/" >Reviews film</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-60"><a href="http://blogcritics.org/category/film/reviews-film/dvd-reviews/" title="DVD and Blu-ray Reviews: Movies">DVD and Blu-ray Reviews</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://blogcritics.org/category/film/reviews-film/movie-reviews/" >Movie Reviews</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-222066"><a href="http://blogcritics.org/category/flash-fiction-2/" >Flash Fiction</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blogcritics.org/category/gaming/" >Gaming</a>
+<ul class='children'>
+	<li class="cat-item cat-item-147"><a href="http://blogcritics.org/category/gaming/board-and-card-games/" >Board and Card Games</a>
+</li>
+	<li class="cat-item cat-item-145"><a href="http://blogcritics.org/category/gaming/conferences/" >Conferences</a>
+</li>
+	<li class="cat-item cat-item-148"><a href="http://blogcritics.org/category/gaming/console/" >Console</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-169"><a href="http://blogcritics.org/category/gaming/console/apps/" >Apps</a>
+</li>
+	<li class="cat-item cat-item-233"><a href="http://blogcritics.org/category/gaming/console/nintendo/" >Nintendo</a>
+</li>
+	<li class="cat-item cat-item-167"><a href="http://blogcritics.org/category/gaming/console/nintendo-3ds/" >Nintendo 3DS</a>
+</li>
+	<li class="cat-item cat-item-168"><a href="http://blogcritics.org/category/gaming/console/pc-mac/" >PC/Mac</a>
+</li>
+	<li class="cat-item cat-item-235"><a href="http://blogcritics.org/category/gaming/console/playstation/" >Playstation</a>
+</li>
+	<li class="cat-item cat-item-159"><a href="http://blogcritics.org/category/gaming/console/playstation-3/" >Playstation 3</a>
+</li>
+	<li class="cat-item cat-item-160"><a href="http://blogcritics.org/category/gaming/console/playstation-4/" >Playstation 4</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="http://blogcritics.org/category/gaming/console/ps-vita/" >PS Vita</a>
+</li>
+	<li class="cat-item cat-item-163"><a href="http://blogcritics.org/category/gaming/console/wii/" >Wii</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="http://blogcritics.org/category/gaming/console/wii-u/" >Wii U</a>
+</li>
+	<li class="cat-item cat-item-234"><a href="http://blogcritics.org/category/gaming/console/xbox/" >Xbox</a>
+</li>
+	<li class="cat-item cat-item-161"><a href="http://blogcritics.org/category/gaming/console/xbox-360/" >Xbox 360</a>
+</li>
+	<li class="cat-item cat-item-162"><a href="http://blogcritics.org/category/gaming/console/xbox-720/" >Xbox 720</a>
+</li>
+	<li class="cat-item cat-item-218151"><a href="http://blogcritics.org/category/gaming/console/xbox-one-console/" >Xbox One</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-146"><a href="http://blogcritics.org/category/gaming/gaming-interviews/" >Gaming Interviews</a>
+</li>
+	<li class="cat-item cat-item-142"><a href="http://blogcritics.org/category/gaming/gaming-news/" >Gaming News</a>
+</li>
+	<li class="cat-item cat-item-143"><a href="http://blogcritics.org/category/gaming/gaming-reviews/" >Gaming Reviews</a>
+</li>
+	<li class="cat-item cat-item-144"><a href="http://blogcritics.org/category/gaming/previews/" >Previews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://blogcritics.org/category/music/" >Music</a>
+<ul class='children'>
+	<li class="cat-item cat-item-395"><a href="http://blogcritics.org/category/music/feature-articles-music/" >Feature Articles music</a>
+</li>
+	<li class="cat-item cat-item-121"><a href="http://blogcritics.org/category/music/interviews-music/" >Interviews music</a>
+</li>
+	<li class="cat-item cat-item-208241"><a href="http://blogcritics.org/category/music/music-columns/" >Music Columns</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-223488"><a href="http://blogcritics.org/category/music/music-columns/i-shall-be-released/" >I Shall Be Released</a>
+</li>
+	<li class="cat-item cat-item-225858"><a href="http://blogcritics.org/category/music/music-columns/indie-roundup/" >Indie Roundup</a>
+</li>
+	<li class="cat-item cat-item-206731"><a href="http://blogcritics.org/category/music/music-columns/martys-musical-meltdown/" >Marty&#039;s Musical Meltdown</a>
+</li>
+	<li class="cat-item cat-item-211801"><a href="http://blogcritics.org/category/music/music-columns/the-rockologist-music-columns/" >The Rockologist</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-122"><a href="http://blogcritics.org/category/music/music-genres/" >Music Genres</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-128"><a href="http://blogcritics.org/category/music/music-genres/ambient/" >Ambient</a>
+</li>
+	<li class="cat-item cat-item-134"><a href="http://blogcritics.org/category/music/music-genres/blues/" >Blues</a>
+</li>
+	<li class="cat-item cat-item-13139"><a href="http://blogcritics.org/category/music/music-genres/celtic/" >Celtic</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://blogcritics.org/category/music/music-genres/classic-rock/" >Classic Rock</a>
+</li>
+	<li class="cat-item cat-item-129"><a href="http://blogcritics.org/category/music/music-genres/classical/" >Classical</a>
+</li>
+	<li class="cat-item cat-item-126"><a href="http://blogcritics.org/category/music/music-genres/country-and-americana/" >Country and Americana</a>
+</li>
+	<li class="cat-item cat-item-9541"><a href="http://blogcritics.org/category/music/music-genres/dance-music/" >Dance Music</a>
+</li>
+	<li class="cat-item cat-item-139"><a href="http://blogcritics.org/category/music/music-genres/early-music/" >Early Music</a>
+</li>
+	<li class="cat-item cat-item-132"><a href="http://blogcritics.org/category/music/music-genres/folk/" >Folk</a>
+</li>
+	<li class="cat-item cat-item-136"><a href="http://blogcritics.org/category/music/music-genres/hip-hop/" >Hip-Hop</a>
+</li>
+	<li class="cat-item cat-item-224778"><a href="http://blogcritics.org/category/music/music-genres/holiday-music-music-genres/" >Holiday Music</a>
+</li>
+	<li class="cat-item cat-item-130"><a href="http://blogcritics.org/category/music/music-genres/jazz/" >Jazz</a>
+</li>
+	<li class="cat-item cat-item-891"><a href="http://blogcritics.org/category/music/music-genres/latin/" >Latin</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="http://blogcritics.org/category/music/music-genres/metal/" >Metal</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="http://blogcritics.org/category/music/music-genres/opera/" >Opera</a>
+</li>
+	<li class="cat-item cat-item-125"><a href="http://blogcritics.org/category/music/music-genres/pop/" >Pop</a>
+</li>
+	<li class="cat-item cat-item-593"><a href="http://blogcritics.org/category/music/music-genres/punk-rock/" >Punk Rock</a>
+</li>
+	<li class="cat-item cat-item-135"><a href="http://blogcritics.org/category/music/music-genres/r-and-b/" >R&amp;B</a>
+</li>
+	<li class="cat-item cat-item-137"><a href="http://blogcritics.org/category/music/music-genres/religious/" >Religious</a>
+</li>
+	<li class="cat-item cat-item-123"><a href="http://blogcritics.org/category/music/music-genres/rock/" >Rock</a>
+</li>
+	<li class="cat-item cat-item-223152"><a href="http://blogcritics.org/category/music/music-genres/show-tunes-music-genres/" >Show Tunes</a>
+</li>
+	<li class="cat-item cat-item-133"><a href="http://blogcritics.org/category/music/music-genres/soul/" >Soul</a>
+</li>
+	<li class="cat-item cat-item-393"><a href="http://blogcritics.org/category/music/music-genres/soundtracks/" >Soundtracks</a>
+</li>
+	<li class="cat-item cat-item-131"><a href="http://blogcritics.org/category/music/music-genres/world/" >World</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-120"><a href="http://blogcritics.org/category/music/news-music/" >Music News</a>
+</li>
+	<li class="cat-item cat-item-119"><a href="http://blogcritics.org/category/music/reissues/" >Reissues</a>
+</li>
+	<li class="cat-item cat-item-207473"><a href="http://blogcritics.org/category/music/reviews-in-brief-music/" >Reviews In Brief music</a>
+</li>
+	<li class="cat-item cat-item-223"><a href="http://blogcritics.org/category/music/reviews-music/" >Reviews music</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-137685"><a href="http://blogcritics.org/category/music/reviews-music/album-reviews/" >Album Reviews</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="http://blogcritics.org/category/music/reviews-music/concert-reviews/" >Concert Reviews</a>
+</li>
+	<li class="cat-item cat-item-224259"><a href="http://blogcritics.org/category/music/reviews-music/ep-and-single-reviews/" >EP and Single Reviews</a>
+</li>
+	<li class="cat-item cat-item-206757"><a href="http://blogcritics.org/category/music/reviews-music/music-dvd-blu-ray-reviews/" >Music DVD &amp; Blu-ray Reviews</a>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-206739"><a href="http://blogcritics.org/category/newsflash-2/" >NewsFlash</a>
+</li>
+	<li class="cat-item cat-item-206741"><a href="http://blogcritics.org/category/there-i-said-it-2/" >There I Said It</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blogcritics.org/category/top-stories/" >Top Stories</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://blogcritics.org/category/tv/" title="Editors: Barbara Barnett, Josh Lasser">TV</a>
+<ul class='children'>
+	<li class="cat-item cat-item-150"><a href="http://blogcritics.org/category/tv/tv-columns/" title="BC&#039;s Regular TV Columns">Columns tv</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-78"><a href="http://blogcritics.org/category/tv/tv-columns/supernatural/" title="Gerry Weaver&#039;s Supernatural Coverage">Gerry Weaver&#039;s Supernatural Musings</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://blogcritics.org/category/tv/tv-columns/gleekonomics/" title="JeromeWetzelTV&#039;s take on the popular FOX drama series">Gleekonomics</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="http://blogcritics.org/category/tv/tv-columns/idol-wired/" title="Kirsten Coachman&#039;s American Idol Coverage">Idol Wired</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="http://blogcritics.org/category/tv/tv-columns/jeroming-the-tv-landscape/" title="Jerome Wetzel has been reviewing television shows for years now. However, not every thought can be contained in an article about a single episode, and sometimes it&#039;s fun to look at the bigger picture. Join him each week in this wandering essay column as he ponders trends and genres, giving you his insights and opinions into the current state of television.&quot;">Jeroming the TV Landscape</a>
+</li>
+	<li class="cat-item cat-item-208989"><a href="http://blogcritics.org/category/tv/tv-columns/lets-talk-tv-with-barbara-barnett/" title="Blogcritics&#039; executive editor and host of BlogTalk Radio&#039;s Let&#039;s Talk TV Live goes beyond the usual recap to dig deeper into the storylines and themes of primetime drama series. Essays, reviews, interviews and more. Come join the discussion">Let&#039;s Talk TV with Barbara Barnett</a>
+</li>
+	<li class="cat-item cat-item-158"><a href="http://blogcritics.org/category/tv/tv-columns/mad-men-confidential/" title="Hank Wasiak&#039;s Madison Avenue Take on Mad Men">Mad Men Confidential</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="http://blogcritics.org/category/tv/tv-columns/once-upon-a-time/" title="Barbara Barnett&#039;s Once Upon a Time coverage.
+
+Come with me to Storybrooke, a New England town that is much more than it seems. It is here that Emma Swan (Jennifer Morrison, House, Star Trek), a young bail bonds collector reconnects with her 10-year son Henry, a baby she gave up years earlier. Once Upon a Time returns this fall on ABC, and the magic is BACK. Join me as we unveil the magic of the town and its cast of characters, familiar fairytale characters now living alive and well in Storybrooke. Follow the latest developments, weekly episode commentaries, reviews and interviews with the cast and creative team. Join our live chats and their occasional guest stars to discuss the show and story lines. What&#039;s next for Emma, now that the curse is broken? How will Rumple get his revenge for what the Evil Queen has done to his beloved Belle? What does the presence of magic do the citizens of Storybrooke? Will they all live happily ever after? Not likely, but stay tuned.">Once Upon a Time&#8230;There Was a Place Called Storybrooke</a>
+</li>
+	<li class="cat-item cat-item-175"><a href="http://blogcritics.org/category/tv/tv-columns/sci-fi-primetime/" >Sci-Fi Primetime</a>
+</li>
+	<li class="cat-item cat-item-216391"><a href="http://blogcritics.org/category/tv/tv-columns/the-gallifreyian-groupie/" title="JeromeWetzelTV on 50 years of Doctor Who.">The Gallifreyan Groupie</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://blogcritics.org/category/tv/tv-columns/the-good-wife/" title="Jon Sobel&#039;s Good Wife Coverage">The Good Wife</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://blogcritics.org/category/tv/tv-columns/tv-open-thread/" title="Where do people gather to rant about the hotest TV shows? &#039;Round the water cooler, of course. But why wait &#039;til you get to office tomorrow to start the discussion? Did your favorite TV show jump the shark this week—or was the latest episode a shoo-in for an Emmy? This is the place to air it all right after it airs! Join our BC writers for their down and dirty post-ep analysis and then weigh in with your thoughts!">TV Open Thread</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-222"><a href="http://blogcritics.org/category/tv/feature-articles/" title="Deeper explorations and other feature stories about the state of the industry and individual shows.">Feature Stories tv</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="http://blogcritics.org/category/tv/genres-tv/" >Genres tv</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-411"><a href="http://blogcritics.org/category/tv/genres-tv/childrens-tv/" >Children&#039;s TV</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://blogcritics.org/category/tv/genres-tv/comedy-tv/" >Comedy</a>
+</li>
+	<li class="cat-item cat-item-151"><a href="http://blogcritics.org/category/tv/genres-tv/daytime-soaps/" >Daytime Soaps</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="http://blogcritics.org/category/tv/genres-tv/documentaries-genres-tv/" title="TV Documentaries">Documentaries</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://blogcritics.org/category/tv/genres-tv/drama-tv/" >Drama</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="http://blogcritics.org/category/tv/genres-tv/mini-series-and-tv-movies/" >Mini-series and TV Movies</a>
+</li>
+	<li class="cat-item cat-item-231"><a href="http://blogcritics.org/category/tv/genres-tv/non-fiction-series/" title="Non-Fiction and Documentary Series">Non-Fiction Series</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="http://blogcritics.org/category/tv/genres-tv/reality-tv/" >Reality</a>
+</li>
+	<li class="cat-item cat-item-221"><a href="http://blogcritics.org/category/tv/genres-tv/web-series/" >Web Series</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-85"><a href="http://blogcritics.org/category/tv/interviews-tv/" title="TV Related Interviews">Interviews tv</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://blogcritics.org/category/tv/tv-news/" title="Industry news from TV land">News tv</a>
+</li>
+	<li class="cat-item cat-item-179"><a href="http://blogcritics.org/category/tv/tv-reviews-recaps/" title="Episode and series reviews and commentaries">Reviews &amp; Recaps</a>
+	<ul class='children'>
+	<li class="cat-item cat-item-83"><a href="http://blogcritics.org/category/tv/tv-reviews-recaps/dvd-blu-ray-reviews/" title="TV Blu-ray and DVD reviews">DVD &amp; Blu-ray Reviews</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="http://blogcritics.org/category/tv/tv-reviews-recaps/tv-recaps/" >TV Recaps</a>
+</li>
+	<li class="cat-item cat-item-181"><a href="http://blogcritics.org/category/tv/tv-reviews-recaps/tv-reviews/" >TV Reviews &amp; Commentaries</a>
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-247"><a href="http://blogcritics.org/category/tv/tv-news-tv/" title="News from the TV industry">TV news</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blogcritics.org/category/uncategorized/" >Uncategorized</a>
+</li>
+</ul>
+						</div> <!-- end .sitemap-col -->
+							
+						<div class="sitemap-col">
+							<h2>Tags</h2>
+							<ul id="sitemap-tags">
+								
+	<script src="http://stats.wp.com/e-201449.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'58763955',post:'0',tz:'-6'});
+	var load_cmc = function(){linktracker_init(58763955,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>

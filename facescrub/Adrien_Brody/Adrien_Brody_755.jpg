@@ -1,0 +1,1268 @@
+<!DOCTYPE html><!--[if lt IE 7]><html
+lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--> <!--[if (IE 7)&!(IEMobile)]><html
+lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]--> <!--[if (IE 8)&!(IEMobile)]><html
+lang="en-US" class="no-js lt-ie9"><![endif]--> <!--[if gt IE 8]><!--><html
+lang="en-US" class="no-js"><!--<![endif]--><head><meta
+charset="utf-8"> <!--[if IE]><meta
+http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]--><title>Electric Literature</title><meta
+name="viewport" content="width=device-width, initial-scale=1.0"/><link
+rel="shortcut icon" href="http://electriclit.electricliteratu.netdna-cdn.com/favicon.ico"><link
+rel="pingback" href="http://electricliterature.com/xmlrpc.php"><link
+rel="alternate" type="application/rss+xml" title="Electric Literature &raquo; Feed" href="http://electricliterature.com/feed/" /><link
+rel="alternate" type="application/rss+xml" title="Electric Literature &raquo; Comments Feed" href="http://electricliterature.com/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="Electric Literature &raquo; Revised Home Comments Feed" href="http://electricliterature.com/revised-home/feed/" /><link
+rel='stylesheet' id='login-with-ajax-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/plugins/login-with-ajax/widget.css?ver=3.9.1' type='text/css' media='all' /><link
+rel='stylesheet' id='theme-my-login-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8' type='text/css' media='all' /><link
+rel='stylesheet' id='jetpack-subscriptions-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.9.1' type='text/css' media='all' /><link
+rel='stylesheet' id='paged-post-style-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/paged-post-slider/paged-post.css?ver=3.9.1' type='text/css' media='all' /><link
+rel='stylesheet' id='woocommerce-layout-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.1.12' type='text/css' media='all' /><link
+rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.1.12' type='text/css' media='only screen and (max-width: 768px)' /><link
+rel='stylesheet' id='woocommerce-general-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.1.12' type='text/css' media='all' /><link
+rel='stylesheet' id='wc-paypal-pro-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce-gateway-paypal-pro/assets/css/checkout.css?ver=3.9.1' type='text/css' media='all' /><link
+rel='stylesheet' id='pullquote-shortcode-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/pullquote-shortcode/css/pullquote-shortcode.css?ver=0.1' type='text/css' media='all' /><link
+rel='stylesheet' id='jetpack-widgets-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' /><link
+rel='stylesheet' id='cb-main-stylesheet-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/css/style.css?ver=2.6' type='text/css' media='all' /><link
+rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C400italic%7CLora%3A400%2C700%2C400italic&#038;ver=2.6' type='text/css' media='all' /><link
+rel='stylesheet' id='fontawesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=4.0.3' type='text/css' media='all' /> <!--[if lt IE 9]><link
+rel='stylesheet' id='cb-ie-only-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/css/ie.css?ver=2.6' type='text/css' media='all' /> <![endif]--><link
+rel='stylesheet' id='cb-woocommerce-stylesheet-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/woocommerce/css/woocommerce.css?ver=2.6' type='text/css' media='all' /><link
+rel='stylesheet' id='cb-child-stylesheet-css'  href='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti-child/style.css?ver=1.0' type='text/css' media='all' /><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/plugins/login-with-ajax/login-with-ajax.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/optin-monster/assets/js/api.js?ver=2.0.2.2'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/js/modernizr.custom.min.js?ver=2.6.2'></script><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://electricliterature.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://electriclit.electricliteratu.netdna-cdn.com/wp-includes/wlwmanifest.xml" /><link
+rel='prev' title='List Your Event' href='http://electricliterature.com/list-your-event/' /><link
+rel='next' title='Shop' href='http://electricliterature.com/shop/' /><meta
+name="generator" content="WordPress 3.9.1" /><meta
+name="generator" content="WooCommerce 2.1.12" /><link
+rel='shortlink' href='http://wp.me/P4FNqI-50U' /><style>body, #cb-parallax-featured #cb-parallax-bg { background-color: #ffffff;}.cb-overlay-stars .fa-star, #cb-vote .fa-star, #cb-to-top .fa-long-arrow-up, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, .bbp-submit-wrapper button:visited, .buddypress .cb-cat-header #cb-cat-title a,  .buddypress .cb-cat-header #cb-cat-title a:visited, .woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .woocommerce .star-rating span, .woocommerce-page .star-rating span {
+            color:#4c87bf;
+        }#cb-search-modal .cb-header, .cb-join-modal .cb-header, .lwa .cb-header, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            border-color: #4c87bf;
+        }.cb-sidebar-widget .cb-sidebar-widget-title, .cb-multi-widget .tabbernav .tabberactive, .cb-author-page .cb-author-details .cb-meta .cb-author-page-contact, .cb-about-page .cb-author-line .cb-author-details .cb-meta .cb-author-page-contact, .cb-page-header, .cb-404-header, .cb-cat-header, #cb-footer #cb-widgets .cb-footer-widget-title span, #wp-calendar caption, .cb-tabs ul .current, #bbpress-forums li.bbp-header, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li.selected, #buddypress div.item-list-tabs ul li.current, #buddypress .item-list-tabs ul li:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+            border-bottom-color: #4c87bf ;
+        }#cb-main-menu .current-post-ancestor, #cb-main-menu .current-menu-item, #cb-main-menu .current-menu-ancestor, #cb-main-menu .current-post-parent, #cb-main-menu .current-menu-parent, #cb-main-menu .current_page_item, #cb-main-menu .current-page-ancestor, #cb-main-menu .current-category-ancestor, .cb-review-box .cb-bar .cb-overlay span, #cb-accent-color, .cb-highlight, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            background-color: #4c87bf;
+        }.woocommerce ul.products li.product, .woocommerce-page ul.products li.product, .woocommerce ul.products li.product, .woocommerce-page ul.products li.product, .woocommerce .related ul.products li.product, .woocommerce .related ul li.product, .woocommerce .upsells.products ul.products li.product, .woocommerce .upsells.products ul li.product, .woocommerce-page .related ul.products li.product, .woocommerce-page .related ul li.product, .woocommerce-page .upsells.products ul.products li.product, .woocommerce-page .upsells.products ul li.product, .cb-woocommerce-page {
+            border-bottom-color: #4c87bf ;
+        }.woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button:hover, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover, .added_to_cart, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce .quantity .plus:hover, .woocommerce-page .quantity .plus:hover, .woocommerce #content .quantity .plus:hover, .woocommerce-page #content .quantity .plus:hover, .woocommerce .quantity .minus:hover, .woocommerce-page .quantity .minus:hover, .woocommerce #content .quantity .minus:hover, .woocommerce-page #content .quantity .minus:hover, .woocommerce a.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce input.checkout-button.button, .woocommerce input.button#place_order, .widget_shopping_cart .button.checkout, .woocommerce .cart-collaterals .shipping_calculator a:hover, .woocommerce-page .cart-collaterals .shipping_calculator a:hover {
+                background: #4c87bf;
+            }.woocommerce .woocommerce-message:before, .woocomerce-page .woocommerce-message:before {
+                background-color: #4c87bf;
+            }.woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .woocommerce .woocommerce-product-rating, .woocommerce-page .woocommerce-product-rating .woocommerce-review-link   {
+                color: #4c87bf;
+            }</style><style type="text/css">
+                                                 body, #respond { font-family: 'Lora', serif }
+                                                 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, #cb-nav-bar #cb-main-menu ul li > a, .cb-breaking-news span, .cb-grid-4 h2 a, .cb-grid-5 h2 a, .cb-grid-6 h2 a, .cb-author-posts-count, .cb-author-title, .cb-author-position, .search  .s, .cb-review-box .cb-bar, .cb-review-box .cb-score-box, .cb-review-box .cb-title, #cb-review-title, .cb-title-subtle, #cb-top-menu a, .tabbernav, .cb-byline, #cb-next-link a, #cb-previous-link a, .cb-review-ext-box .cb-score, .tipper-positioner, .cb-caption, .cb-button, #wp-calendar caption, .forum-titles, .bbp-submit-wrapper button, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form .bbp-the-content-wrapper input, #bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink, .widget_display_stats dl dt, .cb-lwa-profile .cb-block, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li, #buddypress .activity-list li.load-more, #buddypress a.activity-time-since, #buddypress ul#groups-list li div.meta, .widget.buddypress div.item-options, .cb-activity-stream #buddypress .activity-header .time-since, .cb-font-header, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .cb-infinite-scroll a, .cb-no-more-posts { font-family:'Oswald', sans-serif; }
+
+                     </style><style type="text/css">#cb-gallery-post #cb-gallery .slides li .cb-meta .cb-caption { bottom: auto; top: 10%;}.header {  }</style><meta
+name="description" content="The book blog that&#039;s bad for you." /><meta
+name="keywords" content="book blog, book blogs, lit blog, literary blog, literary blogs, lit blogs, literature blog, literature blogs, litblog, litblogs, Reviews, New York Readings, author Mix, Interviews, Author, Fiction, electric literature, the outlet" /><link
+rel="canonical" href="http://electricliterature.com/" /><script type="text/javascript">
+<!--
+var addthis_config = { 
+username: "wp-51fbd14b50733955",
+data_track_clickback: true
+}
+//--></script><script type="text/javascript">
+var wu=["https://s7.addthis.com/js/300/addthis_widget.js"],wc=1;
+function wpsrload(){ for(var i=0;i<wc;i++){wpsrasync(wu[i]);} }
+function wpsrasync(u){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=u;var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(a,s);} wpsrload();
+</script><style>#cb-nav-bar #cb-main-menu .main-nav .menu-item-19507:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19507:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19507 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19507 .cb-sub-menu { background:#4c87bf!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19507 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#4c87bf!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-19281:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19281:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19281 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19281 .cb-sub-menu { background:#4c87bf!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19281 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#4c87bf!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-19503:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19503:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19503 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19503 .cb-sub-menu { background:#4c87bf!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19503 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#4c87bf!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-19505:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19505:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19505 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19505 .cb-sub-menu { background:#4c87bf!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-19505 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#4c87bf!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-19283:hover,
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19283:focus,
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19283 .cb-sub-menu li .cb-grandchild-menu,
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19283 .cb-sub-menu { background:#4c87bf!important; }
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19283 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#4c87bf!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-19284:hover,
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19284:focus,
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19284 .cb-sub-menu li .cb-grandchild-menu,
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19284 .cb-sub-menu { background:#4c87bf!important; }
+                                     #cb-nav-bar #cb-main-menu .main-nav .menu-item-19284 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#4c87bf!important; }</style><meta
+property="og:type" content="website" /><meta
+property="og:title" content="Electric Literature" /><meta
+property="og:description" content="Amplifying the power of storytelling thorough digital innovation" /><meta
+property="og:url" content="http://electricliterature.com/" /><meta
+property="og:site_name" content="Electric Literature" /><meta
+property="og:image" content="http://wordpress.com/i/blank.jpg" /><meta
+name="twitter:site" content="@jetpack" /><meta
+name="twitter:card" content="summary" /><link
+rel="stylesheet" id="custom-css-css" type="text/css" href="http://electricliterature.com/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=8" /></head><body
+class="home page page-id-19276 page-template page-template-page-valenti-builder-php"><div
+id="cb-outer-container"><div
+id="cb-container" class="cb-boxed wrap clearfix"  ><header
+class="header clearfix wrap" role="banner"><div
+class="wrap clearfix"><div
+id="logo" > <a
+href="http://electricliterature.com"> <img
+src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/EL-neon-logo-red-medium.jpg" alt="Electric Literature logo" width="732" height="120" data-retina-src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/EL-neon-logo-red-medium@2x.jpg" /> </a></div></div><nav
+id="cb-nav-bar" class="clearfix stickybar cb-dark-menu" role="navigation"><div
+class="cb-login-modal clearfix cb-dark-menu"><div
+class="lwa lwa-default clearfix"><form
+class="lwa-form clearfix" action="http://electricliterature.com/login/" method="post"><div
+class="cb-header"><div
+class="cb-title">Log In</div><div
+class="cb-close"><span
+class="cb-close-modal"><i
+class="fa fa-times"></i></span></div></div><div
+class="cb-form-body"><div
+class="cb-username"><i
+class="fa fa-user"></i><input
+type="text" name="log" placeholder="Username"></div><div
+class="cb-password"><i
+class="fa fa-lock"></i><input
+type="password" name="pwd" placeholder="Password"></div><div
+class="cb-submit"> <input
+type="submit" name="wp-submit" class="lwa_wp-submit" value="Log In" tabindex="100" /> <input
+type="hidden" name="lwa_profile_link" value="" /> <input
+type="hidden" name="login-with-ajax" value="login" /></div> <span
+class="lwa-status"></span><div
+class="cb-lost-password"> <a
+class="lwa-links-remember" href="http://electricliterature.com/lostpassword/" title="Password Lost and Found">Lost your password?</a></div></div></form><form
+class="lwa-remember clearfix" action="http://electricliterature.com/lostpassword/" method="post" style="display:none;"><div
+class="cb-header"><div
+class="cb-title">Lost Password</div><div
+class="cb-close"><span
+class="cb-close-modal lwa-links-remember-cancel"><i
+class="fa fa-times"></i></span></div></div><div
+class="cb-form-body"><div
+class="cb-email"> <i
+class="fa fa-envelope-o"></i><input
+type="text" name="user_login" class="lwa-user-remember" placeholder="Enter username or email"></div><div
+class="cb-remember-buttons"> <input
+type="submit" value="Reset Password" class="lwa-button-remember" /> <input
+type="hidden" name="login-with-ajax" value="remember" /></div> <a
+href="#" class="cb-back-login">Back to login</a> <span
+class="lwa-status"></span></div></form></div></div><div
+id="cb-search-modal" class="cb-dark-menu"><div
+class="cb-search-box"><div
+class="cb-header"><div
+class="cb-title">Search</div><div
+class="cb-close"> <span
+class="cb-close-modal"><i
+class="fa fa-times"></i></span></div></div><form
+role="search" method="get" class="cb-search" action="http://electricliterature.com/"><input
+type="text" class="cb-search-field" placeholder="" value="" name="s" title=""> <button
+class="cb-search-submit" type="submit" value=""><i
+class="fa fa-search"></i></button></form></div></div><div
+class="wrap clearfix"><div
+id="cb-main-menu" class="menu-revised-home-main-container"><ul
+class="nav main-nav clearfix"><li
+id="menu-item-19507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19507"><a
+href="http://electricliterature.com/category/scuttlebutt/">Scuttlebutt</a><div
+class="cb-big-menu"><div
+class="cb-articles"><div
+class="cb-featured"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Top Story</span></div><ul><li
+class="cb-article clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/"><img
+width="480" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/09/sundries-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="sundries" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/">Sunday Sundries: Literary Links from Around the Web (Nov. 23rd)</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-23">November 23, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/news/" title="View all posts in News">News</a></div></div></div></li></ul></div><div
+class="cb-recent cb-recent-fw"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Recent</span></div><ul><li
+class="cb-article-1 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/09/sundries-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="sundries" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/">Sunday Sundries: Literary Links from Around the Web (Nov. 23rd)</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-23">November 23, 2014</time></div></div></div></li><li
+class="cb-article-2 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-5.18.47-PM-80x60.png" class="attachment-cb-80-60 wp-post-image" alt="Toni Morrison and Stephen Colbert" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/">VIDEO: Toni Morrison Talks to Stephen Colbert</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div></div></div></li><li
+class="cb-article-3 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/UKLG-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Ursula K. Le Guin" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/">Watch Ursula K. Le Guin&#8217;s Amazing NBA Acceptance Speech</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/#comments">6</a></span></div></div></div></li><li
+class="cb-article-4 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/scary-stories-to-tell-in-the-dark-being-adapted-by-big-fish-screenwriter/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/10/scarystories-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Scary Stories to Tell in the Dark" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/scary-stories-to-tell-in-the-dark-being-adapted-by-big-fish-screenwriter/"><em>Scary Stories to Tell in the Dark</em> being Adapted by <em>Big Fish</em> Screenwriter</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/ben-apatoff/">Ben Apatoff</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/scary-stories-to-tell-in-the-dark-being-adapted-by-big-fish-screenwriter/#comments">2</a></span></div></div></div></li><li
+class="cb-article-5 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-16th/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/09/sundries-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="sundries" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-16th/">Sunday Sundries: Literary Links from Around the Web (Nov. 16th)</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-16">November 16, 2014</time></div></div></div></li><li
+class="cb-article-6 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/amazon-and-hachette-end-dispute/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Godzilla-teamup-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Godzilla team up" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/amazon-and-hachette-end-dispute/">Amazon and Hachette End Dispute</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-13">November 13, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/amazon-and-hachette-end-dispute/#comments">3</a></span></div></div></div></li></ul></div></div></div></li><li
+id="menu-item-19281" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19281"><a
+href="http://electricliterature.com/category/features/">Features</a><div
+class="cb-big-menu"><div
+class="cb-articles"><div
+class="cb-featured"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Top Story</span></div><ul><li
+class="cb-article clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/"><img
+width="480" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/rallytowels-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="NFL fans" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/">Watching Ourselves Watch Football: What the rise of the sport’s guilt lit says about us</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/byard-duncan/">Byard Duncan</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/features/" title="View all posts in Features">Features</a></div></div></div></li></ul></div><div
+class="cb-recent cb-recent-fw"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Recent</span></div><ul><li
+class="cb-article-1 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/rallytowels-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="NFL fans" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/">Watching Ourselves Watch Football: What the rise of the sport’s guilt lit says about us</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/byard-duncan/">Byard Duncan</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div></div></div></li><li
+class="cb-article-2 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/jeff-vandermeer-explains-how-to-wash-a-mouse-in-the-southern-reach/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/micecrop-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Southern Reach Trilogy, mouse washing" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/jeff-vandermeer-explains-how-to-wash-a-mouse-in-the-southern-reach/">Jeff VanderMeer Explains How to Wash a Mouse in the Southern Reach</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-18">November 18, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/jeff-vandermeer-explains-how-to-wash-a-mouse-in-the-southern-reach/#comments">3</a></span></div></div></div></li><li
+class="cb-article-3 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/infographic-the-science-of-the-movie-screenplay/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/screenplayheader-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="screenplay infographic" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/infographic-the-science-of-the-movie-screenplay/">INFOGRAPHIC: The Science of the Movie Screenplay</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-17">November 17, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/infographic-the-science-of-the-movie-screenplay/#comments">3</a></span></div></div></div></li><li
+class="cb-article-4 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/science-fiction-novels-to-help-with-your-interstellar-hangover/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Interstellar2-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Interstellar" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/science-fiction-novels-to-help-with-your-interstellar-hangover/">Science Fiction Novels to Help With Your <i>Interstellar</i> Hangover</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/ryan-britt/">Ryan Britt</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-13">November 13, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/science-fiction-novels-to-help-with-your-interstellar-hangover/#comments">4</a></span></div></div></div></li><li
+class="cb-article-5 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/listen-up-philip-and-the-asshole-author/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/philip-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Listen Up Philip movie" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/listen-up-philip-and-the-asshole-author/"><em>Listen Up Philip</em> and the Asshole Author</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/halimah-marcus/">Halimah Marcus</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-13">November 13, 2014</time></div></div></div></li><li
+class="cb-article-6 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/finding-new-york-in-italo-calvinos-invisible-cities/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Manhattan-at-sunset-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="NYC sunset" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/finding-new-york-in-italo-calvinos-invisible-cities/">Finding New York in Italo Calvino’s <em>Invisible Cities</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/freddie-moore/">Freddie Moore</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-11">November 11, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/finding-new-york-in-italo-calvinos-invisible-cities/#comments">3</a></span></div></div></div></li></ul></div></div></div></li><li
+id="menu-item-19503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19503"><a
+href="http://electricliterature.com/category/books-3/">Books</a><div
+class="cb-big-menu"><div
+class="cb-articles"><div
+class="cb-featured"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Top Story</span></div><ul><li
+class="cb-article clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/"><img
+width="480" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/GRAPHIC_NOVEL_DISPLAY_back_of_back_display_5571698323-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="Graphic novels" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/">Worth 1,000 Words: Five Gateway Graphic Novels for Lit Lovers</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/linnie-greene/">Linnie Greene</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/#comments">2 Comments</a></span></div></div></div></li></ul></div><div
+class="cb-recent cb-recent-fw"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Recent</span></div><ul><li
+class="cb-article-1 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/SidewalksEL-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="SidewalksEL" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/">REVIEW: Sidewalks by Valeria Luiselli</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/kirk-wisland/">Kirk Wisland</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div></div></div></li><li
+class="cb-article-2 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/GRAPHIC_NOVEL_DISPLAY_back_of_back_display_5571698323-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Graphic novels" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/">Worth 1,000 Words: Five Gateway Graphic Novels for Lit Lovers</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/linnie-greene/">Linnie Greene</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/#comments">2</a></span></div></div></div></li><li
+class="cb-article-3 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/review-son-of-a-gun-by-justin-st-germain/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/SonofaGUnEL-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="SonofaGUnEL" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/review-son-of-a-gun-by-justin-st-germain/">REVIEW: Son of a Gun by Justin St. Germain</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/connor-ferguson/">Connor Ferguson</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div></div></div></li><li
+class="cb-article-4 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/celebrity-book-review-james-franco/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Franco-bear-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="James Franco" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/celebrity-book-review-james-franco/">CELEBRITY BOOK REVIEW: James Franco on Luke B. Goebel’s <em>Fourteen Stories, None of them are Yours</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/courtney-maum/">Courtney Maum</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div></div></div></li><li
+class="cb-article-5 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/review-i-will-love-you-for-the-rest-of-my-life-by-michael-czyzniejewski/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/IWillLoveYouEL-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="IWillLoveYouEL" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/review-i-will-love-you-for-the-rest-of-my-life-by-michael-czyzniejewski/">REVIEW: I Will Love You For the Rest of My Life by Michael Czyzniejewski</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/john-thurgood/">John Thurgood</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-17">November 17, 2014</time></div></div></div></li><li
+class="cb-article-6 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/review-does-not-love-by-james-tadd-adcox/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/DoesNotLoveEL-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="DoesNotLoveEL" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/review-does-not-love-by-james-tadd-adcox/">REVIEW: Does Not Love by James Tadd Adcox</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/paul-albano/">Paul Albano</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-15">November 15, 2014</time></div></div></div></li></ul></div></div></div></li><li
+id="menu-item-19505" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19505"><a
+href="http://electricliterature.com/category/conversations/">Conversations</a><div
+class="cb-big-menu"><div
+class="cb-articles"><div
+class="cb-featured"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Top Story</span></div><ul><li
+class="cb-article clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/"><img
+width="480" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/PenandIsaac-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="Pen &amp; Ink, Isaac Fitzgerald" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/">INTERVIEW: Isaac Fitzgerald, Editor of <em>Pen & Ink: Tattoos and the Stories Behind Them</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/michelle-king/">Michelle King</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-10">November 10, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/conversations/interviews/" title="View all posts in Interviews">Interviews</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/#comments">1 Comment</a></span></div></div></div></li></ul></div><div
+class="cb-recent cb-recent-fw"><div
+class="cb-mega-title h2"><span
+style="border-bottom-color:#4c87bf;">Recent</span></div><ul><li
+class="cb-article-1 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/nick-rombes-on-joan-didions-play-it-as-it-lays/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/NRJD-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Nicholas Rombes, Joan Didion" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/nick-rombes-on-joan-didions-play-it-as-it-lays/">Nicholas Rombes on Joan Didion&#8217;s <em>Play It As It Lays</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/colin-winnette/">Colin Winnette</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-14">November 14, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/nick-rombes-on-joan-didions-play-it-as-it-lays/#comments">3</a></span></div></div></div></li><li
+class="cb-article-2 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/PenandIsaac-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Pen &amp; Ink, Isaac Fitzgerald" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/">INTERVIEW: Isaac Fitzgerald, Editor of <em>Pen &#038; Ink: Tattoos and the Stories Behind Them</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/michelle-king/">Michelle King</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-10">November 10, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/#comments">1</a></span></div></div></div></li><li
+class="cb-article-3 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/interview-nicholas-bourbaki-author-of-if/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/10/if-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="If, Bourbaki, book cover" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/interview-nicholas-bourbaki-author-of-if/">INTERVIEW: Nicholas Bourbaki, author of <em>If</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/joseph-rositano/">Joseph Jaynes Rositano</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-08">November 8, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/interview-nicholas-bourbaki-author-of-if/#comments">1</a></span></div></div></div></li><li
+class="cb-article-4 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/luke-goebel-talks-with-lindsay-hunter/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/LukeGoebelLindsayHunter-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Luke Goebel and Lindsay Hunter" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/luke-goebel-talks-with-lindsay-hunter/">Luke Goebel Talks With Lindsay Hunter</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/luke-goebel/">Luke B. Goebel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-07">November 7, 2014</time></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/luke-goebel-talks-with-lindsay-hunter/#comments">1</a></span></div></div></div></li><li
+class="cb-article-5 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/how-alex-karpovksy-channels-kurt-vonnegut/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/AlexK-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Alex Karpovsky, Kurt Vonnegut" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/how-alex-karpovksy-channels-kurt-vonnegut/">How Alex Karpovksy Channels Kurt Vonnegut</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/ryan-britt/">Ryan Britt</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-06">November 6, 2014</time></div></div></div></li><li
+class="cb-article-6 clearfix"><div
+class="cb-mask" style="background-color:#4c87bf;"><a
+href="http://electricliterature.com/interview-michael-cunningham-and-james-naughton/"><img
+width="80" height="60" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/10/mcjn-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Michael Cunningham with James Naughton" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/interview-michael-cunningham-and-james-naughton/">INTERVIEW: Michael Cunningham and James Naughton</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/kyle-mccarthy/">Kyle McCarthy</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-04">November 4, 2014</time></div></div></div></li></ul></div></div></div></li><li
+id="menu-item-19283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19283"><a
+href="http://recommendedreading.tumblr.com/">Recommended Reading</a><div
+class="cb-links-menu"></li><li
+id="menu-item-19284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19284"><a
+href="http://electricliterature.com/shop/">Shop</a><div
+class="cb-links-menu"></li><li
+class="cb-icons"><ul><li
+class="el-icon-twitter"><a
+href="https://twitter.com/ElectricLit" target="_blank"><img
+src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/05/twitterSM.png"/></a></li><li
+class="el-icon-facebook"><a
+href="https://www.facebook.com/ELlitmag" target="_blank"><img
+src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/05/facebookSM.png"/></a></li><li
+class="cb-icon-search"><a
+href="#" title="Search" class="cb-tip-bot" data-reveal-id="cb-search-modal"><i
+class="fa fa-search"></i></a></li></ul></li></ul></div></div> </nav><div
+id="cb-top-menu" class="clearfix cb-dark-menu cb-hidden"><div
+class="wrap clearfix"> <a
+href="#" id="cb-small-menu-trigger"><i
+class="fa fa-bars"></i></a><a
+href="#" class="cb-small-menu-icons cb-small-menu-login" data-reveal-id="cb-login-modal"><i
+class="fa fa-user"></i></a><a
+href="#" title="Search" class="cb-tip-bot cb-small-menu-icons cb-small-menu-search" data-reveal-id="cb-search-modal"><i
+class="fa fa-search"></i></a><div
+id="cb-tap-detect"></div></div></div><section
+id="cb-small-menu" class="clearfix cb-dark-menu cb-sm-on"><a
+href="#" id="cb-small-menu-close"><i
+class="fa fa-times"></i></a><ul
+class="cb-small-nav"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19507"><a
+href="http://electricliterature.com/category/scuttlebutt/">Scuttlebutt</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19281"><a
+href="http://electricliterature.com/category/features/">Features</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19503"><a
+href="http://electricliterature.com/category/books-3/">Books</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19505"><a
+href="http://electricliterature.com/category/conversations/">Conversations</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19283"><a
+href="http://recommendedreading.tumblr.com/">Recommended Reading</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19284"><a
+href="http://electricliterature.com/shop/">Shop</a></li></ul> </section> <a
+href="#" id="cb-to-top"><i
+class="fa fa-long-arrow-up"></i></a> </header><div
+id="cb-content" class="wrap clearfix"><section
+id="cb-section-a" class="clearfix"><div
+class="cb-slider-b cb-module-fw cb-light clearfix"><div
+class="flexslider-2-fw clearfix"><ul
+class="slides"><li><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/"><img
+width="1200" height="520" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/rallytowels-1200x520.jpg" class="attachment-cb-1200-520 wp-post-image" alt="NFL fans" /></a><div
+class="cb-meta"><h2><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/">Watching Ourselves Watch Football: What the rise of the sport’s guilt lit says about us</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/byard-duncan/">Byard Duncan</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/features/" title="View all posts in Features">Features</a></div></div></div></li><li><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/"><img
+width="1170" height="520" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/GRAPHIC_NOVEL_DISPLAY_back_of_back_display_5571698323-1170x520.jpg" class="attachment-cb-1200-520 wp-post-image" alt="Graphic novels" /></a><div
+class="cb-meta"><h2><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/">Worth 1,000 Words: Five Gateway Graphic Novels for Lit Lovers</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/linnie-greene/">Linnie Greene</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/#comments">2 Comments</a></span></div></div></div></li></ul></div></div><div
+class="cb-grid-block cb-light clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" >Recent Posts</h2></div><div
+class="cb-grid-6 clearfix"><div
+class="cb-feature-1"><div
+class="cb-grid-img"> <a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/"><img
+width="600" height="250" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/SidewalksEL-600x250.jpg" class="attachment-cb-600-250 wp-post-image" alt="SidewalksEL" /></a></div><div
+class="cb-article-meta"><h2><a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/">REVIEW: Sidewalks by Valeria Luiselli</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/kirk-wisland/">Kirk Wisland</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a>, <a
+href="http://electricliterature.com/category/books-3/reviews/" title="View all posts in Reviews">Reviews</a></div></div></div><a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/" class="cb-link"></a></div><div
+class="cb-feature-2"><div
+class="cb-grid-img"> <a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/"><img
+width="300" height="250" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/rallytowels-300x250.jpg" class="attachment-cb-300-250 wp-post-image" alt="NFL fans" /></a></div><div
+class="cb-article-meta"><h2><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/">Watching Ourselves Watch Football: What the rise of the sport’s guilt lit says about us</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/byard-duncan/">Byard Duncan</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/features/" title="View all posts in Features">Features</a></div></div></div><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/" class="cb-link"></a></div><div
+class="cb-feature-3"><div
+class="cb-grid-img"> <a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/"><img
+width="300" height="250" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/09/sundries-300x250.jpg" class="attachment-cb-300-250 wp-post-image" alt="sundries" /></a></div><div
+class="cb-article-meta"><h2><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/">Sunday Sundries: Literary Links from Around the Web (Nov. 23rd)</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-23">November 23, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/news/" title="View all posts in News">News</a></div></div></div><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/" class="cb-link"></a></div><div
+class="cb-feature-4"><div
+class="cb-grid-img"> <a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/"><img
+width="300" height="250" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/GRAPHIC_NOVEL_DISPLAY_back_of_back_display_5571698323-300x250.jpg" class="attachment-cb-300-250 wp-post-image" alt="Graphic novels" /></a></div><div
+class="cb-article-meta"><h2><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/">Worth 1,000 Words: Five Gateway Graphic Novels for Lit Lovers</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/linnie-greene/">Linnie Greene</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/#comments">2 Comments</a></span></div></div></div><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/" class="cb-link"></a></div><div
+class="cb-feature-5"><div
+class="cb-grid-img"> <a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/"><img
+width="300" height="250" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-5.18.47-PM-300x250.png" class="attachment-cb-300-250 wp-post-image" alt="Toni Morrison and Stephen Colbert" /></a></div><div
+class="cb-article-meta"><h2><a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/">VIDEO: Toni Morrison Talks to Stephen Colbert</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/news/" title="View all posts in News">News</a>, <a
+href="http://electricliterature.com/category/scuttlebutt/" title="View all posts in Scuttlebutt">Scuttlebutt</a></div></div></div><a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/" class="cb-link"></a></div><div
+class="cb-feature-6"><div
+class="cb-grid-img"> <a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/"><img
+width="600" height="250" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/UKLG-600x250.jpg" class="attachment-cb-600-250 wp-post-image" alt="Ursula K. Le Guin" /></a></div><div
+class="cb-article-meta"><h2><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/">Watch Ursula K. Le Guin&#8217;s Amazing NBA Acceptance Speech</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/" title="View all posts in Scuttlebutt">Scuttlebutt</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/#comments">6 Comments</a></span></div></div></div><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/" class="cb-link"></a></div></div></div><div
+class="cb-a-large cb-box clearfix"><script type="text/javascript" language="JavaScript">
+
+  aj_server = 'http://litbreaker.rotator.hadj1.adjuggler.net/servlet/ajrotator/'; aj_tagver = '1.0';
+
+  aj_zone = 'litbreaker'; aj_adspot = '1487874'; aj_page = '0'; aj_dim ='1484606,1527083'; aj_ch = ''; aj_ct = ''; aj_kw = '';
+
+  aj_pv = true; aj_click = '';
+
+</script><script type="text/javascript" language="JavaScript" src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script></div><div
+class="cb-module-a cb-module-fw cb-light clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" ><a
+href="http://recommendedreading.tumblr.com/">Recommended Reading</a></h2></div><div
+class="cb-line clearfix"> <article
+class="cb-article no-1 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/where-we-must-be-by-laura-van-den-berg-recommended-by-indiana-review/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/underwater-21-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="underwater 2" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/where-we-must-be-by-laura-van-den-berg-recommended-by-indiana-review/">&#8220;Where We Must Be&#8221; by Laura van den Berg, recommended by <i>Indiana Review</i></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/ben-apatoff/">Ben Apatoff</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-19">November 19, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/recommended-reading/" title="View all posts in Recommended Reading">Recommended Reading</a></div></div><div
+class="cb-excerpt">"His hair is glossy and black, his eyelashes long and curved. I can see the teardrop shape of his cheekbones, the green...</div></div></article> <article
+class="cb-article no-2 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/rope-by-joshua-harmon-recommended-by-dzanc-books/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/8530463217_033fac8f8d_o2-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="Cropped tree" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/rope-by-joshua-harmon-recommended-by-dzanc-books/">&#8220;Rope&#8221; by Joshua Harmon, recommended by Dzanc Books</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/ben-apatoff/">Ben Apatoff</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-12">November 12, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/recommended-reading/" title="View all posts in Recommended Reading">Recommended Reading</a></div></div><div
+class="cb-excerpt">"Somewhere in the woods, the girl our brother keeps tied to a tree waits. She has waited all night, all morning, the...</div></div></article> <article
+class="cb-article no-3 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/new-moon-by-david-ryan-recommended-by-electric-literature/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/carp-2-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="carp 2" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/new-moon-by-david-ryan-recommended-by-electric-literature/">&#8220;New Moon&#8221; by David Ryan, recommended by Electric Literature</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/ben-apatoff/">Ben Apatoff</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-05">November 5, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/recommended-reading/" title="View all posts in Recommended Reading">Recommended Reading</a></div></div><div
+class="cb-excerpt">“The carp floated docile and monstrous and common, and if they’d been capable of rage, they might have pushed the...</div></div></article></div></div><div
+class="cb-module-a cb-module-fw cb-light clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" ><a
+href="http://electricliterature.com/category/scuttlebutt/">Scuttlebutt</a></h2></div><div
+class="cb-line clearfix"> <article
+class="cb-article no-1 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/09/sundries-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="sundries" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/sunday-sundries-literary-links-from-around-the-web-nov-23rd/">Sunday Sundries: Literary Links from Around the Web (Nov. 23rd)</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-23">November 23, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/news/" title="View all posts in News">News</a></div></div><div
+class="cb-excerpt">Looking for some Sunday reading? Here are some literary links from around the web that you might have missed: Neil...</div></div></article> <article
+class="cb-article no-2 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-20-at-5.18.47-PM-360x240.png" class="attachment-cb-360-240 wp-post-image" alt="Toni Morrison and Stephen Colbert" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/video-toni-morrison-talks-to-stephen-colbert/">VIDEO: Toni Morrison Talks to Stephen Colbert</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/news/" title="View all posts in News">News</a>, <a
+href="http://electricliterature.com/category/scuttlebutt/" title="View all posts in Scuttlebutt">Scuttlebutt</a></div></div><div
+class="cb-excerpt">Nobel prize winning writer and all around awesome human Toni Morrison appeared on the Colbert Report this week. She...</div></div></article> <article
+class="cb-article no-3 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/UKLG-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="Ursula K. Le Guin" /></a><div
+class="cb-media-icon"><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/"><i
+class="fa fa-play"></i></a></div></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/">Watch Ursula K. Le Guin&#8217;s Amazing NBA Acceptance Speech</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/scuttlebutt/" title="View all posts in Scuttlebutt">Scuttlebutt</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/watch-ursula-k-le-guins-amazing-nba-acceptance-speech/#comments">6 Comments</a></span></div></div><div
+class="cb-excerpt">Ursula K. Le Guin won a (well-deserved!) Medal for Distinguished Contribution to American Letters at last night's...</div></div></article></div></div><div
+class="cb-a-large cb-box clearfix"><script type="text/javascript" language="JavaScript">
+
+  aj_server = 'http://litbreaker.rotator.hadj1.adjuggler.net/servlet/ajrotator/'; aj_tagver = '1.0';
+
+  aj_zone = 'litbreaker'; aj_adspot = '1487874'; aj_page = '0'; aj_dim ='1484606,1527083'; aj_ch = ''; aj_ct = ''; aj_kw = '';
+
+  aj_pv = true; aj_click = '';
+
+</script><script type="text/javascript" language="JavaScript" src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script></div><div
+class="cb-module-a cb-module-fw cb-light clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" ><a
+href="http://electricliterature.com/category/features/">Features</a></h2></div><div
+class="cb-line clearfix"> <article
+class="cb-article no-1 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/rallytowels-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="NFL fans" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/watching-ourselves-watch-football-what-the-rise-of-the-sports-guilt-lit-says-about-us/">Watching Ourselves Watch Football: What the rise of the sport’s guilt lit says about us</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/byard-duncan/">Byard Duncan</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/features/" title="View all posts in Features">Features</a></div></div><div
+class="cb-excerpt">If you, like many modern sports fans, prefer highlight-skimming to the drudgery of actual game-watching, jump right to...</div></div></article> <article
+class="cb-article no-2 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/jeff-vandermeer-explains-how-to-wash-a-mouse-in-the-southern-reach/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/micecrop-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="Southern Reach Trilogy, mouse washing" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/jeff-vandermeer-explains-how-to-wash-a-mouse-in-the-southern-reach/">Jeff VanderMeer Explains How to Wash a Mouse in the Southern Reach</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-18">November 18, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/features/" title="View all posts in Features">Features</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/jeff-vandermeer-explains-how-to-wash-a-mouse-in-the-southern-reach/#comments">3 Comments</a></span></div></div><div
+class="cb-excerpt">Today is the release date for Area X, the hardcover omnibus of Jeff VanderMeer's best-selling Southern Reach...</div></div></article> <article
+class="cb-article no-3 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/infographic-the-science-of-the-movie-screenplay/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/screenplayheader-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="screenplay infographic" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/infographic-the-science-of-the-movie-screenplay/">INFOGRAPHIC: The Science of the Movie Screenplay</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/lincoln-michel/">Lincoln Michel</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-17">November 17, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/features/" title="View all posts in Features">Features</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/infographic-the-science-of-the-movie-screenplay/#comments">3 Comments</a></span></div></div><div
+class="cb-excerpt">If you are spending NaNoWriMo writing a screenplay instead of a novel, you'll want to check on this cool infographic on...</div></div></article></div></div><div
+class="cb-module-a cb-module-fw cb-light clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" ><a
+href="http://electricliterature.com/category/books-3/">Books</a></h2></div><div
+class="cb-line clearfix"> <article
+class="cb-article no-1 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/SidewalksEL-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="SidewalksEL" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/review-sidewalks-by-valeria-luiselli/">REVIEW: Sidewalks by Valeria Luiselli</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/kirk-wisland/">Kirk Wisland</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-24">November 24, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a>, <a
+href="http://electricliterature.com/category/books-3/reviews/" title="View all posts in Reviews">Reviews</a></div></div><div
+class="cb-excerpt">“Searching for a grave is, to some extent, like arranging to meet a stranger in a café…every person could be the...</div></div></article> <article
+class="cb-article no-2 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/GRAPHIC_NOVEL_DISPLAY_back_of_back_display_5571698323-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="Graphic novels" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/">Worth 1,000 Words: Five Gateway Graphic Novels for Lit Lovers</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/linnie-greene/">Linnie Greene</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-21">November 21, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/worth-1000-words-five-gateway-graphic-novels-for-lit-lovers/#comments">2 Comments</a></span></div></div><div
+class="cb-excerpt">I spent years of my life without graphic novels, save for the grocery store Betty &amp; Veronicas I snuck into my...</div></div></article> <article
+class="cb-article no-3 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/review-son-of-a-gun-by-justin-st-germain/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/SonofaGUnEL-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="SonofaGUnEL" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/review-son-of-a-gun-by-justin-st-germain/">REVIEW: Son of a Gun by Justin St. Germain</a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/connor-ferguson/">Connor Ferguson</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-20">November 20, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/books-3/" title="View all posts in Books">Books</a>, <a
+href="http://electricliterature.com/category/books-3/reviews/" title="View all posts in Reviews">Reviews</a></div></div><div
+class="cb-excerpt">There’s something ironic about a paperback copy of Justin St. Germain’s Son of a Gun. This not-quite-mystery is...</div></div></article></div></div><div
+class="cb-a-large cb-box clearfix"><script type="text/javascript" language="JavaScript">
+
+  aj_server = 'http://litbreaker.rotator.hadj1.adjuggler.net/servlet/ajrotator/'; aj_tagver = '1.0';
+
+  aj_zone = 'litbreaker'; aj_adspot = '1487874'; aj_page = '0'; aj_dim ='1484606,1527083'; aj_ch = ''; aj_ct = ''; aj_kw = '';
+
+  aj_pv = true; aj_click = '';
+
+</script><script type="text/javascript" language="JavaScript" src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script></div><div
+class="cb-module-a cb-module-fw cb-light clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" ><a
+href="http://electricliterature.com/category/conversations/">Conversations</a></h2></div><div
+class="cb-line clearfix"> <article
+class="cb-article no-1 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/nick-rombes-on-joan-didions-play-it-as-it-lays/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/NRJD-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="Nicholas Rombes, Joan Didion" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/nick-rombes-on-joan-didions-play-it-as-it-lays/">Nicholas Rombes on Joan Didion&#8217;s <em>Play It As It Lays</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/colin-winnette/">Colin Winnette</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-14">November 14, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/conversations/" title="View all posts in Conversations">Conversations</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/nick-rombes-on-joan-didions-play-it-as-it-lays/#comments">3 Comments</a></span></div></div><div
+class="cb-excerpt">Colin Winnette admires the writer Nicholas Rombes, so he asked Nicholas to suggest a book. Nicholas suggested Play It...</div></div></article> <article
+class="cb-article no-2 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/11/PenandIsaac-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="Pen &amp; Ink, Isaac Fitzgerald" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/">INTERVIEW: Isaac Fitzgerald, Editor of <em>Pen &#038; Ink: Tattoos and the Stories Behind Them</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/michelle-king/">Michelle King</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-10">November 10, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/conversations/interviews/" title="View all posts in Interviews">Interviews</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/interview-isaac-fitzgerald-editor-of-pen-ink-tattoos-and-the-stories-behind-them/#comments">1 Comment</a></span></div></div><div
+class="cb-excerpt">Isaac Fitzgerald, BuzzFeed Books editor, has been enamored with tattoos since he was 14. Back then, Fitzgerald was a...</div></div></article> <article
+class="cb-article no-3 clearfix" role="article"><div
+class="cb-mask" style="background:#4c87bf;"> <a
+href="http://electricliterature.com/interview-nicholas-bourbaki-author-of-if/"><img
+width="360" height="240" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/10/if-360x240.jpg" class="attachment-cb-360-240 wp-post-image" alt="If, Bourbaki, book cover" /></a></div><div
+class="cb-meta"><h2 class="h4"><a
+href="http://electricliterature.com/interview-nicholas-bourbaki-author-of-if/">INTERVIEW: Nicholas Bourbaki, author of <em>If</em></a></h2><div
+class="cb-byline"><div
+class="cb-author"><i
+class="fa fa-user"></i> <a
+href="http://electricliterature.com/author/joseph-rositano/">Joseph Jaynes Rositano</a></div><div
+class="cb-date"><i
+class="fa fa-clock-o"></i> <time
+class="updated" datetime="2014-11-08">November 8, 2014</time></div><div
+class="cb-category"><i
+class="fa fa-folder"></i> <a
+href="http://electricliterature.com/category/conversations/" title="View all posts in Conversations">Conversations</a></div><div
+class="cb-comments"><span><i
+class="fa fa-comment"></i><a
+href="http://electricliterature.com/interview-nicholas-bourbaki-author-of-if/#comments">1 Comment</a></span></div></div><div
+class="cb-excerpt">Choose Your Own Adventure books have grown up. If there was any question, Nicholas Bourbaki’s novel If (Livingston...</div></div></article></div></div></section><section
+id="cb-section-c" class="clearfix"><div
+class="cb-module-custom clearfix"><div
+class="cb-module-header" style="border-bottom-color:#4c87bf;"><h2 class="cb-module-title" ><a
+href="http://electricliterature.com/shop/">Shop</a></h2></div><div
+class="woocommerce columns-4"><ul
+class="products"><li
+class="post-19372 product type-product status-publish has-post-thumbnail first sold-individually taxable shipping-taxable purchasable product-type-simple product-cat-tchotchkes product-tag-authors product-tag-cards instock"> <a
+href="http://electricliterature.com/product/playing-cards/"><img
+width="293" height="409" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/04/literary-aces-electric-literature.gif" class="attachment-shop_catalog wp-post-image" alt="literary aces writers playing cards" /><h3>Literary Aces Playing Cards</h3> <span
+class="price  cb-font-header"><span
+class="amount">&#36;10.00</span></span></a></li><li
+class="post-19371 product type-product status-publish has-post-thumbnail sold-individually taxable shipping-taxable purchasable product-type-simple product-cat-tchotchkes instock"> <a
+href="http://electricliterature.com/product/flask/"><img
+width="300" height="300" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/04/blueflask.png" class="attachment-shop_catalog wp-post-image" alt="blueflask" /><h3>Flask</h3> <span
+class="price  cb-font-header"><span
+class="amount">&#36;20.00</span></span></a></li><li
+class="post-19362 product type-product status-publish has-post-thumbnail purchasable product-type-variable product-cat-books-2 product-tag-carson-mell product-tag-ebook-2 product-tag-novel instock"> <a
+href="http://electricliterature.com/product/saguaro-by-carson-mell/"><img
+width="180" height="284" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/04/saguaro_optimized.jpg" class="attachment-shop_catalog wp-post-image" alt="Saguaro by Carson Mell" /><h3>Saguaro by Carson Mell</h3> <span
+class="price  cb-font-header"><span
+class="amount">&#36;7.99</span></span></a></li><li
+class="post-19359 product type-product status-publish has-post-thumbnail last purchasable product-type-variable product-cat-books-2 product-tag-ebook-2 product-tag-novel product-tag-sam-pink instock"> <a
+href="http://electricliterature.com/product/rontel-by-sam-pink/"><img
+width="180" height="278" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/04/rontel-cover-optimized.jpg" class="attachment-shop_catalog wp-post-image" alt="Rontel by Sam Pink" /><h3>Rontel by Sam Pink</h3> <span
+class="price  cb-font-header"><span
+class="amount">&#36;4.99</span></span></a></li></ul></div></div></section></div><footer
+id="cb-footer" class=" wrap" role="contentinfo"><div
+id="cb-widgets" class="cb-footer-a wrap clearfix"><div
+class="cb-one cb-column clearfix"><div
+id="text-2" class="cb-footer-widget widget_text"><h3 class="cb-footer-widget-title"><span>Electric Literature</span></h3><div
+class="textwidget">Electric Literature is a non-profit dedicated to amplifying the power of storytelling through digital innovation.Our mission is to ensure that literature remains a vibrant presence in popular culture by fostering digital innovation, supporting writers, building community, and broadening the audience for literary fiction.We believe the transformative experience of reading literature fosters empathy and explores the human condition like no other art form.</div></div></div><div
+class="cb-two cb-column clearfix"><div
+id="twitter_timeline-8" class="cb-footer-widget widget_twitter_timeline"><h3 class="cb-footer-widget-title"><span>@electriclit</span></h3><a
+class="twitter-timeline" data-widget-id="342711615835234304" data-theme="dark" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-chrome="noheader nofooter transparent" data-tweet-limit="2" width="355" height="400" lang="EN">My Tweets</a></div></div><div
+class="cb-three cb-column clearfix"><div
+id="text-4" class="cb-footer-widget widget_text"><h3 class="cb-footer-widget-title"><span>Masthead</span></h3><div
+class="textwidget"><p>Site Editor: Lincoln Michel</p><p><b><em>Electric Literature</em></b></p><p>Andy Hunter<br
+/> Founder & Chairman</p><p>Halimah Marcus<br
+/> Editorial Director</p><p>Lincoln Michel<br
+/> Online Editor</p><p>Benjamin Samuel<br
+/> Editor at Large</p><p>Michael Seidlinger<br
+/> Reviews Editor</p><p>Jake Zucker<br
+/> Assistant Editor, <em>Recommended Reading</em></p><p>Ben Apatoff<br
+/> Intern</p><p>Contact us at: editors [at] electricliterature.com</p></div></div></div></div><div
+class="cb-footer-lower clearfix"><div
+class="wrap clearfix"><div
+class="cb-copyright">Copyright © 2009-2014 Electric Lit, Inc. Authors and artists hold the rights to their individual work.</div></div></div> </footer></div></div><div
+style="display:none"></div><div
+id="fb-root"></div><script>
+    				  	  (function(d, s, id) {
+    					  var js, fjs = d.getElementsByTagName(s)[0];
+    					  if (d.getElementById(id)) return;
+    					  js = d.createElement(s); js.id = id;
+                          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    						fjs.parentNode.insertBefore(js, fjs);
+    					  }(document, 'script', 'facebook-jssdk'));
+    				</script><script type="text/javascript">
+                        !function(d,s,id){
+                                var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+                                if(!d.getElementById(id)){
+                                        js=d.createElement(s);
+                                        js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+                                        fjs.parentNode.insertBefore(js,fjs);
+                                }
+                        }
+                        (document,"script","twitter-wjs");
+                </script><script type='text/javascript'>
+/* <![CDATA[ */
+var pps_options_object = {"scroll_up":""};
+/* ]]> */
+</script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/paged-post-slider/paged-post.js?ver=3.9.1'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/electricliterature.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/electricliterature.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.1.12'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/electricliterature.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.1.12'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.1.12'></script><script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script><script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Novaa'></script><script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-includes/js/comment-reply.min.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/js/jquery.flexslider-min.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/js/selectivizr-min.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/js/jquery.fs.boxer.min.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/js/jquery.ext.js?ver=3.9.1'></script><script type='text/javascript' src='http://electriclit.electricliteratu.netdna-cdn.com/wp-content/themes/valenti/library/js/cb-scripts.js?ver=2.6.0.1'></script><script src="http://stats.wp.com/e-201448.js" type="text/javascript"></script><script type="text/javascript">
+	st_go({v:'ext',j:'1:3.1.1',blog:'69066804',post:'19276',tz:'-5'});
+	var load_cmc = function(){linktracker_init(69066804,19276,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><div
+id="om-uf5xppculi-lightbox" class="optin-monster-overlay" style="display:none;"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script><style type="text/css" class="om-theme-clean-slate-styles">html div#om-uf5xppculi-lightbox * {box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}html div#om-uf5xppculi-lightbox {background:none;border:0;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;float:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale;height:auto;letter-spacing:normal;outline:none;position:static;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;width:auto;visibility:visible;overflow:visible;margin:0;padding:0;line-height:1;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none;-webkit-appearance:none;}html div#om-uf5xppculi-lightbox {background: rgb(0, 0, 0);background: rgba(0, 0, 0, .7);font-family: helvetica,arial,sans-serif;-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;line-height: 1;width: 100%;height: 100%;}html div#om-uf5xppculi-lightbox .om-clearfix {clear: both;}html div#om-uf5xppculi-lightbox .om-clearfix:after {clear: both;content: ".";display: block;height: 0;line-height: 0;overflow: auto;visibility: hidden;zoom: 1;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin {background: #fff;display: none;position: absolute;top: 50%;left: 50%;min-height: 175px;max-width: 714px;width: 100%;z-index: 734626274;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-wrap {position: relative;height: 100%;border: 7px solid #000;}html div#om-uf5xppculi-lightbox .om-close {color: #fff;font-weight: bold;position: absolute;top: -7px;right: -7px;font-size: 24px;line-height: 24px;text-decoration: none !important;font-family: Arial, sans-serif;display: block;padding: 8px 12px 2px 8px;background: #000;z-index: 1500;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-header {min-height: 30px;padding: 30px 15px 15px;width: 100%;background: #fff;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-title {font-size: 24px;color: #484848;width: 100%;margin: 0}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-content {padding: 15px;background: #fff;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-left {float: left;max-width: 410px;width: 100%;position: relative;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-tagline {font-size: 16px;line-height: 1.25;color: #484848;width: 100%;margin: 0 0 20px;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-bullets ul {padding: 0;margin: 0;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-bullets ul li { margin-left: 30px;line-height: 1.25;list-style-type: none;position: relative;font-size: 16px;color: #484848;margin-bottom: 7px;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-bullets ul li .om-arrow {width: 0;height: 0;border-top: 7px solid transparent;border-bottom: 7px solid transparent;border-left: 7px solid #ff6201;display: inline-block;vertical-align: middle;margin-right: 8px;margin-top: -1px;text-indent: -9999px;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-right {float: right;max-width: 230px;width: 100%;position: relative;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-image-container {position: relative;max-width: 230px;max-height: 195px;margin: 0 auto;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-image-container img {display: block;margin: 0 auto;text-align: center;height: auto;max-width: 100%;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-footer {background: #e9e9e9;border-top: 1px solid #bbb;padding: 30px 20px;}html div#om-uf5xppculi-lightbox label {color: #333;}html div#om-uf5xppculi-lightbox input,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-name,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-email {background-color: #fff;max-width: 225px;width: 100%;border: 1px solid #ccc;font-size: 16px;line-height: 24px;padding: 6px;overflow: hidden;outline: none;margin: 0 10px 0 0;vertical-align: middle;display: inline;}html div#om-uf5xppculi-lightbox .om-has-email #om-lightbox-clean-slate-optin-email {max-width: 460px;}html div#om-uf5xppculi-lightbox input[type=submit],html div#om-uf5xppculi-lightbox button,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-submit {background: #484848;border: 1px solid #484848;max-width: 190px;width: 100%;color: #fff;font-size: 16px;padding: 6px;line-height: 24px;text-align: center;vertical-align: middle;cursor: pointer;display: inline;margin: 0;height: 38px;}html div#om-uf5xppculi-lightbox input[type=checkbox],html div#om-uf5xppculi-lightbox input[type=radio] {-webkit-appearance: checkbox;width: auto;outline: invert none medium;padding: 0;margin: 0;}@media (max-width: 700px) {html div#om-uf5xppculi-lightbox[style] {position: absolute !important;height: 100%;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin[style] {width: 100%;position: relative;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-left,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-right,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-name,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-email,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-submit,html div#om-uf5xppculi-lightbox .om-has-email #om-lightbox-clean-slate-optin-email {float: none;width: 100%;max-width: 100%;}html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-left,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-name,html div#om-uf5xppculi-lightbox #om-lightbox-clean-slate-optin-email {margin-bottom: 15px;}}.optin-monster-success-message {font-size: 21px;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;color: #282828;font-weight: 300;text-align: center;margin: 0 auto;}.optin-monster-success-overlay .om-success-close {font-size: 32px !important;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;color: #282828 !important;font-weight: 300 !important;position: absolute !important;top: 0px !important;right: 10px !important;background: none !important;text-decoration: none !important;width: auto !important;height: auto !important;display: block !important;line-height: 32px !important;}</style><div
+id="om-lightbox-clean-slate-optin" class="om-lightbox-clean-slate om-clearfix om-theme-clean-slate "><div
+id="om-lightbox-clean-slate-optin-wrap" class="om-clearfix" data-om-action="selectable" data-om-target="#optin-monster-field-body_border" style="border-color:#1e73be"><a
+href="#" class="om-close" title="Close" style="background-color:#1e73be">&times;</a><div
+id="om-lightbox-clean-slate-header" class="om-clearfix"><div
+id="om-lightbox-clean-slate-optin-title" data-om-action="editable" data-om-field="title" style="color:#282828;font-family:Tahoma;font-size:36;font-weight:bold;font-style:normal;text-decoration:none;text-align:left;">Get a Free, Great Story Every Week</div></div><div
+id="om-lightbox-clean-slate-content" class="om-clearfix"><div
+id="om-lightbox-clean-slate-left"><div
+id="om-lightbox-clean-slate-optin-tagline" data-om-action="editable" data-om-field="tagline" style="color:#282828;font-family:PT Serif;font-size:20;font-weight:normal;font-style:normal;text-decoration:none;text-align:left;">Electric Literature&#39;s <em> Recommended Reading </em> features fiction carefully curated by literary luminaries, from Michael Cunningham to Jennifer Egan.<br
+/> <br
+/> Enter your email to receive it for free.</div><div
+id="om-lightbox-clean-slate-optin-bullets" data-om-action="editable" data-om-field="bullet"><ul
+id="om-lightbox-clean-slate-optin-bullet-list"><li><div
+class="om-arrow" style="border-left-color:#ff6201">&nbsp;</div></li></ul></div></div><div
+id="om-lightbox-clean-slate-right"><div
+id="om-lightbox-clean-slate-optin-image-container" class="om-image-container om-clearfix"><img
+class="optin-monster-image optin-monster-image-lightbox-clean-slate" src="http://electriclit.electricliteratu.netdna-cdn.com/wp-content/uploads/2014/06/small-bluebird.jpg" alt="" /></div></div></div><div
+id="om-lightbox-clean-slate-footer" class="om-clearfix om-has-email" data-om-action="selectable" data-om-target="#optin-monster-field-footer_bg" style="background-color:#1e73be;border-top-color:#bbbbbb"><input
+id="om-lightbox-clean-slate-optin-email" type="email" value="" data-om-action="selectable" data-om-target="#optin-monster-field-email_field" placeholder="Email Address" style="color:#282828;font-family:PT Serif;font-size:16;font-weight:normal;font-style:normal;text-decoration:none;text-align:left;" /><input
+id="om-lightbox-clean-slate-optin-submit" type="submit" data-om-action="selectable" data-om-target="#optin-monster-field-submit_field" value="Subscribe" style="color:#ffffff;background-color:#08a500;border-color:#08a500;font-family:PT Sans;font-size:20;font-weight:normal;font-style:normal;text-decoration:none;text-align:center;" /></div></div><p
+class="optin-monster-powered-by" style="width:100%;position:absolute;text-align:center;bottom:-35px;left:0;color:#fff;font-size:15px;line-height:15px;font-weight:700;margin:10px 0 0;">Powered by <a
+href="http://optinmonster.com/?utm_source=plugin&utm_medium=link&utm_campaign=powered-by-link" title="OptinMonster" style="color:#fff;font-weight:700;text-decoration:underline;" target="_blank">OptinMonster</a></p></div><script type="text/javascript">jQuery(document).ready(function($){WebFont.load({google: {families: ['PT+Serif%7COpen+Sans%7CPT+Sans']}});});</script></div><script type="text/javascript">var uf5xppculi_lightbox, omo = {"id":19777,"optin":"uf5xppculi-lightbox","campaign":"Recommended Reading lightbox","clones":[""],"hash":"uf5xppculi-lightbox","optin_js":"uf5xppculi_lightbox","type":"lightbox","theme":"clean-slate","cookie":60,"delay":5000,"second":0,"exit":1,"redirect":"","custom":false,"test":false,"global_cookie":0,"preview":false,"ajax":"http:\/\/electricliterature.com\/?optin-monster-ajax-route=1","mobile":false,"post_id":19276,"preloader":"http:\/\/electricliterature.com\/wp-content\/plugins\/optin-monster\/assets\/css\/images\/preloader.gif","error":"There was an error with your submission. Please try again.","ajax_error":"There was an error with the AJAX request: ","name_error":"Please enter a valid name.","email_error":"Please enter a valid email address.","success":"Thanks for subscribing! Please check your email for further instructions.","exit_sensitivity":20}; uf5xppculi_lightbox = new OptinMonster(); uf5xppculi_lightbox.init(omo);</script><!--[if lte IE 9]><script type="text/javascript">var om_ie_browser = true;</script><![endif]--><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51237042-1', 'electricliterature.com');
+  ga('send', 'pageview');
+</script></body></html>

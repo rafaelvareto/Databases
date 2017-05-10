@@ -1,0 +1,2347 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><html class="no-js gt-ie8" lang="en"><![endif]-->
+<!--[if !IE]> --><html class="no-js" lang="en"><!-- <![endif]-->
+
+
+
+
+
+<head>
+    
+
+        
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+    
+        
+        <title>Fashion, Trends, Beauty Tips & Celebrity Style Magazine | ELLE UK</title>
+<meta name="description" content="For the latest news in fashion, beauty and celebrity style, brought to you by the team at British ELLE." />
+<meta name="keywords" content="ElleUK, ElleUK.com, News, Fashion, Beauty, ElleTV, Style, StarStyle, Catwalk, Horoscopes, Competitions, In the Magazine" />
+<meta name="robots" content="index,follow,archive" />
+
+<meta name="geo.position" content="," />
+<meta name="geo.placename" content="" />
+<meta name="geo.region" content="" />
+
+
+    
+    
+        <!-- og meta A -->
+        <meta property="og:pageName" content="/homepage">
+        <meta property="og:siteHeir" content="homepage">
+        <meta property="og:type" content="homepage">
+        <meta property="og:channel" content="homepage">
+        
+        <meta property="og:title" content="homepage">
+        
+        
+        
+                <!-- end og meta -->
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+    <link rel="Shortcut icon" href="http://www.elleuk.com/assets/images/generic/icons/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="http://www.elleuk.com/assets/stylesheets/screen.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.elleuk.com/assets/stylesheets/print.css" media="print" />
+    
+    <link rel="shortcut icon" href="/assets/images/generic/icons/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.elleuk.com/feeds/rss" />
+
+    
+            <script type='text/javascript'>
+
+    var gptadslots=[];
+
+    var googletag_slot_name = '/home',
+        googletag_sctn = 'homepage',
+        googletag_subsctn = 'homepage',
+        googletag_ptype = 'homepage',
+        googletag_pageid = '-',
+        googletag_page = 'homepage';
+
+    if ('homepage' == 'gallery' || 'homepage' == 'catwalk') {
+
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        (function(){ var gads = document.createElement('script');
+            gads.async = true; gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+
+    }
+    else {
+
+        (function(){
+            var useSSL = 'https:' == document.location.protocol;
+            var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+
+    }
+
+</script>
+
+<script type="text/javascript">
+
+    var adRefreshInterval = parseInt("2");
+
+    googletag.cmd.push(function() {
+
+        // Define ad size mapping object for top_leaderboard.
+        var leaderboardMapping = googletag.sizeMapping()
+                .addSize([639,300], [[970,250], [728,90], [970,251], [728,91], [980,90]]) // Desktop & tablet
+                .addSize([0,0], [[320,50], [300,50], [320,51], [300,51]]) // Mobile
+                .build();
+
+
+        // Define ad size mapping object for top_mpu.
+        var mpuMapping = googletag.sizeMapping()
+                .addSize([0,0], [[300,600], [300,250]]) // All devices
+                .build();
+
+        // Define ad size mapping object for bottom_leaderboard
+        var bottomLeaderboardMapping = googletag.sizeMapping()
+                .addSize([639,300], [[970,250], [728,90], [970,252], [728,92]]) // Tablet landscape & desktops
+                .addSize([0,0], [[320,50], [300,50], [320,52], [300,52]]) // Mobile
+                .build();
+
+        // Define ad size mapping object for gallery_leaderboard
+        var galleryLeaderboardMapping = googletag.sizeMapping()
+                .addSize([639,300], [[728,90], [728,93]]) // Desktop & tablet
+                .addSize([0,0], [[320,50], [300,50], [320,53], [300,53]]) // Mobile
+                .build();
+
+        // Define ad size mapping object for top_1x1
+        var oneByOneMapping = googletag.sizeMapping()
+                .addSize([767,300], [[1,1]]) // Desktop & tablet
+                .build();
+
+        // Define ad size mapping object for mobile_1x1
+        var mobileOneByOneMapping = googletag.sizeMapping()
+                .addSize([0,0], [[1,1]]) // Moible
+                .build();
+
+        // Define ad size mapping object for top_gatefold
+        var topGatefoldMapping = googletag.sizeMapping()
+                .addSize([767,300], [[1920,800]]) // Desktop & tablet
+                .build();
+
+        // Define interstitial size mapping object (see ELLE-105)
+        var interstitialMapping = googletag.sizeMapping()
+                .addSize([1025,300], [[1920,1000]])
+                .addSize([0,0], [1920,1])
+                .build();
+
+      //Adslot 1 declaration - TOP LEADERBOARD
+        gptadslots[1] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[970,250],[728,90],[970,251],[728,91],[980,90]],'ad-position-1')
+        .setTargeting('pos',['top_leaderboard'])
+        .defineSizeMapping(leaderboardMapping)
+        .addService(googletag.pubads());
+
+		  //Adslot 2 declaration - TOP MPU
+        gptadslots[2] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[300,600],[300,250]],'ad-position-3')
+        .setTargeting('pos',['top_mpu'])
+        .defineSizeMapping(mpuMapping)
+        .addService(googletag.pubads());
+
+		  //Adslot 3 declaration - BOTTOM LEADERBOARD
+        gptadslots[3] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[970,250],[728,90],[970,252],[728,92]],'ad-position-4')
+        .setTargeting('pos',['bottom_leaderboard'])
+        .defineSizeMapping(bottomLeaderboardMapping)
+        .addService(googletag.pubads());
+
+		  //Adslot 5 declaration - 1x1
+        gptadslots[4] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[1,1]],'div-gpt-ad-592537999047701429-5')
+        .setTargeting('pos',['top_1x1'])
+        .defineSizeMapping(oneByOneMapping)
+        .addService(googletag.pubads());
+
+		  //Adslot 6 declaration - MOBILE 1x1
+        gptadslots[5] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[1,1]],'div-gpt-ad-592537999047701429-6')
+        .setTargeting('pos',['mobile_1x1'])
+        .defineSizeMapping(mobileOneByOneMapping)
+        .addService(googletag.pubads());
+
+		  //Adslot 7 declaration - TOP GATEFOLD
+        gptadslots[6] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[1920,800]],'gatefold-container')
+        .setTargeting('pos',['top_gatefold'])
+        .defineSizeMapping(topGatefoldMapping)
+        .addService(googletag.pubads());
+
+      //Adslot 8 declaration - INTERSTITIAL AD (see ELLE-105)
+      gptadslots[7] = googletag
+        .defineSlot('/3229/elle.hdn' + googletag_slot_name, [[1920,1000]], 'adinterstitial-responsive')
+        .setTargeting('pos',['desktop_skin'])
+        .defineSizeMapping(interstitialMapping)
+        .addService(googletag.pubads());
+
+
+		  //Adslot oop declaration
+        gptadslots[0] = googletag
+        .defineOutOfPageSlot('/3229/elle.hdn' + googletag_slot_name, 'adinterstitial')
+        .setTargeting('pos',['desktop_oop'])
+        .addService(googletag.pubads());
+
+        var currentLocation = window.location.pathname.split("/"),
+            entryURLTitle = "";
+
+        for (var i = 0; i < currentLocation.length; i++) {
+            if (currentLocation[i].trim() !== "") {
+                entryURLTitle = currentLocation[i].trim();
+            }
+        }
+
+        if (entryURLTitle = "") entryURLTitle = "-";
+
+        googletag.pubads().enableSingleRequest();
+
+        googletag.pubads()
+        .setTargeting('sctn',[googletag_sctn])
+        .setTargeting('subsctn',[googletag_subsctn])
+        .setTargeting('ptype',[googletag_ptype])
+        .setTargeting('pageid',[googletag_pageid])
+        .setTargeting('page',[googletag_page]);
+
+        var search = window.location.search;
+        var token = search.match(/\?token\=([a-zA-Z0-9]*)/i);
+
+        if(token != null) {
+            googletag.pubads().setTargeting("token", token[1]);
+        }
+
+        if ('homepage' == 'gallery' || 'homepage' == 'catwalk') {googletag.pubads().enableAsyncRendering();} else {googletag.pubads().enableSyncRendering();}
+
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+
+    });
+
+</script>
+
+<script type='text/javascript'>
+    var oop_slot = "adinterstitial",
+        gatefold_slot = "gatefold-container",
+        interstitial_desktop_slot = "adinterstitial-responsive";
+
+    googletag.cmd.push(function() {
+      googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        var id = event.slot.b.d;
+        if(id == oop_slot){
+          var iframe = $($("#"+oop_slot).find("iframe")[0]).contents().find("body").html();
+          $("body").append(iframe);
+        }
+
+        if (id == interstitial_desktop_slot) {
+          var iframe = $($("#"+interstitial_desktop_slot).find("iframe")[0]).contents().find("body").html();
+          $("body").append(iframe);
+          $("#" + interstitial_desktop_slot).hide();
+        }
+      });
+    });
+
+    function swfCallback(e) {
+      if (!e.success) hideGatefold();
+    }
+
+    var _isLoaded = false;
+
+   // $(window).load(function() {
+   //   if ($("#gatefoldFlash").length > 0) {
+   //     setTimeout(function(){$("#gatefoldFlash").startAnimation();}, 200)
+   //     _isLoaded = true;
+   //   }
+   // });
+
+    function hideGatefold() {$("#gatefold-container").hide();}
+
+    function makeGatefoldTransparent() {
+      $("#gatefold-container").css("background", "none");
+    }
+
+    function isPageLoaded() {
+      return _isLoaded;
+    }
+</script>
+
+    
+    
+            
+        <script type="text/javascript" src="//nexus.ensighten.com/hearst/mag-uk/Bootstrap.js"></script>
+    
+    <!--[if lt IE 9]>
+        <script>
+            var e = ("abbr,article,aside,audio,canvas,datalist,details," +
+            "figure,footer,header,hgroup,mark,menu,meter,nav,output," +
+            "progress,section,time,video").split(',');
+            for (var i = 0; i < e.length; i++) {document.createElement(e[i]);}
+        </script>
+    <![endif]-->
+
+    <script src="http://www.elleuk.com/assets/scripts/lib/require.js" data-main="http://www.elleuk.com/assets/scripts/app"></script>
+
+    
+
+    
+
+</head>
+<body>
+
+    <script>
+        dataLayer = [{
+
+                            'pageName':'/homepage',
+                'siteHier':'homepage',
+                'pageType':'homepage',
+                'propertyName':'luxury:elle:uk:web:desktop',
+                'channel':'homepage',
+                
+                
+                'articleTitle':'homepage',
+                
+                
+                
+                
+                        'gaAccount':'UA-17791824-11'
+        }];
+    </script>
+
+    <!-- Beginning Async AdSlot 7 for Ad unit elle.hdn  ### size: [[1920,800]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[7]]) -->
+<div id='gatefold-container'>
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {googletag.display('gatefold-container');});
+	</script>
+</div>
+<!-- End AdSlot 7 -->
+
+
+    <div id="takeover-bg"></div>
+
+    <div id="wrapper">
+        <div id="container">
+
+                        <!-- Beginning Async AdSlot 1 for Ad unit elle.hdn  ### size: [[970,250],[728,90],[970,251],[728,91],[980,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<div id="ad-position-1" class="ad-position">
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {googletag.display('ad-position-1');});
+    </script>
+</div>
+<!-- End AdSlot 1 -->
+
+            <header class="main">
+
+                                    <h1 id="site-logo"><a href="/" title="ELLEUK">ELLEUK</a></h1>
+                
+                                    <form id="search-form" method="post" action="http://www.elleuk.com/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="148" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+                    <button type="button" class="close icon">Close Search</button>
+                    <input type="text" name="keywords" id="search" placeholder="Search ELLE..." value="" size="18" maxlength="100" />
+                    <input type="submit" value="submit" class="submit">
+                    </form>
+                
+                
+    <button id="nav-icon">ELLEUK Navigation</button>
+
+    <nav role="navigation" class="main">
+        <ul>
+            
+                <li class="now-trending">
+                    <h2>
+                        <a href="/now-trending" title="Now Trending">
+                            Now Trending
+                        </a>
+                    </h2>
+                                        <div class="sub-nav">
+                        <ul>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.hearstmagazines.co.uk/elle/JES10087" >Buy the ELLE Feminism Issue now</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.hearstmagazines.co.uk/jes10078" >Collector Cover: Benedict Cumberbatch</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/subscribetoelle" >Subscribe to ELLE</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.elleuk.com/now-trending/buy-elle-whistles-fawcwett-feminism-unisex-tshirt" >This Is What A Feminist Looks Like</a>
+                                </h2>
+                            </li>
+                        
+                        </ul>
+
+                        
+
+<article class="sub-nav-featured">
+    <figure>
+        <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+                
+        <img src="http://assets.elleuk.com/thumbs/23747/cover_jan_thumb__thumbnail.jpg" alt="Kim Kardashian stars in The Confidence Issue">
+        
+                </a>
+    </figure>
+    <div class="featured-content">
+        <h3>
+            <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+                Kim Kardashian stars in The Confidence Issue
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+                    </div>
+                                    </li>
+            
+                <li class="fashion">
+                    <h2>
+                        <a href="/fashion" title="Fashion">
+                            Fashion
+                        </a>
+                    </h2>
+                                        <div class="sub-nav">
+                        <ul>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.elleuk.com/fashion" >All Fashion</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/fashion/news" >News</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/fashion/trends" >Trends</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/fashion/what-to-wear" >What To Wear</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/fashion/celebrity-style" >Celebrity Style</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/fashion/elle-fashion-cupboard" >#ELLEfashioncupboard</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/catwalk" >Catwalk</a>
+                                </h2>
+                            </li>
+                        
+                        </ul>
+
+                        
+
+<article class="sub-nav-featured">
+    <figure>
+        <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+                
+        <img src="http://assets.elleuk.com/thumbs/23747/cover_jan_thumb__thumbnail.jpg" alt="Kim Kardashian stars in The Confidence Issue">
+        
+                </a>
+    </figure>
+    <div class="featured-content">
+        <h3>
+            <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+                Kim Kardashian stars in The Confidence Issue
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+                    </div>
+                                    </li>
+            
+                <li class="street-style">
+                    <h2>
+                        <a href="/street-style" title="Street Style">
+                            Street Style
+                        </a>
+                    </h2>
+                                        <div class="sub-nav">
+                        <ul>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.elleuk.com/street-style" >All Street Style</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/street-style/what-elle-wears" >What ELLE Wears</a>
+                                </h2>
+                            </li>
+                        
+                        </ul>
+
+                        
+
+<article class="sub-nav-featured">
+    <figure>
+        <a href="/street-style/beyonce-look-of-the-day-21-november-2014" title="Look of the day: 21 November 2014">
+                
+        <img src="http://assets.elleuk.com/thumbs/23807/beyonce-out-and-about-rex-thumb__thumbnail.jpg" alt="Look of the day: 21 November 2014">
+        
+                </a>
+    </figure>
+    <div class="featured-content">
+        <h3>
+            <a href="/street-style/beyonce-look-of-the-day-21-november-2014" title="Look of the day: 21 November 2014">
+                Look of the day: 21 November 2014
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+                    </div>
+                                    </li>
+            
+                <li class="beauty">
+                    <h2>
+                        <a href="/beauty" title="Beauty">
+                            Beauty
+                        </a>
+                    </h2>
+                                        <div class="sub-nav">
+                        <ul>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.elleuk.com/beauty" >All Beauty</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/beauty/make-up" >Make-up</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/beauty/skin" >Skin</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/beauty/hair" >Hair</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/beauty/nails" >Nails</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/beauty/health-fitness" >Health & Fitness</a>
+                                </h2>
+                            </li>
+                        
+                        </ul>
+
+                        
+
+<article class="sub-nav-featured">
+    <figure>
+        <a href="/beauty/health-fitness/monday-move-anya-lahiri-3-exercise-idea-inspiration-squat-leg-lift" title="#Monday Move With Anya Lahiri: 3">
+                
+        <img src="http://assets.elleuk.com/thumbs/23834/anyamonmove__thumbnail.jpg" alt="#Monday Move With Anya Lahiri: 3">
+        
+                </a>
+    </figure>
+    <div class="featured-content">
+        <h3>
+            <a href="/beauty/health-fitness/monday-move-anya-lahiri-3-exercise-idea-inspiration-squat-leg-lift" title="#Monday Move With Anya Lahiri: 3">
+                #Monday Move With Anya Lahiri: 3
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+                    </div>
+                                    </li>
+            
+                <li class="wedding">
+                    <h2>
+                        <a href="/wedding" title="Wedding">
+                            Wedding
+                        </a>
+                    </h2>
+                                        <div class="sub-nav">
+                        <ul>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.elleuk.com/wedding" >All Wedding</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.hearstmagazines.co.uk/elle/jes10067" >Buy ELLE Wedding</a>
+                                </h2>
+                            </li>
+                        
+                        </ul>
+
+                        
+
+<article class="sub-nav-featured">
+    <figure>
+        <a href="/wedding/kate-hudson-wedding-daily-inspiration" title="Wedding Daily #127">
+                
+        <img src="http://assets.elleuk.com/thumbs/23848/zaid-affas-thumb__thumbnail.jpg" alt="Wedding Daily #127">
+        
+                </a>
+    </figure>
+    <div class="featured-content">
+        <h3>
+            <a href="/wedding/kate-hudson-wedding-daily-inspiration" title="Wedding Daily #127">
+                Wedding Daily #127
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+                    </div>
+                                    </li>
+            
+                <li class="more">
+                    <h2>
+                        <a href="/more" title="More...">
+                            More...
+                        </a>
+                    </h2>
+                                        <div class="sub-nav">
+                        <ul>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/subscribetoelle" >Subscribe</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/horoscopes" >Horoscopes</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://theclub.elleuk.com/" >ELLE Insider</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/travel" >Travel</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/more/contact-information-work-experience-internships-british-elle" >About Us</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/book-club" >Book Club</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="http://www.lookfantastic.com/elle-shop.list" >The Shop</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/more/running-club" >Running Club</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/competitions" >Win</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/elle-style-awards" >ELLE Style Awards</a>
+                                </h2>
+                            </li>
+                        
+                            <li>
+                                <h2>
+                                    <a href="/collections" >ELLE Collections</a>
+                                </h2>
+                            </li>
+                        
+                        </ul>
+
+                        
+
+<article class="sub-nav-featured">
+    <figure>
+        <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+                
+        <img src="http://assets.elleuk.com/thumbs/23747/cover_jan_thumb__thumbnail.jpg" alt="Kim Kardashian stars in The Confidence Issue">
+        
+                </a>
+    </figure>
+    <div class="featured-content">
+        <h3>
+            <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+                Kim Kardashian stars in The Confidence Issue
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+                    </div>
+                                    </li>
+            
+        </ul>
+        <a id="digital-edition" class="circle button large" href="https://itunes.apple.com/gb/app/elle-magazine-uk/id469353635?mt=8" target="_blank">
+            Download<br>Digital<br>Edition
+        </a>
+    </nav>
+
+    
+
+    <button id="search-icon">ELLEUK Search</button>
+
+
+
+
+
+
+
+                <!-- sub nav ad -->
+                <div class="ad sub-nav">
+                    
+                </div>
+            </header>
+            
+
+
+
+<div class="main">
+
+    <div class="cell-split module">
+
+        <div class="lhs">
+
+            <div class="components">
+
+                
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23747/cover_jan_thumb__thumbnail.jpg" alt="Kim Kardashian stars in The Confidence Issue" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" data-title="Kim Kardashian stars in The Confidence Issue" data-image="http://assets.elleuk.com/thumbs/23747/cover_jan_thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/buy-it">
+                        buy it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+
+                        Kim Kardashian stars in The Confidence Issue
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/now-trending/kim-kardashian-confidence-kanye-kendall-jenner" title="Kim Kardashian stars in The Confidence Issue">
+
+                    It's Kim's world. We just live in it
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/fashion/news/rihanna-puma-collaboration" title="Rihanna for Puma">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23845/rihanna-mac-cosmetics-presents-rex-thumb__thumbnail.jpg" alt="Rihanna for Puma" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/fashion/news/rihanna-puma-collaboration" data-title="Rihanna for Puma" data-image="http://assets.elleuk.com/thumbs/23845/rihanna-mac-cosmetics-presents-rex-thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/read-it">
+                        read it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/fashion/news/rihanna-puma-collaboration" title="Rihanna for Puma">
+
+                        Rihanna for Puma
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/fashion/news/rihanna-puma-collaboration" title="Rihanna for Puma">
+
+                    Are the rumors true?
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        	</div><!--end_element--->
+	<div class='components'>
+
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/wedding/kate-hudson-wedding-daily-inspiration" title="Wedding Daily #127">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23848/zaid-affas-thumb__thumbnail.jpg" alt="Wedding Daily #127" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/wedding/kate-hudson-wedding-daily-inspiration" data-title="Wedding Daily #127" data-image="http://assets.elleuk.com/thumbs/23848/zaid-affas-thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/see-it">
+                        see it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/wedding/kate-hudson-wedding-daily-inspiration" title="Wedding Daily #127">
+
+                        Wedding Daily #127
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/wedding/kate-hudson-wedding-daily-inspiration" title="Wedding Daily #127">
+
+                    Nice and easy does it
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/fashion/elle-fashion-cupboard/5-questions-with-claire-barrows-elle-fashion-cupboard" title="5 Questions with Claire Barrow">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23841/claire-barrows-thumb__thumbnail.jpg" alt="5 Questions with Claire Barrow" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/fashion/elle-fashion-cupboard/5-questions-with-claire-barrows-elle-fashion-cupboard" data-title="5 Questions with Claire Barrow" data-image="http://assets.elleuk.com/thumbs/23841/claire-barrows-thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/read-it">
+                        read it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/fashion/elle-fashion-cupboard/5-questions-with-claire-barrows-elle-fashion-cupboard" title="5 Questions with Claire Barrow">
+
+                        5 Questions with Claire Barrow
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/fashion/elle-fashion-cupboard/5-questions-with-claire-barrows-elle-fashion-cupboard" title="5 Questions with Claire Barrow">
+
+                    Get to know the designer
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        	</div>
+</div>
+
+
+                        
+                        <!-- sidebar -->
+
+<aside class="rhs">
+
+            <div class="fashion-cupboard module">
+            <div class="round-cell component">
+                <figure>
+                    
+                    
+                    <a href="http://fashioncupboard.elleuk.com/" target="_blank">
+                        <img src="https://ame-prod-elleuk-assets.s3.amazonaws.com//ame-prod-elleuk-assets/options/fashion-cupboard/22186/screen_shot_2014-11-21_at_11.03.00__thumbnail.jpg" alt="Screen shot 2014-11-21 at 11.03.00" />
+                    </a>
+                    
+                    
+                </figure>
+
+                <a class="text" href="http://fashioncupboard.elleuk.com/" target="_blank">#ELLEFASHIONCUPBOARD</a>
+            </div>
+        </div>
+    
+    
+        <!-- Beginning Async AdSlot 2 for Ad unit elle.hdn  ### size: [[300,600],[300,250]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+<style type="text/css">
+#ad-position-3 {
+z-index: 1000 !important;
+}
+</style>
+<div id="ad-position-3" class="ad-position module">
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {googletag.display('ad-position-3');});
+    </script>
+</div>
+<!-- End AdSlot 2 -->
+    
+
+    </aside>
+
+
+
+                        
+                        </div><!--ffinal--><div class='gen-columns module'>
+	<div class='components'>
+
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+<article id="instafeed"
+         class="gen-cell component "
+         data-instafeed-token="23962229.5b9e1e6.57f3042fcb5d4f79a025dd03c20a3d13"
+         data-instafeed-user="23962229"
+></article>
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        <article id="twitter" class="block-cell component " data-twitter-token="494789409909133312">
+    <div class="cell-wrapper">
+        <div class="cell-content"></div>
+        <h3>
+            <a href="https://twitter.com/ELLEUK" target="_blank">@ELLEUK</a>
+        </h3>
+    </div>
+</article>
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/beauty/health-fitness/monday-move-anya-lahiri-3-exercise-idea-inspiration-squat-leg-lift" title="#Monday Move With Anya Lahiri: 3">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23834/anyamonmove__thumbnail.jpg" alt="#Monday Move With Anya Lahiri: 3" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/beauty/health-fitness/monday-move-anya-lahiri-3-exercise-idea-inspiration-squat-leg-lift" data-title="#Monday Move With Anya Lahiri: 3" data-image="http://assets.elleuk.com/thumbs/23834/anyamonmove__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/try-it">
+                        try it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/beauty/health-fitness/monday-move-anya-lahiri-3-exercise-idea-inspiration-squat-leg-lift" title="#Monday Move With Anya Lahiri: 3">
+
+                        #Monday Move With Anya Lahiri: 3
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/beauty/health-fitness/monday-move-anya-lahiri-3-exercise-idea-inspiration-squat-leg-lift" title="#Monday Move With Anya Lahiri: 3">
+
+                    The Squat with Leg Lift
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        	</div><!--end_element--->
+	<div class='components even'>
+
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        <article class="subscribe block-cell component">
+    <div class="cell-wrapper">
+        <figure>
+            
+            <a href="http://www.hearstmagazines.co.uk/elle/VES10360" target="_blank">
+                
+                
+                <img src="https://ame-prod-elleuk-assets.s3.amazonaws.com//ame-prod-elleuk-assets/options/latest-issue/22186/subs_gift_web__thumbnail.jpg" alt="Subs gift web" />
+                
+                
+            </a>
+            <div class="sharer">
+                <button class="share icon" data-url="http://www.hearstmagazines.co.uk/elle/VES10360">Share</button>
+            </div>
+        </figure>
+        <div class="cell-content">
+            <h3>
+                <a href="http://www.hearstmagazines.co.uk/elle/VES10360" target="_blank">
+                    Subscribe
+                </a>
+            </h3>
+            <p>Become an ELLE Insider and <a href="http://www.hearstmagazines.co.uk/elle/VES10360" target="_blank">get 12 issues of ELLE magazine</a> delivered to you</p>
+        </div>
+    </div>
+</article>
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/fashion/trends/spring-summer-2015-off-the-catwalk" title="S/S 2015: Off The Catwalk">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23246/jennifer-lopez-american-music-awards-november-2014-rex-thumb__thumbnail.jpg" alt="S/S 2015: Off The Catwalk" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/fashion/trends/spring-summer-2015-off-the-catwalk" data-title="S/S 2015: Off The Catwalk" data-image="http://assets.elleuk.com/thumbs/23246/jennifer-lopez-american-music-awards-november-2014-rex-thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/see-it">
+                        see it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/fashion/trends/spring-summer-2015-off-the-catwalk" title="S/S 2015: Off The Catwalk">
+
+                        S/S 2015: Off The Catwalk
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/fashion/trends/spring-summer-2015-off-the-catwalk" title="S/S 2015: Off The Catwalk">
+
+                    Next season now
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        <article class="newsletter block-cell component">
+    <div class="cell-wrapper">
+        <hgroup>
+            <h4>Newsletter Don't miss out</h4>
+        </hgroup>
+        <div class="cell-content">
+            <p>Sign up for our weekly edit of the best fashion, beauty, travel and culture – plus exclusive offers you won't want to miss</p>
+                        <div id="coming-soon" class="solid button">
+                Coming Soon
+            </div>
+                    </div>
+    </div>
+</article>
+
+                        
+
+
+                        	</div><!--end_element--->
+	<div class='components'>
+
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/beauty/train-like-an-angel-victorias-secret-angels-prepare-2014-london-show-december-karlie-kloss-candice-adriana-fantasy-bra-body-workout" title="Train like an angel">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23720/karlie-kloss-victorias-secret-show-london-instagram-november-2014-thumb__thumbnail.jpg" alt="Train like an angel" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/beauty/train-like-an-angel-victorias-secret-angels-prepare-2014-london-show-december-karlie-kloss-candice-adriana-fantasy-bra-body-workout" data-title="Train like an angel" data-image="http://assets.elleuk.com/thumbs/23720/karlie-kloss-victorias-secret-show-london-instagram-november-2014-thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/see-it">
+                        see it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/beauty/train-like-an-angel-victorias-secret-angels-prepare-2014-london-show-december-karlie-kloss-candice-adriana-fantasy-bra-body-workout" title="Train like an angel">
+
+                        Train like an angel
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/beauty/train-like-an-angel-victorias-secret-angels-prepare-2014-london-show-december-karlie-kloss-candice-adriana-fantasy-bra-body-workout" title="Train like an angel">
+
+                    How Victoria’s Secret Angels are preparing for the 2014 show
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/street-style/beyonce-look-of-the-day-21-november-2014" title="Look of the day: 21 November 2014">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23807/beyonce-out-and-about-rex-thumb__thumbnail.jpg" alt="Look of the day: 21 November 2014" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/street-style/beyonce-look-of-the-day-21-november-2014" data-title="Look of the day: 21 November 2014" data-image="http://assets.elleuk.com/thumbs/23807/beyonce-out-and-about-rex-thumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/see-it">
+                        see it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/street-style/beyonce-look-of-the-day-21-november-2014" title="Look of the day: 21 November 2014">
+
+                        Look of the day: 21 November 2014
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/street-style/beyonce-look-of-the-day-21-november-2014" title="Look of the day: 21 November 2014">
+
+                    Bey does rock chick
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/beauty/benefit-theyre-real-liner-tutorielle-the-classic-flick" title="The Classic Flick">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23599/ckassicthumb__thumbnail.jpg" alt="The Classic Flick" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/beauty/benefit-theyre-real-liner-tutorielle-the-classic-flick" data-title="The Classic Flick" data-image="http://assets.elleuk.com/thumbs/23599/ckassicthumb__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/watch-it">
+                        watch it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/beauty/benefit-theyre-real-liner-tutorielle-the-classic-flick" title="The Classic Flick">
+
+                        The Classic Flick
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/beauty/benefit-theyre-real-liner-tutorielle-the-classic-flick" title="The Classic Flick">
+
+                    The Liner Lesson, No.1
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        	</div><!--end_element--->
+	<div class='components even'>
+
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/now-trending/december-feminism-issue-cover-emma-watson-ELLE" title="Emma Watson: cover pics and film">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23547/emma-watson-behind-the-scenes-elle-cover__thumbnail.jpg" alt="Emma Watson: cover pics and film" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/now-trending/december-feminism-issue-cover-emma-watson-ELLE" data-title="Emma Watson: cover pics and film" data-image="http://assets.elleuk.com/thumbs/23547/emma-watson-behind-the-scenes-elle-cover__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/read-it">
+                        read it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/now-trending/december-feminism-issue-cover-emma-watson-ELLE" title="Emma Watson: cover pics and film">
+
+                        Emma Watson: cover pics and film
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/now-trending/december-feminism-issue-cover-emma-watson-ELLE" title="Emma Watson: cover pics and film">
+
+                    Our most inspiring cover star ever
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/fashion/what-to-wear/elle-edits-winter-florals-trend" title="ELLE Edits: Winter Florals">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23758/karen-millen-opener__thumbnail.jpg" alt="ELLE Edits: Winter Florals" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/fashion/what-to-wear/elle-edits-winter-florals-trend" data-title="ELLE Edits: Winter Florals" data-image="http://assets.elleuk.com/thumbs/23758/karen-millen-opener__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/shop-it">
+                        shop it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/fashion/what-to-wear/elle-edits-winter-florals-trend" title="ELLE Edits: Winter Florals">
+
+                        ELLE Edits: Winter Florals
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/fashion/what-to-wear/elle-edits-winter-florals-trend" title="ELLE Edits: Winter Florals">
+
+                    Your new winter wardrobe
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+                    
+
+                    
+
+                    
+
+                        
+                        
+
+
+    <article class="gen-cell component ">
+
+        <figure class="is-fw">
+
+            <a href="/wedding/real-wedding-inspiration-photos-Fiona-Paul" title="ELLE Wedding: Fiona & Paul">
+
+                
+
+                <img src="http://assets.elleuk.com/thumbs/23806/thumb_flowers__thumbnail.jpg" alt="ELLE Wedding: Fiona & Paul" />
+
+            </a>
+
+            <div class="sharer">
+                <button class="share icon" data-url="/wedding/real-wedding-inspiration-photos-Fiona-Paul" data-title="ELLE Wedding: Fiona & Paul" data-image="http://assets.elleuk.com/thumbs/23806/thumb_flowers__thumbnail.jpg">Share</button>
+            </div>
+
+        </figure>
+
+        <div class="cell-content">
+
+            <hgroup>
+
+                <h4>
+
+                    <a href="http://www.elleuk.com/tags/see-it">
+                        see it
+                    </a>
+                </h4>
+
+                <h3>
+
+                    <a href="/wedding/real-wedding-inspiration-photos-Fiona-Paul" title="ELLE Wedding: Fiona & Paul">
+
+                        ELLE Wedding: Fiona & Paul
+
+                    </a>
+
+                </h3>
+
+            </hgroup>
+
+            <p>
+
+                <a href="/wedding/real-wedding-inspiration-photos-Fiona-Paul" title="ELLE Wedding: Fiona & Paul">
+
+                    Pastel hues abound
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </article>
+
+
+
+
+
+                        
+
+
+                        
+
+                        
+                        
+
+
+                
+
+                
+
+
+            
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+                	                <!-- Beginning Async AdSlot 3 for Ad unit elle.hdn  ### size: [[970,250],[728,90],[970,252],[728,92]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[3]]) -->
+<div id="ad-position-4" class="ad-position">
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {googletag.display('ad-position-4');});
+    </script>
+</div>
+<!-- End AdSlot 3 -->
+
+	
+	                <footer class="main">
+	                    <div id="fixed-footer-modules">
+	                        <section class="team-edit module">
+	                            <button id="team-edit-icon" data-body-toggle="team-edit">ELLE Team Edit</button>
+	                            <header>
+	                                <div class="fixed-footer-header-components">
+	                                    <section class="footer-share-buttons component">
+	                                        <h2>
+	                                            Follow us on
+	                                        </h2>
+	                                        <ul>
+	                                            <li>
+	                                                <a class="facebook" href="https://www.facebook.com/ELLEuk?ref=mfs" title="Facebook" target="_blank">
+	                                                    Facebook
+	                                                </a>
+	                                            </li>
+	                                            <li>
+	                                                <a class="twitter" href="https://twitter.com/ELLEUK" title="Twitter" target="_blank">
+	                                                    Twitter
+	                                                </a>
+	                                            </li>
+	                                            <li>
+	                                                <a class="google" href="https://plus.google.com/107692992357427945380/posts" title="Google+1" target="_blank">
+	                                                    Google+1
+	                                                </a>
+	                                            </li>
+	                                            <li>
+	                                                <a class="pinterest" href="http://pinterest.com/ellemag/" title="Pinterest" target="_blank">
+	                                                    Pinterest
+	                                                </a>
+	                                            </li>
+	                                            <li>
+	                                                <a class="instagram" href="http://instagram.com/elleuk/" title="Instagram" target="_blank">
+	                                                    Instagram
+	                                                </a>
+	                                            </li>
+	                                        </ul>
+	                                    </section>
+	                                    <h4>ELLE Team Edit</h4>
+	                                </div>
+	                            </header>
+	                            <div class="components">
+	                                
+
+<article class="component">
+    <figure>
+        <a href="/fashion/news/exclusive-victorias-secret-casting-video-2014" title="Exclusive: Victoria&#8217;s Secret Casting Video">
+                            
+                <img src="http://assets.elleuk.com/thumbs/23796/barbra-fialho-2-victorias-secret-november-2014-instagram__large__thumbnail.jpg" alt="Exclusive: Victoria&#8217;s Secret Casting Video" width="50" />
+                
+                    </a>
+    </figure>
+
+    <div class="team-edit-content">
+        <h3>
+            <a href="/fashion/news/exclusive-victorias-secret-casting-video-2014" title="Exclusive: Victoria&#8217;s Secret Casting Video">
+                Exclusive: Victoria&#8217;s Secret Casting Video
+            </a>
+        </h3>
+    </div>
+</article>
+
+<article class="component">
+    <figure>
+        <a href="/beauty/makeup/christmas-beauty-gift-guide" title="Christmas Beauty Gift Guide">
+                            
+                <img src="http://assets.elleuk.com/thumbs/17356/1325877717-christmas-beauty-gift-guide__thumbnail.jpg" alt="Christmas Beauty Gift Guide" width="50" />
+                
+                    </a>
+    </figure>
+
+    <div class="team-edit-content">
+        <h3>
+            <a href="/beauty/makeup/christmas-beauty-gift-guide" title="Christmas Beauty Gift Guide">
+                Christmas Beauty Gift Guide
+            </a>
+        </h3>
+    </div>
+</article>
+
+<article class="component">
+    <figure>
+        <a href="/street-style/celebrities-wearing-burberry-blanket-poncho-coats-spring-summer-2015" title="Everybody&#8217;s wearing&#8230; The Burberry blanket coat">
+                            
+                <img src="http://assets.elleuk.com/thumbs/23778/_rosie-huntington-whiteley-wearing-a-burberry-monogrammed-poncho-in-la,-november-11th-2014-thumb__thumbnail.jpg" alt="Everybody&#8217;s wearing&#8230; The Burberry blanket coat" width="50" />
+                
+                    </a>
+    </figure>
+
+    <div class="team-edit-content">
+        <h3>
+            <a href="/street-style/celebrities-wearing-burberry-blanket-poncho-coats-spring-summer-2015" title="Everybody&#8217;s wearing&#8230; The Burberry blanket coat">
+                Everybody&#8217;s wearing&#8230; The Burberry blanket coat
+            </a>
+        </h3>
+    </div>
+</article>
+
+<article class="component">
+    <figure>
+        <a href="/now-trending/elle-inspire-100-women-empower-victoria-beckham-angelina-jolie-malala-emma-watson" title="ELLE Inspire 100">
+                            
+                <img src="http://assets.elleuk.com/thumbs/23399/screen_shot_2014-11-18_at_18.02.12__thumbnail.jpg" alt="ELLE Inspire 100" width="50" />
+                
+                    </a>
+    </figure>
+
+    <div class="team-edit-content">
+        <h3>
+            <a href="/now-trending/elle-inspire-100-women-empower-victoria-beckham-angelina-jolie-malala-emma-watson" title="ELLE Inspire 100">
+                ELLE Inspire 100
+            </a>
+        </h3>
+    </div>
+</article>
+
+<article class="component">
+    <figure>
+        <a href="/now-trending/benedict-cumberbatch-read-the-full-cover-interview" title="Benedict Cumberbatch: Read the full cover interview">
+                            
+                <img src="http://assets.elleuk.com/thumbs/23544/benedictcoverthumbnail__thumbnail.jpg" alt="Benedict Cumberbatch: Read the full cover interview" width="50" />
+                
+                    </a>
+    </figure>
+
+    <div class="team-edit-content">
+        <h3>
+            <a href="/now-trending/benedict-cumberbatch-read-the-full-cover-interview" title="Benedict Cumberbatch: Read the full cover interview">
+                Benedict Cumberbatch: Read the full cover interview
+            </a>
+        </h3>
+    </div>
+</article>
+
+
+
+	                            </div>
+	                        </section>
+	                    </div>
+	                    <div class="footer-site-links module">
+	                        <div class="publisher-logo">
+	                            <a href="http://www.hearst.co.uk/" title="Hearst Magazines UK">
+	                                <img src="http://www.elleuk.com/assets/images/hearst-logo.png" alt="Hearst Magazines UK" />
+	                            </a>
+	                        </div>
+	                        <ul class="footer-links">
+	                            
+	                                <li class="">
+	                                    <a href="http://www.elleuk.com/more/contact-information-work-experience-internships-british-elle" >
+	                                        Contact
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://www.hearst.co.uk/magazines/Data-protection.html" >
+	                                        Privacy
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://www.hearst.co.uk/magazines/Terms-and-Conditions.html" >
+	                                        Terms & Conditions
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://www.hearst.co.uk/cookie-policy" >
+	                                        Cookie Policy
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://www.hearst.co.uk/" >
+	                                        Advertising
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://www.hearst.co.uk/hearst-magazines-uk-complaints-procedure" >
+	                                        Complaints
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://www.elleuk.com/site-map" >
+	                                        Site Map
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                                <li class="">
+	                                    <a href="http://empowering.hearst.co.uk/" >
+	                                        Hearst Empowering Women
+	                                    </a>
+	                                    	                                </li>
+	                            
+	                        </ul>
+	                    </div>
+	
+	                    <div class="footer-copyright module is-centered">
+	                        <small>&copy; Hearst Magazines UK 2014 is the trading name of the National Magazine Company Ltd, 72 Broadwick Street, London, W1F 9EP. Registered in England 112955. All rights reserved.<br>ELLE, PART OF THE HEARST UK FASHION & BEAUTY NETWORK
+</small>
+	                    </div>
+	
+	                </footer>
+	
+	                <button id="touch-area">Close Mobile Navigation</button>
+	
+	            </div>
+	        </div>
+	
+	        <div class="preloader">Loading...</div>
+	
+	        <!-- Beginning Async AdSlot oop for Ad unit elle.hdn  ### size:  -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
+<div id="adinterstitial" class="ad-position">
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {googletag.display('adinterstitial');});
+    </script>
+</div>
+<!-- End AdSlot oop -->
+
+<!-- Beginning Async AdSlot 8 for Ad unit elle.hdn  ### size: [[1920,1000]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[7]) -->
+<div id="adinterstitial-responsive" class="ad-position">
+  <script type='text/javascript'>
+    googletag.cmd.push(function() {googletag.display('adinterstitial-responsive');});
+  </script>
+</div>
+<!-- End AdSlot 8 -->
+
+	
+	        <!-- Beginning Async AdSlot 5 for Ad unit elle.hdn  ### size: [[1,1]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[5]]) -->
+<div id='div-gpt-ad-592537999047701429-5'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {googletag.display('div-gpt-ad-592537999047701429-5');});
+    </script>
+</div>
+<!-- End AdSlot 5 -->
+
+	
+	        
+	
+	        <div id="signup" class="modal">
+    <header>
+        <h2>
+            <a href="/">
+                Newsletter <span>signup</span>
+            </a>
+        </h2>
+        <button class="modal-close">X</button>
+    </header>
+    <div id="register" class="modal-content">
+        <div class="modal-col">
+            <div class="inner-content">
+                
+                    <figure class="modal-img">
+                        <img src="http://www.elleuk.com/assets/images/generic/newsletter/preview.jpg" alt="Preview" />
+                    </figure>
+                    <a class="modal-cta" href="" target="_blank" title="Preview Newsletter">Preview Newsletter</a>
+                
+            </div>
+            <div class="is-hidden mobile-portrait mobile-mid">
+                <p>From street style to skincare, don't miss our weekly update on the best in fashion, beauty, travel and culture.</p>
+            </div>
+        </div>
+        <form class="modal-col" method="post" action="/newsletter" id="newsletter-signup-form" novalidate="novalidate" target="_blank">
+            <div class="form-break">
+                <label for="email">Enter your email address:</label>
+                <input type="email" name="Email" id="email" placeholder=""/>
+                <small class="error" style="display:none;"></small>
+                <label class="checkbox" for="terms-contact-internal">
+                    <input type="checkbox" name="TermsContactInternal" id="terms-contact-internal" />
+                    Please tick if you would prefer not to receive news & special offers from Hearst Magazines UK, publisher of Buzz.
+                </label>
+                <label class="checkbox" for="terms-contact-external">
+                    <input type="checkbox" name="TermsContactExternal" id="terms-contact-external" />
+                    Please tick if you would prefer not to receive news & special offers from selected partners of Hearst Magazines UK
+                </label>
+            </div>
+            <small>
+                By clicking 'Sign up' you agree to our <a href="http://www.hearst.co.uk/magazines/Terms-and-Conditions.html" title="Terms &amp; Conditions" target="_blank">Terms & Conditions</a> and <a href="http://www.hearst.co.uk/magazines/Data-protection.html" title="Privacy Policy" target="_blank">Privacy Policy</a>.
+            </small>
+            <input type="submit" name="submit" value="Sign up >" title="Sign up" id="newsletter-signup-submit" />
+            
+        </form>
+    </div>
+    <div id="confirmation" class="modal-content">
+        <h2>Nearly there...</h2>
+        <p>To complete the sign up process, please click on the link in the email<br/> we just sent to <span class="your_email">me@email.co.uk</span>.</p>
+        <h3>Can't find the email?</h3>
+        <p>Please give it 5 - 10 minutes or check your spam folder</p>
+    </div>
+</div>
+<button id="modal-overlay" class="overlay">Close modal</button>
+	
+	        
+        
+        
+    </body>
+</html>
+

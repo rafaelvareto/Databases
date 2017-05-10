@@ -1,0 +1,860 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+
+<head>
+
+	<title>Rock The Frolic &#8211; Live | Love | Frolic  &raquo; Page not found </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+	<link rel="stylesheet" href="http://www.rockthefrolic.com/wp-content/themes/rockthefrolic/style.css" type="text/css" media="screen" />
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.rockthefrolic.com/feed/" />
+
+	<link rel="pingback" href="http://www.rockthefrolic.com/xmlrpc.php" />
+
+		<link rel='archives' title='August 2013' href='http://www.rockthefrolic.com/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://www.rockthefrolic.com/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://www.rockthefrolic.com/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://www.rockthefrolic.com/2013/05/' />
+	<link rel='archives' title='April 2013' href='http://www.rockthefrolic.com/2013/04/' />
+	<link rel='archives' title='March 2013' href='http://www.rockthefrolic.com/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://www.rockthefrolic.com/2013/02/' />
+
+	<link rel='stylesheet' id='cnss_css-css'  href='http://www.rockthefrolic.com/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.rockthefrolic.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-advanced-rp-css-css'  href='http://www.rockthefrolic.com/wp-content/plugins/advanced-recent-posts-widget/css/advanced-recent-posts-widget.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mr_social_sharing-css'  href='http://www.rockthefrolic.com/wp-content/plugins/social-sharing-toolkit/style_2.1.1.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.rockthefrolic.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.rockthefrolic.com/wp-content/plugins/easy-social-icons/js/cnss.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.rockthefrolic.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.rockthefrolic.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+	
+
+	<!---Favicon-image-->
+
+		<link rel="shortcut icon" href="http://www.rockthefrolic.com/wp-content/themes/rockthefrolic/images/fav/favicon.ico" type="image/vnd.microsoft.icon"/>
+
+		<link rel="icon" href="http://www.rockthefrolic.com/wp-content/themes/rockthefrolic/images/fav/favicon.ico" type="image/x-ico"/>
+
+	<!---Favicon-image-->
+
+	
+
+	<!--Add Other CSS files here-->
+
+	<script type="text/javascript">var switchTo5x=false;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "1e66cdf0-222c-486f-8899-aa173df934d7"});</script>
+
+	<!--Add Other CSS files here-->
+
+	
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+	<!--Add JavaScript & jQuery files here-->
+
+	<script type="text/javascript" src="http://www.rockthefrolic.com/wp-content/themes/rockthefrolic/js/slider.js" ></script>
+
+	<script>
+		jQuery(document).ready(function(){
+		jQuery('#slider > .previous').click(function(e){
+	             	e.preventDefault;
+					setTimeout('previous()',0);
+					
+	            });
+			jQuery("#slider > a.next").click(function(e){				
+				e.precentDefault;
+				clearTimeout(timeout);
+				setTimeout('slidenext()',0);
+				
+			});
+		});
+	</script>
+
+	<!--Add JavaScript & jQuery files here--> 
+
+</head>
+
+<body class="error404">
+
+
+
+<!-- #Header Area -->
+
+
+
+<div id="header-area" class="clearfix">
+
+	<div id="header-top" ></div>
+
+	<div class="wrapper clearfix">
+
+
+		<div id="header">
+
+			
+
+			<!-- Top Head Section -->
+
+			<div id="top-head" class="clearfix">
+
+			
+			
+				<div class="left-section">
+
+					<!-- #logo -->
+
+						<a id="logo" href="http://www.rockthefrolic.com" title="Rock The Frolic &#8211; Live | Love | Frolic" style="display:block;"><img src="http://www.rockthefrolic.com/wp-content/themes/rockthefrolic/images/logo.png" /></a> 
+
+					<!-- #logo -->
+
+
+
+				</div>
+
+				
+
+				<div class="right-section">
+
+					<!-- right top section-->
+					<div class="right-top-section">
+						<div class="clearfix">
+							<div class="left_align text-style"><div id="hiimage"></div></div>
+							<div class=" left_align nav">
+							<!--	<ul>
+									<li><a href="#">Join us </a></li>
+									<li><a href="#">login</a></li>
+								</ul>-->
+							</div> 
+							<div id="search-area" class="left_align"><!-- #search -->
+
+<div id="search">
+
+<form method="get" id="searchform" action="http://www.rockthefrolic.com/">
+
+    <input type="text" value="search " name="s" id="searchbox" onfocus="this.value=''" class="searchinput"/>
+
+    <input type="submit" class="submitbutton" value="Go" />
+
+</form>
+
+</div>
+
+<!-- #search -->
+
+</div>
+
+							<div id="social-logo" class="left_align">
+						
+							<li id="text-10" class="widget-container widget_text">			<div class="textwidget"><div class="clearfix">
+<div class="social-logo-btn"><a href="http://www.facebook.com/rockthefrolic"><img src="http://rockthefrolic.com/wp-content/uploads/2013/01/fb.png" /></a></div>
+<div class="social-logo-btn"><a href="http://www.twitter.com/rockthefrolic"><img src="http://rockthefrolic.com/wp-content/uploads/2013/01/tweeter.png" /></a></div>
+<div class="social-logo-btn"><a href="http://rockthefrolic.com/?feed=rss"><img src="http://rockthefrolic.com/wp-content/uploads/2013/01/rss_02_02.png" /></a></div>
+</div></div>
+		</li>							</div>
+						</div>
+			
+					</div>
+					<!-- right top section-->
+					
+					<!-- right bottom section -->
+
+					<div class="right-bottom-section">
+
+						<li id="text-8" class="widget-container widget_text">			<div class="textwidget"><div id="news-letter"><div class="wpcf7" id="wpcf7-f42-w1-o1"><form action="/wp-content/uploads/2013/02/ben-affleck.jpg#wpcf7-f42-w1-o1" method="post" class="wpcf7-form">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="42" />
+<input type="hidden" name="_wpcf7_version" value="3.3.2" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f42-w1-o1" />
+<input type="hidden" name="_wpnonce" value="83412c57f8" />
+</div>
+<p><span class="wpcf7-form-control-wrap email-295"><input type="text" name="email-295" value="" id="mail_id" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email wpcf7-use-title-as-watermark" size="40" title="Enter your email address" /></span><input type="submit" value="submit" id="submit-mail" class="wpcf7-form-control  wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div>
+		</li>						
+					
+					</div>
+
+					<!-- right bottom section -->
+
+			</div>
+
+				
+
+			</div>
+
+			<!-- Top Head Section -->
+			
+
+		</div>
+
+	</div>
+
+	<div class="seprator"></div>
+	<!-- Hedaer Navigation  -->
+
+	<div class="wrapper clearfix">
+		<div id="access" role="navigation" class="clearfix">
+
+			<div class="menu-header"><ul id="menu-header_menu" class="menu"><li id="menu-item-117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117"><a href="http://www.rockthefrolic.com/category/sexlove/">sex+love</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116"><a href="http://www.rockthefrolic.com/category/relationship/">relationships</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113"><a href="http://www.rockthefrolic.com/category/beautybody/">beauty+body</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114"><a href="http://www.rockthefrolic.com/category/celeb/">celebs</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="http://www.rockthefrolic.com/category/lifestyle/">lifestyle</a></li>
+</ul></div>
+		</div>
+	</div>
+
+
+	<!-- Hedaer Navigation  -->
+
+	<div class="seprator"></div>
+
+	<div id="banner"><li id="text-2" class="widget-container widget_text">			<div class="textwidget"><div style="text-align:center"><a href="http://www.facebook.com/rockthefrolic" title="Like Us On Facebok" target="_blank"><img src="http://www.rockthefrolic.com/wp-content/uploads/2013/02/like-us-on-FB.jpg"></div>
+</div>
+		</li></div>		
+
+	<div class="seprator"></div>
+
+
+</div>
+
+
+
+<!-- #Header Area -->
+
+<!-- #Container Area -->
+<div id="container" class="clearfix">
+	<div class="wrapper clearfix">
+		<!------ Content ------>
+		<div id="content">
+			<h2 class="center">Error 404 - Not Found</h2>
+		</div>
+		<!------ Content ------>
+		
+		<!----- Sider-bar ----->
+		<div id="sider-bar"> 
+				
+	<!-- #primary .widget-area -->
+	<div id="primary" class="widget-area" role="complementary">
+		<ul class="xoxo">
+		
+			<li id="text-3" class="widget-container widget_text">			<div class="textwidget"><div  style="margin-bottom:50px;"><a href="http://www.jaeger.co.uk/" title="Like Us On Facebok" target="_blank"><img src="http://www.rockthefrolic.com/wp-content/uploads/2013/02/300x250-Ads-Jaeger.jpg"></div></div>
+		</li><li id="text-7" class="widget-container widget_text">			<div class="textwidget"><div class="recentpost-title"><img src="http://rockthefrolic.com/wp-content/uploads/2013/01/hottest-stuff.png"/></div></div>
+		</li><li id="advanced-recent-posts-2" class="widget-container advanced_recent_posts_widget"><h3 class="widget-title"></h3><ul>
+
+
+
+			<li class="recent-post-item">
+
+
+
+			
+
+
+					
+                
+				<div class="post-entry">
+
+				
+					
+					
+
+					<a href="http://www.rockthefrolic.com/gaga-in-a-thong-cyrus-super-skanky-timberlake-oh-so-sexy/" title="Gaga in a Thong, Cyrus Super Skanky &amp; Timberlake Oh So Sexy">
+
+
+
+					<img src="http://www.rockthefrolic.com/wp-content/plugins/advanced-recent-posts-widget/timthumb/thumb.php?src=http://www.rockthefrolic.com/wp-content/uploads/2013/08/GagaCyrus.jpg&h=73&w=124&z=0" alt="Gaga in a Thong, Cyrus Super Skanky &amp; Timberlake Oh So Sexy" width="124" height="73" />
+
+
+
+					</a>
+
+
+
+				
+
+
+
+
+
+
+			
+
+
+
+				
+
+					<a  href="http://www.rockthefrolic.com/gaga-in-a-thong-cyrus-super-skanky-timberlake-oh-so-sexy/" rel="bookmark" title="Permanent link to Gaga in a Thong, Cyrus Super Skanky &amp; Timberlake Oh So Sexy" class="post-title">Gaga in a Thong, Cyrus Super Skanky &#038; Timberlake Oh So Sexy</a>
+
+
+				
+                
+				<p>Once again, the MTV VMA's certainly didn't disappoint </p>
+
+
+
+				
+			  </div>
+
+				
+
+
+
+
+				
+
+
+			</li>
+
+
+
+		
+
+
+			<li class="recent-post-item">
+
+
+
+			
+
+
+					
+                
+				<div class="post-entry">
+
+				
+					
+					
+
+					<a href="http://www.rockthefrolic.com/in-dubai-gold-is-a-fat-girls-best-friend/" title="In Dubai, Gold is a Fat Girl&#8217;s Best Friend">
+
+
+
+					<img src="http://www.rockthefrolic.com/wp-content/plugins/advanced-recent-posts-widget/timthumb/thumb.php?src=http://www.rockthefrolic.com/wp-content/uploads/2013/08/17223438_m.jpg&h=73&w=124&z=0" alt="In Dubai, Gold is a Fat Girl&#8217;s Best Friend" width="124" height="73" />
+
+
+
+					</a>
+
+
+
+				
+
+
+
+
+
+
+			
+
+
+
+				
+
+					<a  href="http://www.rockthefrolic.com/in-dubai-gold-is-a-fat-girls-best-friend/" rel="bookmark" title="Permanent link to In Dubai, Gold is a Fat Girl&#8217;s Best Friend" class="post-title">In Dubai, Gold is a Fat Girl&#8217;s Best Friend</a>
+
+
+				
+                
+				<p>Wouldn't you like to be paid in gold to lose weight? </p>
+
+
+
+				
+			  </div>
+
+				
+
+
+
+
+				
+
+
+			</li>
+
+
+
+		
+
+
+			<li class="recent-post-item">
+
+
+
+			
+
+
+					
+                
+				<div class="post-entry">
+
+				
+					
+					
+
+					<a href="http://www.rockthefrolic.com/lululemon-see-through-yoga-pants-dog-vs-pussy/" title="Lululemon See-through Yoga Pants: Dog vs. Pussy">
+
+
+
+					<img src="http://www.rockthefrolic.com/wp-content/plugins/advanced-recent-posts-widget/timthumb/thumb.php?src=http://www.rockthefrolic.com/wp-content/uploads/2013/07/Lululemon-SeeThroughPants.jpg&h=73&w=124&z=0" alt="Lululemon See-through Yoga Pants: Dog vs. Pussy" width="124" height="73" />
+
+
+
+					</a>
+
+
+
+				
+
+
+
+
+
+
+			
+
+
+
+				
+
+					<a  href="http://www.rockthefrolic.com/lululemon-see-through-yoga-pants-dog-vs-pussy/" rel="bookmark" title="Permanent link to Lululemon See-through Yoga Pants: Dog vs. Pussy" class="post-title">Lululemon See-through Yoga Pants: Dog vs. Pussy</a>
+
+
+				
+                
+				<p>Uh, Oh!  Better not bend over </p>
+
+
+
+				
+			  </div>
+
+				
+
+
+
+
+				
+
+
+			</li>
+
+
+
+		
+
+
+			<li class="recent-post-item">
+
+
+
+			
+
+
+					
+                
+				<div class="post-entry">
+
+				
+					
+					
+
+					<a href="http://www.rockthefrolic.com/save-yourself-a-wrinkle-or-two/" title="Save Yourself a Wrinkle or Two">
+
+
+
+					<img src="http://www.rockthefrolic.com/wp-content/plugins/advanced-recent-posts-widget/timthumb/thumb.php?src=http://www.rockthefrolic.com/wp-content/uploads/2013/07/Sunscreen-Prevents-Wrinkles.jpg&h=73&w=124&z=0" alt="Save Yourself a Wrinkle or Two" width="124" height="73" />
+
+
+
+					</a>
+
+
+
+				
+
+
+
+
+
+
+			
+
+
+
+				
+
+					<a  href="http://www.rockthefrolic.com/save-yourself-a-wrinkle-or-two/" rel="bookmark" title="Permanent link to Save Yourself a Wrinkle or Two" class="post-title">Save Yourself a Wrinkle or Two</a>
+
+
+				
+                
+				<p>The little thing you can do that makes a huge difference </p>
+
+
+
+				
+			  </div>
+
+				
+
+
+
+
+				
+
+
+			</li>
+
+
+
+		
+
+
+			<li class="recent-post-item">
+
+
+
+			
+
+
+					
+                
+				<div class="post-entry">
+
+				
+					
+					
+
+					<a href="http://www.rockthefrolic.com/6-sexy-ways-to-celebrate-the-4th-of-july/" title="6 Sexy Ways to Celebrate the 4th of July">
+
+
+
+					<img src="http://www.rockthefrolic.com/wp-content/plugins/advanced-recent-posts-widget/timthumb/thumb.php?src=http://www.rockthefrolic.com/wp-content/uploads/2013/07/4thofJuly.jpg&h=73&w=124&z=0" alt="6 Sexy Ways to Celebrate the 4th of July" width="124" height="73" />
+
+
+
+					</a>
+
+
+
+				
+
+
+
+
+
+
+			
+
+
+
+				
+
+					<a  href="http://www.rockthefrolic.com/6-sexy-ways-to-celebrate-the-4th-of-july/" rel="bookmark" title="Permanent link to 6 Sexy Ways to Celebrate the 4th of July" class="post-title">6 Sexy Ways to Celebrate the 4th of July</a>
+
+
+				
+                
+				<p>Make sure you have an amazing Independence Day by following these tips </p>
+
+
+
+				
+			  </div>
+
+				
+
+
+
+
+				
+
+
+			</li>
+
+
+
+		</ul>
+</li><li id="text-4" class="widget-container widget_text">			<div class="textwidget"><div class="heading"><img src="http://rockthefrolic.com/wp-content/uploads/2013/01/first-date.png"/></div>
+<div style="color:#d60093;font-family:HelveticaNeueLTStd-Bd;font-size:25px;">Hot. Hellish. Hilarious.</div>
+<div class="text" >Sexy, sweating, nervous or nasty, everyone has a first date they'll never forget.  We want to hear about yours. Dish the dirt now.  </div>
+<div class="wpcf7" id="wpcf7-f35-w2-o1"><form action="/wp-content/uploads/2013/02/ben-affleck.jpg#wpcf7-f35-w2-o1" method="post" class="wpcf7-form">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="35" />
+<input type="hidden" name="_wpcf7_version" value="3.3.2" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f35-w2-o1" />
+<input type="hidden" name="_wpnonce" value="3c12a3d7f1" />
+</div>
+<p><span class="wpcf7-form-control-wrap text-718"><input type="text" name="text-718" value="" id="name" class="wpcf7-form-control wpcf7-text wpcf7-use-title-as-watermark" size="40" title="Enter your name" /></span><br />
+<span class="wpcf7-form-control-wrap email-178"><input type="text" name="email-178" value="" id="mail" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email wpcf7-use-title-as-watermark" size="40" title="Enter your email address" /></span><br />
+<span class="wpcf7-form-control-wrap textarea-512"><textarea name="textarea-512" id="message" class="wpcf7-form-control  wpcf7-textarea wpcf7-use-title-as-watermark" cols="40" rows="10" title="Enter your text"></textarea></span><br />
+<input type="submit" value="submit" id="submit-btn" class="wpcf7-form-control  wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</li><li id="text-5" class="widget-container widget_text">			<div class="textwidget"><div  style="margin-bottom:50px;text-align: center;"><img src="http://rockthefrolic.com/wp-content/uploads/2013/02/DoYouFrolic1.jpg"/></div></div>
+		</li><li id="text-6" class="widget-container widget_text">			<div class="textwidget"><div class="heading-write_forus"><img src="http://rockthefrolic.com/wp-content/uploads/2013/01/focus.png" /></div>
+<div style="color:#d60093;font-family:HelveticaNeueLTStd-Bd;font-size:25px;">Have a juicy story?</div>
+<div class="text" >Just like your BFF, we want to know all your juiciest, steamiest, funniest and most intimate details.  Misery loves company, but so does embarrassment! So tell us your fun, romantic, sexy, bawdy, and yes, embarrassing tales.  </div>
+<div class="wpcf7" id="wpcf7-f35-w3-o1"><form action="/wp-content/uploads/2013/02/ben-affleck.jpg#wpcf7-f35-w3-o1" method="post" class="wpcf7-form">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="35" />
+<input type="hidden" name="_wpcf7_version" value="3.3.2" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f35-w3-o1" />
+<input type="hidden" name="_wpnonce" value="3c12a3d7f1" />
+</div>
+<p><span class="wpcf7-form-control-wrap text-718"><input type="text" name="text-718" value="" id="name" class="wpcf7-form-control wpcf7-text wpcf7-use-title-as-watermark" size="40" title="Enter your name" /></span><br />
+<span class="wpcf7-form-control-wrap email-178"><input type="text" name="email-178" value="" id="mail" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email wpcf7-use-title-as-watermark" size="40" title="Enter your email address" /></span><br />
+<span class="wpcf7-form-control-wrap textarea-512"><textarea name="textarea-512" id="message" class="wpcf7-form-control  wpcf7-textarea wpcf7-use-title-as-watermark" cols="40" rows="10" title="Enter your text"></textarea></span><br />
+<input type="submit" value="submit" id="submit-btn" class="wpcf7-form-control  wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</li>		
+		</ul>
+	</div>
+	<!-- #primary .widget-area -->
+
+	<!-- #secondary .widget-area -->
+	<div id="secondary" class="widget-area" role="complementary">
+		<ul class="xoxo">
+					</ul>
+	</div>
+	<!-- #secondary .widget-area -->
+		</div>
+		<!----- Sider-bar ----->
+	</div>
+</div>
+<!-- #Container Area -->
+<!-- #Footer Area -->
+
+<div id="footer-area">
+
+
+
+	<div class="wrapper">
+
+		
+
+		<div id="footer" class="page">
+
+		
+
+			<div id="foot-sidebar" class="clearfix">
+				<ul>
+					<li id="categoryposts-2" class="widget-container widget_categoryposts"><h3 class="widget-title"><a href="http://www.rockthefrolic.com/category/sexlove/">sex+love</a></h3><ul>
+		<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/the-best-place-to-meet-a-man/" rel="bookmark" title="Permanent link to The Best Place to Meet a Man">The Best Place to Meet a Man</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/generate-good-karma-say-im-too-old-for-you/" rel="bookmark" title="Permanent link to Generate Good Karma: Say &#8220;I&#8217;m Too Old For You&#8221;">Generate Good Karma: Say &#8220;I&#8217;m Too Old For You&#8221;</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/staying-in-trojan-lubricants-make-your-relationship-sexier/" rel="bookmark" title="Permanent link to Staying In? Trojan Lubricants Make Your Relationship Sexier">Staying In? Trojan Lubricants Make Your Relationship Sexier</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/durex-fundawear-vibrating-panties/" rel="bookmark" title="Permanent link to Durex Fundawear Vibrating Panties">Durex Fundawear Vibrating Panties</a>
+			
+			
+						
+						
+					</li>
+	</ul>
+</li><li id="categoryposts-3" class="widget-container widget_categoryposts"><h3 class="widget-title"><a href="http://www.rockthefrolic.com/category/relationship/">relationships</a></h3><ul>
+		<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/how-to-dump-someone/" rel="bookmark" title="Permanent link to How to Dump Someone">How to Dump Someone</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/how-to-forget-your-ex-when-your-good-relationship-ends/" rel="bookmark" title="Permanent link to How to Forget Your Ex When Your Good Relationship Ends">How to Forget Your Ex When Your Good Relationship Ends</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/cheating-husband-billboard-good-idea/" rel="bookmark" title="Permanent link to Cheating Husband Billboard &#8212; Good Idea?">Cheating Husband Billboard &#8212; Good Idea?</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/dating-a-fart-guy-not-your-type/" rel="bookmark" title="Permanent link to Dating a Fart Guy Not Your Type?">Dating a Fart Guy Not Your Type?</a>
+			
+			
+						
+						
+					</li>
+	</ul>
+</li><li id="categoryposts-4" class="widget-container widget_categoryposts"><h3 class="widget-title"><a href="http://www.rockthefrolic.com/category/beautybody/">beauty+body</a></h3><ul>
+		<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/in-dubai-gold-is-a-fat-girls-best-friend/" rel="bookmark" title="Permanent link to In Dubai, Gold is a Fat Girl&#8217;s Best Friend">In Dubai, Gold is a Fat Girl&#8217;s Best Friend</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/lululemon-see-through-yoga-pants-dog-vs-pussy/" rel="bookmark" title="Permanent link to Lululemon See-through Yoga Pants: Dog vs. Pussy">Lululemon See-through Yoga Pants: Dog vs. Pussy</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/save-yourself-a-wrinkle-or-two/" rel="bookmark" title="Permanent link to Save Yourself a Wrinkle or Two">Save Yourself a Wrinkle or Two</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/heyyyyy-sexy-bearded-lady/" rel="bookmark" title="Permanent link to Heyyyyy, Sexy Bearded Lady">Heyyyyy, Sexy Bearded Lady</a>
+			
+			
+						
+						
+					</li>
+	</ul>
+</li><li id="categoryposts-5" class="widget-container widget_categoryposts"><h3 class="widget-title"><a href="http://www.rockthefrolic.com/category/celeb/">celebs</a></h3><ul>
+		<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/gaga-in-a-thong-cyrus-super-skanky-timberlake-oh-so-sexy/" rel="bookmark" title="Permanent link to Gaga in a Thong, Cyrus Super Skanky &amp; Timberlake Oh So Sexy">Gaga in a Thong, Cyrus Super Skanky &#038; Timberlake Oh So Sexy</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/johnny-depp-hot-at-50/" rel="bookmark" title="Permanent link to Johnny Depp &#8212; Hot at 50">Johnny Depp &#8212; Hot at 50</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/is-brad-pitt-the-perfect-man/" rel="bookmark" title="Permanent link to Is Brad Pitt the Perfect Man?">Is Brad Pitt the Perfect Man?</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/karl-lagerfeld-condoms-hold-your-horses/" rel="bookmark" title="Permanent link to Karl Lagerfeld Condoms?  Hold Your Horses…">Karl Lagerfeld Condoms?  Hold Your Horses…</a>
+			
+			
+						
+						
+					</li>
+	</ul>
+</li><li id="categoryposts-6" class="widget-container widget_categoryposts"><h3 class="widget-title"><a href="http://www.rockthefrolic.com/category/lifestyle/">lifestyle</a></h3><ul>
+		<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/6-sexy-ways-to-celebrate-the-4th-of-july/" rel="bookmark" title="Permanent link to 6 Sexy Ways to Celebrate the 4th of July">6 Sexy Ways to Celebrate the 4th of July</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/wearing-high-heels-is-sexy-but/" rel="bookmark" title="Permanent link to Wearing High Heels is Sexy, But…">Wearing High Heels is Sexy, But…</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/mother-daughter-duos-do-you-love-yours/" rel="bookmark" title="Permanent link to Mother-Daughter Duos&#8211;Do You Love Yours?">Mother-Daughter Duos&#8211;Do You Love Yours?</a>
+			
+			
+						
+						
+					</li>
+			<li class="cat-post-item">
+			<a class="post-title" href="http://www.rockthefrolic.com/guy-clothes-should-be-manly-foxtails-arent/" rel="bookmark" title="Permanent link to Guy Clothes Should Be Manly &#8212; Foxtails Aren&#8217;t">Guy Clothes Should Be Manly &#8212; Foxtails Aren&#8217;t</a>
+			
+			
+						
+						
+					</li>
+	</ul>
+</li><li id="text-11" class="widget-container widget_text"><h3 class="widget-title">rock the frolic</h3>			<div class="textwidget"><ul>
+<li><a href="/about-us/">About Us</a></li>
+<li><a href="/disclaimer/ ">Disclaimer</a></li>
+<li><a href="/terms_conditions/ ">Terms & Conditions</a></li>
+<li><a href="/privacy-policy/">Privacy Policy</a></li>
+<li><a href="/write-for-us/">Write For Us</a></li>
+</ul></div>
+		</li>				</ul>
+
+			</div>
+
+			
+
+			<div id="site-info">Copyright &copy; 2012 Rock the Frolic Media. All rights reserved.</div>
+
+			
+
+		</div>
+
+		
+
+	</div>
+
+
+
+</div>
+
+
+
+<!-- #Footer Area -->
+
+
+
+<script language="javascript" type="text/javascript">var kpg_cell="N";var kpg_nrci_image="http://www.rockthefrolic.com/wp-content/plugins/no-right-click-images-plugin/not.gif";var kpg_nrci_extra="N";var kpg_nrci_drag="Y";</script>
+<script language="javascript" type="text/javascript" src="http://www.rockthefrolic.com/wp-content/plugins/no-right-click-images-plugin/no-right-click-images.js"></script>
+<script type='text/javascript' src='http://www.rockthefrolic.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.rockthefrolic.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.rockthefrolic.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.rockthefrolic.com/wp-content/plugins/social-sharing-toolkit/script_2.1.1.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.rockthefrolic.com/wp-content/plugins/social-sharing-toolkit/includes/buttons/button.googleplus.js?ver=3.5.1'></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38559475-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+
+</html>

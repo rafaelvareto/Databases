@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<link rel="icon" href="http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/favicon.ico?pjmv=1.000014" />
+<link rel="apple-touch-icon" href="http://pjmedia-new.pjmedia.netdna-cdn.com/static-content/images/pjm-images/apple-touch-icon.png">      
+<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+  <title>PJ Lifestyle  &raquo; Page not found</title>
+  <link rel="alternate" type="application/rss+xml" title="PJ Lifestyle RSS Feed" href="http://feeds.feedburner.com/pj-lifestyle" />
+<link rel="pingback" href="http://pjmedia.com/lifestyle/xmlrpc.php" />
+<link rel='stylesheet' id='style-css'  href='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/style.css?pjmv=1.000014' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/wp-includes/js/jquery/jquery.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/wp-includes/js/jquery/jquery-migrate.min.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/js/header.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://cdn.optimizely.com/js/695572306.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://p.jwpcdn.com/6/8/jwplayer.js?pjmv=1.000014'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pjmedia.com/lifestyle/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pjmedia.com/lifestyle/wp-includes/wlwmanifest.xml" /> 
+<script language='javascript'>top.CDN_URL='http://pjmedia-new.pjmedia.netdna-cdn.com';</script><script type="text/javascript" src="http://pjmedia-new.pjmedia.netdna-cdn.com/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<script type="text/javascript">jwplayer.key='E7IDErrvh/XCvOSHYcSGGR4X8GlUhI4KOvFtFsUWBWg=';jwplayer.defaults = { "ph": 2 };</script>    <script id="facebook-marketing-pixel">(function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+      _fbq.push(['addPixelId', '1407195616210839']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript>
+    <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1407195616210839&amp;ev=PixelInitialized" />
+    </noscript>
+        <style>
+    iframe[name='google_conversion_frame'] 
+    { 
+      height: 0 !important;
+      width: 0 !important; 
+      line-height: 0 !important; 
+      font-size: 0 !important;
+      margin-top: -13px;
+      float: left;
+    }
+    </style>
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+    Remarketing tags may not be associated with personally identifiable 
+    information or placed on pages related to sensitive categories. See more 
+    information and instructions on how to setup the tag on: 
+    http://google.com/ads/remarketingsetup
+    --------------------------------------------------->
+    <script type="text/javascript" id="google-remarketing">
+    /* <![CDATA[ */
+    var google_conversion_id = 1004341976;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004341976/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+    </noscript>
+    	<!-- Start Facebook Opengraph -->
+	<meta property="fb:app_id" content="149848758413844" />
+	<meta property="og:site_name" content="PJ Lifestyle"/>
+		<meta property="og:type" content="website"/>
+	<meta property="og:title" content="PJ Media"/>
+	<meta property="og:url" content="http://pjmedia.com"/>
+	<meta property="og:image" content="http://pjmedia-new.pjmedia.netdna-cdn.com/pjm_fb_icon_v2.png"/>
+	<!-- End Facebook Opengraph -->
+	   
+
+<script language='javascript'>
+var ssoTokenCookieName = "pjssocsrf";
+var cacheCookieName = "pjssocache";
+
+function ssoAccount(){ PJTV.SingleSignOn.openDialog('http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php?cmd=login&ssor=http%3A%2F%2Fpjmedia.com%2Flifestyle%2Ffiles%2F2013%2F08%2FbradPitt.jpg&branded-site-id=12&random=48869231'); }
+function ssoLogin() { PJTV.SingleSignOn.openDialog('http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php?cmd=login&ssor=http%3A%2F%2Fpjmedia.com%2Flifestyle%2Ffiles%2F2013%2F08%2FbradPitt.jpg&branded-site-id=12&random=322499098'); }
+function ssoLogout(){ PJTV.SingleSignOn.openDialog('http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php?cmd=logout&ssor=http%3A%2F%2Fpjmedia.com%2Flifestyle%2Ffiles%2F2013%2F08%2FbradPitt.jpg&random=894107351'); }
+function ssoRegister() { PJTV.SingleSignOn.openDialog('http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php?cmd=register&ssor=http%3A%2F%2Fpjmedia.com%2Flifestyle%2Ffiles%2F2013%2F08%2FbradPitt.jpg&branded-site-id=12&random=1489701737&source=loginbar'); }
+
+var oldS = null;
+if($) { oldS = $; }
+</script>
+
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/js/jquery-1.8-latest.min.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/js/modernizr.custom.08717.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/js/polyfiller.js?pjmv=1.000014'></script>
+
+<script type='text/javascript'>
+jQuerySSO = $.noConflict(true);
+if( oldS != null ){ $ = oldS; }
+else if( jQuery ) { $ = jQuery; }
+else              { $ = jQuerySSO;}
+</script>
+
+  <link rel="stylesheet" type="text/css" href="http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/css/pjinterop.css?pjmv=1.000014" />
+  <script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/js/pjinterop.js?pjmv=1.000014'></script>
+  
+<script language='javascript'>
+if (PJInterop.CookieCache.cookieExists(cacheCookieName) && !PJInterop.CookieCache.cookieExists(ssoTokenCookieName)) {
+  $.post('/plugins/pjinteropplugin/pjinteropplugin.php?cmd=csrf', null, function(response) {
+	});
+}
+
+if (navigator 
+&&  navigator.userAgent 
+&&  navigator.userAgent != null) {
+  var strUserAgent = navigator.userAgent.toLowerCase();
+  if (strUserAgent.match(/(iphone|ipod|android|ipad)/)) {
+    document.write('<link rel="stylesheet" type="text/css" href="http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/css/common-comment-iphone.css?pjmv=1.000014" />');
+    document.write('<link rel="stylesheet" type="text/css" href="http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/plugins/pjinteropplugin/css/singlesignon-dialog-iphone.css?pjmv=1.000014" />');
+  }
+}
+
+PJInterop.CookieCache.initialize("pjssocache", "http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php", "DELETE", "pjsso");
+try {
+  var expires = localStorage.getItem("pjsso-expires");
+  if( !expires || expires == "DELETE") {
+    expires = "0";
+  }
+  PJInterop.CookieCache.localStorageToCookie("pjssorefresh", expires, false);
+  PJInterop.CookieCache.localStorageToCookie("pjssocache", expires, false);
+  PJInterop.CookieCache.localStorageToCookie("pjssoexpires", expires, false);
+  PJInterop.CookieCache.localStorageToCookie("pjssopending", expires, false);
+  PJInterop.CookieCache.localStorageToCookie("pjssoadmin", expires, false);
+  PJInterop.CookieCache.localStorageToCookie("pjssonocache", expires, false);
+  PJInterop.CookieCache.localStorageToCookie("pjsso", expires, true);
+}
+catch(e){}
+
+PJInterop.CookieCache.bind();
+
+
+$(document).ready(function() {
+  PJTV.SingleSignOn.initialize('be47a93a9914b67043f53240a034e821d9a56d4feeae7685f1e7db443d13233d', 
+    'http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php', 
+    'http://www.pjtv.com', 
+    '12',
+    {
+  "test": "",
+  "comments": "&utm_source=pjmcomment&utm_medium=pjmwebsite&utm_term=registration&utm_content=registration&utm_campaign=registration"
+},
+    -1);
+});
+
+window.fbAsyncInit = function() {
+  FB._https = true; 
+  FB.init({
+  appId  : '',
+  status : true, // check login status
+  cookie : true, // enable cookies to allow the server to access the session
+  xfbml  : true, // parse XFBML
+  oauth  : true  // use oauth 2.0
+  });
+};
+
+</script><!-- Vipers Video Quicktags v6.5.0 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+<!--[if lte IE 6]>
+<style type="text/css" media="screen">
+    div#container {
+        width:expression(((document.compatMode && document.compatMode=='CSS1Compat') ? document.documentElement.clientWidth : document.body.clientWidth) < 1090 ? "1090px" : "auto");
+        }
+</style>
+<![endif]-->
+
+<!--[if lte IE 6]>
+<style type="text/css" media="screen">
+    div#content {
+        width:expression(((document.compatMode && document.compatMode=='CSS1Compat') ? document.documentElement.clientWidth : document.body.clientWidth) < 700 ? "700px" : "auto");
+        }
+</style>
+<![endif]-->
+		<script type='text/javascript'>
+		googletag.cmd.push(function() {
+		googletag.defineSlot('/1011927/PJM_300_by_250_house', [300, 250], 'div-gpt-ad-1381265307268-1').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_160_by_600_middle', [160, 600], 'div-gpt-ad-1347323895031-0').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_160_by_600_top', [160, 600], 'div-gpt-ad-1347323895031-1').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_300_by_125_text', [300, 125], 'div-gpt-ad-1347323895031-2').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_300_by_250_bottom', [300, 250], 'div-gpt-ad-1347323895031-3').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_300_by_250_middle', [300, 250], 'div-gpt-ad-1347323895031-4').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_300_by_250_top', [300, 250], 'div-gpt-ad-1347323895031-5').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_728_by_90_middle', [728, 90], 'div-gpt-ad-1347323895031-6').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_728_by_90_text', [728, 90], 'div-gpt-ad-1347323895031-7').addService(googletag.pubads());
+		googletag.defineSlot('/1011927/PJM_728_by_90_top', [728, 90], 'div-gpt-ad-1347323895031-8').addService(googletag.pubads());
+					googletag.defineSlot('/1011927/PJM_text_internal_pages', [325, 150], 'div-gpt-ad-1328107626061-9').addService(googletag.pubads());			
+			googletag.pubads().enableSingleRequest();
+		googletag.pubads().setTargeting("Section", "lifestyle");
+		googletag.pubads().setTargeting("blogname", "PJ_Lifestyle");
+		googletag.pubads().setTargeting("blog", "lifestyle");
+		googletag.enableServices();
+		});
+		</script></head>
+<body id="pjmedia_main" class="error404 Lifestyle">
+<div id="main-wrapper">
+<div id="container">
+	<div id="header">
+		<div id="header-inside">
+			<h1><a href="http://pjmedia.com" title="PJ Media">PJ Media</a></h1>
+			<div class="ad">
+				<!-- PJM_728_by_90_top -->
+<div id='div-gpt-ad-1347323895031-8' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1347323895031-8'); });
+</script>
+</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div id="access" role="navigation">
+		<div class="menu-nav-container">
+			<div class="menu"><ul id="menu-main" class="nav"><li id="menu-item-127378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-127378"><a href="http://pjmedia.com/">Home<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-127380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-127380"><a href="http://pjmedia.com/columnists/">Columnists<br /><span class="nav-subtitle"></span></a>
+<ul class='children'><div class="submenu-inner">
+	<li id="menu-item-128191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128191"><a title="Rule of Law" href="/jchristianadams/">J. Christian Adams<br /><span class="nav-subtitle">Rule of Law</span></a></li>
+	<li id="menu-item-127381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127381"><a title="EdDriscoll.com" href="/eddriscoll/">Ed Driscoll<br /><span class="nav-subtitle">EdDriscoll.com</span></a></li>
+	<li id="menu-item-127382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127382"><a title="Belmont Club" href="/richardfernandez/">Richard Fernandez<br /><span class="nav-subtitle">Belmont Club</span></a></li>
+	<li id="menu-item-127383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127383"><a title="Vodkapundit" href="/vodkapundit/">Stephen Green<br /><span class="nav-subtitle">Vodkapundit</span></a></li>
+	<li id="menu-item-127520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127520"><a title="Works and Days" href="/victordavishanson/">Victor Davis Hanson<br /><span class="nav-subtitle">Works and Days</span></a></li>
+	<li id="menu-item-179928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179928"><a title="The Yellow Ribbon Project" href="http://pjmedia.com/yellowribbonproject">Bridget Johnson<br /><span class="nav-subtitle">The Yellow Ribbon Project</span></a></li>
+	<li id="menu-item-127384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127384"><a title="Roger&#8217;s Rules" href="/rogerkimball/">Roger Kimball<br /><span class="nav-subtitle">Roger&#8217;s Rules</span></a></li>
+	<li id="menu-item-127385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127385"><a title="Klavan on Culture" href="/andrewklavan/">Andrew Klavan<br /><span class="nav-subtitle">Klavan on Culture</span></a></li>
+	<li id="menu-item-127386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127386"><a title="Faster, Please!" href="/michaelledeen/">Michael Ledeen<br /><span class="nav-subtitle">Faster, Please!</span></a></li>
+	<li id="menu-item-141040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141040"><a title="Ordered Liberty" href="/andrewmccarthy/">Andrew McCarthy<br /><span class="nav-subtitle">Ordered Liberty</span></a></li>
+	<li id="menu-item-142327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142327"><a title="Say No To Socialism" href="/mihaipacepa/">Ion Mihai Pacepa<br /><span class="nav-subtitle">Say No To Socialism</span></a></li>
+	<li id="menu-item-127387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127387"><a title="Ron Radosh" href="/ronradosh/">Ron Radosh<br /><span class="nav-subtitle">Ron Radosh</span></a></li>
+	<li id="menu-item-127388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127388"><a title="The Rosett Report" href="/claudiarosett/">Claudia Rosett<br /><span class="nav-subtitle">The Rosett Report</span></a></li>
+	<li id="menu-item-127389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127389"><a title="Rubin Reports" href="/barryrubin/">Barry Rubin<br /><span class="nav-subtitle">Rubin Reports</span></a></li>
+	<li id="menu-item-127390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127390"><a title="Roger L. Simon" href="/rogerlsimon/">Roger L. Simon<br /><span class="nav-subtitle">Roger L. Simon</span></a></li>
+	<li id="menu-item-135994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135994"><a title="Dr. Helen" href="/drhelen/">Dr. Helen Smith<br /><span class="nav-subtitle">Dr. Helen</span></a></li>
+	<li id="menu-item-127391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127391"><a title="David P. Goldman" href="/spengler/">Spengler<br /><span class="nav-subtitle">David P. Goldman</span></a></li>
+	<li id="menu-item-178332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178332"><a title="Self-Evident" href="/davidsteinberg/">David Steinberg<br /><span class="nav-subtitle">Self-Evident</span></a></li>
+	<li id="menu-item-140144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-140144"><a title="Janine Turner" href="http://pjmedia.com/blog/author/janineturner/">Janine Turner<br /><span class="nav-subtitle">Janine Turner</span></a></li>
+	<li id="menu-item-143352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143352"><a title="Unexamined Premises" href="/michaelwalsh/">Michael Walsh<br /><span class="nav-subtitle">Unexamined Premises</span></a></li>
+	<li id="menu-item-127393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127393"><a title="Zombie" href="/zombie/">Zombie<br /><span class="nav-subtitle">Zombie</span></a></li>
+
+</div></ul></li>
+<li id="menu-item-127394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127394"><a href="http://pjmedia.com/tatler/">PJ Tatler<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-127395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127395"><a href="http://pjmedia.com/lifestyle/">PJ Lifestyle<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-181773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181773"><a href="http://grid.pjmedia.com/?utm_source=PJMnavbar&amp;utm_medium=link&amp;utm_campaign=Grid">The Grid<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-127396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127396"><a href="http://pjtv.com">PJTV<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-127447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127447"><a href="http://instapundit.com">Instapundit<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-178843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178843"><a href="http://www.pjtv.com/?cmd=mpg&amp;mpid=505&amp;utm_source=pjmediatoplink&amp;utm_medium=pjmedia&amp;utm_campaign=Freedom%20Academy">Freedom Academy<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-178844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178844"><a href="http://www.pjtv.com/?cmd=mpg&amp;mpid=633&amp;utm_source=pjmediatoplink&amp;utm_medium=pjmedia&amp;utm_campaign=Freedom%20Academy%20Book%20Club#section=recommended-reading">Book Club<br /><span class="nav-subtitle"></span></a></li>
+<li id="menu-item-178845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178845"><a href="http://www.pjtv.com/?cmd=store&amp;utm_source=pjmediatoplink&amp;utm_medium=website&amp;utm_campaign=PJSTORE">PJ Store<br /><span class="nav-subtitle"></span></a></li>
+</ul></div>		</div>
+		<div class="searcharea"> 
+	<form method="get" id="searchform" action="http://pjmedia.com/lifestyle/">
+		<input type="text" value="" name="s" id="s" class="searchinput" />
+		<input type="image" name="submit" src="http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/searchbutton.gif?pjmv=1.000014" class="searchbutton" />
+		<input type="hidden" name="search_sortby" value="date" />
+	</form>
+</div>
+	</div><!-- #access tesst -->
+<div class="clearingfix"><div id="socex">
+	<div class="sign-up pjsso-bind" style="display:none" id="pjsso-logged-in" data-pjsso-bind="block,email">
+		<span><a href="#" id="pjsso-logged-in-as" class="pjsso-bind" data-pjsso-bind="onClick,profileURL,val,email" onClick="void(0);">&nbsp;</a></span><span class="divider">|</span>
+		<span><a href="#" class="pjsso-bind" data-pjsso-bind="onClick,profileURL" onClick="void(0);">My Account</a></span><span class="divider">|</span>
+		<span><a href="#"  onClick="PJTV.SingleSignOn.openDialog('http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php?cmd=logout&ssor=http%3A%2F%2Fpjmedia.com%2Flifestyle%2Ffiles%2F2013%2F08%2FbradPitt.jpg&random=1889676346');">Sign Out</a></span>
+	</div>
+  	<div id="pjsso-log-in" class="sign-up pjsso-bind register" style="display:none" data-pjsso-bind="block,!email">
+		<div class="registration"><div id="get-newsletter" class="text">Get the Newsletter by</div> <a class="fbreg" href="#" onclick="PJTV.SingleSignOn.connectWithFacebook('login', true);" title="Connect Using Facebook">&nbsp;</a> <div class="text" id="or">OR</div><form id="register-form"><input id="register-email" name="register-email" type="text" value="" placeholder="Email Address"><input type="button" class="register" onclick="PJTV.SingleSignOn.register('register-form');" value="Register"></form></div>
+		<div class="login"><a class="signin" href="#" onClick="PJTV.SingleSignOn.openDialog('http://pjmedia.com/lifestyle/plugins/pjinteropplugin/pjinteropplugin.php?cmd=login&ssor=http%3A%2F%2Fpjmedia.com%2Flifestyle%2Ffiles%2F2013%2F08%2FbradPitt.jpg&branded-site-id=12&random=324507496');">Sign In</a></div>
+	</div>
+	  	<div id="social">
+		<div class="icons">
+    <div style='margin-right:10px;top:2px;position:relative;' >    <div class="addthis_toolbox addthis_default_style addthis_16x16_style" addthis:url="http://pjmedia.com/lifestyle" addthis:title="PJ Lifestyle">
+      <a class="addthis_button_facebook"></a>
+      <a class="addthis_button_twitter"></a>
+      <a class="addthis_pinterest_share"></a>
+      <a class="addthis_button_email"></a>
+      <a class="addthis_button_more"></a>
+    </div>
+    </div>
+			<!--<div class="facebook"><div class="fb-like" data-href="http://pjmedia.com/lifestyle" data-width="100px" data-layout="button_count" data-action="like" data-colorscheme="light" data-show-faces="false" data-share="true"></div></div>-->
+			<div class="twitter"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=PJMedia_com&show_count=false" style="width:65px; height:20px;"></iframe></div>
+			<!--<div class="gplus"><g:plusone size="medium" annotation="none" href="http://pjmedia.com"></g:plusone></div>-->
+			<div class="itunes" id="appleInfo"  title="Get PJ Media on your Apple device" ><a href="http://itunes.apple.com/us/app/pj-media-mobile/id499961897" target="_blank"><img class="trigger" src="http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/apple_logo.png?pjmv=1.000014" border="0" /></a></div>
+		</div>
+		<span class="popup">Get PJ Media on your Apple</span>
+	</div>
+<script type='text/javascript'>
+PJInterop.CookieCache.bind();
+</script>
+	</div>
+	<div id="wrapper-container" class="clearingfix">
+<style>
+.content-404
+{
+  background:url('http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/404-background-obama.png?pjmv=1.000014');
+  height:871px;
+  background-color:transparent;
+}
+.content-404 #facebook-button, 
+.content-404 #twitter-button
+{
+  display:block;
+  position:relative;
+  left:71px;
+  cursor:pointer;
+}
+.content-404 #facebook-button
+{
+  background:url('http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/404-facebook-button.png?pjmv=1.000014');
+  height:29px;
+  width:377px;
+  top:570px;
+}
+.content-404 #twitter-button
+{
+  background:url('http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/404-twitter-button.png?pjmv=1.000014');
+  top:580px;
+  width:265px;
+  height:28px;
+}
+.content-404 #home-button, 
+.content-404 #contact-button
+{
+  display:inline-block;
+  position:relative;
+  top:630px;
+  height:44px;
+  width:161px;
+  cursor:pointer;
+}
+.content-404 #home-button
+{
+  background:url('http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/404-home-button.png?pjmv=1.000014');
+  left:71px;
+}
+.content-404 #contact-button
+{
+  background:url('http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/images/404-contact-button.png?pjmv=1.000014');
+  left:79px;
+}
+</style>
+<div id="content" class="content-404">
+  <a href="http://www.facebook.com/PJMedia" id="facebook-button"></a>
+  <a href="http://twitter.com/pjmedia_com" id="twitter-button"></a>
+  <a href="/" id="home-button"></a>
+  <a href="/contact-us/" id="contact-button"></a>
+</div>
+<div class="clear"></div>
+	</div><!-- #wrapper-container -->
+<div id="footer">
+<p><a href="/">Home</a> | <a href="/about-us/">About Us</a> | <a href="/press/media/">Media</a> | <a href="/advertising/">Advertising</a> | <a href="/contact-us/?dept=tips">Tips For PJM</a> | <a href="/pjm-archive/">Archive</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-of-service/">Terms of Service</a> | <a href="/pj-media-faq/">FAQ</a> | <a href="/contact-us/">Contact Us</a><!-- |  <a href="#">Unsubscribe</a> --></p>
+<p>Copyright © 2005-2012 PJ Media   All Rights Reserved. v1.000014 
+web4</p>
+</div>
+</div>
+</div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "http://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=149848758413844&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-543feba2323a8df5" async="async"></script>
+              <script type='text/javascript'>
+    PJInterop.CookieCache.bind();
+    </script>
+    <script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/js/optimizely-crossDomain.js?pjmv=1.000014'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/pjmedia.com\/lifestyle\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/lifestyle/wp-includes/js/thickbox/thickbox.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/js/home.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/js/footer.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/js/single.js?pjmv=1.000014'></script>
+<script type='text/javascript' src='http://pjmedia-new.pjmedia.netdna-cdn.com/themes/pjm/js/shadowbox/shadowbox.js?pjmv=1.000014'></script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/1300.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript" src="http://d27jt7xr4fq3e8.cloudfront.net/2-806360-s.js"></script>
+<!-- Quantcast Tag -->
+<script language="javascript" type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push([{
+qacct:"p-d1x2X8_nNBHjc"
+},
+{
+qacct:"p-20smM-btdsfb2" // Integer Media
+}]);
+</script>
+<noscript>
+<div style="display:none;">
+<img src="http://pixel.quantserve.com/pixel?a.1=p-d1x2X8_nNBHjc&a.2=p-20smM-btdsfb2" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- Quantcast Tag -->
+<!-- publir popunder--><script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=5ae36d33-9d79-44a4-b770-82be803301a7";s.id="infinity";s.setAttribute("data-guid","5ae36d33-9d79-44a4-b770-82be803301a7");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+  <script type="text/javascript" src="http://a.intgr.net/tags/18_9.js"></script><!-- end publir popunder--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"7a07db8704","applicationID":"4071090","transactionName":"MVFTMRRXVhEDB0RRVggbcAYSX1cMTVAADA==","queueTime":0,"applicationTime":214,"atts":"HRZQR1xNRR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script></body>
+</html>

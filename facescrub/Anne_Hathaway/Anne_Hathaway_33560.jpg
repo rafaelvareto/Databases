@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html class="no-js" lang="it-IT">
+<head>
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<title>Pagina non trovata. | AnimeMovieForever</title>
+	<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="http://www.animemovieforever.net/wp-content/themes/magxp/apple-touch-icon.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="pingback" href="http://www.animemovieforever.net/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="AnimeMovieForever &raquo; Feed" href="http://www.animemovieforever.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="AnimeMovieForever &raquo; Feed dei commenti" href="http://www.animemovieforever.net/comments/feed" />
+<link rel='stylesheet' id='flexslider-group-css' href='http://www.animemovieforever.net/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/magxp/css/flexslider.css,wp-content/themes/magxp/css/prettyPhoto.css,wp-content/themes/magxp/css/font-awesome.min.css,wp-content/themes/magxp/style.css,wp-content/themes/magxp/css/responsive.css' type='text/css' media='all' />
+<style type='text/css'>
+
+        body {background-color:#f8f9fa; }
+        body {background-image: url(http://www.animemovieforever.net/wp-content/themes/magxp/images/nobg.png);}
+        .main-header, #header ul.sub-menu li {background-color:#ffffff; background-image: url(http://www.animemovieforever.net/wp-content/themes/magxp/images/nobg.png);}
+        footer {background-color:#ffffff; background-image: url(http://www.animemovieforever.net/wp-content/themes/magxp/images/nobg.png);}
+        .bottom-footer-widgets {background-color:#ffffff; background-image: url(http://www.animemovieforever.net/wp-content/themes/magxp/images/nobg.png);}
+        .copyrights {background-color:#ffffff; }
+        .single-carousel h6 a:hover, .f-widget ul.flex-direction-nav a, #navigation ul li a:hover, a:hover, .related-posts a:hover, .reply a, .title a:hover, .post-info a:hover, #tabber .inside li a:hover, .readMore a:hover, .fn a, .banner-content h2 a:hover, .fa-search:hover, .sidebar.c-4-12 a:hover, footer .f-widget a:hover, .star-rating-thumbs .icon-star:hover, .main-container .single_post-img header .post-info a:hover, #copyright-note a:hover, .banner-content .post-info a:hover, .main-container .single_post-img header .single-title a:hover, .search-top .ajax-search-results-container a:hover, .sidebar.c-4-12 .textwidget a, footer .f-widget .textwidget a, a, .widget .wpt_widget_content .tab_title.selected a, .widget .wp_review_tab_widget_content .tab_title.selected a, .comment-author .comment-reply-link, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before { color:#ff3c1f; }
+            .footer-widgets .f-widget #searchform .fa-search, .f-widget .social-profile-icons ul li a:hover, .widget .bar, .latestPost .categories, .currenttext, .pagination a:hover, #header .fa-search:hover, #header .fa-search.active, .social a:hover, #searchform .fa-search, #move-to-top:hover, #copyright-note .toplink:hover, nav a#pull, #commentform input#submit, #commentform input#submit:hover, .mts-subscribe input[type='submit'], #move-to-top:hover, #tabber ul.tabs li a.selected, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .tagcloud a, thead, #load-posts a:hover, .widget .wpt_widget_content .tab_title.selected a:before, .widget .wp_review_tab_widget_content .tab_title.selected a:before, .widget .wpt_widget_content #tags-tab-content ul li a, .single .pagination a:hover, .pace .pace-progress, #mobile-menu-wrapper ul li a:hover, #searchform #searchsubmit, #load-posts a { background-color:#ff3c1f; color: #fff!important; }
+        .flex-control-thumbs .flex-active{ border-top:3px solid #ff3c1f;}
+        #navigation ul li a, #header ul.sub-menu, .search-top .hideinput, #featured-thumbnail, .search-top #s, .search-top .ajax-search-results-container, #author:focus, #email:focus, #url:focus, #comment:focus { border-color: #ff3c1f; }
+        .sidebar .widget h3 { background: #fafbfc; }
+        
+        .shareit { margin-right: 0; margin-left: 0; }
+        
+        .commentlist .bypostauthor, .commentlist .children .bypostauthor {padding: 3%; background: #F1F1F1; width: 94%; }
+        .bypostauthor:after { content: "Author"; position: absolute; right: 0; top: 14px; font-size: 12px; line-height: 2.4; padding: 0 15px 0 30px; }
+        .bypostauthor:before { content: "\f044"; font-family: FontAwesome; position: absolute; right: 60px; font-size: 16px; z-index: 1; top: 16px; }
+        
+        .secondary-navigation li a {
+    border-top: 0;
+    border-bottom: 2px solid;
+    line-height: 48px;
+}
+
+#header .fa-search { color: rgba(0, 0, 0, 0.45); }
+.search-top #s { background: #FFF; }
+#sidebars .wp-post-image, footer .wp-post-image { border-radius: 5px; }
+footer .mts-subscribe input[type="text"], .mts-subscribe input[type="text"] {
+    border: 1px dashed #000;
+    color: #000;
+}
+
+.main-container {
+    background-color: #F8F9FA;
+padding: 0 0px;
+
+}
+
+.main-header {
+    background-color: transparent;
+    background-image: none;
+}
+#header {
+background-color: #fff;
+    border-bottom: 2px solid #c0c0c0;
+}
+.logo-wrap {
+    margin-left: 20px;
+}
+
+body {
+margin:150px 0 0 0;
+}
+
+footer {
+    background-color: transparent;
+    background-image: none;
+ margin-top: 0px;
+}
+footer .container {
+    background: none repeat scroll 0 0 #fff;
+    padding: 0px;
+}
+.footer-widgets {
+    padding: 30px;
+}
+.copyrights {
+    background: none repeat scroll 0 0 transparent;
+    padding: 0;
+border-top: 0px solid rgba(255, 255, 255, 0.07);
+}
+.copyrights .container {
+    background: none repeat scroll 0 0 #fff;
+    height: 25px;
+    padding: 10px 0px;
+}
+#copyright-note {
+    margin-left: 15px;
+}
+            
+</style>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.animemovieforever.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.animemovieforever.net/wp-includes/wlwmanifest.xml" /> 
+<!--Theme by MyThemeShop.com-->
+<link href="http://fonts.googleapis.com/css?family=Fjalla+One:normal|PT+Sans:normal|PT+Sans:700|Source+Sans+Pro:normal" rel="stylesheet" type="text/css">
+<style type="text/css">
+#header h1 a, #header h2 a{ font-family: 'Fjalla One'; font-weight: normal; font-size: 24px; color: #ff3c1f; }
+body{ font-family: 'PT Sans'; font-weight: normal; font-size: 15px; color: #4e5860; }
+.menu li, .menu li a{ font-family: 'Fjalla One'; font-weight: normal; font-size: 16px; color: #879096; }
+.title a{ font-family: 'PT Sans'; font-weight: normal; font-size: 26px; color: #010101; }
+.single-title{ font-family: 'PT Sans'; font-weight: 700; font-size: 28px; color: #ff3c1f;text-transform: none; }
+.sidebar .widget h3{ font-family: 'PT Sans'; font-weight: normal; font-size: 18px; color: #ff3c1f;background: transparent; padding-left: 0; padding-top: 0; }
+#sidebars .widget{ font-family: 'PT Sans'; font-weight: normal; font-size: 15px; color: #879096; }
+.footer-widgets h3{ font-family: 'PT Sans'; font-weight: normal; font-size: 20px; color: #010101; }
+.f-widget a, footer .wpt_widget_content a, footer .wp_review_tab_widget_content a, footer .wpt_tab_widget_content a{ font-family: 'PT Sans'; font-weight: normal; font-size: 15px; color: #010101; }
+.footer-widgets, .f-widget .top-posts .comment_num, footer .meta, footer .twitter_time, footer .widget .wpt_widget_content .wpt-postmeta, footer .widget .wpt_comment_content, footer .widget .wpt_excerpt, footer .wp_review_tab_widget_content .wp-review-tab-postmeta{ font-family: 'PT Sans'; font-weight: normal; font-size: 15px; color: #4e5860; }
+.bottom-footer-widgets.footer-widgets h3{ font-family: 'PT Sans'; font-weight: normal; font-size: 20px; color: #010101; }
+.bottom-footer-widgets .f-widget a, footer .bottom-footer-widgets .wpt_widget_content a, footer .bottom-footer-widgets .wp_review_tab_widget_content a, footer .bottom-footer-widgets .wpt_tab_widget_content a{ font-family: 'PT Sans'; font-weight: normal; font-size: 15px; color: #4e5860; }
+.bottom-footer-widgets.footer-widgets, .bottom-footer-widgets .f-widget .top-posts .comment_num, footer .bottom-footer-widgets .meta, footer .bottom-footer-widgets .twitter_time, footer .bottom-footer-widgets .widget .wpt_widget_content .wpt-postmeta, footer .bottom-footer-widgets .widget .wpt_comment_content, footer .bottom-footer-widgets .widget .wpt_excerpt, footer .bottom-footer-widgets .wp_review_tab_widget_content .wp-review-tab-postmeta{ font-family: 'PT Sans'; font-weight: normal; font-size: 15px; color: #4e5860; }
+#copyright-note, #copyright-note a{ font-family: 'PT Sans'; font-weight: normal; font-size: 14px; color: #4e5860; }
+h1{ font-family: 'PT Sans'; font-weight: normal; font-size: 28px; color: #010101; }
+h2{ font-family: 'PT Sans'; font-weight: normal; font-size: 24px; color: #010101; }
+h3{ font-family: 'PT Sans'; font-weight: normal; font-size: 22px; color: #010101; }
+h4{ font-family: 'PT Sans'; font-weight: normal; font-size: 20px; color: #010101; }
+h5{ font-family: 'Source Sans Pro'; font-weight: normal; font-size: 18px; color: #010101; }
+h6{ font-family: 'PT Sans'; font-weight: normal; font-size: 16px; color: #010101; }
+</style>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<div style="position: fixed; top:0px; left:0px; z-index: 0; width: 100%; height:100%;">
+  <a href='http://www.mangaforever.net' target='_blank' style="display: block; width: 100%; height: 100%;"></a>
+</div>
+</head>
+<body id ="blog" class="error404 custom-background main mts-grid-layout" itemscope itemtype="http://schema.org/WebPage">
+	<div class="main-container-wrap">
+		<header class="main-header" id="sticky">
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																						<h1 id="logo" class="text-logo">
+										<a href="http://www.animemovieforever.net">AnimeMovieForever</a>
+									</h1><!-- END #logo -->
+																		</div>
+					<div class="secondary-navigation">
+						<nav id="navigation">
+	                        <a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+															<ul id="menu-menu-principale" class="menu clearfix"><li id="menu-item-19679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://www.animemovieforever.net/category/prima-pagina/news"><i class="fa fa-home"></i> News</a>
+<ul class="sub-menu">
+	<li id="menu-item-52143" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/film">News Movie</a></li>
+	<li id="menu-item-52179" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/colonne-sonore">Colonne Sonore</a></li>
+	<li id="menu-item-52180" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/giochi-da-tavolo">Giochi da Tavolo</a></li>
+	<li id="menu-item-52181" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/film">News Movie</a></li>
+	<li id="menu-item-52182" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/cartoon">News Serie animate</a></li>
+	<li id="menu-item-52183" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/serie-tv">News Serie TV</a></li>
+	<li id="menu-item-52184" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/videogames">News Videogames</a></li>
+	<li id="menu-item-52185" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/press-release">Press Release</a></li>
+	<li id="menu-item-52186" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/romanzi">Romanzi</a></li>
+	<li id="menu-item-52187" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/news/star-wars-news">Star Wars News</a></li>
+</ul>
+</li>
+<li id="menu-item-19681" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/rubriche">Rubriche</a></li>
+<li id="menu-item-19685" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/speciale">Speciali</a></li>
+<li id="menu-item-19687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://www.animemovieforever.net/category/prima-pagina/recensioni">Recensioni</a>
+<ul class="sub-menu">
+	<li id="menu-item-52188" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/recensioni/cartoon-e-cartoni">Recensioni cartoon</a></li>
+	<li id="menu-item-45075" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.mangaforever.net">Fumetti e Manga</a></li>
+	<li id="menu-item-52189" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/recensioni/movie">Recensioni movie</a></li>
+	<li id="menu-item-52190" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/recensioni/serie-tv-series">Recensioni serie tv</a></li>
+	<li id="menu-item-52191" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.animemovieforever.net/category/prima-pagina/recensioni/videogames-review">Recensioni Videogames</a></li>
+</ul>
+</li>
+<li id="menu-item-52176" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.animemovieforever.net/segnala-notizia">Contattaci</a></li>
+</ul>													</nav>
+					</div>
+	                		                <form class="search-top search-form" action="http://www.animemovieforever.net" method="get">
+		                    <input class="hideinput" name="s" id="s" type="search" placeholder="Search the Site..." autocomplete="off" x-webkit-speech="x-webkit-speech" /><a href="#" class="fa fa-search"></a>
+		                </form>
+	                	                				</div><!--#header-->
+			</div><!--.container-->        
+		</header><div class="main-container">
+	<div id="page">
+		<article class="article">
+			<div id="content_box">
+				<div class="single_post">
+					<header>
+						<div class="title">
+							<h1>Error 404 Not Found</h1>
+						</div>
+					</header>
+					<div class="post-content">
+						<p>Oops! We couldn't find this Page.</p>
+						<p>Please check your URL or use the search form below.</p>
+						<form method="get" id="searchform" class="search-form" action="http://www.animemovieforever.net" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="Search the site" x-webkit-speech="x-webkit-speech" />
+		<input id="search-image" class="sbutton" type="submit" value="" />
+		<i class="fa fa-search"></i>
+	</fieldset>
+</form>					</div><!--.post-content--><!--#error404 .post-->
+				</div>
+			</div><!--#content-->
+		</article>
+		<aside class="sidebar c-4-12">
+	<div id="sidebars" class="g">
+		<div class="sidebar">
+			<ul class="sidebar_list">
+				<div id="text-9" class="widget widget_text"><h3 class="widget-title">Consigli</h3>			<div class="textwidget"><iframe id="mirago" src='http://feed.4wnet.com/feed.html.ashx?a=364284&n=3&u=http://www.animemovieforever.net&i=1&iw=60&ih=60&hd=3&f=0&c=http://www.animemovieforever.net/4w/300x250.css&s=homealtadestra' framespacing='0' frameborder='no' scrolling='no' width='300' height='250'></iframe></div>
+		</div><div id="rss-10" class="widget widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://www.mangaforever.net/feed'><img style='border:0' width='14' height='14' src='http://www.animemovieforever.net/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.mangaforever.net/'>Ultime MangaForever</a></h3><ul><li><a class='rsswidget' href='http://www.mangaforever.net/180551/idw-in-partenza-una-serie-per-jem-and-the-holograms'>IDW: svelati autori e cover di Jem and the Holograms</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180540/star-wars-episodio-vii-nuovo-trailer-con-avengers-age-of-ultron'>Star Wars – Episodio VII: nuovo trailer con Avengers – Age of Ultron</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180542/terminator-genisys-il-motion-poster-in-arrivo-il-trailer'>Terminator Genisys: il motion poster, in arrivo il trailer</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180528/super-collezionista-di-fumetti-entra-nel-guinness-world-record'>Super-collezionista di fumetti entra nel Guinness World Record!</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180524/001-edizionihikari-keiko-ichiguchi-in-tour-per-memorie-di-iris-una-notte-al-museo'>001 Edizioni/Hikari: Keiko Ichiguchi in tour per Memorie di Iris — Una notte al Museo</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180493/star-comics-novita-e-uscite-di-febbraio-2015'>Star Comics: novità e uscite di Febbraio 2015</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180470/cosmo-serie-gialla-a-gennaio-la-valle-della-morte-di-bec-e-brecht'>Cosmo Serie Gialla, a gennaio “La valle della morte” di Bec e Brecht</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180507/dc-comics-convergence-week-4-miniserie-ambientate-nelle-terre-pre-crisi'>DC Comics, Convergence Week 4: miniserie ambientate nelle Terre pre-Crisi</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180445/la-sera-di-esopo-si-chiude-la-trilogia-di-carmelo-calderone'>“La sera di Esopo”, si chiude la trilogia di Carmelo Calderone</a></li><li><a class='rsswidget' href='http://www.mangaforever.net/180469/guillermo-del-toro-parla-brevemente-di-justice-league-dark'>Guillermo Del Toro parla brevemente di Justice League Dark</a></li></ul></div><div id="mts_recent_posts_widget-2" class="widget widget_mts_recent_posts_widget"><h3 class="widget-title">Recent Posts</h3><ul class="advanced-recent-posts">        <li>
+            <a href="http://www.animemovieforever.net/52132/mila-shiro-i-dvd-in-edicola-con-gazzetta-dello-sport-e-corriere-della-sera">
+                                                                                        <img width="65" height="65" src="http://www.animemovieforever.net/wp-content/uploads/2014/09/attacker-you-mila-gazzetta-dvd1-65x65.jpg" class="attachment-widgetthumb wp-post-image" alt="attacker-you-mila-gazzetta-dvd" title="" />                                                                            Mila &#038; Shiro: i DVD in edicola con Gazzetta dello Sport e Corriere della Sera   
+            </a>
+            <div class="meta">
+                                    settembre 23, 2014                                                     &bull; 
+                                                    No Comment                                            </div> <!--end .entry-meta-->
+        </li>   
+                <li>
+            <a href="http://www.animemovieforever.net/52108/ufo-robot-goldrake-in-edicola-i-dvd-con-gazzetta-dello-sport-e-corriere-della-sera">
+                                                                                        <img width="65" height="65" src="http://www.animemovieforever.net/wp-content/uploads/2014/08/goldrake-gazzetta-0200-65x65.jpg" class="attachment-widgetthumb wp-post-image" alt="goldrake-gazzetta-0200" title="" />                                                                            Ufo Robot Goldrake: in edicola i DVD con Gazzetta dello Sport e Corriere della Sera   
+            </a>
+            <div class="meta">
+                                    agosto 27, 2014                                                     &bull; 
+                                                    No Comment                                            </div> <!--end .entry-meta-->
+        </li>   
+                <li>
+            <a href="http://www.animemovieforever.net/52088/diabolik-e-gazzetta-dello-sport-arriva-in-edicola-nero-su-nero">
+                                                                                        <img width="65" height="65" src="http://www.animemovieforever.net/wp-content/uploads/2014/07/soloCOVER1_LaPoliziaNonIndaga-65x65.jpg" class="attachment-widgetthumb wp-post-image" alt="01DK RCS La polizia non indaga19-06-14 copia" title="" />                                                                            Diabolik e Gazzetta dello Sport, arriva in edicola Nero su Nero   
+            </a>
+            <div class="meta">
+                                    luglio 19, 2014                                                     &bull; 
+                                                    One Comment                                            </div> <!--end .entry-meta-->
+        </li>   
+                <li>
+            <a href="http://www.animemovieforever.net/52054/ric-roland-ritorna-in-edicola-con-gazzetta-dello-sport">
+                                                                                        <img width="65" height="65" src="http://www.animemovieforever.net/wp-content/uploads/2014/06/ric-roland-01-65x65.jpg" class="attachment-widgetthumb wp-post-image" alt="ric roland 01" title="" />                                                                            Ric Roland ritorna in edicola con Gazzetta dello Sport   
+            </a>
+            <div class="meta">
+                                    giugno 7, 2014                                                     &bull; 
+                                                    No Comment                                            </div> <!--end .entry-meta-->
+        </li>   
+                <li>
+            <a href="http://www.animemovieforever.net/52034/ken-il-guerriero-la-leggenda-la-trilogia-con-gazzetta-dal-5-giugno">
+                                                                                        <img width="65" height="65" src="http://www.animemovieforever.net/wp-content/uploads/2014/06/ken-600x600-05-65x65.jpg" class="attachment-widgetthumb wp-post-image" alt="ken-600x600-05" title="" />                                                                            Ken il Guerriero La Leggenda &#8211; La Trilogia con Gazzetta dal 5 Giugno   
+            </a>
+            <div class="meta">
+                                    giugno 2, 2014                                                     &bull; 
+                                                    One Comment                                            </div> <!--end .entry-meta-->
+        </li>   
+        </ul>
+</div>			</ul>
+		</div>
+	</div><!--sidebars-->
+</aside>
+		</div><!--#page-->
+</div><!--.main-container-->
+    
+<footer>
+    	<div class="container">
+		<div class="footer-widgets top-footer-widgets widgets-3-columns clearfix">
+			<div class="f-widget f-widget-1">
+				<div id="recent-comments-3" class="widget widget_recent_comments"><h3 class="widget-title">Commenti recenti</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.facebook.com/pages/Bettina-Diabolik/288079771363804' rel='external nofollow' class='url'>Bettina - Diabolik</a></span> su <a href="http://www.animemovieforever.net/52088/diabolik-e-gazzetta-dello-sport-arriva-in-edicola-nero-su-nero#comment-4439">Diabolik e Gazzetta dello Sport, arriva in edicola Nero su Nero</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://www.facebook.com/antonio.perrotta2' rel='external nofollow' class='url'>Antonio Perrotta</a></span> su <a href="http://www.animemovieforever.net/52034/ken-il-guerriero-la-leggenda-la-trilogia-con-gazzetta-dal-5-giugno#comment-4438">Ken il Guerriero La Leggenda &#8211; La Trilogia con Gazzetta dal 5 Giugno</a></li><li class="recentcomments"><span class="comment-author-link">Roberto "IceMan" Addari</span> su <a href="http://www.animemovieforever.net/50973/e-arrivata-la-go-nagai-robot-collection-gia-in-edicola-con-la-gazzetta-dello-sport#comment-4276">È arrivata la Go Nagai Robot Collection, già in edicola con La Gazzetta dello Sport</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Iltuositoweb...' rel='external nofollow' class='url'>ciro</a></span> su <a href="http://www.animemovieforever.net/50973/e-arrivata-la-go-nagai-robot-collection-gia-in-edicola-con-la-gazzetta-dello-sport#comment-4251">È arrivata la Go Nagai Robot Collection, già in edicola con La Gazzetta dello Sport</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Iltuositoweb...' rel='external nofollow' class='url'>Privo del Caso</a></span> su <a href="http://www.animemovieforever.net/51018/enders-game-recensione#comment-4248">Ender&#8217;s Game &#8211; Recensione</a></li></ul></div>			</div>
+			<div class="f-widget f-widget-2">
+							</div>
+			<div class="f-widget f-widget-3 last">
+							</div>
+            		</div><!--.top-footer-widgets-->
+    </div><!--.container-->
+            <div class="copyrights">
+        <!--start copyrights-->
+<div class="container">
+    <div id="copyright-note">
+        <span><a href="http://www.animemovieforever.net/" title="Non Solo Film" rel="nofollow">AnimeMovieForever</a> Copyright &copy; 2014.</span>
+        <div class="top"></div>
+    </div>
+</div>
+<!--end copyrights-->
+	</div> 
+</footer><!--footer-->
+<script type='text/javascript' src='http://www.animemovieforever.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.animemovieforever.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.animemovieforever.net/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/magxp/js/customscript.js,wp-content/themes/magxp/js/jquery.flexslider-min.js,wp-content/themes/magxp/js/jquery.prettyPhoto.js'></script>
+</div><!--.main-container-wrap-->
+</body>
+</html>
+<!-- Dynamic page generated in 0.428 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-12-03 02:39:45 -->
+
+<!-- super cache -->

@@ -1,0 +1,1649 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="it" class="no-js"> <!--<![endif]-->
+<head>
+<title>
+Page not found - 404
+</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="EGUmkXMMwG6z7lDXCyi69YyrCM_HLrqyHk1BlST112A" />
+    <!--  version 2.2 -->
+    <!--http://microformats.org/profile/specs/-->
+    <link rel="profile" href="http://microformats.org/profile/specs/" title="Microformats"/>
+    <link rel="home" href="/"/>
+    <link rel="copyright" href="#copyright"/>
+
+
+        <meta property="fb:app_id" content="100885876666546" />
+        <meta property="og:site_name" content="serialtv" />
+    <meta name="twitter:widgets:csp" content="on">
+
+<link rel="shortcut icon" href="http://static-q.blogo.it/s/sf/img/favicon/serialtv.ico?1261" type="image/x-icon" />
+
+      
+
+            <link rel="stylesheet" href="http://static-q.blogo.it/s/sf/_assetic/style_head_asset.css?1261">
+    
+
+    
+<link rel="alternate" type="application/rss+xml" title="Serialtv &raquo; Feed" href="http://serialtv.blogosfere.it/rss2.xml" />
+
+    
+<link rel="dns-prefetch" href="http://cdn.blogosfere.it">
+<link rel="dns-prefetch" href="http://media-s3.blogosfere.it">
+<link rel="dns-prefetch" href="http://oas.populisengage.com/">
+<link rel="dns-prefetch" href="http://secure-it.imrworldwide.com/">
+<link rel="dns-prefetch" href="http://b.scorecardresearch.com/">
+<link rel="dns-prefetch" href="http://serialtv.blogosfere.it">
+
+<script type="text/javascript">
+// handle on load
+
+var _gaq = _gaq || [];
+var _baq = _baq || [];
+
+if (!window.JSON) {
+  window.JSON = {
+    parse: function (sJSON) { return eval("(" + sJSON + ")"); },
+    stringify: function (vContent) {
+      if (vContent instanceof Object) {
+        var sOutput = "";
+        if (vContent.constructor === Array) {
+          for (var nId = 0; nId < vContent.length; sOutput += window.JSON.stringify(vContent[nId]) + ",", nId++);
+          return "[" + sOutput.substr(0, sOutput.length - 1) + "]";
+        }
+        if (vContent.toString !== Object.prototype.toString) { return "\"" + vContent.toString().replace(/"/g, "\\$&") + "\""; }
+        for (var sProp in vContent) { sOutput += "\"" + sProp.replace(/"/g, "\\$&") + "\":" + window.JSON.stringify(vContent[sProp]) + ","; }
+        return "{" + sOutput.substr(0, sOutput.length - 1) + "}";
+      }
+      return typeof vContent === "string" ? "\"" + vContent.replace(/"/g, "\\$&") + "\"" : String(vContent);
+    }
+  };
+}
+
+var BlogoUtils = function(){
+    return {
+        extractParamFromUri : function(uri, paramName)  {
+            if (!uri) {
+              return;
+            }
+            var uri = uri.split('#')[0];  // Remove anchor.
+            var parts = uri.split('?');  // Check for query params.
+            if (parts.length == 1) {
+              return;
+            }
+            var query = decodeURI(parts[1]);
+
+            // Find url param.
+            paramName += '=';
+            var params = query.split('&');
+            for (var i = 0, param; param = params[i]; ++i) {
+              if (param.indexOf(paramName) === 0) {
+                return unescape(param.split('=')[1]);
+              }
+            }
+        },
+
+        cookie : function(name, value, options) {
+            if (typeof value != 'undefined') { // name and value given, set cookie
+                options = options || {};
+                if (value === null) {
+                    value = '';
+                    options.expires = -1;
+                }
+                var expires = '';
+                if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+                    var date;
+                    if (typeof options.expires == 'number') {
+                        date = new Date();
+                        date.setTime(date.getTime() + (options.expires * 1000));
+                    } else {
+                        date = options.expires;
+                    }
+                    expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+                }
+                var path = options.path ? '; path=' + (options.path) : '';
+                var domain = options.domain ? '; domain=' + (options.domain) : '';
+                var secure = options.secure ? '; secure' : '';
+                document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+            } else { // only name given, get cookie
+                var cookieValue = null;
+                if (document.cookie && document.cookie != '') {
+                    var cookies = document.cookie.split(';');
+                    for (var i = 0; i < cookies.length; i++) {
+                        var cookie = cookies[i].replace(/^\s+/,'').replace(/\s+$/,'');
+                        // Does this cookie string begin with the name we want?
+                        if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                            break;
+                        }
+                    }
+                }
+                return cookieValue;
+            }
+        },
+
+        getSearchKeywords : function(ref) {
+            var query_params = [];
+            var a = document.createElement('a');
+            a.href = ref;
+            var urlParts = a.search.split("?");
+            var kw = '';
+            
+            var newQueryString = "";
+            if (urlParts.length > 1)
+            {
+                var parameters = urlParts[1].split("&");
+                for (var i=0; (i < parameters.length); i++)
+                {
+                    var parameterParts = parameters[i].split("=");
+                    if (parameterParts[0] == 'q') {
+                        kw = parameterParts[1];
+                        break;
+                    }
+                    else if (parameterParts[0] == 'p') {
+                        kw = parameterParts[1];
+                        break;
+                    }
+                    else if (parameterParts[0] == 'prev') {
+                        kw = blogoUtils.getSearchKeywords(parameterParts[1]);
+                        break;
+                    }
+                }
+            }
+
+            return kw;
+        },
+
+        checkFirstRefer : function() {
+            var lp_firstrefer = blogoUtils.cookie('lp_firstrefer');
+            if (lp_firstrefer == null) {
+                if (document.referrer) {
+                    var search_engines = '.google.,.bing.,.yahoo.,virgilio.,.ask.,.facebook.';
+                    var ref = document.referrer;
+                    var s_engines = search_engines.split(",");
+                    var from_search = false;
+
+                    var keywords = '';
+
+                    if (s_engines.length > 0) {
+                        for(var i= 0; i < s_engines.length; i++) {
+                            var se = s_engines[i];
+                            if (ref.indexOf(se) != -1) {
+                                from_search = true;
+                                keywords = blogoUtils.getSearchKeywords(ref);
+                                break;
+                            }
+                        }
+                    }
+
+                    var name = 'serialtv';
+
+                    if (from_search && keywords.indexOf(name) == -1) {
+                        lp_firstrefer = ref;
+                    } else
+                        lp_firstrefer = 'direct';
+                } else {
+                    lp_firstrefer = 'direct';
+                }
+                cookieDomain = document.domain.substring(document.domain.indexOf('.')),
+                
+                blogoUtils.cookie('lp_firstrefer', lp_firstrefer, { path : '/', domain: cookieDomain, expires : 3600 });
+                // 30 min
+                // setcookie('lp_firstrefer', $lp_firstrefer, time()+1800, '/');
+            }
+        }
+    }
+}
+
+var blogoUtils = new BlogoUtils();
+
+blogoUtils.checkFirstRefer();
+
+var BlogoScriptLoader = function(window, context) {
+
+    var pub = this;
+    var _p = {};
+    _p.function_list = [];
+    _p.context = context;
+
+    _p.debugging = false;
+
+    _p.lib = {
+            'contains' : function(a, obj) {
+                for (var i = 0; i < a.length; i++) {
+                    if (a[i] === obj) {
+                        return true;
+                    }
+                }
+                return false;
+            },
+            'isEmpty' : function(_obj) {
+                if (typeof _obj == 'undefined')
+                    return true;
+                if (_obj == null)
+                    return true;
+                return false;
+            }
+        };
+    
+    if (_p.lib.isEmpty(console))
+        _p.console = { log: function() {} };
+    else
+        _p.console = console;
+
+    if (!_p.debugging) // So we override only local console.log
+        _p.console = { log: function() {} };
+    
+    _p.dependency_counter = 0;
+
+    pub.addOnLoadQueue = function (item) {
+        if (!_p.lib.isEmpty(item)) {
+            if (item.execute && typeof(item.execute) == "function") {
+                item.executed = false;
+                if (item.priority)
+                    item.priority = 999999
+                _p.function_list.push(item);
+            }
+        }
+    };
+
+    pub.trackElapsedTiming = function() {
+        var timing = window.performance.timing;
+        // 2
+        var connectionTime = timing.connectEnd - timing.connectStart;
+        pub.trackTime('elapsed', 'connectionTime', connectionTime);
+        // 4
+        var dnsLookupTime = timing.domainLookupEnd - timing.domainLookupStart;
+        pub.trackTime('elapsed', 'dnsLookupTime', dnsLookupTime);
+        // 5
+        var connectionTime = timing.connectEnd - timing.connectStart;
+        pub.trackTime('elapsed', 'connectionTime', connectionTime);
+        // 6
+        var responseTime = timing.responseEnd - timing.responseStart;
+        pub.trackTime('elapsed', 'responseTime', responseTime);
+        // 9
+        var domContentLoadedEventTime = timing.domContentLoadedEventEnd - timing.domContentLoadedEventStart;
+        pub.trackTime('elapsed', 'domContentLoadedEventTime', domContentLoadedEventTime);
+        // 11
+        var loadEventTime = timing.loadEventEnd - timing.loadEventStart;
+        pub.trackTime('elapsed', 'loadEventTime', loadEventTime);
+    }
+    
+    pub.trackPerformanceTiming = function() {
+        var timing = window.performance.timing;
+        // 1
+        var fetchTime = timing.fetchStart - timing.navigationStart;
+        pub.trackTime('performance', 'fetchTime', fetchTime);
+        // 3
+        var requestTime = timing.requestStart - timing.navigationStart;
+        pub.trackTime('performance', 'requestTime', requestTime);
+        // 7
+        var domLoadingTime = timing.domLoading - timing.navigationStart;
+        pub.trackTime('performance', 'domLoadingTime', domLoadingTime);
+        // 8
+        var domInteractiveTime = timing.domInteractive - timing.navigationStart;
+        pub.trackTime('performance', 'domInteractiveTime', domInteractiveTime);
+        // 10
+        var domCompleteTime = timing.domComplete - timing.navigationStart;
+        pub.trackTime('performance', 'domCompleteTime', domCompleteTime);
+    }
+    
+    pub.trackTime = function(_category, _variable, _time, _label) {
+        if (!_p.lib.isEmpty(_category) && !_p.lib.isEmpty(_variable)) {
+            var pageLoadTime = 0;
+            if (_p.lib.isEmpty(_time) && window.performance && window.performance.timing) {
+                var timing = window.performance.timing;
+                var now = new Date().getTime();
+                pageLoadTime = now - timing.navigationStart;
+            } else
+                pageLoadTime = _time;
+            var ttvars = {'category': _category, 'variable': _variable, 'elapsedTime' : pageLoadTime};
+            if (_p.lib.isEmpty(_label))
+                ttvars.label = _p.context;
+            else
+                ttvars.label = _label;
+            var tt = new TrackTiming(ttvars);
+            tt.send();
+        }
+    };
+    
+    pub.execute = function () {
+        _p.dependency_counter--;
+        if (_p.dependency_counter == 0) {
+            
+            _p.function_list.sort(function (a, b) {
+                if (a.priority && b.priority) {
+                    if (a.priority > b.priority)
+                        return 1;
+                    if (a.priority < b.priority)
+                        return -1;
+                }
+                return 0;
+            });
+            pub.trackTime('onload', 'script-loader before-execute');
+            for(var item = 0; item < _p.function_list.length; item++) {
+                var loader = _p.function_list[item];
+                if (loader && loader.execute && typeof(loader.execute) == "function" && !loader.executed) {
+                    if (_p.debugging && loader.name)
+                        _p.console.log(loader.name);
+                    if (loader.context) {
+                        var context = [].concat(loader.context);
+                        if (_p.lib.contains(context, _p.context)) {
+                            try {
+                                loader.execute(loader);
+                                _p.function_list[item].executed = true;
+                            } catch (e) {
+                                _p.console.log(e);
+                            }
+                        }
+                    } else {
+                        try {
+                            loader.execute(loader);
+                            _p.function_list[item].executed = true;
+                        } catch (e) {
+                            _p.console.log(e);
+                        }
+                    }
+                }
+            }
+            pub.trackTime('onload', 'script-loader after-execute');
+        }
+    }
+
+    pub.handleEvent = function(_obj, _execute, _eventName) {
+        // Check for browser support of event handling capability
+        if (_obj.addEventListener)
+            _obj.addEventListener(_eventName, _execute, false);
+        else if (_obj.attachEvent)
+            _obj.attachEvent('on'+_eventName, _execute);
+        else
+            _obj['on'+_eventName] = _execute;
+    }
+    
+    pub.executeOnLoad = function (_obj) {
+        _p.dependency_counter ++;
+        pub.handleEvent(_obj, pub.execute, "load");
+    };
+    
+
+    pub.loadJs = function(_document, _js) {
+        return pub.loadElement(_document, _js, 'script');
+    }
+
+    // parameters: document, { url, async, defer, callback, trackTiming }
+    pub.loadElement = function(_document, _js, _etype) {
+        var js = null;
+
+        if (_p.lib.isEmpty(_etype) || _p.lib.isEmpty(_document) || _p.lib.isEmpty(_js))
+            return null;
+        
+            if (_js.id) {
+                js = _document.getElementById(_js.id);
+                if (!_p.lib.isEmpty(js))
+                    return js;
+            }
+
+            if (_js.src) {
+                js = _document.createElement(_etype);
+                if (_js.async)
+                    js.async = _js.async;
+                if (_js.defer)
+                    js.defer = _js.defer;
+                if (_js.type)
+                    js.type = _js.type;
+                if (_js.id)
+                    js.id = _js.id;
+                if (_js.trackTiming && _js.trackTiming.category && _js.trackTiming.variable) {
+                    var tt = new TrackTiming(_js.trackTiming);
+                    tt.startTracking();
+                    if (typeof _js.callback == "function") {
+                        
+                    }
+                    _js.callback = tt.loadCallback;
+                }
+                    
+                if (typeof _js.callback == "function")
+                    pub.handleEvent(js, _js.callback, "load");
+                
+                if (_js.tt && _js.tt.startTracking)
+                    js.time = _js.tt.startTracking();
+
+                _document.getElementsByTagName('head')[0].appendChild(js)
+                js.src = _js.src;
+            }
+        return js;
+    }
+    
+    return pub;
+}
+
+window.blogoLoaderInstance = new BlogoScriptLoader(window, '');
+window.blogoLoaderInstance.executeOnLoad(window);
+
+
+/*
+// Use this snippet if you need to execute something on load
+ 
+var functionVariableName = function(me) {
+    
+}
+ 
+if (window.blogoLoaderInstance) {
+    window.blogoLoaderInstance.addOnLoadQueue({
+     // Mandatory parameter
+        'execute': functionVariableName,
+     // Optional parameters
+     // 'params' : { param1:100 },
+     // Optional parameter, set the priority order, default priority is 999999
+        'priority': 100,
+     // Optional parameter, default will be always executed on load
+        'context' : ['post', 'video', 'gallery']
+    });
+}
+*/
+
+function getAdsenseCodes(blog, country, context, paid) {
+    var countryCodeAfcFree = {
+          'it_IT': '7632590267',
+          'es_ES': '7510946194',
+          'en_US': '5493180734',
+          'fr_FR': '1033271775',
+          'pt_BR': '3733723970'
+        },
+        countryCodeAfcPaid = {
+          'it_IT': '8168553510',
+          'es_ES': '2447284723',
+          'en_US': '8570089917',
+          'fr_FR': '8570089917',
+          'pt_BR': '5794917992'
+        },
+        countryCodeAfsFree = {
+          'it_IT': '2454216970',
+          'es_ES': '5158436792',
+          'en_US': '7635611262',
+          'fr_FR': '3460493052',
+          'pt_BR': '3868137859'
+        },
+        countryCodeAfsPaid = {
+          'it_IT': '5733425467',
+          'es_ES': '4128452330',
+          'en_US': '6948242957',
+          'fr_FR': '6082505945',
+          'pt_BR': '0445838791'
+        }
+        blogCodeAfcFree = {
+          'autoblog': '4650855297',
+          'motoblog': '8983385539',
+          'tvblog': '1757995103',
+          'travelblog': '2101912669',
+          'ecoblog': '9898582492',
+          'fashionblog': '2831097237',
+          'deluxeblog': '1174092992',
+          'pinkblog': '0745408683',
+          'benessereblog': '8804971351',
+          'designerblog': '8752676224',
+          'gadgetblog': '8756504740',
+          'melablog': '2361497146',
+          'mobileblog': '1532837802',
+          'soldiblog': '5784051710',
+          'calcioblog': '3425069773',
+          'clickblog': '1732184105',
+          'gustoblog': '6278939335',
+          '02blog': '4685479695',
+          'toysblog': '0632989763',
+          'outdoorblog': '5109749127',
+          'soundsblog': '6902161342',
+          'comicsblog': '8900918513',
+          'blogvoip': '7746132661',
+          'appblog': '7055535934',
+          '06blog': '4787730198',
+          'finanzablog': '3823022929',
+          'motorsportblog': '4451100115',
+          'booksblog': '4291721197',
+          'ossblog': '3738013643',
+          'oroscopoblog': '9839583012',
+          'englishblog': '6283922071',
+          'blogo': '3124754951',
+          'bebeblog': '6893540548',
+          'cineblog': '6036416398',
+          'crimeblog': '2309446930',
+          'betsblog': '4537497730',
+          'happyblog': '4341401204',
+          'polisblog': '7391226793',
+          'petsblog': '7472212122',
+          'softblog': '3109518752',
+          'artsblog': '3313055108',
+          'queerblog': '3355327365',
+          'downloadblog': '0007008910',
+          'blogapuntate': '2514730801',
+          'gamesblog': '4702339431',
+          'gossipblog': '0433724211',
+          'creditfr': '1569976680'
+        },
+        blogCodeAfcPaid = {
+          'autoblog': '3177529076',
+          'motoblog': '8613082918',
+          'tvblog': '0783310466',
+          'travelblog': '7668934177',
+          'ecoblog': '9555889628',
+          'fashionblog': '7850496411',
+          'deluxeblog': '6232322057',
+          'pinkblog': '6616638641',
+          'benessereblog': '1017835620',
+          'designerblog': '7265185002',
+          'gadgetblog': '4742336936',
+          'melablog': '8089069886',
+          'mobileblog': '7858960517',
+          'soldiblog': '9101554799',
+          'calcioblog': '0580794774',
+          'clickblog': '7520468570',
+          'gustoblog': '4489836417',
+          '02blog': '7369234040',
+          'toysblog': '7970537650',
+          'outdoorblog': '4362583623',
+          'soundsblog': '4444935347',
+          'comicsblog': '2051665338',
+          'blogvoip': '2524691531',
+          'appblog': '0646206680',
+          '06blog': '4935268217',
+          'finanzablog': '5124844220',
+          'motorsportblog': '0410576337',
+          'booksblog': '5753049726',
+          'ossblog': '6726572115',
+          'oroscopoblog': '1386961726',
+          'englishblog': '1218766739',
+          'blogo': '4958474292',
+          'bebeblog': '8252102503',
+          'cineblog': '8749446607',
+          'crimeblog': '2999098642',
+          'betsblog': '1202654098',
+          'happyblog': '7273533208',
+          'polisblog': '3030303192',
+          'petsblog': '0235160327',
+          'softblog': '6912777382',
+          'artsblog': '3732722724',
+          'queerblog': '9509569151',
+          'downloadblog': '5935681454',
+          'blogapuntate': '1492720910',
+          'gamesblog': '9119608137',
+          'gossipblog': '9074850534',
+          'creditfr': '0095932185'
+        },
+        blogCodeAfsFree = {
+          'autoblog': '3870755722',
+          'motoblog': '7641443041',
+          'tvblog': '3971947999',
+          'travelblog': '4325269477',
+          'ecoblog': '6098832922',
+          'fashionblog': '4193340851',
+          'deluxeblog': '8275775460',
+          'pinkblog': '0173384881',
+          'benessereblog': '6621936553',
+          'designerblog': '1099958307',
+          'gadgetblog': '1533983792',
+          'melablog': '8835939584',
+          'mobileblog': '6572586121',
+          'soldiblog': '9549018455',
+          'calcioblog': '1387347049',
+          'clickblog': '8733630919',
+          'gustoblog': '8224918192',
+          '02blog': '6998919668',
+          'toysblog': '4678402935',
+          'outdoorblog': '7149953482',
+          'soundsblog': '9016154848',
+          'comicsblog': '2910965306',
+          'blogvoip': '9900050417',
+          'appblog': '3472001690',
+          '06blog': '8222110657',
+          'finanzablog': '0752495921',
+          'motorsportblog': '5827105901',
+          'booksblog': '9282709123',
+          'ossblog': '3482040505',
+          'oroscopoblog': '8873763666',
+          'englishblog': '9117759165',
+          'blogo': '2988116172',
+          'bebeblog': '8744156821',
+          'cineblog': '9640781167',
+          'crimeblog': '3104402752',
+          'betsblog': '2055281671',
+          'happyblog': '0631639604',
+          'polisblog': '2663955927',
+          'petsblog': '9879488236',
+          'softblog': '2048484368',
+          'artsblog': '7854443122',
+          'queerblog': '5859817780',
+          'downloadblog': '9035786480',
+          'blogapuntate': '9663699649',
+          'gamesblog': '5150914366',
+          'gossipblog': '7118612360',
+          'creditfr': '6375199821',
+          'twowheelsblog': '3387675804',
+          'eurocarblog': '8912050618',
+          'strassblog': '3470760933',
+          'motosblog': '2732269346',
+          'autosblog': '5273287544',
+          'blogdolcevita': '7690318066'
+        },
+        blogCodeAfsPaid = {
+          'autoblog': '7270213676',
+          'motoblog': '4279648412',
+          'tvblog': '0661867919',
+          'travelblog': '2760307563',
+          'ecoblog': '6045258150',
+          'fashionblog': '7704856721',
+          'deluxeblog': '7025063877',
+          'pinkblog': '1121209447',
+          'benessereblog': '7254208527',
+          'designerblog': '3093098943',
+          'gadgetblog': '7224558571',
+          'melablog': '9825622550',
+          'mobileblog': '9032081987',
+          'soldiblog': '0056350355',
+          'calcioblog': '2530349331',
+          'clickblog': '9131269172',
+          'gustoblog': '4455351236',
+          '02blog': '6458887304',
+          'toysblog': '9942557526',
+          'outdoorblog': '8303827594',
+          'soundsblog': '4214476222',
+          'comicsblog': '5545096195',
+          'blogvoip': '7598107619',
+          'appblog': '9895641075',
+          '06blog': '5361265125',
+          'finanzablog': '0674623292',
+          'motorsportblog': '1078734302',
+          'booksblog': '9794897992',
+          'ossblog': '7608154094',
+          'oroscopoblog': '9807524889',
+          'englishblog': '7704856721',
+          'blogo': '8122746230',
+          'bebeblog': '2199290527',
+          'cineblog': '8834559361',
+          'crimeblog': '3454785165',
+          'betsblog': '5455644291',
+          'happyblog': '8703078382',
+          'polisblog': '7777690480',
+          'petsblog': '4915717124',
+          'softblog': '2307753787',
+          'artsblog': '9431826108',
+          'queerblog': '0451511458',
+          'downloadblog': '8463701200',
+          'blogapuntate': '8524347240',
+          'gamesblog': '5756180432',
+          'gossipblog': '9851897405',
+          'creditfr': '2279630162',
+          'twowheelsblog': '9503097763',
+          'eurocarblog': '8175576272',
+          'strassblog': '8606753417',
+          'motosblog': '8032842737',
+          'autosblog': '7343196534',
+          'blogdolcevita': '6376500643'
+        },
+        countryCodes = null, blogCodes = null,
+        adsenseChannels = {country: '', blog: ''};
+    if (context == 'search') {
+      countryCodes = paid ? countryCodeAfsPaid : countryCodeAfsFree;
+      blogCodes = paid ? blogCodeAfsPaid : blogCodeAfsFree;
+    } else {
+      countryCodes = paid ? countryCodeAfcPaid : countryCodeAfcFree;
+      blogCodes = paid ? blogCodeAfcPaid : blogCodeAfcFree;
+    }
+    adsenseChannels.country = countryCodes[country] ? countryCodes[country] : '';
+    adsenseChannels.blog = blogCodes[blog] ? blogCodes[blog] : '';
+    return adsenseChannels;
+  }
+
+  // ROI Tracking
+  function getVisitorInfo() {
+    var lre1=/\.facebook\.com$/gi;
+    var splitted_url = document.referrer.split('/');
+    var roiOptions = {
+          localCookieName: 'roi_track',
+          sourceParameter: 'source',
+          keywordParameter: 'q',
+          keywordTrackingParameter: 'qroi',
+          remoteCookieDuration: 0
+        },
+        visitorInfo = {source: '', keyword: '', paid: false, justLanded: true},
+        cookieDomain = document.domain.substring(document.domain.indexOf('.')),
+//        campaignSource = blogoUtils.extractParamFromUri(window.location.href, roiOptions.sourceParameter),
+        campaignSource = blogoUtils.extractParamFromUri(window.location.href, roiOptions.sourceParameter) || (lre1.test(splitted_url[2]) ? 'facebook' : null)
+        campaignKeywords = campaignSource ? blogoUtils.extractParamFromUri(window.location.href, roiOptions.keywordParameter) : '',
+        trackingKeywords = campaignSource ? blogoUtils.extractParamFromUri(window.location.href, roiOptions.keywordTrackingParameter) : '',
+        localCookie = blogoUtils.cookie(roiOptions.localCookieName);
+    if (campaignSource) {
+      //console.log("Paid visitor");
+      visitorInfo.source = campaignSource;
+      visitorInfo.keyword = campaignKeywords;
+      visitorInfo.keyword_tracking = trackingKeywords;
+      visitorInfo.paid = true;
+    } else {
+      // check cookie
+      if (localCookie) {
+        try {
+            var cookieInfo = window.JSON.parse(localCookie);
+            visitorInfo.source = cookieInfo.source || '';
+            visitorInfo.keyword = cookieInfo.keyword || '';
+            visitorInfo.keyword_tracking = cookieInfo.keyword_tracking || '';
+            visitorInfo.paid = cookieInfo.paid || false;
+        } catch (e) {
+            blogoUtils.cookie(roiOptions.localCookieName, null, {path:'/', domain: cookieDomain});
+        }
+      }
+    }
+    if (!localCookie) {
+        blogoUtils.cookie(roiOptions.localCookieName, window.JSON.stringify(visitorInfo),{path:'/', domain: cookieDomain});
+    } else {
+      //console.log(localCookie);
+        visitorInfo.justLanded = false;
+    }
+    return visitorInfo;
+  }
+
+function TrackTiming(_tt) {
+    
+    var pub = this;
+    pub.MAX_TIME = 10 * 60 * 1000;
+    
+    pub.disabled = false;
+    pub.category = _tt.category;
+    pub.variable = _tt.variable;
+    pub.method = _tt.method ? _tt.method : 'gaOld._trackTiming';
+    pub.label = _tt.label ? _tt.label : undefined;
+    pub.startTime;
+    pub.elapsedTime  = _tt.elapsedTime ? _tt.elapsedTime : undefined;
+    pub.isDebug = false;
+    
+    if (window.blogoUtils && window.blogoUtils.cookie) {
+        pub.isDebug = (window.blogoUtils.cookie('debugTrackTiming')) ? true : false;
+    }
+
+    pub.startTracking = function() {
+        pub.startTime = new Date().getTime();
+        return pub;
+    };
+
+    pub.endTracking = function() {
+        pub.elapsedTime = new Date().getTime() - pub.startTime;
+        return pub;
+    };
+
+    pub.debug = function(opt_enable) {
+        pub.isDebug = (typeof opt_enable == "undefined") ? true : opt_enable;
+        return pub;
+    };
+
+    pub.setCallback = function(_callback) {
+        pub.userCallback = _callback;
+        return pub;
+    }
+
+    pub.loadCallback = function() {
+        pub.endTracking().send();
+        if (pub.userCallback)
+            pub.userCallback();
+        return pub;
+    }
+
+    pub.send = function() {
+      if (window._gaq &&
+              pub.method &&
+              pub.category &&
+              pub.variable &&
+              !pub.disabled) {
+          if (0 < pub.elapsedTime && pub.elapsedTime < pub.MAX_TIME) {
+
+              var command = [pub.method, pub.category, pub.variable,
+                             pub.elapsedTime, pub.label];
+
+              if (pub.isDebug) {
+                // Override sample rate if debug is enabled.
+                command.push(100);
+
+                if (window.console && window.console.log) {
+                   console.log(command);
+                }
+              }
+              window._gaq.push(command);
+          }
+       }
+       return pub;
+    };
+    
+    return pub;
+}
+
+
+
+</script>
+
+    <!--[if lt IE 9]>
+        <script src="http://static-q.blogo.it/s/sf/js/html5shiv.js?1261"></script>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+
+   
+           <script src="http://static-q.blogo.it/s/sf/_assetic/head_asset.js?1261"></script>
+        
+
+ 
+   
+<script type="text/javascript">
+var head_asset_js = head_asset_js || [];
+var url_index = 0;
+
+var loadJsQueue = function() {
+	if (head_asset_js.length == 0)
+		return;
+    var js, fjs = document.getElementsByTagName('head')[0], src = head_asset_js[0];
+    url_index++;
+    head_asset_js.shift();
+    if (document.getElementById('head_asset_js_populis_'+url_index)) return;
+    js = document.createElement('script'); js.id = 'head_asset_js_populis_'+url_index; js.type = 'text/javascript'; js.defer = true; js.async = true;
+    window.blogoLoaderInstance.handleEvent(js, loadJsQueue, "load");
+    js.src = src;
+    fjs.appendChild(js);
+};
+
+loadJsQueue(document, 'script', 'head_asset_js_populis', head_asset_js);
+
+</script>
+
+<script>
+   if( self != top ) { top.location = self.location ; }
+</script>
+
+
+
+<script type='text/javascript'>
+    var crtg_nid = '612';
+    var crtg_cookiename = 'rta_pops';
+    var crtg_varname = 'content_pops';
+    
+    function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+
+    var content_pops = crtg_getCookie(crtg_cookiename);
+    var crtg_rnd=Math.floor(Math.random()*99999999999);
+    
+    (function(){
+        var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+        crtg_url +='&cookieName='+escape(crtg_cookiename);
+        crtg_url +='&rnd='+crtg_rnd;
+        crtg_url +='&varName=' + escape(crtg_varname);
+        var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+        if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+        else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+    })();
+</script>
+    
+
+    
+
+    <script type="text/javascript">
+        var visitorInfo = getVisitorInfo();
+
+        function track_acq_OAS(OAS_query) {
+            if (typeof blogoUtils != 'undefined' && blogoUtils.cookie) {
+                // Take a look at query string
+                var OAS_source = (!blogoUtils.cookie('OAS_source')) ? blogoUtils.extractParamFromUri(document.location.href, 'source') : blogoUtils.cookie('OAS_source');
+                var OAS_utm_medium = (!blogoUtils.cookie('OAS_utm_medium')) ? blogoUtils.extractParamFromUri(document.location.href, 'utm_medium') : blogoUtils.cookie('OAS_utm_medium');
+                var date = new Date();
+                // Five minutes...
+                date.setTime(date.getTime() + (5 * 60 * 1000));
+
+                if (OAS_source) {
+                    OAS_query += '&source='+ encodeURIComponent(OAS_source);
+                    if (!blogoUtils.cookie('OAS_source'))
+                        blogoUtils.cookie('OAS_source', OAS_source, { expires : date, path : '/' });
+                }
+                if (OAS_utm_medium ) {
+                    OAS_query += '&utm_medium='+ encodeURIComponent(OAS_utm_medium);
+                    if (!blogoUtils.cookie('OAS_utm_medium'))
+                        blogoUtils.cookie('OAS_utm_medium', OAS_utm_medium, { expires : date, path : '/' });
+                }
+            }
+            return OAS_query;
+        }
+        var poslist = '';
+
+        var call_populis_adserver = {};
+        call_populis_adserver.OAS_adstream = 4;
+        call_populis_adserver.OAS_listpos = poslist;
+        call_populis_adserver.enableDocumentWrite =  false ;
+
+        call_populis_adserver.calladserver = function () {
+            var pub = this;
+            //var is_mobile = ;
+            
+            pub.OAS_url = 'http://oas.populisengage.com/';
+                                                                  pub.OAS_sitepage_base = 'www.blogosfere.it/serialtv';
+            pub.OAS_sitepage_type = 'homepage';
+            var P_tags = '';
+            var P_categories = '';
+            var P_search_js = 'false';
+            var P_geo_country = '';
+            var P_geo_region = '';
+            var P_geo_district = '';
+            var P_geo_city = '';
+            var P_geo_nielsenarea = '';
+            var OAS_query = '?kw=' + encodeURIComponent(location.href) ;
+            OAS_query += '&_RM_HTML_GOOGLEADEX_=yes';
+            OAS_query += '&country=' + encodeURIComponent(P_geo_country) + '&region=' + encodeURIComponent(P_geo_region) + '&district=' + encodeURIComponent(P_geo_district);
+            OAS_query += '&city=' + encodeURIComponent(P_geo_city) + '&nielsenarea=' + encodeURIComponent(P_geo_nielsenarea);
+            OAS_query += '&tags=' + P_tags + '&cat=' + P_categories + '&search_js=' + P_search_js+'&_RM_HTML_SEOTRAFFIC_='+P_search_js+'&seo='+P_search_js;
+            OAS_query += '&cookie_enabled=' + navigator.cookieEnabled;
+            if (typeof populis_engage_rich_media != 'undefined' && populis_engage_rich_media == 'yes') {
+                OAS_query += '&_RM_HTML_POPULISRICHMEDIA=yes';
+            }
+                            if (typeof content_pops != 'undefined') { 
+                    OAS_query += content_pops; 
+                }
+                        
+            
+            
+            var OAS_target = '_top';
+            //end of configuration
+            var OAS_rn = new String (Math.random());
+            var OAS_rns = OAS_rn.substring (2, 11);
+
+            OAS_query = track_acq_OAS(OAS_query);
+
+            pub.OAS_query = OAS_query;
+
+            pub.OAS_sitepage_base.replace(/\/$/, '');
+            pub.OAS_sitepage_type.replace(/\/$/, '');
+            if (pub.OAS_sitepage_base && pub.OAS_sitepage_base.indexOf(' ') < 0 && pub.OAS_sitepage_type && pub.OAS_sitepage_type.indexOf(' ') < 0)
+            {
+                var sdw ='<sc'+'ript type="text/javascript" src="' + pub.OAS_url + pub.OAS_adstream + '/' + pub.OAS_sitepage_base + '/' + pub.OAS_sitepage_type + '/1' + OAS_rns + '@' + pub.OAS_listpos + OAS_query + '"></scr' + 'ipt>';
+                if (pub.enableDocumentWrite) {
+                    document.write(sdw);
+                } else {
+                    return sdw;
+                }
+            }
+            return '';
+        }
+        call_populis_adserver.calladserver();
+        
+            
+    </script>
+
+
+</head>
+
+<body class="it_IT  blogosfere entertainment serialtv">
+    <div id='blogo_mmenu_container'>
+
+    <div id="gap-skin">
+        <div id="gap-skin-dummy"></div>
+        <div id="gap-skin-element"></div>
+    </div>
+
+    <div id="all-page">
+        <div id="fb-root"></div>
+
+
+
+
+    <div class="adv a-top" id="campain">
+
+
+    </div>
+            <header id="header" class="populis-skin wrapper" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+    <a id="nav-btn" href="#main-menu-resp"><i class="icon-menu"></i></a>
+
+    <div class="logo-box">
+       
+
+                <a href="http://serialtv.blogosfere.it?utm_source=serialtv&amp;utm_medium=main_logo&amp;utm_campaign=headers_new" title="serialtv" class="logo-vertical" style="background-image:url(http://static-q.blogo.it/s/sf/img/loghi/serialtv.png?1261)">serialtv</a>
+
+
+                    <a href="http://www.blogo.it/entertainment" title="Blogo.it" class="logo">blogo</a>
+            <h5 class="slogan">entertainment</h5>
+        
+
+    </div>
+    <div class="oas-adv manchette-left">
+            </div>
+    <div class="oas-adv manchette-right">
+            </div>
+    <div id="search">
+        <form action="/cerca" method="get" role="search">
+            <i class="icon-search"></i>
+            <input type="text" class="srch-inpt" name="searchkeyword" placeholder="Cerca...">
+        </form>
+    </div>
+    <div id="profile-btn">
+        <i class="icon-profile"></i>
+    </div>
+
+    
+            <!-- Nav blogo-->
+        <nav id="nav" role="navigation" class="dropdown-menu">
+            <ul class="top-menu">
+                <li>
+                    <a href="http://www.blogo.it" title="">HOME</a>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/news?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">NEWS</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-news"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/news?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a></li>
+                        <li><a href="http://www.polisblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Politica</a></li>
+                        <li><a href="http://www.managementnotes.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Management Notes</a></li>
+                        <li><a href="http://cronacaeattualita.blogosfere.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Attualita'</a></li>
+                        <li><a href="http://www.crimeblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Cronaca</a></li>
+                        <li><a href="http://www.soldiblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Finanza personale</a></li>
+                        <li><a href="http://scienzaesalute.blogosfere.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Scienza e salute</a></li>
+                        <li><a href="http://www.ecoblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Ecologia</a></li>
+                        <li><a href="http://www.02blog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Milano</a></li>
+                        <li><a href="http://www.06blog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Roma</a></li>
+                    </ul>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/sport?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">SPORT</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-sport"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/sport?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a></li>
+                        <li><a href="http://www.calcioblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Calcio</a></li>
+                        <li><a href="http://rugby1823.blogosfere.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Rugby</a></li>
+                        <li><a href="http://www.outdoorblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Altri Sport</a></li>
+                        <li class="parent">
+                            <a>Magazines<i class="icon-arrow-menu-item"></i></a>
+                            <ul>
+                                <li><a href="http://www.blogo.it/sport/special/mondiali-brasile-2014?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="Mondiali Brasile 2014">MONDIALI BRASILE 2014</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/entertainment?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">ENTERTAINMENT</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-entertainment"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/entertainment?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a></li>
+                        <li><a href="http://www.tvblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">tv</a></li>
+                        <li><a href="http://realityshow.blogosfere.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Reality</a></li>
+                        <li><a href="http://www.cineblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Cinema</a></li>
+                        <li><a href="http://www.soundsblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Musica</a></li>
+                    </ul>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/lifestyle?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">LIFESTYLE</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-lifestyle"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/lifestyle?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a></li>
+                        <li><a href="http://www.travelblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Viaggi</a></li>
+                        <li><a href="http://www.designerblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Design</a></li>
+                        <li><a href="http://www.artsblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Arte</a></li>
+                        <li><a href="http://www.booksblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Libri</a></li>
+                        <li><a href="http://www.comicsblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Comics</a></li>
+                        <li><a href="http://www.toysblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Toys</a></li>
+                        <li><a href="http://www.petsblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Animali</a></li>
+                        <li><a href="http://www.happyblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Satira</a></li>
+                        <li><a href="http://www.queerblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Cultura Gay</a></li>
+
+                    </ul>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/tecnologia?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">TECNOLOGIA</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-tecnologia"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/tecnologia?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a>
+                        </li>
+                        <li><a href="http://www.melablog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Apple</a></li>
+                        <li><a href="http://www.gamesblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Games</a></li>
+                        <li><a href="http://www.gadgetblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Gadget</a></li>
+                        <li><a href="http://www.clickblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Fotografia</a></li>
+                        <li><a href="http://www.mobileblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Mobile</a></li>
+                        <li><a href="http://www.downloadblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Geek</a></li>
+                    </ul>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/motori?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">MOTORI</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-motori"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/motori?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a></li>
+                        <li><a href="http://www.autoblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Auto</a></li>
+                        <li><a href="http://www.motoblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Moto</a></li>
+                        <li><a href="http://www.motorsportblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Motor sport</a></li>
+                    </ul>
+                </li>
+                <li class="parent">
+                    <a href="http://www.blogo.it/donna?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">DONNA</a>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-donna"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/donna?utm_source=topmenu_copertina&amp;utm_medium=serialtv&amp;utm_campaign=menu">Copertina<i class="icon-menu-home"></i></a></li>
+                        <li><a href="http://www.fashionblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Moda</a></li>
+                        <li><a href="http://styleandfashion.blogosfere.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Style</a></li>
+                        <li><a href="http://www.deluxeblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Lusso</a></li>
+                        <li><a href="http://beautynews.blogosfere.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Bellezza</a></li>
+                        <li><a href="http://www.benessereblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Benessere</a></li>
+                        <li><a href="http://www.gustoblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Cucina</a></li>
+                        <li><a href="http://www.bebeblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Bambini</a></li>
+                        <li><a href="http://vitadicoppia.blogosfere.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Vita di Coppia</a></li>
+                        <li><a href="http://www.pinkblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Mood e Tendenze</a></li>
+                        <li><a href="http://www.gossipblog.it/?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Gossip</a></li>
+                        <li class="parent">
+                            <a href="http://www.pinkblog.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu">Magazines<i class="icon-arrow-menu-item"></i></a>
+                            <ul>
+                                <li><a href="http://www.blogo.it/donna/special/tendenze-colori-moda-2014-blu-arancione?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="Tendenze colori 2014">TENDENZE COLORI 2014</a></li>
+                                <li><a href="http://www.blogo.it/donna/special/la-moda-denim-nei-musical-e-nel-cinema?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="A passo di Denim">A PASSO DI DENIM</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="parent">
+                    <a href="http://tv.blogo.it?utm_source=topmenu&amp;utm_medium=serialtv&amp;utm_campaign=menu" title="">BLOGO TV</a>
+                    <i class="border-menu-item color-blogotv"></i>
+                </li>
+
+                <li class="parent">
+                    <span>SPECIALI</span>
+                    <i class="border-white"></i>
+                    <i class="border-menu-item color-speciali"></i>
+                    <ul>
+                        <li><a href="http://www.blogo.it/speciali/immobiliare/">Immobiliare</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav> 
+        <!-- End nav blogo-->
+    
+
+    <div class="line-channel color-entertainment wrapper"></div>
+
+
+    <!-- Menu Profile -->
+    <nav id="nav-profile" class="tooltip-menu" style="display:none">
+        <span class="icon-arrow-menu"></span>
+        <ul id='connectButtonNone' class="menu-container">
+            <li class="loading-menu"></li>
+        </ul>
+    </nav><!-- End menu profile-->
+</header><!-- End Header-->
+
+    <!-- Mini header-->
+    <div id="mini-header" class="wrapper">
+        <div>
+            <a href="http://serialtv.blogosfere.it?utm_source=serialtv&amp;utm_medium=main_logo&amp;utm_campaign=headers_new" title="serialtv" class="logo-vertical" style="background-image:url(http://static-q.blogo.it/s/sf/img/loghi/serialtv.png?1261)">serialtv</a>
+            <!-- Nav varticale -->
+                    <nav id="main-menu" role="navigation">
+            <ul class="menu-section">
+  
+                                            <li                  >
+                    <a href="http://serialtv.blogosfere.it/" title=""  >NEWS</a>
+                </li>
+                                                            <li                  >
+                    <a href="http://serialtv.blogosfere.it/gallerie/" title=""  >GALLERIE</a>
+                </li>
+                                                            <li                  >
+                    <a href="http://serialtv.blogosfere.it/videos/" title=""  >VIDEO</a>
+                </li>
+                                        </ul>
+
+        </nav>
+
+
+            <!-- End nav varticale -->
+        </div>
+    </div><!--End mini header-->
+        <div id="container" class="wrapper container">
+        <div class="row">
+            <div class="twelve col">
+                <div class="adv a-970x50">
+                                </div>
+                            </div>
+        </div>
+		<div class="row">
+            <div class="twelve col" id="main" role="main">
+				<div class="clearfix"></div>
+				<div class="errormessage">
+					<img src="http://static-q.blogo.it/s/sf/img/error.png" alt="pagina non trovata" />
+					<h1>Ops, pagina non trovata</h1>
+					<p>La pagina che hai richiesto non esiste.</p>
+					<p><a href="http://serialtv.blogosfere.it">Vai alla Home page</a></p>
+				</div>
+			</div>
+		</div>
+
+    </div>
+                <footer class="wrapper color-entertainment" id="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+
+                    
+            
+        <div class="row">
+
+                <ul class="footer-pages small eight col">
+                    <li><a href="http://serialtv.blogosfere.it/static/chi-siamo">Chi siamo</a></li>
+                    <li><a href="http://serialtv.blogosfere.it/static/contatti">Contatti</a></li>
+                                        <li><a href="http://blogosfere.it/disclaimer.html" targhet="_blank">Condizioni d'utilizzo</a></li>
+                    <li><a href="http://blogosfere.it/privacy.html" targhet="_blank">Privacy</a></li>
+                    <li><a href="http://serialtv.blogosfere.it/mappa/#archivio">Archivi</a></li>
+                    <li><a href="http://serialtv.blogosfere.it/mappa/#categorie">Categorie</a></li>
+                                    </ul>
+                <div class="four col">
+                    <ul class="social-icons social-big small">
+                        
+                        <li>
+                            <a href="http://serialtv.blogosfere.it/rss2.xml"  target="_blank" title="rss"><i class="icon-rss"></i></a>
+                        </li>
+                                                <li>
+                            <a href="http://www.facebook.com/BlogoNews" target="_blank" title="facebook"><i class="icon-facebook"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="http://twitter.com/Blogosfere" target="_blank" title="twitter"><i class="icon-twitter"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="https://itunes.apple.com/us/app/blogo/id338231723?ls=1&amp;mt=8" target="_blank" title="iphone"><i class="icon-apple"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="https://play.google.com/store/apps/details?id=it.blogo.blogo&amp;referrer=utm_source%3Dverticali_blogo%26utm_medium%3DFooter%26utm_content%3Dserialtv%26utm_campaign%3Dpromoapp" target="_blank" title="play store"><i class="icon-android"></i></a>
+                        </li>
+                                                                                                                        <li>
+                            <a href="https://play.google.com/store/newsstand/news/Blogo_Entertainment?id=CAowoIKeCQ" target="_blank" title="Google Edicola"><i class="icon-edicola"></i></a>
+                        </li>
+                                                
+                    </ul>
+
+                    <p class="footer-text small">© 2004-2014 Blogo.it, tutti i diritti riservati.<br>
+                    Per informazioni pubblicitarie e progetti speciali su Blogo.it contattare la concessionaria esclusiva <a target="_blank" href="http://populis.com/contacts/">Populis Engage</a>.</p>
+                </div>
+
+        </div>
+                 <div class="row">
+            <div class="twelve">
+                <hr>
+            </div>
+        </div>
+        <div class="row">
+            <div class="twelve col">
+                                <p class="small bottom-footer-text">Serialtv.blogosfere.it fa parte del canale Blogo Entertainment ed è un supplemento alla testata Blogo.it registrata presso il Tribunale di Milano n. 487/06, P. IVA 04699900967.</p>
+                            </div>
+        </div>
+            </footer>
+    
+
+
+<div id="x66" class="adv a-video"></div>
+
+<script>
+
+    var lazyLoadCallback = function() {
+        var width = $(this).width();
+        var height = $(this).height();
+        var ratio = 0;
+        if (height > 0 && width > 0)
+            ratio = width/height;
+        if (width < 620 && width > 530 && height > 0) {
+            $(this).attr('width', 620);
+            $(this).attr('height', height*(620/width));
+        }
+    };
+    
+    var enableLazyLoad = function() {
+        if (window.jQuery && window.jQuery.fn.lazyload) {
+            $("img.lazy").lazyload({
+            	load: lazyLoadCallback,
+                skip_invisible  : false,
+                effect : "fadeIn",
+                failure_limit: 999,
+                threshold: 500
+            });
+        }
+    }
+    
+    if (window.blogoLoaderInstance) {
+        window.blogoLoaderInstance.addOnLoadQueue({
+         // Mandatory parameter
+            'name' : 'search_and_checkSkin',
+            'execute': function() {
+
+                enableLazyLoad();
+                
+                $("#search > form").submit(function(e) {
+                    var enter_search = $("#search > form > input").val().trim();
+                    var hint_search = 'Cerca...';
+                    if(enter_search === "" || enter_search == hint_search) {
+                        e.preventDefault();
+                        $("#search > form > input").val(hint_search);
+                    }
+                });
+                
+                searchBoxSlideEffects();
+
+                setTimeout(checkSkin, 100);
+                $(".pinterest-button:first").html(pint_btn($("div .articolo")));
+
+                var players = $('.video-container');
+                var video_description = '';
+                if ($('meta[property="og:description"]').length > 0)
+                   video_description = $('meta[property="og:description"]').attr('content');
+                
+                try {
+                    $.each(players, function(index, video) {
+                        var div_id = null;
+                        var video_id = $(video).attr('data-video-id');
+                        var video_provider = $(video).attr('data-video-provider');
+                        var video_title = $(video).attr('data-video-title');
+                        var video_thumb = $(video).attr('data-video-thumb');
+                        var video_number = $(video).attr('data-video-number');
+                        if (video_id && video_provider == 'bitsontherun') {
+                            video_id = video_id.replace('-', '_');
+                            div_id = 'botr_'+video_id+'_ply';
+                        }
+                        if (video_id && video_provider == 'youtube') {
+                        	div_id = 'wrapped_'+video_provider+'_'+video_id+'_'+video_number;
+                        }
+                        if (div_id) {
+                        jwplayer(div_id).addButton(
+                                "http://static-q.blogo.it/s/sf/img/jwplayer/Facebook_logo_white_32px.png",
+                                "Facebook",
+                                function() {
+                                    
+                                    var URL = 
+                                                                        'https://www.facebook.com/dialog/feed?'+
+                                                                              'app_id=100885876666546&'+
+                                          'link='+encodeURIComponent(location.href)+'&'+
+                                          'picture='+encodeURIComponent(video_thumb)+'&'+
+                                          'name='+encodeURIComponent(video_title)+'&'+
+//                                          'caption='+encodeURIComponent(video_title)+'&'+   
+                                          'description='+encodeURIComponent(video_description)+'&'+
+                                          'redirect_uri='+encodeURIComponent(location.href);
+                                                                                    var strWindowFeatures = "location=yes,height=500,width=1000,scrollbars=yes,status=yes";
+                                                                                var win = window.open(URL, "_blank", strWindowFeatures);
+                                },
+                                "Facebook"
+                            );
+                            jwplayer(div_id).addButton(
+                                "http://static-q.blogo.it/s/sf/img/jwplayer/Twitter_logo_white_32px.png",
+                                "Twitter",
+                                function() {
+                                    var URL = 'https://twitter.com/intent/tweet?original_referer='+encodeURIComponent(location.href)+'&text='+encodeURIComponent(video_title)+'&tw_p=tweetbutton&url='+encodeURIComponent(location.href)+'&via=Blogosfere';
+                                                                        var strWindowFeatures = "location=yes,height=800,width=800,scrollbars=yes,status=yes";
+                                                                        var win = window.open(URL, "_blank", strWindowFeatures);
+                                },
+                                "Twitter"
+                            );
+                        }
+                    });
+                }
+                catch (e) {
+                    if (window.console)
+                        window.console.log(e);
+                }
+                
+            }
+         // Optional parameters
+         // 'params' : { param1:100 },
+         // Optional parameter, set the priority order, default priority is 999999
+         // 'priority': 100,
+         // Optional parameter, default will be always executed on load
+         // 'context' : ['post', 'video', 'gallery']
+        });
+    }
+
+    </script>
+ 
+<script>
+
+    // Adserver script inclusion
+    (function(d, t) {
+      var lp_firstrefer = blogoUtils.cookie('lp_firstrefer');
+      if ( lp_firstrefer && lp_firstrefer != 'direct' ) {
+        var ad_src = getAdServerUrl('blogosfere', 'serialtv', 'it');
+        if (!ad_src) return;
+        var p = d.createElement(t),
+            s = d.getElementsByTagName(t)[0];
+        p.src = ad_src;
+        s.parentNode.insertBefore(p, s);
+      }
+    })(document, 'script');
+
+    var loadFBActivities = function(window, $, FB) {
+        var communitySettings = {
+                config : {
+                                        site_address : 'http://serialtv.blogosfere.it/',
+                    action : 'news.reads',
+                    obj : 'article',
+                    app_id : '100885876666546',
+                    app_scope: 'publish_actions,email,user_birthday,user_hometown,user_location,user_photos',
+                    sharingMessageReminder : 'Abilita condivisione manuale',
+                    messageLogin : 'Entra',
+                    messageLogout : 'Esci',
+                    messageRegister : 'Registrati',
+                    messageShare : 'Condividi',
+                    messageEmptyList : "Nessun articolo nel tuo Diario.",
+                    messageAdd : "Aggiungi questo articolo al tuo Diario.",
+                    messageRemove : "Rimuovi questo articolo dal tuo Diario.",
+                    messageRemoveError : "Errore: Impossibile rimuovere l'oggetto dal Diario.",
+                    messageTabArticles : "Articoli Letti",
+
+                    messageSettings : 'Impostazioni',
+                    messageProfile : 'Profilo',
+                    messageSharingOn : 'Gli articoli letti verranno condivisi automaticamente su Facebook',
+                    messageSharingOff : 'Dovrai condividere gli articoli manualmente',
+                    messageBtnOn : 'ON',
+                   	messageBtnOff : 'OFF',
+
+                   	messageFewSecondsAgo: 'qualche secondo fa',
+                    messageMinuteAgo: '1 minuto fa',
+                    messageMinutesAgo: ' minuti fa',
+                    messageHourAgo: '1 ora fa',
+                    messageHoursAgo: ' ore fa',
+                    messageYesterday: 'Ieri',
+                    messageDaysAgo: ' giorni fa',
+                    messageWeeksAgo: ' settimane fa',
+                    messageBtnComment: 'Commenta',
+                    messageBtnModerate : 'Modera',
+                    messageVoteAuthRequired : "Per votare devi prima autenticarti, tra pochi secondi sarai rediretto alla pagina di login.",
+                    messageVoteVoting : 'Votazione in corso. Attendere prego...',
+                    messageVoteVoted : 'Attenzione: il tuo voto è stato già registrato.',
+                    messageVoteRegistered : 'Grazie, il tuo voto è stato registrato correttamente.',
+                    messageVoteError : 'Attenzione: si è verificato un errore durante la votazione.',
+                    messageVoteLabelBased : 'basato ',
+                    messageVoteLabelOn : 'su ',
+                    messageVoteLabelVotes : 'voti',
+                    messageCommunityRegister : 'registrati',
+                    messageCommunityProfile : 'profilo/condivisioni',
+                    messageCommunitySetting : 'impostazioni',
+
+                    articlesPerPages : 4,
+                    maxTitleLength : 8000,
+                    frictionlessSharingEnabled : 1,
+                    frictionlessSharingTimeout : 10000,
+                    loggedIn :  false                     }
+                };
+        window.fbActivities = new FBActivities(window, $, FB);
+        window.fbActivities.init( communitySettings );
+    }
+    
+    setTimeout(function(){
+
+      window.fbAsyncInit = function() {
+          FB.init({
+            appId      : '100885876666546', // App ID
+            channelURL : 'http://serialtv.blogosfere.it/channel.php', // Channel File
+            status     : true, // check login status
+            cookie     : true, // enable cookies to allow the server to access the session
+            oauth      : true, // enable OAuth 2.0
+            xfbml      : true  // parse XFBML
+          });
+//          FB.Event.subscribe('comment.create', on_fb_comment_create);
+          loadFBActivities(window, $, FB);
+      };
+    window.blogoLoaderInstance.loadJs(document,
+            { 'src' : "//connect.facebook.net/it_IT/all.js"
+             ,'type' : 'text/javascript'
+             ,'async' : true
+             ,'defer' : true
+             ,'id' : 'facebook-jssdk'
+                          });
+  }, 4000);
+
+  
+// SOCIAL ASSETS
+    </script>
+
+<script type="text/javascript">
+  
+  var _gaq = _gaq || [];
+  _gaq.push(
+    ['gaGlobal._setAccount', 'UA-19778070-1']
+    ,['gaGlobal._setAllowLinker', true]
+    ,['gaGlobal._trackPageview']
+
+
+
+            ,['gaLocal._setAccount', 'UA-54491-2']
+        ,['gaLocal._setAllowLinker', true]
+    ,['gaLocal._trackPageview']
+
+ 
+              
+  );
+  (function() {
+    // var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    _src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    window.blogoLoaderInstance.loadJs(document,
+       { 'src' : _src
+        ,'type' : 'text/javascript'
+        ,'async' : true
+                });
+    // var s = document.getElementsByTagName('script')[0];
+    // s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+ 
+
+<script type="text/javascript">
+  // Google Analytics ScrollDepth script call
+  $(function() {
+      $.scrollDepth({profile: 'gaLocal'});
+  });
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MBBNGC" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBBNGC');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035239" });
+  (function() {
+    // var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    _src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    // el.parentNode.insertBefore(s, el);
+    window.blogoLoaderInstance.loadJs(document,
+        { 'src' : _src
+         ,'type' : 'text/javascript'
+         ,'async' : true
+                  });
+  })();
+</script>
+<noscript>
+    <img
+        src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035239&amp;cv=2.0&amp;cj=1" />
+</noscript>
+
+    <!-- Start User-Sync stickyads   -->
+    <img src="http://ads.stickyadstv.com/auto-user-sync" height="1" width="1">
+    <!-- End User-Sync stickyads   -->
+
+<script>
+var loadPstatManager = function() {
+    setTimeout(function(){
+        window.pstatManager = new PStatManager(window);
+/*
+        (function(d, s, id, url) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id; js.type = 'text/javascript'; js.defer = true; js.async = true; js.src = url;
+            fjs.parentNode.insertBefore(js, fjs);
+        })(document, 'script', 'pstatmanager-js-populis', 'http://pstats.populisengage.com/RealMedia/ads/adstream_dx.ads/jsonp/pstats.blogo.it/entertainment/@x66?_RM_HTML_CALLBACK_=pstatManager.callback');
+*/
+          window.blogoLoaderInstance.loadJs(document,
+          { 'src' : 'http://pstats.populisengage.com/RealMedia/ads/adstream_dx.ads/jsonp/pstats.blogo.it/entertainment/homepage@x66?_RM_HTML_CALLBACK_=pstatManager.callback'
+            ,'type' : 'text/javascript'
+            ,'async' : true
+            ,'defer' : true
+            ,'type' : 'text/javascript'
+            ,'id' : 'pstatmanager-js-populis'
+                        });
+    }, 4000);
+  }
+
+if (window.blogoLoaderInstance) {
+    window.blogoLoaderInstance.addOnLoadQueue({
+     // Mandatory parameter
+        'name' : 'loadPstatManager',
+        'execute': loadPstatManager
+     // Optional parameters
+     // 'params' : { param1:100 },
+     // Optional parameter, set the priority order, default priority is 999999
+     // 'priority': 100,
+     // Optional parameter, default will be always executed on load
+     // 'context' : ['post', 'video', 'gallery']
+    });
+}
+</script>
+ <!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+    var google_conversion_id = 1003336074;
+    var google_conversion_label = "i99gCJbMxgMQiuO23gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    </script>
+<div style="display:none">
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+<noscript>
+    <div style="display: inline;">
+        <img height="1" width="1" style="border-style: none;" alt=""
+            src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003336074/?value=0&amp;label=i99gCJbMxgMQiuO23gM&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+
+
+
+
+
+
+<!-- 10.0.96.131  -->
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="http://secure-it.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+ var pvar = { cid: "populis-it", content: "0", server: "secure-it" };
+ var feat = { check_cookie: 0 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post();
+</script>
+<noscript><div><img src="http://secure-it.imrworldwide.com/cgi-bin/m?ci=populis-it&amp;cg=0&amp;cc=0&amp;ts=noscript" width="1" height="1" alt="" /></div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</div>
+</body>
+</html>

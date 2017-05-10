@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html>
+<head>
+	    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="~/css/style.css">
+		<link rel="stylesheet" type="text/css" href="~/css/default.css">
+        <link rel="stylesheet" type="text/css" href="~/css/flexslider.css">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="~/css/ie.css">
+		<![endif]-->
+	    <title>Julia Failey Eco Friendly Jewelry Boutique REQUESTED PAGE NOT FOUND ERROR</title>
+        <meta name="description" content="Julia Failey Jewelry REQUESTED PAGE NOT FOUND ERROR" />
+</head>
+<body>
+   <br><br><br><br><br><br>
+   <div class="container">
+	   <div class="row">
+		    <div class="span15" style="text-align:center;">
+              <br><br><br><img src='http://www.juliafailey.com/images/email/JF-Logo-NEW.png' alt="juliafailey.com"><br><br>
+		      <h2>REQUESTED PAGE NOT FOUND</h2>
+                    <br><br>
+                    <p class="text_about">We are so sorry, the page you requested was not found.<br><br>
+                    <a href="https://www.juliafailey.com">Return To JuliaFailey.com</a>
+                    <br><br><br><br>
+                    If you have any questions, please feel free to contact us at 
+<script  type="text/javascript">
+<!-- Begin
+id="info";
+website="juliafailey.com";
+
+document.write(' <b><a style="color:#FFBB00" href=\"mailto:' + id + '&#64;' + website + ' \">');
+document.write(id + '&#64;' + website + '</a></b>');
+// End-->
+</script>
+                    . </p>
+                    <br><br><br><br>
+			</div>
+		</div>
+	</div>	
+</body>
+</html>

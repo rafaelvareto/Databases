@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Seite nicht gefunden - Fehler 404</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+	<meta name="robots" content="index,follow,noarchive" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta name="description" content="Seite nicht gefunden - Fehler 404 - Pressemitteilungen kostenlos einstellen und ver&ouml;ffentlichen." />
+	<meta name="keywords" content="Impressum,Firmendaten,fair-NEWS,Pressemitteilungen,PR Portale,Presseverteiler,Pressemeldungen,Pressemitteilung kostenlos" />
+	<meta name="author" content="(c) fair-NEWS.de - Klaus P. Lewohn" />
+	<meta name="publisher" content="fair-NEWS.de" />
+	<meta name="copyright" content="fair-NEWS.de" />
+	<meta name="page-type" content="News, Pressemitteilungen" />
+	<meta http-equiv="language" content="de" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="y_key" content="7666b4a4ad1a3dda" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+	<link rel="alternate" type="application/rss+xml" title="XML/RSS: Pressemitteilungen News-Feed" href="http://feeds.feedburner.com/fair-news_gesamt" />
+	<base href="http://www.fair-news.de" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="ie.css" /><![endif]-->	
+	<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+	</script>
+	<script type='text/javascript'>
+		GS_googleAddAdSenseService("ca-pub-6390824854589956");
+		GS_googleEnableAllServices();
+	</script>
+	<script type='text/javascript'>
+		GA_googleAddSlot("ca-pub-6390824854589956", "fair-NEWS_Allgemein_300x250");
+		GA_googleAddSlot("ca-pub-6390824854589956", "fair-NEWS_Allgemein_336x280");
+		GA_googleAddSlot("ca-pub-6390824854589956", "fair-NEWS_Allgemein_728_90");
+	</script>
+	<script type='text/javascript'>
+		GA_googleFetchAds();
+	</script>
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js">  
+		{lang:'de'}  
+	</script>	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+<script src="js/jquery-1.2.6.min.js" type="text/javascript"></script>
+	
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		function einblenden(div) {
+		  with(document.getElementById(div).style){
+		if(display=="none"){
+		display="inline";
+		}
+		else{
+		display="inline";
+		}
+		}
+	}
+		function ausblenden(div) {
+		  with(document.getElementById(div).style){
+		if(display=="inline"){
+		display="none";
+		}
+		else{
+		display="non";
+		}
+		}
+	}
+	-->
+	</script>
+
+</head>
+<body>
+
+
+<!-- begin wrapper -->
+<div id="wrapper">
+  <!-- begin header -->
+  <div id="header">
+    <!-- begin logo -->
+    <div class="logo">
+      <a rel="nofollow" href="/" title="Presseportal fair-NEWS.de - STARTSEITE"><img src="images/fn_logo_trans.gif" style="border:0px;" alt="Das kostenlos nutzbare Presseportal - Pressemeldungen online ver&ouml;ffentlichen" />
+      <br /><span style="padding-left:15px;">Das kostenlos nutzbare Presseportal</span></a>
+    </div>
+    <!-- end logo -->
+
+ <div style="position:absolute;top:45px;margin-left:380px;">
+       <div class="g-plusone"></div>
+</div>
+ <div style="position:absolute;top:70px;margin-left:377px;">
+       <script>
+	   var initurl = 'http://www.obin.de/';
+	   var obin; obin = { button : function(json){ document.write("<iframe src="+json['init']+"like.php?url=http://"+json['host']+"/ frameborder=0 height=32 scrolling=no></iframe>"); } }
+	   obin.button({ host : window.location.hostname, init : initurl });
+	</script>
+</div>
+
+
+    <!-- begin search -->
+	<form action="http://www.fair-news.de/gsuche.php" id="cse-search-box" class="topsearch">
+	  <div>
+	    <input type="hidden" name="cx" value="partner-pub-6390824854589956:3674600233" />
+	    <input type="hidden" name="cof" value="FORID:10" />
+	    <input type="hidden" name="ie" value="UTF-8" />
+	    <input class="ip" type="text" name="q" size="10" />
+	    <input type="image" src="images/blank.gif" style="margin-right:0px;width:50px;height:29px;border:0;" name="sa" alt="Suchen" />
+	  </div>
+	</form>
+	<script type="text/javascript" src="http://www.google.de/coop/cse/brand?form=cse-search-box&amp;lang=de"></script>
+<div class="break"></div>
+
+
+    <!-- end search -->
+    <!-- begin pages -->
+    <ul class="pages">
+      <li><a rel="nofollow" href="/" title="Zur Startseite">Home</a></li>
+      <li><a rel="nofollow" href="/premium.php" title="N&uuml;tzliche und hilfreiche Zusatz-Services f&uuml;r Ihre Pressearbeit">PR-Shop</a></li>
+      <li><a rel="nofollow" href="/ashop.php" title="Bequem bestellen im Amazon-Shop von fair-NEWS">Amazon-Shop</a></li>
+      <li><a rel="nofollow" href="/videos/3338" title="Videos zum aktuellen Geschehen / Video-News">Videos</a></li>
+      <li><a rel="nofollow" href="/abo.php" title="Abonnieren Sie den kostenlosen, t&auml;glichen Newsletter">Akkreditierung</a></li>
+      <li><a rel="nofollow" href="/media.php" title="Alles zur Nutzungsintensit&auml;t">Media-Daten</a></li>
+	  <li><a rel="nofollow" href="/werbung.php" title="Ihre Werbung auf dieser Website">Werbung</a></li>
+      <li><a rel="nofollow" href="/kontakt.php" title="Haben Sie Fragen? Kontaktieren Sie uns.">Kontakt</a></li>
+    </ul>
+    <!-- end pages -->
+    <!-- begin categories -->
+    <ul class="categories">
+      <li><a rel="nofollow" href="/pressemitteilung.htm">Pressemitteilung kostenlos einstellen</a></li>
+      <li><a rel="nofollow" href="/firmenarchiv.php">Pressef&auml;cher</a></li>
+      <li><a rel="nofollow" href="/archiv/1/1">Archiv</a></li>
+      <li><a rel="nofollow" href="/kategorien">Kategorien</a></li>
+      <li><a rel="nofollow" href="/recherche.php">Recherche</a></li>
+      <li><a rel="nofollow" href="/faq.php">FAQ / Hilfe</a></li>
+    </ul>
+    <!-- end categories -->
+  </div>
+  <!-- END header -->
+
+
+<!-- begin content -->
+<div id="content">   
+<div class="single">
+<h1>Fehler 404 - Error 404</h1>
+<br>
+<div style="font-style:italic;font-size:16px; color:#808080;font-weight:bold;">www.fair-news.de/pics/b_20/22661.jpg</div>
+<br>
+<hr/>
+
+<p style="font-size:16px; color:#C0130D;font-weight:bold;">
+<br>
+Diese Seite kann nicht angezeigt werden.
+<br><br></p>
+
+<p>Womöglich enthält die Adresse einen Tippfehler bzw. unerlaubte Sonderzeichen, oder die Seite existiert nicht.</p>
+
+<h3>Hier glangen Sie zur <a href="/">Startseite</a>.</h3>
+<br><br>
+
+</div>
+
+
+<div class="single">
+<h2>Das k&ouml;nnte Sie auch interessieren:</h2>
+<div id="plista_widget_underArticleFront"></div>
+<script type="text/javascript" src="http://static.plista.com/fair-news.de_v1.js"></script>
+<script type="text/javascript">
+	PLISTA.partner.init();
+</script>
+</div>
+
+
+         <!-- begin googlead -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FN oben quer, 728x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6390824854589956"
+     data-ad-slot="8669796553"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		<!-- end googlead -->
+		
+<div style="text-align:center;">
+        <!-- begin googlead -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- fN Artikel 336x280 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-6390824854589956"
+     data-ad-slot="9328264234"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		<!-- end googlead -->
+		</div>
+  
+  </div> 
+  <!-- END content -->
+
+  <!-- begin sidebar -->
+  <div id="sidebar">
+
+    <!-- begin statusbox -->
+    <div class="box status">
+     <h2 class="status"><span style="font-weight:bold;color:#CA0000;font-style:italic;text-transform:none;">fair-</span><span style="font-weight:bold;color:#000000;font-style:normal;">NEWS</span> Status</h2>
+     <div class="half" style="margin-top:-15px;">
+      <div class="l">
+       <ul>
+   		<li><strong>673.653</strong> Artikel</li>
+   		<li><strong>121.632.634</strong> Leser</li>
+   	   </ul>
+      </div>
+      <div class="r">
+       <ul>
+    	<li><strong>328</strong> Abonnenten</li>
+    	<li><strong><!-- 0 --></strong> - <!-- Besucher online --></li>
+       </ul>
+      </div>
+     <h4>Stand: 05.07.2014, 08:02 Uhr</h4>
+     <div class="break"></div>
+     </div>
+    </div>
+    <!-- end statusbox -->
+
+
+
+	<div class="box" style="z-index:9999;">
+	<h2><span style="font-weight:bold;color:#CA0000;font-style:italic;text-transform:none;">fair-</span><span style="font-weight:bold;color:#000000;font-style:normal;">NEWS</span> Social Networking</h2>
+	<div style="width:100%;height:40px;text-align:center;"><a href="http://www.facebook.com/fairnews" onclick="window.open(this.href); return false"><img src="/images/facebook.jpg" alt="fair-NEWS bei Facebook" title="Die Facebook-Seite von fair-NEWS" style="width:185px;height:40px;border:0px;"/></a></div>
+	<object type="text/html" data="/inc/g-badge.php" style="z-index:9999;margin-top:10px;margin-left:15px;width:100%;min-height:120px;"></object>
+
+	</div>
+
+  </div>
+  <!-- END sidebar -->
+</div>
+<!-- end wrapper -->
+<!-- beginn footer -->
+<div id="footer">
+ <div class="wrapper">
+<div id="left1"><p><strong>Rubriken / Kategorien</strong></p>
+	<br/><a href="/kategorie/26/1/1">Aktuelle Immobilien-Nachrichten</a>
+	<br/><a href="/kategorie/1/1/1">Auto/Verkehr</a>
+	<br/><a href="/kategorie/3/1/1">Bildung/Karriere/Schulungen</a>
+	<br/><a href="/kategorie/4/1/1">Computer/Information/Telekommunikation</a>
+	<br/><a href="/kategorie/23/1/1">Elektro- und Elektronik</a>
+	<br/><a href="/kategorie/25/1/1">Familie/Kinder/Zuhause</a>
+	<br/><a href="/kategorie/21/1/1">Freizeit, Buntes, Vermischtes</a>
+	<br/><a href="/kategorie/2/1/1">Garten/Bauen/Wohnen</a>
+	<br/><a href="/kategorie/6/1/1">Handel/Dienstleistungen</a>
+	<br/><a href="/kategorie/17/1/1">IT, New Media, Software</a>
+	<br/><a href="/kategorie/5/1/1">Immobilien</a>
+	<br/><a href="/kategorie/18/1/1">Internet &amp; Ecommerce</a>
+	<br/><a href="/kategorie/7/1/1">Kunst/Kultur</a>
+</div>
+<div id="left2"><p><strong>Rubriken / Kategorien</strong></p>
+	<br/><a href="/kategorie/19/1/1">Logistik &amp; Transport</a>
+	<br/><a href="/kategorie/24/1/1">Maschinenbau</a>
+	<br/><a href="/kategorie/8/1/1">Medien/Kommunikation</a>
+	<br/><a href="/kategorie/9/1/1">Medizin/Gesundheit/Wellness</a>
+	<br/><a href="/kategorie/16/1/1">Mode, Trends, Lifestyle</a>
+	<br/><a href="/kategorie/10/1/1">Politik/Recht/Gesellschaft</a>
+	<br/><a href="/kategorie/12/1/1">Sport/Events</a>
+	<br/><a href="/kategorie/13/1/1">Tourismus/Reisen</a>
+	<br/><a href="/kategorie/14/1/1">Umwelt/Energie</a>
+	<br/><a href="/kategorie/15/1/1">Unternehmen/Wirtschaft/Finanzen</a>
+	<br/><a href="/kategorie/22/1/1">Vereine &amp; Verb&auml;nde</a>
+	<br/><a href="/kategorie/20/1/1">Werbung, Marketing, Consulting, Marktfor...</a>
+	<br/><a href="/kategorie/11/1/1">Wissenschaft/Forschung/Technik</a>
+</div>
+<div id="right1">
+<p><strong>Funktionen</strong></p>
+<br/><a href="/pressemitteilung.htm">Neuerfassung Pressemitteilung</a>
+<br/><a href="/premium.php">Service / Premium-Dienste</a>
+<br/><a href="/abo.php">Akkreditierung / Newsletter</a>
+<br /><a href="/firmenarchiv.php">Pressef&auml;cher / Firmenarchiv</a>
+<br/><a href="/archiv/1/1">Pressemitteilungen Archiv</a>
+<br/><a href="/recherche.php">Recherche</a>
+<p style="margin-top:17px;"><strong>Allgemeines</strong></p>
+<br/><a href="/impressum.php">Impressum</a>
+<br/><a href="/kontakt.php">Kontakt</a>
+<br/><a href="/faq.php">F A Q / Hilfe</a>
+<br/><a href="/media.php">Media-Daten / Nutzungs&uuml;bersicht</a>
+<br/><a href="/werbung.php">Werben bei fair-NEWS</a>
+<br/><a href="/agb.php">A G B / Datenschutz</a>
+ <br/>
+</div>
+<div id="right2">
+
+<p style="margin:5px 0 5px 0;text-align:right;width:100%;"><a rel="nofollow" href="http://validator.w3.org/check?uri=referer" onclick="window.open(this.href); return false;"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" title="Valid XHTML 1.0 Transitional" style="height:31px;width:88px;border:0;text-align:center;"/></a></p>
+
+<p style="margin:15px 0 5px 0;text-align:right;width:100%;"><a rel="nofollow" href="/pressemitteilung-559512.html" title="Ausgezeichnet durch den INNOVATIONSPREIS-IT mit dem Pr&auml;dikat BEST OF 2012"><img src="/images/bestof_Online-Marketing_2012_110px.png" style="height:110px;width:110px;border.0;" alt="Ausgezeichnet durch den INNOVATIONSPREIS-IT mit dem Pr&auml;dikat BEST OF 2012" /></a></p>
+
+<p style="margin:15px 0 5px 0;text-align:right;width:100%;"><a rel="nofollow" href="http://www.alexa.com/siteinfo/www.fair-news.de" onclick="window.open(this.href); return false;"><script type='text/javascript' src='http://xslt.alexa.com/site_stats/js/t/a?url=www.fair-news.de'></script></a></p>
+
+</div>
+<div class="break"></div>
+<div style="1070px;text-align:center;color:#FFFFFF;margin:5px 0 5px 0;height:20px;">
+<p><br/></p>
+<a href="https://plus.google.com/118288805251961338550?rel=publisher">Besuchen Sie uns auf <strong>Google+</strong></a> &bull; Copyright &copy; 2008 - <?php echo date("Y"); ?> Presseportal fair-NEWS.de / <a href="http://www.klaus-lewohn.com" title="Klaus P. Lewohn">Klaus P. Lewohn</a> &middot; All Rights Reserved
+</div>
+</div>
+ <div style="width:100%;text-align:center;color:#FFFFFF;">
+ </div>
+^</div>
+<!-- END footer -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-453701-5', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
