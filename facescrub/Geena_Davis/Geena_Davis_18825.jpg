@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		
+		<title>Page Not Found - See Jane</title>
+		<link href="http://seejane.org/wp-content/themes/seejane/style.css" rel="stylesheet" type="text/css" media="all" />
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:700,400' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="http://seejane.org/wp-content/themes/seejane/flavr/css/animate.css" />
+		<link rel="stylesheet" type="text/css" href="http://seejane.org/wp-content/themes/seejane/flavr/css/flavr.css" />
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="http://seejane.org/wp-content/themes/seejane/images/favicon.ico" />		
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - See Jane" />
+<meta property="og:site_name" content="See Jane" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='collapseomatic-css-css'  href='http://seejane.org/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-slider-base-css'  href='http://seejane.org/wp-content/plugins/slider-pro/css/slider/advanced-slider-base.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-skin-minimal-small-css'  href='http://seejane.org/wp-content/plugins/slider-pro/skins/slider/minimal-small/minimal-small.css?ver=3.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://seejane.org/wp-content/themes/seejane/js/jquery-1.7.1.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://seejane.org/wp-content/themes/seejane/js/javascript.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://seejane.org/wp-content/plugins/advanced-iframe/js/ai.js?ver=1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://seejane.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://seejane.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+		
+	</head>
+
+	<body class="error404">
+    
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26128623-2', 'seejane.org');
+  ga('send', 'pageview');
+
+</script>		
+        <div class="wrapper">
+
+        <div class="header">
+        
+        <div class="social-search">
+        
+        	<div class="socialables">
+            	<ul>
+             	  <li><a href="http://seejane.org/contact-us/"><img src="http://seejane.org/wp-content/themes/seejane/images/socialables-contact.png" width="30" height="30" border="0" alt="Contact Us" /></a></li>
+           	      <li><a href="http://www.facebook.com/GDIGM" target="_blank"><img src="http://seejane.org/wp-content/themes/seejane/images/socialables-facebook.jpg" width="30" height="30" border="0" alt="Facebook" /></a></li>
+                  <li><a href="http://twitter.com/GDIGM" target="_blank"><img src="http://seejane.org/wp-content/themes/seejane/images/socialables-twitter.jpg" width="30" height="30" border="0" alt="Twitter" /></a></li>
+                  <li><a href="https://plus.google.com/112998345712148392986/about" target="_blank"><img src="http://seejane.org/wp-content/themes/seejane/images/socialables-googleplus.jpg" width="30" height="30" border="0" alt="Google+" /></a></li>
+                  <li><a href="http://www.youtube.com/user/GDIGM" target="_blank"><img src="http://seejane.org/wp-content/themes/seejane/images/socialables-youtube.jpg" width="30" height="30" border="0" alt="Youtube" /></a></li>
+          	  </ul>
+            </div><!-- end .socialables -->
+            
+            <div class="search-box">
+								                                    <form role="search" method="get" id="searchform" class="searchform" action="http://seejane.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>                                			</div><!--search-box--> 
+            
+            </div><!-- end .social-search -->
+         
+            <div class="gdigm">
+            	<a href="http://seejane.org"><img src="http://seejane.org/wp-content/themes/seejane/images/logo.png" width="420" height="53" alt="Geena Davis Institute on Gender in Media" /></a>
+            </div><!-- end .gdigm --> 
+            
+            </div><!-- end .header -->
+                     
+            <div class="mainMenu">
+              
+              <div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu"><li id="menu-item-2475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2475"><a href="http://seejane.org/">Home</a></li>
+<li id="menu-item-2476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2476"><a href="http://seejane.org/about-us/">About</a></li>
+<li id="menu-item-2478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2478"><a href="http://seejane.org/research-informs-empowers/">Research</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="http://seejane.org/membership/">Membership</a></li>
+<li id="menu-item-2498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2498"><a href="http://seejane.org/programs/">Programs</a></li>
+<li id="menu-item-2497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2497"><a href="http://seejane.org/about-us/get-involved/">Get Involved</a></li>
+<li id="menu-item-2491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2491"><a href="http://seejane.org/education/">Education</a></li>
+<li id="menu-item-2477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2477"><a href="http://seejane.org/news-archive/">News</a></li>
+<li id="menu-item-2492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2492"><a href="http://seejane.org/about-us/donate-to-the-institute/">Donate</a></li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="http://seejane.org/news-archive/events/">Events</a></li>
+<li id="menu-item-1823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1823"><a href="https://www2.smartbrief.com/signupSystem/subscribe.action?pageSequence=1&#038;briefName=gdigm&#038;campaign=gdigmsite">SmartBrief</a></li>
+</ul></div>              
+            </div><!-- end .menu -->
+   	  <div class="content double">
+                 
+        	<div class="left-column six00">
+            
+                    <h1>Whoops! We can't find the page you requested (sorry)...</h1>
+        
+               			<span class="news-meta"></span>
+                        
+                    <p>1. <strong>Search for it.</strong></p>
+									                                        <form role="search" method="get" id="searchform" class="searchform" action="http://seejane.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>                                                    	
+                    <p>2. <strong>If you typed in the URL</strong>, make sure the spelling, cApitALIZation and punctuation are correct. Then try reloading the page.</p>
+                	
+                    <p>3. <strong>Browse</strong> <a href="http://seejane.org/site-map/">our sitemap</a>.</p>
+                	
+                    <p>4. <strong>Start over again</strong> at <a href="http://seejane.org/">our homepage</a> (and please <a href="http://seejane.org/contact-us/">contact us</a> to say what went wrong, so we can fix it).</p>
+
+         
+               </div><!-- end .left-column.six50 -->
+        
+        <div class="right-column two50">
+            
+            	<img src="http://seejane.org/wp-content/uploads/sidebar-kids-with-laptop..jpg" width="252" height="182" border="0" />
+                
+                <div class="sub-nav">
+                        <div id="nav_menu-4" class="widget widget_nav_menu"><span class="subtitle">About Us</span><div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-2479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2479"><a href="http://seejane.org/about-us/">About Us</a></li>
+<li id="menu-item-2488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2488"><a href="http://seejane.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-2490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2490"><a href="http://seejane.org/about-us/donate-to-the-institute/">Donate to the Institute</a></li>
+<li id="menu-item-2480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2480"><a href="http://seejane.org/about-us/friends-partners/">Friends &#038; Partners</a></li>
+<li id="menu-item-2487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2487"><a href="http://seejane.org/about-us/get-involved/">Get Involved</a></li>
+<li id="menu-item-2489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2489"><a href="http://seejane.org/about-us/our-volunteer-program/">Our Volunteer Program</a></li>
+<li id="menu-item-2493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2493"><a href="http://seejane.org/about-us/shop/">Shop</a></li>
+</ul></div></div>                    </div><!-- end .sub-nav -->
+            
+            </div><!-- end .right-column.two50 -->
+                
+        <div class="clear"></div>
+    
+    </div><!-- end .content -->
+        
+<div class="footer">
+    	<p>© 2014 Geena Davis Institute on Gender in Media. All rights reserved.<a href="contact/index.php"> Contact Us</a></p>
+        <p>The Geena Davis Institute is a project of Mount St. Mary’s College, a nonprofit charity exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code.</p>
+  </div><!-- end .footer -->
+        
+</div><!-- end .wrapper -->  
+
+<script type="text/javascript">if(window.aiModifyParent) {aiModifyParent();}</script><script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+</script>
+
+
+
+
+<script type='text/javascript' src='http://seejane.org/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.5.12'></script>
+        
+	</body>
+
+</html>

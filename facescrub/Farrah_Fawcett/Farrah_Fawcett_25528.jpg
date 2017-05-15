@@ -1,0 +1,85 @@
+<!doctype html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+  <meta name="viewport" content="width = 1300" />
+
+  <title>This site is no longer available</title>
+
+  <!-- Specific styles  HomePage -->
+  <style>
+  @import url(http://fonts.googleapis.com/css?family=Francois+One);
+  body {
+  font-family:"Trebuchet MS", sans-serif;
+  }
+  .container {
+   padding: 30px 0;
+  }
+  .logo {
+  display: block;
+  margin: 0 auto;
+  background: #3c3c3c;
+  height: 52px;
+  width: 300px;
+  background: -moz-linear-gradient(top, #3c3c3c 0%, #1b1b1b 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3c3c3c), color-stop(100%, #1b1b1b));
+  background: -webkit-linear-gradient(top, #3c3c3c 0%, #1b1b1b 100%);
+  background: -o-linear-gradient(top, #3c3c3c 0%, #1b1b1b 100%);
+  background: -ms-linear-gradient(top, #3c3c3c 0%, #1b1b1b 100%);
+  background: linear-gradient(to bottom, #3c3c3c 0%, #1b1b1b 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3c3c3c', endColorstr='#1b1b1b', GradientType=0);
+  }
+  .logo a {
+  background-image: url(http://www.trinitymirror.com/website/assets/images/trinity-logo.png);
+  display: block;
+  height: 26px;
+  width: 192px;
+  background-position: 0 0;
+  text-indent: -9999px;
+  position: relative;
+  top:15px;
+  left: 50px;
+  }
+  .title-block {
+  background: url(http://www.trinitymirror.com/website/assets/images/shadow-divide.png);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  text-align: center;
+  }
+  .title-block h1, .title-block h2 {
+  color: #393939;
+  font-family: 'Francois One', sans-serif;
+  padding-top: 15px;
+  }
+  .content {
+  padding: 30px 0;
+  text-align: center;
+  font-size: 18px;
+  color: #5a6466;
+  }
+  .content a {
+  color:red;
+  }
+
+  </style>
+
+</head>
+<body>
+  <div class="container">
+
+  <div class="logo"> <a href="http://www.trinitymirror.com/">Trinity Mirror plc</a></div>
+
+  <div class="title-block">
+     <hgroup class="no-bg">
+        <h1>Sorry...</h1>
+		<h2>This site <script type="text/javascript">document.write(location.hostname);</script> is no longer available.</h2>
+    </hgroup>
+  </div>
+  
+
+  </div><!--- end of #container -->
+
+</body>
+</html>

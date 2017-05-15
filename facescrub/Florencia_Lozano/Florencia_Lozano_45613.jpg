@@ -1,0 +1,1011 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<!--[if ie]><meta content='IE=edge' http-equiv='X-UA-Compatible'/><![endif]-->
+
+	
+
+		<!-- dns prefetch -->
+		<link href="//www.google-analytics.com" rel="dns-prefetch">
+
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="http://labtheater.org/wp-content/themes/labyrinth/images/favicon.ico" />
+<link rel="pingback" href="http://labtheater.org/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Labyrinth Theater Company" href="http://labtheater.org/feed/" />
+<link rel="alternate" type="application/atom+xml" title="Labyrinth Theater Company" href="http://labtheater.org/feed/atom/" />	
+
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page Not Found - Labyrinth Theater Company</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Labyrinth Theater Company" />
+<meta property="og:site_name" content="Labyrinth Theater Company" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Labyrinth Theater Company &raquo; Feed" href="http://labtheater.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Labyrinth Theater Company &raquo; Comments Feed" href="http://labtheater.org/comments/feed/" />
+<link rel='stylesheet' id='nivo-slider-css'  href='http://labtheater.org/wp-content/plugins/shortcodes/css/nivoslider.css?ver=3.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jcarousel-css'  href='http://labtheater.org/wp-content/plugins/shortcodes/css/jcarousel.css?ver=3.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-ultimate-css'  href='http://labtheater.org/wp-content/plugins/shortcodes/css/su-style.css?ver=3.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='http://labtheater.org/wp-content/themes/labyrinth/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://labtheater.org/wp-content/themes/labyrinth/responsive.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='orbit-css'  href='http://labtheater.org/wp-content/themes/labyrinth/scripts/orbit/orbit-1.2.3.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://labtheater.org/wp-content/themes/labyrinth/includes/font-awesome/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css'  href='http://labtheater.org/wp-content/themes/labyrinth/css/reset.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-min-css'  href='http://labtheater.org/wp-content/themes/labyrinth/css/style-min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-fancybox.css-css'  href='http://labtheater.org/wp-content/themes/labyrinth/includes/easy-fancybox/easy-fancybox.css.php?ver=1.3.4' type='text/css' media='screen' />
+<script type='text/javascript' src='http://labtheater.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/plugins/shortcodes/js/jwplayer.js?ver=3.9.4'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/plugins/shortcodes/js/nivoslider.js?ver=3.9.4'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/plugins/shortcodes/js/jcarousel.js?ver=3.9.4'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/plugins/shortcodes/js/init.js?ver=3.9.4'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/scripts/orbit/jquery.orbit-1.2.3.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/js/soundcloudapi.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/plugins/nickxdtools/functions/engine/../js/cookies.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/includes/easy-fancybox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://labtheater.org/xmlrpc.php?rsd" />
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = 'labtheater.*';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('labtheater.org') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
+<!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-20916811-1', 'auto');
+ 
+	ga('send', 'pageview');
+</script>
+
+<!-- Easy FancyBox 1.3.4.9 using FancyBox 1.3.4 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready(function($){
+var fb_timeout = null;
+var fb_opts = { };
+/* IMG */
+var fb_IMG_select = 'a[href$=".jpg"]:not(.nofancybox),a[href$=".JPG"]:not(.nofancybox),a[href$=".gif"]:not(.nofancybox),a[href$=".GIF"]:not(.nofancybox),a[href$=".png"]:not(.nofancybox),a[href$=".PNG"]:not(.nofancybox)';
+$(fb_IMG_select).addClass('fancybox').attr('rel', 'gallery');
+$('a.fancybox, area.fancybox').fancybox( $.extend({}, fb_opts, { }) );
+/* Auto-click */ 
+$('#fancybox-auto').trigger('click');
+});
+/* ]]> */
+</script>
+<style type="text/css">.fancybox-hidden{display:none}</style>
+
+</head>
+
+
+<body class="error404">
+<div id="page-background"></div>
+<div class="none">
+	<p><a href="#content">Skip to Content</a></p></div><!--.none-->
+<div id="main"><!-- this encompasses the top of the website -->
+    
+	<!-- Header functions -->
+	<!-- insert custom Google fonts -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext,greek-ext,latin-ext,vietnamese'' rel='stylesheet' type='text/css'><link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext,greek-ext,latin-ext,vietnamese'' rel='stylesheet' type='text/css'><link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext,greek-ext,latin-ext,vietnamese'' rel='stylesheet' type='text/css'>
+
+<!-- function to convert colours from hex into rgb -->
+
+
+<!-- Count the number of active widgets -->
+
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://labtheater.org/wp-content/themes/labyrinth/ie8.css">
+<style type="text/css"> #footer-widget-area .widget-footer { width: 95%; } </style>
+<![endif]-->
+
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="http://labtheater.org/wp-content/themes/labyrinth/ie8.css">
+<style type="text/css"> #footer-widget-area .widget-footer { width: 95%; } </style>
+<![endif]-->
+
+
+<!-- Google Analytics code -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Resize image background -->
+
+
+<!-- Scroll to top button -->
+<script type='text/javascript'> 
+var totop = "Scroll Back to Top";
+var scrolltotop={
+	//startline: Integer. Number of pixels from top of doc scrollbar is scrolled before showing control
+	//scrollto: Keyword (Integer, or "Scroll_to_Element_ID"). How far to scroll document up when control is clicked on (0=top).
+	setting: {startline:100, scrollto: 0, scrollduration:1000, fadeduration:[500, 100]},
+	controlHTML: '<div class="scrolltop"></div>', //HTML for control, which is auto wrapped in DIV w/ ID="topcontrol"
+	controlattrs: {offsetx:63, offsety:10}, //offset of control relative to right/ bottom of window corner
+	anchorkeyword: '#top', //Enter href value of HTML anchors on the page that should also act as "Scroll Up" links
+
+	state: {isvisible:false, shouldvisible:false},
+
+	scrollup:function(){
+		if (!this.cssfixedsupport) //if control is positioned using JavaScript
+			this.$control.css({opacity:0}) //hide control immediately after clicking it
+		var dest=isNaN(this.setting.scrollto)? this.setting.scrollto : parseInt(this.setting.scrollto)
+		if (typeof dest=="string" && jQuery('#'+dest).length==1) //check element set by string exists
+			dest=jQuery('#'+dest).offset().top
+		else
+			dest=0
+		this.$body.animate({scrollTop: dest}, this.setting.scrollduration);
+	},
+
+	keepfixed:function(){
+		var $window=jQuery(window)
+		var controlx=$window.scrollLeft() + $window.width() - this.$control.width() - this.controlattrs.offsetx
+		var controly=$window.scrollTop() + $window.height() - this.$control.height() - this.controlattrs.offsety
+		this.$control.css({left:controlx+'px', top:controly+'px'})
+	},
+
+	togglecontrol:function(){
+		var scrolltop=jQuery(window).scrollTop()
+		if (!this.cssfixedsupport)
+			this.keepfixed()
+		this.state.shouldvisible=(scrolltop>=this.setting.startline)? true : false
+		if (this.state.shouldvisible && !this.state.isvisible){
+			this.$control.stop().animate({opacity:1}, this.setting.fadeduration[0])
+			this.state.isvisible=true
+		}
+		else if (this.state.shouldvisible==false && this.state.isvisible){
+			this.$control.stop().animate({opacity:0}, this.setting.fadeduration[1])
+			this.state.isvisible=false
+		}
+	},
+	
+	init:function(){
+		jQuery(document).ready(function($){
+			var mainobj=scrolltotop
+			var iebrws=document.all
+			mainobj.cssfixedsupport=!iebrws || iebrws && document.compatMode=="CSS1Compat" && window.XMLHttpRequest //not IE or IE7+ browsers in standards mode
+			mainobj.$body=(window.opera)? (document.compatMode=="CSS1Compat"? $('html') : $('body')) : $('html,body')
+			mainobj.$control=$('<div id="topcontrol" style="z-index:100">'+mainobj.controlHTML+'</div>')
+				.css({position:mainobj.cssfixedsupport? 'fixed' : 'absolute', bottom:mainobj.controlattrs.offsety, right:mainobj.controlattrs.offsetx, opacity:0, cursor:'pointer'})
+				.attr({title:totop})
+				.click(function(){mainobj.scrollup(); return false})
+				.appendTo('body')
+			if (document.all && !window.XMLHttpRequest && mainobj.$control.text()!='') //loose check for IE6 and below, plus whether control contains any text
+				mainobj.$control.css({width:mainobj.$control.width()}) //IE6- seems to require an explicit width on a DIV containing text
+			mainobj.togglecontrol()
+			$('a[href="' + mainobj.anchorkeyword +'"]').click(function(){
+				mainobj.scrollup()
+				return false
+			})
+			$(window).bind('scroll resize', function(e){
+				mainobj.togglecontrol()
+			})
+		})
+	}
+}
+
+scrolltotop.init()
+</script>
+
+
+<!-- Icon menu -->
+<script type="text/javascript">
+var $icons = jQuery.noConflict();
+var Icons = function() {
+	if ( $icons(window).width() > 1024 ) {
+		$icons('.icons-item').hover(function() {
+			var currid = $icons(this)[0].id;
+			var curridlast = currid.substr(- 1);
+			$icons('div[id$=icons-text-'+curridlast+']').fadeIn(80);
+		}, function () {
+			var currid = $icons(this)[0].id;
+			var curridlast = currid.substr(- 1);
+			$icons('div[id$=icons-text-'+curridlast+']').fadeOut(180);
+		});
+	} 
+	if ( $icons(window).width() < 1025 ) {
+		$icons('.icons-item').click(function() {
+			var currentid = $icons(this)[0].id;
+			var currentidlast = currentid.substr(- 1);
+			$icons('div[id$=icons-text-'+currentidlast+']').fadeIn(2);
+			setTimeout(function(){
+  				$icons('div[id$=icons-text-'+currentidlast+']').fadeOut("slow");
+ 			}, 1500);
+		});
+	}
+}
+$icons(document).ready(function() {
+	Icons();
+});
+$icons(document).resize(function() {
+	Icons();
+});
+$icons(window).load(function() {
+	var iconmenu = ( $icons('#icons-menu #icons-item-1').height() - $icons('#icons-text-1').height() ) / 2;
+	$icons('.icons-text').css('margin-top',iconmenu+'px');
+});
+</script>
+
+
+<!-- Filter menu -->
+ 
+
+<!-- Preload images -->
+<script type="text/javascript">
+var $pr = jQuery.noConflict();
+$pr.fn.preload = function() {
+    this.each(function(){
+        $pr('<img/>')[0].src = this;
+    });
+}
+$pr(document).ready(function() {
+	$pr([
+	'', '', 'http://labyrinth.nickxd.com/wp-content/uploads/donate-icon-hover.png', '', '']).preload();
+});
+</script>
+
+
+<!-- Search box -->
+<script type="text/javascript">
+var $searchbx = jQuery.noConflict();
+$searchbx(function() { 
+	var searchbox = "Find..";
+    $searchbx('#s').focus(function() {
+    	$searchbx('#s').attr("value","");
+	});
+	$searchbx('#s').blur(function() {
+		if ($searchbx('#s').attr("value")==null || $searchbx('#s').attr("value")=="") {
+        	$searchbx('#s').attr("value",searchbox);
+		}
+	});
+});
+</script>
+
+
+
+<!-- Divider width -->
+
+
+<!-- Responsive videos -->
+<script type="text/javascript">
+var $fv = jQuery.noConflict();
+  $fv(document).ready(function(){
+    $fv(".video-container").fitVids();
+  });
+</script>
+ 
+
+
+<!-- Video screenshots from Vimeo -->
+<script type="text/javascript">
+var $vth = jQuery.noConflict();
+function vimeoLoadingThumb(id){    
+    var url = "http://vimeo.com/api/v2/video/" + id + ".json?callback=showThumb";
+    var id_img = "#vimeo-" + id;
+    var script = document.createElement( 'script' );
+    script.type = 'text/javascript';
+    script.src = url;
+
+    $vth(id_img).before(script);
+}
+function showThumb(data){
+    var id_img = "#vimeo-" + data[0].id;
+    $vth(id_img).css('background-image','url("'+data[0].thumbnail_large+'")');
+}
+</script>
+
+
+<!-- Gallery post format --> 
+<script type="text/javascript">   
+var $j = jQuery.noConflict();
+$j(function(){ 
+	$j(window).load(function() {         
+		$j(".orbit-featured").orbit({
+			bullets: false,
+			pauseOnHover: true,
+			animation: "fade",
+			directionalNav: true,
+			advanceSpeed: 4000,
+			timer: false,
+			captions: true
+		});
+	});
+});
+</script>
+
+
+<!-- Orbit slider height on browser resize -->
+<script type="text/javascript">
+var $orb = jQuery.noConflict();
+$orb(document).ready(function () {
+	$orb('#orbit-slider .orbit-featured').wrap('<div class="orbit-wrapper"></div>');
+});
+var OrbitSize = function () {
+	var min_height = 90000;
+    var image = null;
+	$orb('#orbit-slider .container_orbit .orbit-wrapper').css('width','100%');
+	$orb('#orbit-slider .container_orbit .orbit-featured').css('width','100%');
+    $orb('#orbit-slider .container_orbit .orbit-featured img').each(function() {
+    	var cur_height = $orb(this).height();
+    	if (cur_height < min_height) {
+        	min_height = cur_height;
+    	}
+    });
+		$orb('#orbit-slider .container_orbit .orbit-wrapper').css('height',min_height+'px');
+	$orb('#orbit-slider .container_orbit .orbit-featured').css('height',min_height+'px');
+	}
+$orb(window).load(function () {
+	OrbitSize();
+});
+$orb(window).resize(function () {
+	OrbitSize();
+});
+</script>
+
+
+<!-- Project box overlays with excerpts -->
+
+
+<!-- Fade project boxes on mouse hover -->
+
+
+<!-- Comment placeholders -->
+<script type="text/javascript">
+var $plc = jQuery.noConflict();
+$plc(window).load(function() {
+	$plc('#respond input#author').attr('placeholder','Name');
+	$plc('#respond input#email').attr('placeholder','Email');
+	$plc('#respond input#url').attr('placeholder','Website');
+	$plc('#respond textarea#comment').attr('placeholder','Comment');
+});
+</script>
+
+
+<!-- Retrieve URLs from post content -->
+
+
+<!-- Truncate text on portfolio and blog pages -->
+<script type="text/javascript">
+// var $tru = jQuery.noConflict();
+// $tru(function(){
+// 	$tru.fn.truncate = function (options) {
+// 		var defaults = {
+// 			more: '...'
+// 		};
+// 		var options = $tru.extend(defaults, options);
+// 		return this.each(function (num) {
+// 			var height = parseInt($tru(this).css("height"));
+// 			var content = $tru(this).html();
+// 			while (this.scrollHeight > height) {
+// 				content = content.replace(/\s+\S*$/, "");
+// 				$tru(this).html(content + " " + options.more);
+// 			}
+// 		})
+// 	}
+// 	$tru(document).ready(function() {
+// 		$tru(".iso-masonry .post").truncate();
+// 	});
+// });
+</script>
+
+
+<!-- Isotope Masonry Magic -->
+
+
+<!-- Infinite scroll -->
+
+
+<!-- Set correct content width -->
+<style type="text/css">@media only screen and (max-width: 8736px) and (min-width: 8460px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 8264px; } } @media only screen and (max-width: 8460px) and (min-width: 8184px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 7988px; } } @media only screen and (max-width: 8184px) and (min-width: 7908px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 7712px; } } @media only screen and (max-width: 7908px) and (min-width: 7632px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 7436px; } } @media only screen and (max-width: 7632px) and (min-width: 7356px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 7160px; } } @media only screen and (max-width: 7356px) and (min-width: 7080px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 6884px; } } @media only screen and (max-width: 7080px) and (min-width: 6804px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 6608px; } } @media only screen and (max-width: 6804px) and (min-width: 6528px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 6332px; } } @media only screen and (max-width: 6528px) and (min-width: 6252px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 6056px; } } @media only screen and (max-width: 6252px) and (min-width: 5976px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 5780px; } } @media only screen and (max-width: 5976px) and (min-width: 5700px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 5504px; } } @media only screen and (max-width: 5700px) and (min-width: 5424px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 5228px; } } @media only screen and (max-width: 5424px) and (min-width: 5148px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 4952px; } } @media only screen and (max-width: 5148px) and (min-width: 4872px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 4676px; } } @media only screen and (max-width: 4872px) and (min-width: 4596px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 4400px; } } @media only screen and (max-width: 4596px) and (min-width: 4320px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 4124px; } } @media only screen and (max-width: 4320px) and (min-width: 4044px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 3848px; } } @media only screen and (max-width: 4044px) and (min-width: 3768px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 3572px; } } @media only screen and (max-width: 3768px) and (min-width: 3492px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 3296px; } } @media only screen and (max-width: 3492px) and (min-width: 3216px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 3020px; } } @media only screen and (max-width: 3216px) and (min-width: 2940px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 2744px; } } @media only screen and (max-width: 2940px) and (min-width: 2664px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 2468px; } } @media only screen and (max-width: 2664px) and (min-width: 2388px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 2192px; } } @media only screen and (max-width: 2388px) and (min-width: 2112px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 1916px; } } @media only screen and (max-width: 2112px) and (min-width: 1836px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 1640px; } } @media only screen and (max-width: 1836px) and (min-width: 1560px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 1364px; } } @media only screen and (max-width: 1560px) and (min-width: 1284px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 1088px; } } @media only screen and (max-width: 1284px) and (min-width: 1008px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 812px; } } @media only screen and (max-width: 1008px) and (min-width: 732px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 536px; } } @media only screen and (max-width: 584px) and (min-width: 308px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 260px; } } @media only screen and (max-width: 732px) and (min-width: 584px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 260px; } }@media only screen and (max-width: 732px) { #main-body, #footer, #header-box, #container-mobile-icons { width: 90% !important; } .iso-masonry .post { width: 100% !important; margin: 8px 0 !important; } #header-box #searchform { float: left !important; margin-left: 0 !important; } } </style><script type="text/javascript">
+var $mar = jQuery.noConflict();
+var LargeBoxeSize = function() {
+	if ( $mar(window).width() < 768 ) {
+		$mar('.iso-masonry .post-size-large').css({'width':260+'px','height':260+'px'});
+	} else {
+		$mar('.iso-masonry .post-size-large').css({'width':536+'px','height':536+'px'});
+	}
+}
+$mar(document).ready(function() {
+	LargeBoxeSize();	
+});
+$mar(window).resize(function() {
+	LargeBoxeSize();	
+});
+</script>
+
+
+<!-- Comment field width -->
+
+
+<!-- Add classes to local and external links -->
+<script type="text/javascript">
+var $lnk = jQuery.noConflict();
+var hostname = new RegExp(location.host);
+$lnk(document).ready(function(){
+	$lnk('.format-link a').each(function(){
+		var url = $lnk(this).attr("href");
+		// Test if current host (domain) is in it
+		if(hostname.test(url)){
+			// If it's local...
+			$lnk(this).addClass('local');
+			$lnk(this).attr('target','_self');
+		}
+		else if(url.slice(0, 1) == "#"){
+			// It's an anchor link
+			$lnk(this).addClass('anchor'); 
+		}
+		else {
+			// a link that does not contain the current host
+			$lnk(this).addClass('external');
+			$lnk(this).attr('target','_blank');                        
+		}
+	});
+});
+</script>
+
+ 
+
+	<!-- Custom styles -->
+	
+
+<style type="text/css">
+
+      
+/*#logo { width:70px; }*/
+
+#header #header-box { min-height: 50px; } /* #nav-primary li { line-height: 49px; } */ /* social-footer a { line-height: 50px; } */ /* header-box #searchform #s { height: 34px; } */ /* #logo { height: 50px; } */
+.iso-masonry .image-post-overlay { display: block; }
+
+/*#main-body, #footer { max-width: 1380px !important; }*/
+/*#header-box { max-width: 1364px !important; }*/
+
+.iso-masonry .post { width: 260px; height: 260px; }
+
+.iso-masonry .post-size-large { width: 536px; height: 536px; }
+
+.iso-masonry #portfolio-header { width: 536px; }
+
+/*#header-box #searchform #s { width: 240px; }*/
+
+.iso-masonry .post, .iso-masonry #blog-header { margin: 8px; }
+
+.page-portfolio .pagerbox { margin-left: 8px; }
+
+#portfolio-content-block { margin: 16px 8px 8px 8px; }
+
+
+
+	#iconmenu { margin-left: -86px; }
+	#header { padding-bottom: 16px; }
+	#footer { padding-top: 16px; }
+	.post-wrapper, #comments { padding: 25px; }
+/*	.post-wrapper { padding-bottom: 0; }*/
+/*	#main-container { background-color: #222; }
+*/
+
+.icons-item { margin-bottom: 16px; }
+
+@media only screen and (max-width: 1030px) { #nav-wrap-right { margin-top: 8px; } }
+
+.project-hover { opacity: 1.0; }
+
+/*#social-footer a { color: #CCCCCC; }
+*/
+/*#social-footer a:hover { color: #CCCCCC; }*/
+
+
+.mobile-icons-title { padding: 15px 0 !important; width: 18%; margin-left: 2% !important; display: inline-block; }
+/* .mobile-icons-title-text { display: none; } */
+#icons-mobile { margin-left: -2%; }
+/* icons-mobile .mobile-icons-title img { margin-right: 0 !important; display: inline; } */
+.mobile-icons-title-inner { text-align: center; display: block; }
+
+.pagerbox a { margin-top: 8px; margin-bottom: 8px; margin-right: 16px;}
+
+#container-footer { padding: 45px 40px 40px 40px; }
+
+.normal, body, input, blockquote, dropdown-menu-widget .menu, .widget_categories .postform, .widget_archive select { font: 16px 'Open Sans', Arial, sans-serif; font-weight: 300 !important; }
+
+/* .serif, cite, h1, h2, h3, h4, h5, h6, .stick-title, .pagerbox a, .pagerbox, .su-heading-shell { font-family: 'Open Sans', Arial, sans-serif; font-weight: 300 !important; } */
+
+#nav-primary ul a, #nav-secondary ul a, .mobilemenu .dropdown-menu, .mobile-icon-title-text { font-family: 'DinCond', Arial, sans-serif; font-weight: 300 !important; }
+
+.scrolltop, .scrolltop:hover { background-image: url('http://labtheater.org/wp-content/themes/labyrinth/images/to-top-button.png'); }
+
+@media only screen and (min-width: 767px) {
+#footer .widget-footer { width: 95%; }
+}
+
+#header-above {  }
+
+body { background-image: url(''); background-color: #222; }
+
+#page-background { background-image: url(''); filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='',sizingMethod='scale'); -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='',sizingMethod='scale')"; }
+
+#nav-primary ul li ul {  }
+
+.page h1 {  }
+
+.header-border {  }
+
+.container-header {  }
+
+#nav-primary li a, #nav-primary ul ul li a { }
+
+#nav-primary .current-menu-item > a {  }
+
+#nav-primary ul li ul { }
+
+#nav-primary ul li ul li { }
+
+#nav-primary ul a:hover, #filters .selected {  }
+
+/*#nav-primary ul li a { font-size: 22px; }*/
+
+/*#nav-secondary ul li a { font-size: px; }*/
+
+#icons-mobile .mobile-icon-title, .menu-filter-mobile, .mobilemenu .dropdown-menu {  }
+
+#icons-mobile .mobile-icon-title:hover, #icons-mobile .mobile-icon-title:active, .menu-filter-mobile:hover {  }
+
+.normal, body, input, blockquote { font-size: 16px;  }
+
+.normal, body #content, input, blockquote { line-height: 24px;  }
+
+.iso-masonry .post { font-size: 20px; }
+
+.iso-masonry .post { line-height: 28px; }
+
+.iso-masonry .post-size-large { font-size: 40px; }
+
+.iso-masonry .post-size-large { line-height: 50px; }
+
+#content h1 a, #content h2 a, #content h3 a, #content h4 a, .page-content h1, .post-content h1, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, .serif, cite, h1, h2, h3, h4, h5, h6, .post-header, .page h1, #rps h4.post-title a span, .su-heading-shell { color: #DDDDDD; font-weight: 400 !important;  }
+
+/* a:link, a:visited, #shortcode-postlist .post-meta, .pagerbox a.current .pagerbox a:hover { color: #A7E085; }
+
+a:hover, .widget-area input#searchsubmit:hover, #portfolio-filter a:hover, #portfolio-filter li a:hover, #portfolio-filter li.active a { color: #99FF66; } */
+
+.iso-masonry .post, .icons-item, .page-portfolio .pagerbox a, .tax-tagportfolio .pagerbox a, #icons-mobile .mobile-icons-title  { background-color: ; }
+
+/*.icons-item:hover, .icons-text { background-color: #888888; }*/
+
+/*.icons-text { color: #B9CF9A; }*/
+
+#content .format-link .post-link-url { color: #818181; }
+
+body, blockquote, #content .format-link .post-link h2 a, #content .format-link .post-link h2, .comment-author a { color: #999999; }
+
+.tagcloud a { background-color: #555555; } 
+
+.tagcloud a:hover { background-color: #DDDDDD; }
+
+body blockquote {  }
+
+#header #header-box { background-color: ; }
+
+.type-post, blockquote, #post-author, #comments-top, #post-author-top, #comments article, #respond, .type-post, .portfolio-item, #top-border { border-color: #777777 !important; } 
+
+#respond input#submit:hover, .contact-submit input:hover, .back-button input:hover { background-color: #999999; }
+input:hover, textarea:hover, input:focus, textarea:focus { border-color: #999999; }
+
+.wp-caption-text, .comment-date, .widget_pippin_recent_posts ul li .time, .post-meta .meta-img { color: #818181; }
+
+/*.su-divider { border-top-color: ; }*/
+
+.su-tabs-style-1 .su-tabs-pane { border-color: ; }
+.su-tabs-style-1 .su-tabs-nav { background-color: ; }
+
+.su-tabs-style-3 { border-color: ; }
+.su-tabs-style-3 .su-tabs-nav span { background-color: ; }
+
+.su-tabs-style-2 .su-tabs-pane { border-color: ; }
+.su-tabs-style-2 .su-tabs-nav { background-color: ; }
+
+.su-tabs-style-1 .su-tabs-nav span { background-color: ; }
+
+.su-tabs-style-2 .su-tabs-nav span { background-color: ; }
+.su-tabs-style-2 .su-tabs-nav span { border-color: ; }
+
+.su-tabs-style-1 .su-tabs-nav span.su-tabs-current, .su-tabs-style-1 .su-tabs-pane { background-color: ; }
+.su-tabs-style-1 .su-tabs-nav span.su-tabs-current { border-color: ; }
+
+.su-tabs-style-2 .su-tabs-nav span.su-tabs-current, .su-tabs-style-2 .su-tabs-pane { background-color: ; }
+.su-tabs-style-2 .su-tabs-nav span.su-tabs-current { border-color: ; }
+
+.su-tabs-style-3 .su-tabs-nav span.su-tabs-current { background-color: ; }
+.su-tabs-style-3 .su-tabs-nav span.su-tabs-current { border-color: ; }
+
+.su-tabs-style-1 .su-tabs-nav span:hover { background-color: ; }
+.su-tabs-style-2 .su-tabs-nav span:hover { background-color: ; }
+.su-tabs-style-2 .su-tabs-nav span:hover { border-color: ; }
+.su-tabs-style-3 .su-tabs-nav span:hover { background: ; }
+
+.su-spoiler-style-2 > .su-spoiler-title, .su-spoiler-style-2.su-spoiler-open > .su-spoiler-title { background-color: ; }
+.su-spoiler-style-2, .su-spoiler-style-2 > .su-spoiler-title, .su-spoiler-style-2.su-spoiler-open > .su-spoiler-title {  border-color: ; }
+
+.su-table-style-1 table { border-color: ; }
+
+.su-table-style-2 table tbody th { background-color: ; color: ;}
+
+.su-table-style-2 table { border-color: ; }
+
+.su-table-style-1 td { background-color: ; color: ;}
+
+.su-table-style-1 .su-even td { background-color: ; }
+
+.su-table-style-2 td { background-color: ; color: ;}
+
+.su-table-style-2 .su-even td { background-color: ; }
+
+.su-table-style-1 td, .su-table-style-1 th { border-color: ; }
+.su-table-style-1 th { background: ;  color: ; }
+
+#respond input#submit, .contact-submit input, .back-button input, .error404 #searchsubmit, .widget-area input#searchsubmit { color: #FFFFFF; }
+
+input[type="text"], textarea, #header-box #searchform #s { background-color: #555555 !important; }
+
+#post-author { display: none }
+
+#respond input#submit, .contact-submit input, .back-button input { background-color: #777777;  }
+
+/*.post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6, .portfolio-item h3 a, #comments h3, #comments h4, #post-author h3, #author h3, .error404 #content h4 { color: #dddddd !important; }*/
+
+#sidebar .widget-area .recentcomments {  }
+
+#sidebar .widget_categories ul li {  }
+
+#sidebar .widget_archive ul li {  }
+
+#sidebar .widget_pages ul li {  }
+
+#sidebar .widget_links ul li {  }
+
+#sidebar ul#twitter_update_list li {  }
+
+#container-footer {   }
+
+#footer .widget-footer ul li, #footer #copyright { border-color: ;  }
+#footer .tagcloud a { background-color: ;  }
+
+#footer #copyright { background-color: #555555; }
+
+#footer, #footer .widget-footer ul { color: ; }
+
+#footer .tagcloud a { color: ; }
+
+#footer h4 { color: #FFFFFF; }
+
+/*#footer a, .orbit-slider a { color: ; }*/
+
+/*#footer a:hover { color: ; }*/
+
+#footer .tagcloud a:hover { background-color: ; color: !important; }
+
+/*#footer #copyright { color: ; }
+
+#footer #copyright a { color: #A7E085; }*/
+
+
+</style>
+
+ 
+        
+	<div id="header"><header>
+		<div class="container" id="header-box">
+        
+        	<!-- Logo -->
+            
+      
+            <div id="logo-wrap">
+                <a href="http://labtheater.org"  data-filter="*" >
+                    <div id="logo"></div>
+                </a>
+            </div>
+     
+            
+       
+           
+            
+        
+            
+            <!-- Primary menu -->
+            
+            <div id="nav-wrap">
+            	<div id="nav-primary" class="nav"><nav>
+                	<div class="menu-container"><ul id="menu-main-menu" class="main-menu"><li id="menu-item-28578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28578"><a href="http://labtheater.org/shows-and-events/">Shows &#038; Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-28693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28693"><a href="http://labtheater.org/ticket-information-policy/">Ticket Info &#038; Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-28580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28580"><a href="http://labtheater.org/our-company/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-29755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29755"><a href="http://labtheater.org/past-productions/">Past Productions</a></li>
+	<li id="menu-item-28696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28696"><a href="http://labtheater.org/staff-board/">Staff &#038; Board</a></li>
+	<li id="menu-item-28695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28695"><a href="http://labtheater.org/company-members/">Company Members</a></li>
+</ul>
+</li>
+<li id="menu-item-28581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28581"><a href="http://labtheater.org/education/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-28817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28817"><a href="http://labtheater.org/summer-intensive/">Intensive Ensemble 2015</a></li>
+	<li id="menu-item-28755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28755"><a href="http://labtheater.org/lab-101/">LAB 101</a></li>
+</ul>
+</li>
+<li id="menu-item-28582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28582"><a href="http://labtheater.org/support/">Support Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-28888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28888"><a href="http://labtheater.org/our-partners/">Our Partners</a></li>
+	<li id="menu-item-28887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28887"><a href="http://labtheater.org/our-supporters/">Our Supporters</a></li>
+	<li id="menu-item-28891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28891"><a href="http://labtheater.org/corporate-sponsorship/">Corporate Sponsorship</a></li>
+	<li id="menu-item-28848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28848"><a href="http://labtheater.org/celebrity-charades/">Celebrity Charades</a></li>
+</ul>
+</li>
+<li id="menu-item-28579" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-28579"><a href="http://labtheater.org/inside-lab/">Inside Labyrinth</a></li>
+<li id="menu-item-28706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28706"><a href="http://labtheater.org/get-involved/">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-28583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28583"><a href="http://labtheater.org/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-28720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28720"><a href="http://labtheater.org/visit/">Visit</a></li>
+</ul></div>                                        
+               		</nav>
+            	</div>
+            	            </div>
+			
+			
+            <!-- Mobile-friendly drop-down menu -->
+        
+			<div class="mobilemenu" id="mobilemenu-primary">
+                <div class="menu-main-menu-container"><select id="menu-main-menu-1" class="menu dropdown-menu"><option value="" class="blank">Main Menu</option><option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28578 menu-item-depth-0" value="http://labtheater.org/shows-and-events/">Shows &#038; Events</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28693 menu-item-depth-1" value="http://labtheater.org/ticket-information-policy/">- Ticket Info &#038; Policy</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28580 menu-item-depth-0" value="http://labtheater.org/our-company/">About</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29755 menu-item-depth-1" value="http://labtheater.org/past-productions/">- Past Productions</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28696 menu-item-depth-1" value="http://labtheater.org/staff-board/">- Staff &#038; Board</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28695 menu-item-depth-1" value="http://labtheater.org/company-members/">- Company Members</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28581 menu-item-depth-0" value="http://labtheater.org/education/">Education</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28817 menu-item-depth-1" value="http://labtheater.org/summer-intensive/">- Intensive Ensemble 2015</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28755 menu-item-depth-1" value="http://labtheater.org/lab-101/">- LAB 101</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28582 menu-item-depth-0" value="http://labtheater.org/support/">Support Us</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28888 menu-item-depth-1" value="http://labtheater.org/our-partners/">- Our Partners</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28887 menu-item-depth-1" value="http://labtheater.org/our-supporters/">- Our Supporters</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28891 menu-item-depth-1" value="http://labtheater.org/corporate-sponsorship/">- Corporate Sponsorship</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28848 menu-item-depth-1" value="http://labtheater.org/celebrity-charades/">- Celebrity Charades</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-28579 menu-item-depth-0" value="http://labtheater.org/inside-lab/">Inside Labyrinth</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28706 menu-item-depth-0" value="http://labtheater.org/get-involved/">Get Involved</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28583 menu-item-depth-1" value="http://labtheater.org/contact/">- Contact</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28720 menu-item-depth-0" value="http://labtheater.org/visit/">Visit</option>
+</select></div>            </div>
+             
+			 
+			 
+            <div class="clear"></div>
+            
+		</div><!--#header-box-->
+        
+	</header></div>
+</div><!--#main-->
+
+
+<div class="container" id="container-mobile-icons">
+	    	<div id="icons-mobile">
+			<a  href="http://labtheater.org/events/a-sucker-emcee/" ><div class="mobile-icons-title fa fa-3x fa-fw fa-ticket" id="mobile-icons-1"><div class="mobile-icons-title-inner"><div class="mobile-icons-title-text">Tickets</div></div></div></a><a  href="https://labtheater.secure.force.com/signup" ><div class="mobile-icons-title fa fa-3x fa-fw fa-envelope" id="mobile-icons-2"><div class="mobile-icons-title-inner"><div class="mobile-icons-title-text">Get Updates</div></div></div></a><a  href="https://labtheater.secure.force.com/donate?dfId=a18G0000000TL00IAG" ><div class="mobile-icons-title fa fa-3x fa-fw donate" id="mobile-icons-3"><img src="http://labyrinth.nickxd.com/wp-content/uploads/donate-icon-hover.png"><div class="mobile-icons-title-inner"><div class="mobile-icons-title-text">Donate</div></div></div></a><a  href="http://labtheater.org/visit/" ><div class="mobile-icons-title fa fa-3x fa-fw fa-map-marker" id="mobile-icons-4"><div class="mobile-icons-title-inner"><div class="mobile-icons-title-text">Directions</div></div></div></a><a  href="http://labtheater.org/nearby" ><div class="mobile-icons-title fa fa-3x fa-fw fa-beer" id="mobile-icons-5"><div class="mobile-icons-title-inner"><div class="mobile-icons-title-text">Nearby</div></div></div></a>		</div>
+        
+</div>
+
+
+<!-- Content of the website -->
+
+<div id="main-body">
+    
+	
+	<div class="container " id="main-container">
+    
+    	<!-- Icon menu -->
+            
+		 
+        		<div id="iconmenu">
+            		<div id="icons-menu"><div class="icons-item-wrap"><a  href="http://labtheater.org/events/a-sucker-emcee/" ><div class="icons-item fa fa-3x fa-ticket" id="icons-item-1"></div></a><div class="icons-text" id="icons-text-1">Tickets</div></div><div class="icons-item-wrap"><a  href="https://labtheater.secure.force.com/signup" ><div class="icons-item fa fa-3x fa-envelope" id="icons-item-2"></div></a><div class="icons-text" id="icons-text-2">Get Updates</div></div><div class="icons-item-wrap"><a  href="https://labtheater.secure.force.com/donate?dfId=a18G0000000TL00IAG" ><div class="icons-item fa fa-3x donate" id="icons-item-3"><img src="http://labyrinth.nickxd.com/wp-content/uploads/donate-icon1.png" class="image-stick-preload"></div></a><div class="icons-text" id="icons-text-3">Donate</div></div><div class="icons-item-wrap"><a  href="http://labtheater.org/visit/" ><div class="icons-item fa fa-3x fa-map-marker" id="icons-item-4"></div></a><div class="icons-text" id="icons-text-4">Directions</div></div><div class="icons-item-wrap"><a  href="http://labtheater.org/nearby" ><div class="icons-item fa fa-3x fa-beer" id="icons-item-5"></div></a><div class="icons-text" id="icons-text-5">Nearby</div></div></div>        		</div>
+<div id="content">
+	<div id="error404" class="post">
+	<div class="post-single">
+	<div class="post-wrapper">
+			<div class="post-header">
+				<h1>Sorry, that page doesn't exist.</h1>
+				</div><div class="clearleft"></div><!--.postHeader-->
+	<div class="post-content">
+		<div id="error-text">
+			<h4>The page cannot be found!</h4>
+			<p>You could try the following:</p>
+			<ol class="error-list">
+			<li>Go back to the <a href="http://labtheater.org">homepage.</a></li>
+			<li>Check your URL in the address bar.</li>
+			<li>Use the search form below:</li>
+			</ol>
+			<form role="search" method="get" id="searchform" action="http://labtheater.org/" >
+<div><input type="text" value="Find.." name="s" id="s" />
+<input type="submit" id="searchsubmit" value="" />
+</div>
+</form><div class="clearboth"></div></div>
+						<div class="clearboth"></div>
+		</div><!--.post-content--></div></div>
+	</div><!--#error404 .post-->
+</div><!--#content-->
+
+
+	<div class="clear"></div>
+    </div><!--.container-->
+</div><!--#main-body-->
+
+<div id="footer">
+    <footer>
+    	<div class="container" id="container-footer">
+							<div class="menu-container"><ul id="menu-footer-menu" class="footer_menu"><li id="menu-item-28606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28606"><a href="http://labtheater.org/shows-and-events/">Shows &#038; Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-28867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28867"><a href="http://labtheater.org/ticket-information-policy/">Ticket Info &#038; Policy</a></li>
+	<li id="menu-item-30151" class="menu-item menu-item-type-taxonomy menu-item-object-mc_season menu-item-30151"><a href="http://labtheater.org/seasons/2014-2015/">2014-2015</a></li>
+</ul>
+</li>
+<li id="menu-item-28608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28608"><a href="http://labtheater.org/our-company/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-28735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28735"><a href="http://labtheater.org/past-productions-old/">Past Productions</a></li>
+	<li id="menu-item-28737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28737"><a href="http://labtheater.org/staff-board/">Staff &#038; Board</a></li>
+	<li id="menu-item-28736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28736"><a href="http://labtheater.org/company-members/">Company Members</a></li>
+</ul>
+</li>
+<li id="menu-item-28610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28610"><a href="http://labtheater.org/education/">Education</a></li>
+<li id="menu-item-28611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28611"><a href="http://labtheater.org/support/">Support Us</a></li>
+<li id="menu-item-28738" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-28738"><a href="http://labtheater.org/inside-lab/">Inside Labyrinth</a></li>
+<li id="menu-item-28732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28732"><a href="http://labtheater.org/get-involved/">Get Involved</a></li>
+<li id="menu-item-28731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28731"><a href="http://labtheater.org/visit/">Visit</a></li>
+</ul></div> 
+			  
+				
+        	<div class="clear"></div>
+		</div>
+		
+		
+       <div id="copyright" class="container clear"><div class="container"><div id="copyright-inner">
+		   
+		<div class="address">
+       <img class='footer-logo' src='http://labtheater.org/wp-content/themes/labyrinth/images/lab-footerlogo.png' style="margin-left: -10px;" width="260">
+		<p>Bank Street Theater • 155 Bank Street<br />
+New York, NY 10014<br />
+<a href="https://goo.gl/maps/vLZOB" target="_blank">Directions</a></p>
+        <div id="social-footer">
+			<a href="https://www.facebook.com/LAByrinthTheater" target="_blank"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/labtheaternyc" target="_blank"><i class="fa fa-twitter"></i></a>						<a href="http://vimeo.com/labtheater" target="_blank"><i class="fa fa-vimeo-square"></i></a>
+										<a href="http://instagram.com/LabyrinthTheater" target="_blank"><i class="fa fa-instagram"></i></a> 
+						
+			<a href="https://soundcloud.com/labyrinth-theater" target="_blank"><i class="fa fa-soundcloud"></i></a>
+			
+        </div>
+		  <!-- Footer social icons -->
+	</div>
+      
+        
+
+       	<div class="copyright box-office">
+	  <p>BOX OFFICE<br />
+<a href="tel:2125131080">212.513.1080</a><br />
+TUES-FRI 12-6 or 2 hours before a performance<br />
+<a href="%20http://labtheater.org/our-privacy-policy/" target="_blank">Privacy Policy </a>| <a href="http://labtheater.org/accessibility-services/" target="_blank">Accessibility Services</a></p>
+    <form role="search" method="get" id="searchform" action="http://labtheater.org/" >
+<div><input type="text" value="Find.." name="s" id="s" />
+<input type="submit" id="searchsubmit" value="" />
+</div>
+</form>  </div>
+		
+       </div></div></div><!--#copyright-->
+    </footer>
+    <div class="clearleft"></div>
+</div><!--#footer-->
+	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type="text/javascript" id="sns_global_scripts">adroll_adv_id = "MRFTCGDLXFEQPFIKLA6K6P";
+adroll_pix_id = "4N5CZVSJ7FEDFD2E6NSCTM";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());</script><script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/scripts/isotope/jquery.isotope.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/scripts/fitvids/jquery.fitvids.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/scripts/retina/retina.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/scripts/infinitescroll/jquery.infinitescroll.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/includes/easy-fancybox/fancybox/jquery.easing-1.3.pack.js?ver=1.3'></script>
+<script type='text/javascript' src='http://labtheater.org/wp-content/themes/labyrinth/includes/easy-fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=3.0.4'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 2974/3167 objects using disk
+
+ Served from: labtheater.org @ 2014-12-02 20:51:06 by W3 Total Cache -->

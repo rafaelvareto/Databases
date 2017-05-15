@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Caffeine-Headache {dot} Com</title>
+<LINK REL=stylesheet HREF="http://www.caffeine-headache.com/style.css" TYPE="text/css">
+<style type="text/css">
+<!--
+body {
+	margin-left: 20px;
+	margin-top: 120px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	background-color: #A9A998;
+}
+body,td,th {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+a:link {
+	color: #B9992D;
+	text-decoration: none;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+a:visited {
+	text-decoration: none;
+	color: #B9992D;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+a:hover {
+	text-decoration: underline;
+	color: #E6D35C;
+	background-color: #FAFAF8;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+a:active {
+	text-decoration: none;
+	color: #B9992D;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.header {
+	display: block;
+	text-transform: capitalize;
+	font-weight: bold;
+	padding: 5px;
+	color: #E0E4CE;
+	text-indent: 5px;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 16px;
+	background-color: #A9A998;
+	letter-spacing: 2px;
+}
+.content {
+	text-decoration: none;
+	display: block;
+	text-decoration: none;
+	text-indent: 20px;
+	line-height: 10px;
+	list-style-type: square;
+	background-color: #E0E4CE;
+}
+.content a {
+	display: block;
+	padding: 6px 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #A9A998;
+}
+.fantitles {
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	text-transform: lowercase;
+	letter-spacing: 5px;
+	text-align: left;
+	text-indent: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D3D9BB;
+	color: #FEFEFE;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+.faninfo {
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #D3D9BB;
+	padding-bottom: 40px;
+	padding-left: 20px;
+	width: 90%;
+}
+
+-->
+</style>
+</head>
+
+<body>
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#E0E4CE">
+  <tr>
+    <td width="200" align="left" valign="top"><img src="http://www.caffeine-headache.com/graphics/404.jpg" alt="404 Not Found" width="200" height="160" /></td>
+    <td width="20" align="left" valign="top"></td>
+    <td width="360" align="left" valign="middle">
+    <p align="justify"><strong>Sorry, 404 Not Found! </strong></p>
+      <p align="justify"> Looks like something has gone wrong somewhere. Perhaps the URL was incorrect, or maybe the site has been moved. If you think I've made a mistake somewhere please <a href="mailto:ispahan@caffeine-headache.com?subject=404.not.found">get in touch</a> and let me know that a page has wandered off. </p>
+      <p align="justify">Follow this link to return to the main site: <a href="http://www.caffeine-headache.com">Caffeine-Headache</a>.</p>    </td>
+    <td width="20" align="left" valign="middle">&nbsp;</td>
+  </tr>
+</table>
+<br /><br /><br /><p align="center"><a href="http://extremetracking.com/open?login=cafh404"
+target="_top"><img src="http://t1.extreme-dm.com/i.gif"
+name="EXim" border="0" height="38" width="41"
+alt="eXTReMe Tracker"></img></a>
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script type="text/javascript"><!--
+var EXlogin='cafh404' // Login
+var EXvsrv='s10' // VServer
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+EXd.write("<img src=http://e1.extreme-dm.com",
+"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+</script><noscript><img height="1" width="1" alt=""
+src="http://e1.extreme-dm.com/s10.g?login=cafh404&amp;j=n&amp;jv=n"/>
+</noscript></center>
+
+</body>
+</html>

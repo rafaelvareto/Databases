@@ -1,0 +1,455 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6 ie"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7 ie"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8 ie"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9 ie"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js ie"> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<script>
+if (/*@cc_on!@*/false) {
+    document.documentElement.className+=' ie10';
+}
+//detect ie11 by CSS Capability Testing
+if ('msTextCombineHorizontal' != undefined) {
+
+	//add class if userAgent isn't Chrome or Safari
+	var ua = navigator.userAgent;
+	var chromesafari_check  = new RegExp("Safari");
+	if (chromesafari_check.exec(ua) != null){
+	  var isMSIE = false;
+	}else{
+		var isMSIE = true;
+	}
+
+	if (isMSIE) {
+    	document.documentElement.className+=' ie11';
+	}
+}
+</script>
+<!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>The Peace Center :: Page Not Found</title>
+	<meta name="author" content="The Peace Center" />					<meta property="og:title" content="The Peace Center :: Page Not Found" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.peacecenter.org/images/shows/harry_connick-jr-web.jpg" />
+	<meta property="og:image" content="http://peacecenter.s3.amazonaws.com/img/default_thumb.jpg" />
+	<meta property="thumbnail" content="http://peacecenter.s3.amazonaws.com/img/default_thumb.jpg" />
+	<meta name="viewport" content="width=1200">
+		<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		
+		<link rel="stylesheet" media="screen, projection" href="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/css/style.css">
+
+	
+	<link rel="stylesheet" media="print" href="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/css/print.css">
+			<script type="text/javascript" src="http://use.typekit.com/fmn7ztz.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script>
+		var BASE_URL = "http://www.peacecenter.org/";
+		var APPLICATION_URL = "http://www.peacecenter.org/";
+		var S3_BUCKET = "peacecenter";
+		var SHOWTIME_TRANSLATION_ID = "engUS";
+				var ADMIN_S3_URL = "http://sh0wtime.s3.amazonaws.com/production/b43e8e8957/";
+				var _sf_startpt=(new Date()).getTime();
+	</script>
+	<script src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/modernizr-1.6.min.js"></script>
+	<script>
+	var _gaq = [['_setAccount', 'UA-9468387-1'], ['_trackPageview']];
+	(function(d, t) {
+		var g = d.createElement(t),
+		s = d.getElementsByTagName(t)[0];
+		g.async = true;
+		g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g, s);
+	})(document, 'script');
+</script>
+		
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+
+<a href="https://plus.google.com/112844172113283164061" rel="publisher"></a></head>
+<body id="pages" class="index">
+	<!-- #container is used as main page wrap for backgrounds or whatever -->
+	<div id="container">
+		<!-- #layout used for positioning main content centered -->
+		<!-- header -->
+		<header>
+			<div class="toolbar-container">
+	<div class="span-center span6">
+		<div class="toolbar span6 pull-right">
+				<ul class="header-links">
+					<li><a href="https://tickets.peacecenter.org/online/default.asp" class="ico-ticket" rel="Buy Tickets" target="_blank">Buy Tickets</a></li>
+					<li><span class="ico-calendar open_cal" rel="Events Calendar">View Calendar</span></li>
+										<li class="my-account"><a href="https://tickets.peacecenter.org/online/maintainAccount.asp" class="" rel="My Account" target="_blank">My Account</a></li>
+									</ul>
+
+								
+				<ul class="social">
+					<li><a href="http://www.twitter.com/peacecenter" class="icon-twitter" rel="Twitter" target="_blank"> </a></li>					<li><a href="http://www.facebook.com/peacecenter" class="icon-facebook" rel="Facebook" target="_blank"> </a></li>					<li><a href="http://www.youtube.com/thepeacecenter" class="icon-play" rel="YouTube" target="_blank"> </a></li>					<li><a href="http://instagram.com/thepeacecenter" class="icon-instagram" rel="Instagram" target="_blank"> </a></li>				</ul>
+			<div class="search">
+				<form action="http://www.peacecenter.org/search" id="cse-search-box">
+	<div>
+		<input type="hidden" name="cx" value="014420022621253808966:7ado8wc55f4" />
+		<input type="hidden" name="cof" value="FORID:9" />
+		<input type="hidden" name="ie" value="UTF-8" />
+		<input type="text" name="q" size="31" placeholder="Search"/>
+		<button type="submit" class="icon-search"></button>
+	</div>
+</form>							</div>
+		</div>
+	</div>
+</div>
+<div class="header-container span6 span-center" class="clearfix">
+	
+
+	<!-- this view loads the main logo -->
+	<div class="logo">
+			<a href="http://www.peacecenter.org/" title="The Peace Center">The Peace Center</a>
+	</div>	<nav>
+		<ul>
+																												<li class="page_1">
+						<a href="http://www.peacecenter.org/home" class="page_1">Home</a>											</li>
+																																<li class="page_3 has_sub">
+						<a href="http://www.peacecenter.org/events" class="page_3">Upcoming Events</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/events/shows-tickets" class="page_69">Shows & Tickets</a></li>
+																			<li><a href="http://www.peacecenter.org/events/events-calendar" class="page_73">Events Calendar</a></li>
+																			<li><a href="http://www.peacecenter.org/events/broadway" class="page_55">The 2014-15 Broadway Series</a></li>
+																			<li><a href="http://www.peacecenter.org/events/2014-15-season" class="page_83">The 2014-15 Season</a></li>
+																			<li><a href="http://www.peacecenter.org/events/resident-companies" class="page_66">Resident Companies</a></li>
+																			<li><a href="http://www.peacecenter.org/events/news-reviews" class="page_56">News & Reviews</a></li>
+																			<li><a href="http://www.peacecenter.org/events/2014-holiday" class="page_90">Holiday Shows</a></li>
+																	</ul>
+															</div>
+											</li>
+																																<li class="page_4 has_sub">
+						<a href="http://peacecenter.org/box-office-information/box-office-information-1" class="gh_page page_4 gh_page_redirect page_4" rel="external" target="_blank">Box Office Information</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/box-office-information/box-office-information-1" class="page_75">Box Office Information</a></li>
+																			<li><a href="http://peacecenter.production.carbonhouse.com/events/events-calendar" class="gh_page page_74 gh_page_redirect page_74" rel="external" target="_blank">Events Calendar</a></li>
+																			<li><a href="http://www.peacecenter.org/box-office-information/plan-your-visit" class="page_76">Plan Your Visit</a></li>
+																			<li><a href="http://www.peacecenter.org/box-office-information/seating-charts" class="page_13">Seating Charts</a></li>
+																			<li><a href="http://www.peacecenter.org/box-office-information/accessibility" class="page_18">Accessibility</a></li>
+																			<li><a href="http://www.peacecenter.org/box-office-information/gift-cards" class="page_11">Gift Cards</a></li>
+																			<li><a href="http://www.peacecenter.org/box-office-information/group-sales" class="page_10">Group Sales</a></li>
+																	</ul>
+															</div>
+											</li>
+																																<li class="page_5 has_sub">
+						<a href="http://www.peacecenter.org/giving-support" class="page_5">Giving & Support</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/giving-support/peacekeepers" class="page_19">Peacekeepers</a></li>
+																			<li><a href="http://www.peacecenter.org/giving-support/corporate-sponsorship" class="page_21">Corporate & Foundation Giving</a></li>
+																			<li><a href="http://www.peacecenter.org/giving-support/peace-outreach-program" class="page_22">Peace Outreach Program</a></li>
+																			<li><a href="http://www.peacecenter.org/giving-support/planned-giving" class="page_25">Planned Giving</a></li>
+																	</ul>
+															</div>
+											</li>
+																																<li class="page_6 has_sub">
+						<a href="http://www.peacecenter.org/community-engagement" class="page_6">Community Engagement</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/community-engagement/peace-outreach-performances" class="page_27">Peace Outreach Performances</a></li>
+																			<li><a href="http://www.peacecenter.org/community-engagement/peace-voices" class="page_28">Peace Voices</a></li>
+																			<li><a href="http://www.peacecenter.org/community-engagement/enrichment" class="page_72">Enrichment</a></li>
+																			<li><a href="http://www.peacecenter.org/community-engagement/educators-schools" class="page_29">Educators & Schools</a></li>
+																			<li><a href="http://www.peacecenter.org/community-engagement/get-involved-1" class="page_26">Get Involved</a></li>
+																			<li><a href="http://www.peacecenter.org/peace-outreach-program" class="page_33">Giving & Support</a></li>
+																			<li><a href="http://www.peacecenter.org/community-engagement/peace-outreach-news" class="page_34">Peace Outreach News</a></li>
+																	</ul>
+															</div>
+											</li>
+																																<li class="page_7 has_sub">
+						<a href="http://www.peacecenter.org/genevieves-1/genevieves" class="gh_page page_7 gh_page_redirect page_7" rel="external" target="_blank">Genevieve's Theatre Lounge</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/genevieves-1/genevieves" class="page_38">Join Us at Genevieve's!</a></li>
+																	</ul>
+															</div>
+											</li>
+																																<li class="page_8 has_sub">
+						<a href="http://www.peacecenter.org/plan-your-event" class="page_8">Plan Your Event</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/plan-your-event/huguenot-mill" class="page_42">Huguenot Mill</a></li>
+																			<li><a href="http://www.peacecenter.org/plan-your-event/certus-loft" class="page_43">The Certus Loft</a></li>
+																			<li><a href="http://www.peacecenter.org/plan-your-event/events-genevieves" class="page_44">Genevieve's</a></li>
+																			<li><a href="http://www.peacecenter.org/plan-your-event/other-rentals" class="page_45">Other Rentals</a></li>
+																			<li><a href="http://www.peacecenter.org/plan-your-event/submit-an-event-inquiry" class="page_46">Submit an Event Inquiry</a></li>
+																	</ul>
+															</div>
+											</li>
+																																<li class="page_9 has_sub">
+						<a href="http://www.peacecenter.org/about-us" class="page_9">About Us</a>													<div class="sub">
+								<ul>
+																			<li><a href="http://www.peacecenter.org/news" class="page_16">News</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/mission-history" class="page_47">Mission & History</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/board-of-trustees" class="page_48">Board of Trustees</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/peace-center-staff" class="page_49">Peace Center Staff</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/employment" class="page_50">Employment</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/join-the-peace-center-online" class="page_51">Join the Peace Center Online</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/technical-information" class="page_52">Technical Information</a></li>
+																			<li><a href="http://www.peacecenter.org/about-us/contact-us" class="page_53">Contact Us</a></li>
+																	</ul>
+															</div>
+											</li>
+																</ul>
+	</nav>
+</div>
+		</header>
+		<div class="calendar-container inactive">
+			<h3 class="calendar-title">Calendar of Events</h3>
+<div id="calendario" class="calendario">
+    <div class="cal-wrap">
+        <div id="cal-inner" class="cal-inner">
+            
+            <div class="cal-header clearfix">
+                <div class="cal-controls">
+                    <span id="cal-prev" class="cal-prev icon-angle-left"></span>
+                    <span id="cal-next" class="cal-next icon-angle-right"></span>
+                </div>
+                <h2 id="cal-month" class="cal-month"></h2>
+            </div>
+            <div id="calendar" class="fc-calendar-container"></div>
+            <div class="tooltip"></div>
+            <div class="cal-hide-overlay"></div>
+            <div id="cal-content-reveal" class="cal-content-reveal">
+                <span class="cal-content-close">Close</span>
+                <div class="scrolled_content">
+                    <div class="header-date">Mon, Nov 24, 2014</div>
+                    <div class="viewport">
+                        <div class="filler"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="http://www.peacecenter.org/events" title="View All Events" class="all-events-link">View All Events</a></div>
+<span class="cal-close"><i class="icon-double-angle-up"></i> Close <i class="icon-double-angle-up"></i></span>
+		</div>
+				<div id="layout" class="span6 span-center">
+		    <!-- main page content -->
+		    <div id="content" class="clearfix">
+		    			    		<div class="one_sidebar_right clearfix">
+	<div id="column_1" class="span4">
+		<div class="holder clearfix">
+			<div class="overview">
+				<h1>Page Not Found</h1>
+				<p>Sorry the page you were looking for cannot be found. Please visit one of the pages below.</p>
+			</div>
+			<div class="sitemap container clearfix">
+				<div id="sitemap_column_1" class="span2">
+					<ul>
+																											<li class="page_1"><a href="http://www.peacecenter.org/home" class="page_1">Home</a>																	</li>
+
+																																				<li class="page_3"><a href="http://www.peacecenter.org/events" class="page_3">Upcoming Events</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/events/shows-tickets" class="page_69">Shows & Tickets</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/events/events-calendar" class="page_73">Events Calendar</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/events/broadway" class="page_55">The 2014-15 Broadway Series</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/events/2014-15-season" class="page_83">The 2014-15 Season</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/events/resident-companies" class="page_66">Resident Companies</a>																											<ul>
+																															<li><a href="http://www.peacecenter.org/events/carolina-ballet-theatre" class="page_57">Carolina Ballet Theatre</a></li>
+																															<li><a href="http://www.peacecenter.org/events/greenville-chorale" class="page_79">Greenville Chorale</a></li>
+																															<li><a href="http://www.peacecenter.org/events/gcyo" class="page_80">Greenville County Youth Orchestra</a></li>
+																															<li><a href="http://www.peacecenter.org/events/greenville-symphony-orchestra" class="page_59">Greenville Symphony Orchestra</a></li>
+																															<li><a href="http://www.peacecenter.org/events/international-ballet" class="page_60">International Ballet </a></li>
+																															<li><a href="http://www.peacecenter.org/events/south-carolina-childrens-theatre" class="page_58">South Carolina Children's Theatre</a></li>
+																															<li><a href="http://www.peacecenter.org/events/gov-school" class="page_85">The Governor's School</a></li>
+																													</ul>
+																									</li>
+																							<li><a href="http://www.peacecenter.org/events/news-reviews" class="page_56">News & Reviews</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/events/2014-holiday" class="page_90">Holiday Shows</a>																									</li>
+																					</ul>
+																	</li>
+
+																																				<li class="page_4"><a href="http://peacecenter.org/box-office-information/box-office-information-1" class="gh_page page_4 gh_page_redirect page_4" rel="external" target="_blank">Box Office Information</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/box-office-information/box-office-information-1" class="page_75">Box Office Information</a>																									</li>
+																							<li><a href="http://peacecenter.production.carbonhouse.com/events/events-calendar" class="gh_page page_74 gh_page_redirect page_74" rel="external" target="_blank">Events Calendar</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/box-office-information/plan-your-visit" class="page_76">Plan Your Visit</a>																											<ul>
+																															<li><a href="http://www.peacecenter.org/box-office-information/directions-parking" class="page_77">Directions & Parking</a></li>
+																															<li><a href="http://www.peacecenter.org/box-office-information/accomodations" class="page_78">Accomodations</a></li>
+																													</ul>
+																									</li>
+																							<li><a href="http://www.peacecenter.org/box-office-information/seating-charts" class="page_13">Seating Charts</a>																											<ul>
+																															<li><a href="http://www.peacecenter.org/box-office-information/peace-concert-hall" class="page_14">Peace Concert Hall</a></li>
+																															<li><a href="http://www.peacecenter.org/box-office-information/gunter-theatre" class="page_15">Gunter Theatre</a></li>
+																													</ul>
+																									</li>
+																							<li><a href="http://www.peacecenter.org/box-office-information/accessibility" class="page_18">Accessibility</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/box-office-information/gift-cards" class="page_11">Gift Cards</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/box-office-information/group-sales" class="page_10">Group Sales</a>																									</li>
+																					</ul>
+																	</li>
+
+																																				<li class="page_5"><a href="http://www.peacecenter.org/giving-support" class="page_5">Giving & Support</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/giving-support/peacekeepers" class="page_19">Peacekeepers</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/giving-support/corporate-sponsorship" class="page_21">Corporate & Foundation Giving</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/giving-support/peace-outreach-program" class="page_22">Peace Outreach Program</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/giving-support/planned-giving" class="page_25">Planned Giving</a>																									</li>
+																					</ul>
+																	</li>
+
+																																				<li class="page_6"><a href="http://www.peacecenter.org/community-engagement" class="page_6">Community Engagement</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/community-engagement/peace-outreach-performances" class="page_27">Peace Outreach Performances</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/community-engagement/peace-voices" class="page_28">Peace Voices</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/community-engagement/enrichment" class="page_72">Enrichment</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/community-engagement/educators-schools" class="page_29">Educators & Schools</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/community-engagement/get-involved-1" class="page_26">Get Involved</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/peace-outreach-program" class="page_33">Giving & Support</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/community-engagement/peace-outreach-news" class="page_34">Peace Outreach News</a>																									</li>
+																					</ul>
+																	</li>
+
+								</ul></div><div id="sitemap_column_2" class="span2 gutter"><ul>																												<li class="page_7"><a href="http://www.peacecenter.org/genevieves-1/genevieves" class="gh_page page_7 gh_page_redirect page_7" rel="external" target="_blank">Genevieve's Theatre Lounge</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/genevieves-1/genevieves" class="page_38">Join Us at Genevieve's!</a>																									</li>
+																					</ul>
+																	</li>
+
+																																				<li class="page_8"><a href="http://www.peacecenter.org/plan-your-event" class="page_8">Plan Your Event</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/plan-your-event/huguenot-mill" class="page_42">Huguenot Mill</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/plan-your-event/certus-loft" class="page_43">The Certus Loft</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/plan-your-event/events-genevieves" class="page_44">Genevieve's</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/plan-your-event/other-rentals" class="page_45">Other Rentals</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/plan-your-event/submit-an-event-inquiry" class="page_46">Submit an Event Inquiry</a>																									</li>
+																					</ul>
+																	</li>
+
+																																				<li class="page_9"><a href="http://www.peacecenter.org/about-us" class="page_9">About Us</a>																			<ul>
+																							<li><a href="http://www.peacecenter.org/news" class="page_16">News</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/mission-history" class="page_47">Mission & History</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/board-of-trustees" class="page_48">Board of Trustees</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/peace-center-staff" class="page_49">Peace Center Staff</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/employment" class="page_50">Employment</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/join-the-peace-center-online" class="page_51">Join the Peace Center Online</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/technical-information" class="page_52">Technical Information</a>																									</li>
+																							<li><a href="http://www.peacecenter.org/about-us/contact-us" class="page_53">Contact Us</a>																									</li>
+																					</ul>
+																	</li>
+
+																																							</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="column_2" class="span2 pull-right clearfix">
+		
+	</div>
+</div>		    			    </div>
+
+		    <!-- footer -->
+		    <footer class="footer">
+				<div class="span6 footer-banners clearfix">
+	<div class="span2">
+		
+				
+			<div class="banner" id="banner_7">
+			<ul class="rslides">
+										<li>
+							<a href="http://peacecenter.org/community-engagement/peace-voices" title="PeaceVoices_bottombanner.jpg" target="_blank"><img src="http://peacecenter.s3.amazonaws.com/img/PeaceVoices_bottombanner.jpg" alt="PeaceVoices_bottombanner.jpg" /></a>						</li>
+							</ul>
+		</div>
+				</div>
+	<div class="span2 gutter">
+		
+				
+			<div class="banner" id="banner_6">
+			<ul class="rslides">
+										<li>
+							<a href="http://peacecenter.org/giving-support/peacekeepers" title="Peacekeeper_bottombanner.jpg" target="_blank"><img src="http://peacecenter.s3.amazonaws.com/img/Peacekeeper_bottombanner.jpg" alt="Peacekeeper_bottombanner.jpg" /></a>						</li>
+							</ul>
+		</div>
+				</div>
+	<div class="span2 pull-right">
+		
+				
+			<div class="banner" id="banner_5">
+			<ul class="rslides">
+										<li>
+							<a href="http://peacecenter.org/about-us/join-the-peace-center-online" title="online_bottom banner.jpg" target="_blank"><img src="http://peacecenter.s3.amazonaws.com/img/online_bottom-banner.jpg" alt="online_bottom banner.jpg" /></a>						</li>
+							</ul>
+		</div>
+				</div>
+</div>
+<div class="span6 footer-info clearfix">
+	<div class="span">
+		<div class="logo">
+			<a href="http://www.peacecenter.org/" title="The Peace Center">The Peace Center</a>
+	</div>			</div>
+	<div class="footer-nav">
+		<ul>
+					<li><a href="http://www.peacecenter.org/home" class="nav_list page_1">Home</a></li>
+					<li><a href="http://www.peacecenter.org/events" class="nav_list page_3">Upcoming Events</a></li>
+					<li><a href="http://peacecenter.org/box-office-information/box-office-information-1" class="gh_page page_4 gh_page_redirect page_4" rel="external" target="_blank">Box Office Information</a></li>
+					<li><a href="http://www.peacecenter.org/giving-support" class="nav_list page_5">Giving & Support</a></li>
+					<li><a href="http://www.peacecenter.org/community-engagement" class="nav_list page_6">Community Engagement</a></li>
+					<li><a href="http://www.peacecenter.org/genevieves-1/genevieves" class="gh_page page_7 gh_page_redirect page_7" rel="external" target="_blank">Genevieve's Theatre Lounge</a></li>
+					<li><a href="http://www.peacecenter.org/plan-your-event" class="nav_list page_8">Plan Your Event</a></li>
+					<li><a href="http://www.peacecenter.org/about-us" class="nav_list page_9">About Us</a></li>
+				</ul>
+	</div>
+</div>
+
+<div class="span6 global-footer clearfix">
+		Copyright &copy; 2014		The Peace Center. All Rights Reserved.
+		<a href="http://www.peacecenter.org/sitemap">Sitemap</a>		<a href="http://www.peacecenter.org/about-us/contact-us">Contact Us</a>		<a href="http://www.peacecenter.org/privacy-policy">Privacy Policy</a>		<a href="http://www.peacecenter.org/accessibility">Accessibility</a>		<a href="http://www.carbonhouse.com" title="a carbonhouse experience" id="carbonhouse" target="_blank">a <span class="carbon">carbon</span><span class="house">house</span> experience</a></div>			</footer>
+
+		</div>
+
+		<!-- do not delete! - used for homepage overlay -->
+		
+	</div> 
+
+	<!-- do not delete! - used for facebook connect -->
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/jquery-1.7.0.js">"%3E%3C/script%3E'))</script>
+	<script src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/application.js"></script>
+	<script src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/responsiveslides.min.js"></script>
+	<script src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/base.min.js"></script>
+	<script src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/jquery.tools.min.js"></script>
+	<script type="text/javascript">$(document).ready(function() {replacePlaceholder()});</script><script type="text/javascript">$(document).ready(function() {setupNav('nav li')});</script><script type="text/javascript" src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/jquery.calendario.js"></script><script type="text/javascript" src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/jquery.mousewheel.js"></script><script type="text/javascript" src="http://peacecenter.s3.amazonaws.com/production/c0d5c5cc08/js/libs/jquery.jscrollpane.min.js"></script><script type="text/javascript">
+     $(document).ready(function(){
+        setupCalendario('#calendario','http://www.peacecenter.org//events/calendar/',{showImage:true});
+        showhideCalendario();
+        $('#calendario .viewport').jScrollPane({
+            showArrows: false,
+            verticalDragMaxHeight: 90,
+            verticalGutter: 20,
+            autoReinitialise: true
+        });
+    });</script>
+			
+<script type="text/javascript">
+  var _sf_async_config = { uid: 33785, domain: "peacecenter.org", useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+		
+		<script type="text/javascript">
+	adroll_adv_id = "W4H6TWVUENDVPMKQNLVZZN";
+	adroll_pix_id = "W5PF4FXAKZHQXGHCKBVYTR";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	   __adroll_loaded=true;
+	   var scr = document.createElement("script");
+	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	   scr.setAttribute('async', 'true');
+	   scr.type = "text/javascript";
+	   scr.src = host + "/j/roundtrip.js";
+	   ((document.getElementsByTagName('head') || [null])[0] ||
+	    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	   if(oldonload){oldonload()}};
+	}());
+	</script>
+</body>
+</html>

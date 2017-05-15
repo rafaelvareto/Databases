@@ -1,0 +1,805 @@
+<!DOCTYPE html> <html class="ltr no-js" dir="ltr" lang="en-US"> <head> <!-- Theme Version: 20141027-115212.1.72435 --> <!-- Build Type: prod --> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <meta http-equiv="refresh" content="1800"> <link rel="apple-touch-icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/apple-touch-icon.png"> <link rel="icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/favicon.ico" type="image/x-icon"> <link rel="shortcut icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/favicon.ico" type="image/x-icon"> <title>GoMemphis: Entertainment News from The Commercial Appeal</title> <meta content="text/html; charset=UTF-8" http-equiv="content-type" /> <meta name="description" content="GoMemphis: Entertainment News for Memphis, Tennessee, and its surrounding communities from The Commercial Appeal. Coverage includes Music, Food and Dining, Arts, Movies and TV and Party Line." lang="en-US" /> <script>/*<![CDATA[*/var _head_start = new Date();/*]]>*/</script> <!-- used for Google CSE --><!--<PageMap><DataObject type="Date"><Attribute name="sdateformat" value="20140926 07:51:18"/><Attribute name="edate" value="Fri Sep 26 19:51:18 GMT 2014"/><Attribute name="edateformat" value="20140926 07:51:18"/><Attribute name="sdate" value="1411761078427"/></DataObject><DataObject type="Site"><Attribute name="siteId" value="100107"/></DataObject><DataObject type="PageAttr"><Attribute name="Category" value="Go Memphis"/></DataObject><DataObject type="Story"><Attribute name="Description" value="GoMemphis: Entertainment News for Memphis, Tennessee, and its surrounding communities from The Commercial Appeal. Coverage includes Music, Food and Dining, Arts, Movies and TV and Party Line."/><Attribute name="ModDate" value="20140926 07:51:18"/><Attribute name="PubDate" value="20140926 07:51:18"/></DataObject></PageMap>--> <!-- social sharing tools --> <link href="http&#x3a;&#x2f;&#x2f;www&#x2e;commercialappeal&#x2e;com&#x2f;entertainment" rel="canonical" /> <link href="&#x2f;html&#x2f;css&#x2f;public&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6110&#x26;t&#x3d;1416534892000" rel="stylesheet" type="text/css" /> <link href="/html/portlet/journal_content/css/main.css?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;languageId=en_US&amp;b=6110&amp;t=1416534760000" rel="stylesheet" type="text/css" /> <script type="text/javascript">/*<![CDATA[*/
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return true;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return true;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10155";
+				},
+				getCompanyGroupId: function() {
+					return "10195";
+				},
+				getUserId: function() {
+					return "10159";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "385759705";
+				},
+
+				
+					getLayoutId: function() {
+						return "85";
+					},
+					getLayoutURL: function() {
+						return "http://www.commercialappeal.com/entertainment";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "5";
+					},
+				
+
+				getScopeGroupId: function() {
+					return "221604436";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "221604436";
+				},
+				getParentGroupId: function() {
+					return "221604436";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "en_US";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "http://www.commercialappeal.com/newspaper-responsive-base-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/newspaper-responsive-base-theme/";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?doAsGroupId=221604436&refererPlid=385759705";
+				},
+				getURLHome: function() {
+					return "http://www.commercialappeal.com/web/guest";
+				},
+				getSessionId: function() {
+					return "EFD97A8EF2F3557D9DB53B54B4503359";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getBaseURL: function() {
+				return 'http://www.commercialappeal.com/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6110&t=1416534915000&p=/html/js&';
+			},
+			getFilter: function() {
+				
+					
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&)/([^&]+)'
+						};
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function () {
+				return 'aui_lang.jsp?browserId=other&themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&colorSchemeId=12&minifierType=js&languageId=en_US&b=6110&t=1416534915000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		
+
+		Liferay.currentURL = '\x2fentertainment';
+		Liferay.currentURLEncoded = '%2Fentertainment';
+	// ]]>
+/*]]>*/</script> <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;colorSchemeId=12&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1&amp;epversion=47298" type="text/javascript"></script> <script type="text/javascript">/*<![CDATA[*/
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['56_INSTANCE_2IOcPxLLXcwX','56_INSTANCE_TL5TePGlY0UM','56_INSTANCE_Ix5x1gqRqkQ3','56_INSTANCE_EZBOcd8Z3phb','56_INSTANCE_EpM5ufOlfoNc','56_INSTANCE_7rfTRMooKGsi','56_INSTANCE_oYMD7h2G58Ok','56_INSTANCE_edHhN0NmPRHs','56_INSTANCE_ZbSFV83UBNYd','56_INSTANCE_TJ8EUmQMobJN','56_INSTANCE_gN4Xv3HkYHIP','56_INSTANCE_zAwLl7RQx5Ok','56_INSTANCE_YmH2zgW1AOqE','56_INSTANCE_J67sbz9RYeAN','56_INSTANCE_1rF5BNQP3cxq','56_INSTANCE_ywKW6wpJQW1p','56_INSTANCE_NFAuJG1aBsZ9'];
+			
+		
+
+		
+
+		
+	// ]]>
+/*]]>*/</script> <!-- Add for optimization --> <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;colorSchemeId=12&amp;minifierType=js&amp;minifierBundleId=endplay.javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1&amp;epversion=47298" type="text/javascript"></script> <!-- JQUERY --> <script src="/html/js/endplay/framework/jquery/jquery-1.6.2.min.js?epversion=47298" type="text/javascript"></script> <!-- ENDPLAY FRAMEWORK --> <script type="text/javascript">/*<![CDATA[*/
+			if( !window.EP ){ var EP = {}; } EP.CONST = {};
+		/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+		EP.CONST.versionStr = "?epversion=47298";
+		EP.CONST.useTempData = false;
+		
+		//Extend Liferay's global JS ThemeDisplay object to include methods in the JSP one
+		(function(A){
+			A.mix(Liferay.ThemeDisplay, {
+				
+				getScopeGroupName: function(){
+					return 'MCA';
+				},
+				getParentGroupName: function(){
+					return 'MCA';
+				},
+				isControlPanel: function(){
+					return false;
+				}
+				
+			});
+		})(AUI());
+	/*]]>*/</script> <script src="/html/js/endplay/public.js?epversion=47298&minifierType=js"></script> <script type="text/javascript">/*<![CDATA[*/
+	var viewStoryUrl = "/group/mca/create-story?type=story&storyId=";
+	var viewNonstoryUrl = "/web/mca-staging/-/";
+	var viewGalleryUrl = "/group/mca/create-gallery?type=gallery&storyId=";
+	
+	var companyId = themeDisplay.getCompanyId();
+	var groupId = 221604440;
+	
+/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+	Liferay.ThemeDisplay.getVocabularyIds = function() {
+		return "232933213";
+	};
+	Liferay.ThemeDisplay.getVocabularyGroupIds = function() {
+		return "221604440";
+	};
+/*]]>*/</script> <link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;www&#x2e;commercialappeal&#x2e;com&#x2f;newspaper-responsive-base-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6110&#x26;t&#x3d;1414646338000" rel="stylesheet" type="text/css" /> <style type="text/css">
+	/* <![CDATA[ */
+		
+	/* ]]> */
+</style> <style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style> <link rel="apple-touch-icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/apple-touch-icon.png"> <link rel="icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/favicon.ico" type="image/x-icon"> <link rel="shortcut icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/favicon.ico" type="image/x-icon"> <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0"> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:site" content="@memphisnews"> <meta name="twitter:app:id:iphone" content="441556271"> <meta name="twitter:app:id:ipad" content="441556271"> <!--?xml version="1.0" encoding="UTF-8"?--><root></root> <meta content="5668C459879008778884A615B2E3002B" name="msvalidate.01" /> <meta name="msvalidate.01" content="5668C459879008778884A615B2E3002B" /> <!-- Font Stylesheet --> <!-- <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> --> <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> <script>/*<![CDATA[*/var jsHeadVal = ""; var jsHeadMediaServerUrl = "http://media.scrippsnationalnews.com/cms"; var cseAPI = "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"; var cseCX = "015583692002286327862:v6jejsesdn4"; var jsCallLetters = "mca";  var jsSiteType = "np"; var navitronRefreshInterval = "2"; var jsConfig = {}; $.extend(jsConfig, {});/*]]>*/</script> <!--[if lte IE 7]> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/ie-7.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <![endif]--> <!--[if IE 8]> <script>/*<![CDATA[*/jsHeadVal = "ie8";/*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/head.js?v=20141027-115212.1.72435"></script> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/ie-8.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <![endif]--> <!--[if !IE]><!--> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/all.css?v=20141027-115212.1.72435"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/small.css?v=20141027-115212.1.72435" media="screen and (max-width: 699px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/medium.css?v=20141027-115212.1.72435" media="screen and (min-width: 700px) and (max-width: 1019px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/large.css?v=20141027-115212.1.72435" media="screen and (min-width: 1020px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <!--<![endif]--> <!-- colorScheme: mca --> <!--[if gte IE 9]> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/all.css?v=20141027-115212.1.72435"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/small.css?v=20141027-115212.1.72435" media="screen and (max-width: 699px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/medium.css?v=20141027-115212.1.72435" media="screen and (min-width: 700px) and (max-width: 1019px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/large.css?v=20141027-115212.1.72435" media="screen and (min-width: 1020px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <![endif]--> <script src="http://media.scrippsnationalnews.com/cms/js/vendor/modernizr.custom.min.js?v=20141027-115212.1.72435"></script> <script>/*<![CDATA[*/
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + 
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    /*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/site.utils.detect.js?v=20141027-115212.1.72435"></script> <script src="http://media.scrippsnationalnews.com/cms/js/site.utils.ads.js?v=20141027-115212.1.72435"></script> <!-- Site Custom CSS --> <!--?xml version="1.0" encoding="UTF-8"?--><root></root> <!-- Sponsored Content (disable: false) --> <script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22218"></script> <!-- Timezone --> <script>/*<![CDATA[*//*<![CDATA[*/var timeZone='CST';/*]]>*//*]]>*/</script> <!-- Smart Banners --> <script>/*<![CDATA[*/
+        if (Detect.Device.isiOS() && Detect.Screen.isTablet()) {
+             document.write('<meta content="app-id=441556271" name="apple-itunes-app" />');         } else if (Detect.Device.isiOS() && Detect.Screen.isPhone()) {
+            document.write('<meta content="app-id=441556271" name="apple-itunes-app" />');         }
+
+    /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/var switchTo5x=true;/*]]>*/</script> <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> <script type="text/javascript">/*<![CDATA[*/stLight.options({publisher: "d33b1e43-c02e-44e7-9336-e1856d0e9661", doNotHash: true, doNotCopy: true, hashAddressBar: false, onhover: false});/*]]>*/</script> <!-- Begin head_embed --> <!-- pageStyle: none --> <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'> </head> <body class="mca controls-visible signed-out public-page organization-site site__image-ratio--16x9 go-memphis site__color--blue site__type--np page__long-form-story--false "> <!-- isLongformStory: false --> <div class="body__inner"> <!--[if lte IE 7]> <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p> <![endif]--> <!-- BUILD_TYPE: prod --> <script>/*<![CDATA[*/ 
+var paywallGtmCookie = (function() { 
+  var getCookie = function(name) { 
+    var value = "; " + document.cookie; 
+    var parts = value.split("; " + name + "="); 
+    if (parts.length == 2) { return parts.pop().split(";").shift(); } 
+  }; 
+  var value = getCookie("paywall-gtm-variables"); 
+  var returnObj; 
+  if (value) { try { value = decodeURIComponent(value); var obj = JSON.parse(value); if (typeof obj === "object") { returnObj = obj; } else if (typeof obj === "string") { returnObj = JSON.parse(obj); } } catch(err) {} } 
+  if (typeof returnObj !== "object") { returnObj = {}; } 
+  if (returnObj.LoggedIn === undefined) { returnObj.LoggedIn = false } 
+  if (!returnObj.SubscriberID) { returnObj.SubscriberID = '' } 
+  if (returnObj.SubscriberStatus === undefined) { returnObj.SubscriberStatus = false } 
+  if (!returnObj.Zip) { returnObj.Zip = '' } 
+  return returnObj; 
+})(); 
+/*]]>*/</script> <!-- Begin : Adding Data Layer Variables to Google Tag Manager!--><script>/*<![CDATA[*/
+var gtmObj = {
+'DatePublished': '092614', 'Author': '', 'Editor': '', 'Category':
+'Go Memphis', 'SubCat': '', 'IsPremium': 'false', 'DaysSincePublished':
+'59','LoggedIn': paywallGtmCookie.LoggedIn.toString(),'SubscriberStatus': paywallGtmCookie.SubscriberStatus.toString()};
+
+if (paywallGtmCookie.SubscriberID != "") gtmObj.SubscriberId = paywallGtmCookie.SubscriberID;
+if (paywallGtmCookie.Zip != "") gtmObj.Zip = paywallGtmCookie.Zip
+
+dataLayer = [gtmObj]; /*]]>*/</script><!-- END : Adding Data Layer Variables to Google Tag Manager!--> <!-- Google Tag Manager --> <noscript><iframe src=""//www.googletagmanager.com/ns.html?id=GTM-B7SK"" height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript> <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var
+            f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-B7SK');/*]]>*/</script> <!-- End Google Tag Manager --> <header id="header" class="js-toggleGroup header--np" data-toggle-class="is-active" role="banner"> <div class="header--bg"> <div class="container"> <div class="masthead--bg"> <div class="masthead masthead--np"> <div class="masthead__nav"> <button type="button" data-icon="nav" class="navitron-toggle js-nav-toggle"></button> <a href="/" class="site-logo site-logo--np">MCA</a> <div class="gray-box"> <form class="site-search js-search" id="search"> <input class="site-search__field" type="search" /> <input class="site-search__button" type="submit" value="search" /> </form> </div> </div> <div class="masthead__content"> <div class="link-list link-list--inline"> <a class="e_link" target="_blank" href="http://memphiscommercialappeal.tn.newsmemory.com/">E-Edition</a> <a class="e_link" target="_blank" href="/rewards">Reader Rewards</a> <a class="e_link" href="http://www.legalnotice.org/pl/commercialappeal/landing1.aspx">Legal Notices</a> </div> <div class="subscriber-box js-member-links"> <p class="">Want full access?</p> <div class="links"> <div class="link link--subscribe js-member-link-subscribe"> <a class="button" href="/subscribe">Subscribe</a> </div> <div class="link link--activate js-member-link-activate"> <p><span class="hide-phone hide-tablet show-desktop">Current subscriber?</span><a href="/subscribe">Activate</a></p> </div> <div class="link link--login js-member-link-login"> <p><span class="hide-phone hide-tablet show-desktop">Have an account? </span><a href="/subscribe">Login</a></p> </div> </div> </div> <div class="site-dashboard"> <div class="block block--weather"> <div class="module module--dashboard--weather"> <a class="inner" href="/weather" target="_top"> <div class="block"> <img class="side__media" src="http://content.wdtinc.com/images/icons_scripps/150x100/day/partlycloudy.png" /> <div class="side__body"> <div class="text--secondary">Weather</div> <div class="text--primary js-current-wx" data-weather-condition="partly cloudy">Partly cloudy</div> <div class="dashboard__text--primary js-current-temp" data-temperature="55">55&deg;</div> <div class="link">More Weather</div> </div> </div> </a> </div> </div> </div> </div> </div> <div class="container container--ad"> <div id="mAD_994_BY_30" class="module module--ad content-box ad--994x30 show-desktop hide-tablet hide-phone "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "above", "Zone" : "go_memphis/landing", "renderOn" : "[DESKTOP]", "fname" : "go_memphis", "Size" : "994x30"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_994_BY_30');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_994_BY_30');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> <div class="navbar navbar--np navbar--bg"> <div class="container"> <!-- NAVITRON --> <!-- current_page = http://www.commercialappeal.com/entertainment --> <!-- current_parent_page = http://www.commercialappeal.com/sections --> <!-- nothing_selected = false --> <nav class="sort-pages modify-pages nocontent nav nav--navitron" id="navigation"> <div class="nav__left js-navitron js-ajax"> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.commercialappeal.com/home" >Home</a> </section> <section class="nav-item nav-item--lvl-1 is-current-parent"> <button type="button" class="button--text">Sections</button> <div class="navitron__dropdown"> <div class="nav-item nav-item--lvl-2"> <button class="js-back">Back</button> </div> <div class="nav-item nav-item--lvl-2 navitron-is-hidden navitron-featured"> <button type="button" class="button--text">Featured</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">News</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/news" class=" navitron-is-hidden" >All News</a> <a class="" href="http://www.commercialappeal.com/local" >Local</a> <a class="" href="http://www.commercialappeal.com/politics" >Government &amp; Politics</a> <a class="" href="http://www.commercialappeal.com/education" >Education</a> <a class="" href="http://www.commercialappeal.com/crime" >Crime</a> <a class="" href="http://www.commercialappeal.com/news-columnists" >Columnists</a> <a class="" href="http://www.commercialappeal.com/nation-world" >Nation &amp; World</a> <a class="" href="http://www.commercialappeal.com/mid-south-memories" >Mid-South Memories</a> <a class="" href="http://www.legacy.com/obituaries/commercialappeal/" >Obituaries</a> <a class="" href="http://www.commercialappeal.com/archives" >Archives</a> <a class="" href="http://www.commercialappeal.com/rss-feeds1" >RSS Feeds</a> <a class="" href="http://www.commercialappeal.com/decodedc" >DecodeDC</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Sports</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/sports" class=" navitron-is-hidden" >All Sports</a> <a class="" href="http://www.commercialappeal.com/tigers" >Tigers</a> <a class="" href="http://www.commercialappeal.com/grizzlies" >Grizzlies</a> <a class="" href="http://www.commercialappeal.com/redbirds" >Redbirds</a> <a class="" href="http://www.commercialappeal.com/preps" >Preps</a> <a class="" href="http://www.commercialappeal.com/sec" >SEC</a> <a class="" href="http://www.commercialappeal.com/sports/professional" >Professional</a> <a class="" href="http://www.commercialappeal.com/outdoors" >Outdoors</a> <a class="" href="http://www.commercialappeal.com/motorsports" >Motorsports</a> <a class="" href="http://www.commercialappeal.com/golf" >Golf</a> <a class="" href="http://www.commercialappeal.com/sports-columnists" >Columnists</a> <a class="" href="http://commercialappeal.sportsdirectinc.com/gamematchups.aspx" >Scores, Stats &amp; Odds</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Opinion</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/opinion" class=" navitron-is-hidden" >All Opinion</a> <a class="" href="http://www.commercialappeal.com/opinion/editorials" >Editorials</a> <a class="" href="http://www.commercialappeal.com/opinion/letters-to-the-editor" >Letters to the Editor</a> <a class="" href="http://www.commercialappeal.com/opinion/analysis" >Analysis</a> <a class="" href="http://www.commercialappeal.com/otis-sanford" >Otis Sanford</a> <a class="" href="http://www.commercialappeal.com/opinion/commentary" >Local Commentary</a> <a class="" href="http://www.commercialappeal.com/opinion/national-and-world-commentary" >National and World Commentary</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Business</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/business" class=" navitron-is-hidden" >All Business</a> <a class="" href="http://www.commercialappeal.com/business/local" >Local</a> <a class="" href="http://www.commercialappeal.com/business/employment" >Employment</a> <a class="" href="http://www.commercialappeal.com/business/real-estate" >Real Estate</a> <a class="" href="http://www.commercialappeal.com/business/technology" >Technology</a> <a class="" href="http://www.commercialappeal.com/business/automotive" >Automotive</a> <a class="" href="http://www.commercialappeal.com/business/fedex" >FedEx</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 is-current"> <button type="button" class="button--text">GoMemphis</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/entertainment" class=" navitron-is-hidden" >All GoMemphis</a> <a class="" href="http://www.commercialappeal.com/food" >Food &amp; Dining</a> <a class="" href="http://www.commercialappeal.com/music" >Music</a> <a class="" href="http://www.commercialappeal.com/arts" >Arts</a> <a class="" href="http://www.commercialappeal.com/movies" >Movies &amp; Television</a> <a class="" href="http://www.commercialappeal.com/books" >Books</a> <a class="" href="http://www.commercialappeal.com/party-line" >Party Line</a> <a class="" href="http://events.commercialappeal.com/" >Event Calendar</a> <a class="" href="http://www.commercialappeal.com/puzzles" >Puzzles</a> <a class="" href="http://www.commercialappeal.com/comics" >Comics</a> <a class="" href="http://www.commercialappeal.com/horoscopes" >Horoscopes</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Lifestyle</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/lifestyle" class=" navitron-is-hidden" >All Lifestyle</a> <a class="" href="http://www.commercialappeal.com/health-and-fitness" >Health &amp; Fitness</a> <a class="" href="http://www.commercialappeal.com/home-and-garden" >Home &amp; Garden</a> <a class="" href="http://www.commercialappeal.com/faith-in-memphis" >Faith in Memphis</a> <a class="" href="http://www.commercialappeal.com/style" >Style</a> <a class="" href="http://www.commercialappeal.com/travel" >Travel</a> <a class="" href="http://www.commercialappeal.com/weddings" >Weddings</a> <a class="" href="http://memphiscommercialappeal.tn.newsmemory.com/special.php?pSetup=memphiscommercialappeal_goodhealth" >Good Health</a> <a class="" href="http://memphiscommercialappeal.tn.newsmemory.com/special.php?pSetup=memphiscommercialappeal_fix" >FIX</a> <a class="" href="http://www.commercialappeal.com/lifestyle/columnists" >Columnists</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Data</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.commercialappeal.com/data" class=" navitron-is-hidden" >All Data</a> <a class="" href="http://commercialappeal.com/data/#salaries" >Public employee salaries</a> <a class="" href="http://www.commercialappeal.com/inequality" >Inequality in Memphis</a> <a class="" href="http://www.commercialappeal.com/data/schools-report-card" >Schools Report Card</a> <a class="" href="http://www.commercialappeal.com/data/beale-street" >Beale Street</a> <a class="" href="http://www.commercialappeal.com/data/homicide" >Homicide tracker</a> <a class="" href="http://www.commercialappeal.com/data/greenbelt-properties" >Greenbelt properties</a> <a class="" href="http://www.commercialappeal.com/data/tennessee-greenbelts" >Greenbelts by county</a> <a class="" href="http://www.commercialappeal.com/data/crime-trends" >Crime trends</a> <a class="" href="http://www.commercialappeal.com/data/poweroutages" >Memphis-area power outages</a> <a class="" href="http://www.commercialappeal.com/data/farmers-markets" >Farmers market finder</a> </div> <aside class="navitron__content"> </aside> </article> </div> </div> </section> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.commercialappeal.com/weather" >Weather</a> </section> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.commercialappeal.com/traffic" >Traffic</a> </section> </div> <div class="nav__right"> <a class="" href="http://www.commercialappeal.com/realestate" >Homes</a> <a class="" href="http://www.commercialappeal.com/jobs" >Jobs</a> <a class="" href="http://www.commercialappeal.com/cars" >Cars</a> <a class="" href="http://secure.adpay.com/SearchResultsDisplay.aspx?p=1008&amp;search=" >Classifieds</a> <a class="" href="http://www.commercialappeal.com/circulars" >Weekly Ads</a> </div> <div id="mAD_113_BY_38" class="module module--ad content-box ad--113x38 show-desktop show-tablet hide-phone "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "", "Zone" : "go_memphis/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "go_memphis", "Size" : "113x38"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_113_BY_38');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_113_BY_38');
+                })();
+            /*]]>*/</script> </div> <div class="hidden js-masthead-traffic"> <div class="module module--dashboard--traffic"> <a class="inner" href="/traffic" target="_top"> <div class="text--secondary">Traffic</div> <div class="text--primary">current alerts</div> <div class="dashboard__text--primary">2</div> <div class="link">More Traffic</div> </a> </div> </div> </nav> <!-- End NAVITRON --> </div> </div> </header> <section class="container--alerts"> <!-- Weather Alerts --> <article id="WEATHER_ALERTS" class="module module--alerts alerts--weather is-loading is-hidden "> <div class="container"> <div class="module__body"> <div class="counts "> </div> </div> </div> </article> </section> <section class="container--happening-now"> </section> <div class="container container--ad"> <div id="mAD_728_BY_90_ABOVE" class="module module--ad content-box ad--728x90 show-desktop show-tablet hide-phone "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "above", "Zone" : "go_memphis/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "go_memphis", "Size" : "728x90"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_728_BY_90_ABOVE');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_728_BY_90_ABOVE');
+                })();
+            /*]]>*/</script> </div> <div id="mAD_320_BY_50" class="module module--ad content-box ad--320x50 hide-desktop hide-tablet show-phone "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "above", "Zone" : "go_memphis/landing", "renderOn" : "[MOBILE]", "fname" : "go_memphis", "Size" : "320x50"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_320_BY_50');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_320_BY_50');
+                })();
+            /*]]>*/</script> </div> </div> <div class="is-hidden"> <div id="p_p_id_searchbox_WAR_sitesearchportlet_" class="portlet-boundary portlet-boundary_searchbox_WAR_sitesearchportlet_ portlet-static portlet-static-end portlet-borderless search-box-portlet " > <span id="p_searchbox_WAR_sitesearchportlet"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div id="searchbox__searchbox_WAR_sitesearchportlet_"> <form id="searchbox_form" action="http://www.commercialappeal.com/search?p_p_id=searchresult_WAR_sitesearchportlet&p_p_lifecycle=1&p_p_state=normal&_searchresult_WAR_sitesearchportlet_javax.portlet.action=search" method="GET" name="sf" > <input type="text" id="searchTerm" name="searchTerm" value=""/> <select name="scopeType" id="scopeType"> <option value="0" >Site</option> <option value="1" >Web</option> </select> <input class="lsb" type="button" name="btnS" onclick="submit_searchbox_WAR_sitesearchportlet_Form()" value="Search"/> <select name="sortType" id="sortType" style="display: none;"> <option value="0" >Relevance</option> <option value="1" >Date</option> </select> </form> </div> <script type="text/javascript">/*<![CDATA[*/
+	function submit_searchbox_WAR_sitesearchportlet_Form(){
+		var url = $("#searchbox__searchbox_WAR_sitesearchportlet_ #searchbox_form").attr("action");
+		var amp = "&";
+		
+		var appendSnippet = "";
+		if($("#searchbox__searchbox_WAR_sitesearchportlet_ #searchTerm").val()){
+			appendSnippet += amp + "searchTerm=" + encodeURIComponent($("#searchbox__searchbox_WAR_sitesearchportlet_ #searchTerm").val());
+			appendSnippet += amp + "scopeType="  + $("#searchbox__searchbox_WAR_sitesearchportlet_ #scopeType").val();
+			appendSnippet += amp + "sortType="   + $("#searchbox__searchbox_WAR_sitesearchportlet_ #sortType").val();
+		}		
+		window.location = url+appendSnippet;
+	}
+	$('#searchbox__searchbox_WAR_sitesearchportlet_ #searchbox_form').submit(function(e) {
+		e.preventDefault();
+		submit_searchbox_WAR_sitesearchportlet_Form();
+	});
+/*]]>*/</script> </div> </div> </div> </div> </div> <div class="container"></div> <div id="content" class="container" data-role="content"> <div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_ portlet-static portlet-static-end portlet-borderless " > <span id="p_103"></span> <div class="portlet-body"> </div> </div> <div class="page page__two-col" id="main-content" role="main"> <div class="layout__container area__full-col--top area__break--first portlet-area portlet-area--1" id="column-1"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-1"></div> </div> <div class="layout__container area__full-col--top area__break--second"> <div class="layout__content"> <div class="grid__container has-full"> <div class="grid__full"> <div class="portlet-area portlet-area--2" id="column-2"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-2"> <div id="p_p_id_56_INSTANCE_2IOcPxLLXcwX_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_2IOcPxLLXcwX"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_498305007_2.0"> <div class="module module--advanced-page-title topper--bg show-desktop show-tablet show-phone topper--native "> <style type="text/css">
+		.topper--bg__background{
+			background-image: url("http://mediaassets.commercialappeal.com/photo/gmem/go-memphis-default-headers/headers-gomemphis-DEFAULT2.jpg");
+			position: relative;
+		}
+	</style> <header> <div class="header"><div class="topper--bg__background"></div><h1 class="header--light"></h1></div> <div class="link-list__secondary"> <div class="link-list--inline"> <a class="" href="/food">Food & Dining</a> <a class="" href="/music">Music</a> <a class="" href="/arts">Arts</a> <a class="" href="/movies">Movies & Television</a> <a class="" href="/party-line">Party Line</a> <a class="" href="http://events.commercialappeal.com/">Events Calendar</a> </div> </div> </header> </div> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_TL5TePGlY0UM_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_TL5TePGlY0UM"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_453771154_1.1"> <article id="m453771154" class="module module--featured-content featured-content--subindex live-streaming--false show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--light">Latest News</header> <div class="module__body"> <div class="inner"> <div class="blocks "> <div class=" "> <div class=" "> <!-- 640 x 480 --> <!-- Large story --> <article class="block block--large "> <div class="hook--left"> <h1 class="headline"> <a href="/go-memphis/go-out/go-out-this-week-a-christmas-story-queen-rock-montreal-1981-american-fiction-etc" class="inner">Go Out: 'Christmas Story,' Queen in Montreal</a> </h1> </div> <div class="hook--left"> <p class="abstract"> <a href="/go-memphis/go-out/go-out-this-week-a-christmas-story-queen-rock-montreal-1981-american-fiction-etc" class="inner"> Get into the swing of your holiday week with a few entertainment recommendations from&hellip; </a> </p> </div> <div class="hook--right"> <figure class="media__container--4x3"> <a href="/go-memphis/go-out/go-out-this-week-a-christmas-story-queen-rock-montreal-1981-american-fiction-etc" class="inner"> <img alt="Go Out: 'Christmas Story,' Queen in Montreal" src="http://mediaassets.commercialappeal.com/photo/2014/11/21/Christian_Dell'Edera_as_Flick_and_the_Cast_of_A_CHRISTMAS_STORY_1416603089857_9735126_ver1.0_640_480.jpg" class="media" /> </a> </figure> </div> <div class="hook--left"> <div class="block__complex complex--social js-featuredShares" data-url="/go-memphis/go-out/go-out-this-week-a-christmas-story-queen-rock-montreal-1981-american-fiction-etc"> <span class="shares"><span class="color--skin js-featuredShareCount" data-url="/go-memphis/go-out/go-out-this-week-a-christmas-story-queen-rock-montreal-1981-american-fiction-etc"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block block--mini "> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/go-memphis/movies/beifuss-on-movies/movie-review-stephen-hawking-biopic-theory-of-everything-more-romantic-than-scientific_79242166" class="inner"> <img alt="Movie Review: 'The Theory of Everything'" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/g_theory_002_9706681_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Movie Review: 'The Theory of Everything'" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/g_theory_002_9706681_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/go-memphis/movies/beifuss-on-movies/movie-review-stephen-hawking-biopic-theory-of-everything-more-romantic-than-scientific_79242166" class="inner">Movie Review: 'The Theory of Everything'</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/go-memphis/movies/beifuss-on-movies/movie-review-stephen-hawking-biopic-theory-of-everything-more-romantic-than-scientific_79242166"> <span class="shares"><span class="color--skin js-shareCount" data-url="/go-memphis/movies/beifuss-on-movies/movie-review-stephen-hawking-biopic-theory-of-everything-more-romantic-than-scientific_79242166"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> </div> <div class="layout--featured-content__second"> <!-- 320 x 240 --> <article class="block block--mini "> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/go-memphis/dining/reviews/dining-review-home-cooking-hits-the-spot-at-baileys-country-vittles-in-bartlett_56570490" class="inner"> <img alt="Dining Review: Bailey's Country Vittles" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_dine_001_9695261_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Dining Review: Bailey's Country Vittles" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_dine_001_9695261_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/go-memphis/dining/reviews/dining-review-home-cooking-hits-the-spot-at-baileys-country-vittles-in-bartlett_56570490" class="inner">Dining Review: Bailey's Country Vittles</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/go-memphis/dining/reviews/dining-review-home-cooking-hits-the-spot-at-baileys-country-vittles-in-bartlett_56570490"> <span class="shares"><span class="color--skin js-shareCount" data-url="/go-memphis/dining/reviews/dining-review-home-cooking-hits-the-spot-at-baileys-country-vittles-in-bartlett_56570490"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block block--mini is-premium is-premium"> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/go-memphis/arts/stage-reviews/nut-remix-brings-energy-to-new-cannon-center-setting_99266011" class="inner"> <img alt=""Nut ReMix" brings energy to Cannon Center" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/22/lil_buck_remix_1416699693782_9760464_ver1.0_320_240.JPG" class="media" /> <noscript> <img alt=""Nut ReMix" brings energy to Cannon Center" src="http://mediaassets.commercialappeal.com/photo/2014/11/22/lil_buck_remix_1416699693782_9760464_ver1.0_320_240.JPG" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/go-memphis/arts/stage-reviews/nut-remix-brings-energy-to-new-cannon-center-setting_99266011" class="inner">"Nut ReMix" brings energy to Cannon Center</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/go-memphis/arts/stage-reviews/nut-remix-brings-energy-to-new-cannon-center-setting_99266011"> <span class="shares"><span class="color--skin js-shareCount" data-url="/go-memphis/arts/stage-reviews/nut-remix-brings-energy-to-new-cannon-center-setting_99266011"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block block--mini "> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/go-memphis/book-reviews/an-oftelusive-yet-gifty-treat-coffee-table-books_19728992" class="inner"> <img alt="A guide to coffee table books for holiday gifts" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/21/coffee_table6_9732050_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="A guide to coffee table books for holiday gifts" src="http://mediaassets.commercialappeal.com/photo/2014/11/21/coffee_table6_9732050_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/go-memphis/book-reviews/an-oftelusive-yet-gifty-treat-coffee-table-books_19728992" class="inner">A guide to coffee table books for holiday gifts</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/go-memphis/book-reviews/an-oftelusive-yet-gifty-treat-coffee-table-books_19728992"> <span class="shares"><span class="color--skin js-shareCount" data-url="/go-memphis/book-reviews/an-oftelusive-yet-gifty-treat-coffee-table-books_19728992"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_Ix5x1gqRqkQ3_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_Ix5x1gqRqkQ3"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_454066277_1.0"> <article id="m454066277" class="module module--carousel carousel--media show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Galleries</header> <div class="module__body"> <div class="inner"> <div class="component__carousel js-carousel" data-interval="6" data-startOffset="1" data-ajaxmaxnum="30" data-ajaxurl="/web/mca/refresh-article/385759705/454066277/SCRIPPS_RESPONSIVE_CAROUSEL_AJAX?resultsPerPage=6"> <div class="carousel__pager"> <div class="pager__container pager--prev"> <button type="button" class="btn--ui-block js-prev is-disabled"> <span aria-hidden="true" data-icon="prev"></span> <span class="screen-reader-text" hidden="">Previous</span> </button> </div> <div class="pager__container pager--next"> <button type="button" class="btn--ui-block js-next"> <span aria-hidden="true" data-icon="next"></span> <span class="screen-reader-text" hidden="">Next</span> </button> </div> </div> <div class="carousel__overflow"> <div class="js-carousel__content"> <div class="blocks"> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/news/stevie-wonder-in-memphis" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/10/12/wonder_awards06_8912385_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Stevie Wonder in Memphis" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/12/wonder_awards06_8912385_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Stevie Wonder in Memphis" src="http://mediaassets.commercialappeal.com/photo/2014/10/12/wonder_awards06_8912385_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Stevie Wonder in Memphis</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/galleries/pics-bacall-last-of-vogue-to-go" class="inner" > <!-- Thumbnail: http://sharing.commercialappeal.com/sharewrtv/photo/2014/08/13/madonna_1407937435639_7356685_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Lauren Bacall last of 'Vogue' icons to pass" src="" data-src="http://sharing.commercialappeal.com/sharewrtv/photo/2014/08/13/madonna_1407937435639_7356685_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Lauren Bacall last of 'Vogue' icons to pass" src="http://sharing.commercialappeal.com/sharewrtv/photo/2014/08/13/madonna_1407937435639_7356685_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Lauren Bacall last of 'Vogue' icons to pass</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/galleries/robin-williams-july-21-1951-august-11-2014" class="inner" > <!-- Thumbnail: http://sharing.commercialappeal.com/sharekns/photo/2014/08/11/0221_robin_williams_1407798812979_7332069_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Robin Williams (July 21, 1951 &ndash; August 11, 2014)" src="" data-src="http://sharing.commercialappeal.com/sharekns/photo/2014/08/11/0221_robin_williams_1407798812979_7332069_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Robin Williams (July 21, 1951 &ndash; August 11, 2014)" src="http://sharing.commercialappeal.com/sharekns/photo/2014/08/11/0221_robin_williams_1407798812979_7332069_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Robin Williams (July 21, 1951 – August 11, 2014)</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/galleries/copy-of-copy-of-100-best-memphis-songs" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/08/08/0808_mafe_memphis_songs 1_1407509376264_7278884_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="100 Best Memphis Songs" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/08/08/0808_mafe_memphis_songs 1_1407509376264_7278884_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="100 Best Memphis Songs" src="http://mediaassets.commercialappeal.com/photo/2014/08/08/0808_mafe_memphis_songs 1_1407509376264_7278884_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">100 Best Memphis Songs</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/go-memphis/music/100-best-memphis-songs" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/07/31/0731_mafe_memphis_songs31_1406819227775_7150456_ver1.0_320_240.JPG --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="100 Best Memphis Songs" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0731_mafe_memphis_songs31_1406819227775_7150456_ver1.0_320_240.JPG" class="media" /> <noscript> <img alt="100 Best Memphis Songs" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0731_mafe_memphis_songs31_1406819227775_7150456_ver1.0_320_240.JPG" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">100 Best Memphis Songs</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/entertainment/bbq-tour-six-states-one-day" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/07/21/6StateBBQ11_6952398_ver1.0_320_240.JPG --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="BBQ Tour: Six States in One Day" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/21/6StateBBQ11_6952398_ver1.0_320_240.JPG" class="media" /> <noscript> <img alt="BBQ Tour: Six States in One Day" src="http://mediaassets.commercialappeal.com/photo/2014/07/21/6StateBBQ11_6952398_ver1.0_320_240.JPG" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">BBQ Tour: Six States in One Day</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> </div> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_EZBOcd8Z3phb_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_EZBOcd8Z3phb"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_493756844_1.3"> <article id="m493756844" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">The 100 Best Songs About Memphis</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/go-memphis/music/the-100-best-songs-about-memphis-near-misses-and-personal-picks" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="'Memphis Songs': Near-Misses and Personal Picks" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/05/21/Johnny_Cash_5002076_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt="'Memphis Songs': Near-Misses and Personal Picks" src="http://mediaassets.commercialappeal.com/photo/2014/05/21/Johnny_Cash_5002076_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">'Memphis Songs': Near-Misses and Personal Picks</h1> <p class="abstract"> The &quot;100 Best Songs About Memphis&quot; committee reveals some of their personal faves that didn&#39;t make the cut.&nbsp; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/go-memphis/music/the-100-best-songs-about-memphis-5-1-rufus-thomas-chuck-berry-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="100 Best Songs About Memphis: 5-1" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0808_mafe_memphis_songs 5_1406830372950_7152506_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="100 Best Songs About Memphis: 5-1" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0808_mafe_memphis_songs 5_1406830372950_7152506_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">100 Best Songs About Memphis: 5-1</h1> <p class="abstract"> We close our countdown with twin tunes from Chuck Berry, the World&rsquo;s Oldest Teenager, a modern standard and that deathless Memphis beat. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/music/the-100-best-songs-about-memphis-10-6-john-hiatt-paul-simon-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="100 Best Songs About Memphis: 10-6" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0807_mafe_memphis_songs10_1406830411533_7152509_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt="100 Best Songs About Memphis: 10-6" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0807_mafe_memphis_songs10_1406830411533_7152509_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">100 Best Songs About Memphis: 10-6</h1> <p class="abstract"> For day 19 of our countdown, we get to Nashville and turn our Cadillac around. We&rsquo;re going to Graceland. &nbsp; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/music/the-100-best-songs-about-memphis-15-11-joni-mitchell-the-replacements-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="100 Best Songs About Memphis: 15-11" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0806_mafe_memphis_songs 15_1406825070819_7151257_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt="100 Best Songs About Memphis: 15-11" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0806_mafe_memphis_songs 15_1406825070819_7151257_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">100 Best Songs About Memphis: 15-11</h1> <p class="abstract"> For day 18 of our countdown, we remember Furry Lewis, Alex Chilton and Martin Luther King. &nbsp; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/music/the-100-best-songs-about-memphis-20-16-rolling-stones-jesse-winchester-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="100 Best Songs About Memphis: 20-16" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0805_mafe_memphis_songs 20_1406825056728_7151256_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="100 Best Songs About Memphis: 20-16" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0805_mafe_memphis_songs 20_1406825056728_7151256_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">100 Best Songs About Memphis: 20-16</h1> <p class="abstract"> For day 17 of our countdown, we get in trouble with a gin-soaked barroom queen and keep our dial on WDIA. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/music/the-100-best-songs-about-memphis-25-21-booker-t-jones-bruce-springsteen-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="100 Best Songs About Memphis: 25-21" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0804_mafe_memphis_songs 21_1406825040445_7151254_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="100 Best Songs About Memphis: 25-21" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/0804_mafe_memphis_songs 21_1406825040445_7151254_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">100 Best Songs About Memphis: 25-21</h1> <p class="abstract"> For day 16 of our countdown, we do the Fourth Street Mess Around and let out a yodel. </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/songs-about-memphis" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="grid__container has-two"> <div class="grid__half"> <div class="portlet-area portlet-area--3" id="column-3"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-3"> <div id="p_p_id_56_INSTANCE_EpM5ufOlfoNc_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_EpM5ufOlfoNc"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_453774481_1.0"> <article id="m453774481" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Food & Dining</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/lifestyle/food/dinner-tonight-dont-like-pumpkin-pie-try-this-caramel-pumpkin-cheesecake_49565308" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Dinner Tonight: Caramel Pumpkin Cheesecake" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/21/jennifer_chandler_9736777_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Dinner Tonight: Caramel Pumpkin Cheesecake" src="http://mediaassets.commercialappeal.com/photo/2014/11/21/jennifer_chandler_9736777_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Dinner Tonight: Caramel Pumpkin Cheesecake</h1> <p class="abstract"> I have to admit I do not like pumpkin pie. Never have and never will.&nbsp;I have tried everyone&rsquo;s grandmother&rsquo;s&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/lifestyle/food/recipe-for-health-save-some-thanksgiving-leftovers-for-crispy-turkey-tostadas_06980473" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Recipe for Health: Crispy Turkey Tostadas" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/24/file0001670054395_1416850735209_9826664_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Recipe for Health: Crispy Turkey Tostadas" src="http://mediaassets.commercialappeal.com/photo/2014/11/24/file0001670054395_1416850735209_9826664_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Recipe for Health: Crispy Turkey Tostadas</h1> <p class="abstract"> Save some Thanksgiving leftovers for these Crispy Turkey Tostadas. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/lifestyle/food/left_overs_84121757" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Chefs share ideas for leftover feast" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/24/turk _OP_3_CP__1416848155037_9825428_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Chefs share ideas for leftover feast" src="http://mediaassets.commercialappeal.com/photo/2014/11/24/turk _OP_3_CP__1416848155037_9825428_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Chefs share ideas for leftover feast</h1> <p class="abstract"> There&rsquo;s nothing wrong with turkey and mayo, but start adding gravy and dressing and cranberry sauce, and pretty soon you have something&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/dining/news/best-bets-prethanksgiving-salad-and-panini-at-lisas-lunchbox_00887071" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Best Bets: Salad, panini at Lisa's Lunchbox" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/best_9695260_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Best Bets: Salad, panini at Lisa's Lunchbox" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/best_9695260_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Best Bets: Salad, panini at Lisa's Lunchbox</h1> <p class="abstract"> If &ldquo;stuffing&rdquo; is more of a verb than a noun at your Thanksgiving dinner, you might want to eat a little healthier over the next&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/dining/reviews/dining-review-home-cooking-hits-the-spot-at-baileys-country-vittles-in-bartlett_56570490" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Dining Review: Bailey's Country Vittles" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_dine_001_9695261_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Dining Review: Bailey's Country Vittles" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_dine_001_9695261_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Dining Review: Bailey's Country Vittles</h1> <p class="abstract"> Vittles just another word for good country cookin&#39; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/lifestyle/food/recipes-to-freshen-up-thanksgiving-staples_81065104" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Recipes to freshen up Thanksgiving staples" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/17/thanks_giving04_9647974_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Recipes to freshen up Thanksgiving staples" src="http://mediaassets.commercialappeal.com/photo/2014/11/17/thanks_giving04_9647974_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Recipes to freshen up Thanksgiving staples</h1> <p class="abstract"> Thanksgiving is not the time to break from tradition. Somebody&rsquo;s&nbsp;gonna&nbsp;get mad. </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/food" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_7rfTRMooKGsi_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_7rfTRMooKGsi"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_453786977_1.0"> <article id="m453786977" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Arts</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block is-premium"> <a href="/go-memphis/arts/stage-reviews/nut-remix-brings-energy-to-new-cannon-center-setting_99266011" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt=""Nut ReMix" brings energy to Cannon Center" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/22/lil_buck_remix_1416699693782_9760464_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt=""Nut ReMix" brings energy to Cannon Center" src="http://mediaassets.commercialappeal.com/photo/2014/11/22/lil_buck_remix_1416699693782_9760464_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">"Nut ReMix" brings energy to Cannon Center</h1> <p class="abstract"> This year&rsquo;s installment of &ldquo;Nut ReMix&rdquo; ups the ante for the New Ballet Ensemble &amp; School. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/go-memphis/arts/visual-arts-news/on-stage-this-week_43578291" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Onstage this week" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/14/ca-default-photo_1405369039444_6821160_ver1.0_140_105.jpeg" class="media" /> <noscript> <img alt="Onstage this week" src="http://mediaassets.commercialappeal.com/photo/2014/07/14/ca-default-photo_1405369039444_6821160_ver1.0_140_105.jpeg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Onstage this week</h1> <p class="abstract"> Plays and performances in town this week. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/arts/visual-arts-news/art-events-around-town_35363729" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Art events around town" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/Maysey Craddock - the light that traveled the shore_1416522360654_9710892_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Art events around town" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/Maysey Craddock - the light that traveled the shore_1416522360654_9710892_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Art events around town</h1> <p class="abstract"> New ART Shows </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/arts/stage-news/a-christmas-story-musical-adds-song-dance-to-beloved-holiday-movie_64480531" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="'A Christmas Story' adds song, dance for stage" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_christmas_9690074_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="'A Christmas Story' adds song, dance for stage" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_christmas_9690074_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">'A Christmas Story' adds song, dance for stage</h1> <p class="abstract"> Everybody loves Ralphie. The adorable kid, who has tickled people since the 1983 film became an annual holiday must-see, has made the&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block has-video su-2n-plus-3 "> <a href="/go-memphis/arts/stage-news/new-ballet-ensemble-welcomes-back-prize-pupil-lil-buck-for-nut-remix_93332825" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="New Ballet, Lil Buck team for 'Nut ReMix'" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/buck g cover_1416495670897_9702629_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt="New Ballet, Lil Buck team for 'Nut ReMix'" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/buck g cover_1416495670897_9702629_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">New Ballet, Lil Buck team for 'Nut ReMix'</h1> <p class="abstract"> &ldquo;I have a mission for the world to know about jookin&rsquo;,&rdquo; says Charles &lsquo;Lil Buck&rsquo; Riley, the unquestioned&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/arts/visual-arts-news/art-review-rodin-the-human-experience-grants-sculptures-space-to-express-vital-energy_86649608" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Art Review: 'Rodin' pulses with vital energy" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/18/1019_mafe_art_rodin2_1416338721217_9674736_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt="Art Review: 'Rodin' pulses with vital energy" src="http://mediaassets.commercialappeal.com/photo/2014/11/18/1019_mafe_art_rodin2_1416338721217_9674736_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Art Review: 'Rodin' pulses with vital energy</h1> <p class="abstract"> Bask in the creative aura emanated by theses sensuous sculptures at the Dixon. </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/arts" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> <div class="grid__half su-2 su-2n"> <div class="portlet-area portlet-area--4" id="column-4"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-4"> <div id="p_p_id_56_INSTANCE_oYMD7h2G58Ok_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_oYMD7h2G58Ok"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_453775459_1.0"> <article id="m453775459" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Music</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/go-memphis/music/one-direction-iggy-azalea-shine-at-2014-amas" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="One Direction, Iggy Azalea shine at 2014 AMAs" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/24/ama_1416835366513_9815313_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="One Direction, Iggy Azalea shine at 2014 AMAs" src="http://mediaassets.commercialappeal.com/photo/2014/11/24/ama_1416835366513_9815313_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">One Direction, Iggy Azalea shine at 2014 AMAs</h1> <p class="abstract"> One Direction won three honors at the American Music Awards, including artist of the year over powerhouse acts like Beyonce and Luke Bryan,&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n is-premium"> <a href="/news/local-news/newbys-closes-after-financial-trouble_31509843" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Financial troubles put end to Newby's bar" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/newbys02_9712972_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Financial troubles put end to Newby's bar" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/newbys02_9712972_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Financial troubles put end to Newby's bar</h1> <p class="abstract"> Seven months shy of its 40th anniversary, Newby&rsquo;s is no more. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/music/news/memphis-music-vet-danny-green-returns-to-studio-with-producer-nix_37104499" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Memphis music vet Danny Green returns" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/DannyGreen_1416496524675_9702917_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Memphis music vet Danny Green returns" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/DannyGreen_1416496524675_9702917_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Memphis music vet Danny Green returns</h1> <p class="abstract"> If you grew up within earshot of a television or radio in the 1980s or &rsquo;90s in Memphis, you likely know the work of Danny Green even if&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/music/kickman-teddy-rediscovers-love-for-music-on-solo-debut-xrayvision_49659509" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Kickman Teddy goes solo with 'Xrayvision'" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_TEDDY_001_9692711_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Kickman Teddy goes solo with 'Xrayvision'" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_TEDDY_001_9692711_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Kickman Teddy goes solo with 'Xrayvision'</h1> <p class="abstract"> Fans of Teddy&rsquo;s previous gig, the long-running modern R&amp;B outfit&nbsp;FreeSol, will recognize the sleek and sexy vibe he&rsquo;s&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/music/reviews/listening-log-jerry-lee-lewis-memphis-dawls-nots-marcella-her-lovers_67602606" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Listening Log: Jerry Lee, Dawls, Nots, Marcella" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_record5_9688776_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Listening Log: Jerry Lee, Dawls, Nots, Marcella" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_record5_9688776_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Listening Log: Jerry Lee, Dawls, Nots, Marcella</h1> <p class="abstract"> A grand old man of rock makes room for plenty of young women in our latest Listening Log: </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n is-premium"> <a href="/business/local/new-daisy-changes-owners_28790857" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="New Daisy on Beale Street changes owners" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/1120_malo_new_daisy2_1416439454798_9692039_ver1.0_140_105.JPG" class="media" /> <noscript> <img alt="New Daisy on Beale Street changes owners" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/1120_malo_new_daisy2_1416439454798_9692039_ver1.0_140_105.JPG" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">New Daisy on Beale Street changes owners</h1> <p class="abstract"> Nightclub developer Steve Adelman and Memphis businessman J.W. Gibson II said they&rsquo;ll begin a more than $500,000 restoration of the&hellip; </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/music" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_edHhN0NmPRHs_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_edHhN0NmPRHs"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_454021918_1.0"> <article id="m454021918" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Movies & TV</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/news/national/star-wars-vii-trailer-to-release-this-weekend" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Star Wars VII trailer to release this weekend" src="" data-src="http://sharing.commercialappeal.com/sharescnn/photo/2014/11/24/Vader2_1416863074086_9838253_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Star Wars VII trailer to release this weekend" src="http://sharing.commercialappeal.com/sharescnn/photo/2014/11/24/Vader2_1416863074086_9838253_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Star Wars VII trailer to release this weekend</h1> <p class="abstract"> A trailer for Star Wars 7 will be released only in select theaters this Thanksgiving weekend. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/go-memphis/movies/mockingjay-part-1-opens-with-123-million" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="'Mockingjay, Part 1' opens with $123 million" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/23/mockingjay_1416762945339_9777515_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="'Mockingjay, Part 1' opens with $123 million" src="http://mediaassets.commercialappeal.com/photo/2014/11/23/mockingjay_1416762945339_9777515_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">'Mockingjay, Part 1' opens with $123 million</h1> <p class="abstract"> &quot;Mockingjay, Part 1&quot; didn&#39;t catch fire like the last installment of &quot;The Hunger Games,&quot; but it still set the highest&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/movies/beifuss-on-movies/movie-capsules-whats-showing_15884618" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="What's Playing" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/30/Whiplash-1 _OP_2_CP__1414684066181_9389541_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="What's Playing" src="http://mediaassets.commercialappeal.com/photo/2014/10/30/Whiplash-1 _OP_2_CP__1414684066181_9389541_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">What's Playing</h1> <p class="abstract"> Descriptions and starred mini-reviews by John&nbsp;Beifuss. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/movies/beifuss-on-movies/movie-review-stephen-hawking-biopic-theory-of-everything-more-romantic-than-scientific_79242166" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Movie Review: 'The Theory of Everything'" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/g_theory_002_9706681_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Movie Review: 'The Theory of Everything'" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/g_theory_002_9706681_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Movie Review: 'The Theory of Everything'</h1> <p class="abstract"> The biopic of famed cosmologist Stephen Hawking is more romantic than scientific. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/movies/reviews/movie-review-hunger-games-mockingjay-part-1-pauses-at-the-precipice_93963100" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Movie Review: 'The Hunger Games: Mockingjay"" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_hunger_001_9692712_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Movie Review: 'The Hunger Games: Mockingjay"" src="http://mediaassets.commercialappeal.com/photo/2014/11/19/g_hunger_001_9692712_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Movie Review: 'The Hunger Games: Mockingjay"</h1> <p class="abstract"> The most important thing to know about &ldquo;The Hunger Games: Mockingjay &mdash; Part 1&rdquo; is that you&rsquo;re only going to get&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/movies/beifuss-on-movies/what-to-watch-batman-the-complete-television-series-limited-edition" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="What to Watch: 'Batman' limited edition" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/17/LIFE_HBY-COMICS_4_MCT_1416268011308_9654383_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="What to Watch: 'Batman' limited edition" src="http://mediaassets.commercialappeal.com/photo/2014/11/17/LIFE_HBY-COMICS_4_MCT_1416268011308_9654383_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">What to Watch: 'Batman' limited edition</h1> <p class="abstract"> Nobody thought to call Adam West&#39;s Batman a &quot;Dark Knight.&rdquo; </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/movies" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="grid__container has-full"> <div class="grid__full"> <div class="portlet-area portlet-area--7" id="column-7"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-7"> <div id="p_p_id_56_INSTANCE_ywKW6wpJQW1p_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_ywKW6wpJQW1p"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_454052406_1.1"> <article id="m454052406" class="module module--carousel carousel--media show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Latest Videos</header> <div class="module__body"> <div class="inner"> <div class="component__carousel js-carousel" data-interval="6" data-startOffset="1" data-ajaxmaxnum="6" data-ajaxurl="/web/mca/refresh-article/385759705/454052406/SCRIPPS_RESPONSIVE_CAROUSEL_AJAX?resultsPerPage=6"> <div class="carousel__pager"> <div class="pager__container pager--prev"> <button type="button" class="btn--ui-block js-prev is-disabled"> <span aria-hidden="true" data-icon="prev"></span> <span class="screen-reader-text" hidden="">Previous</span> </button> </div> <div class="pager__container pager--next"> <button type="button" class="btn--ui-block js-next"> <span aria-hidden="true" data-icon="next"></span> <span class="screen-reader-text" hidden="">Next</span> </button> </div> </div> <div class="carousel__overflow"> <div class="js-carousel__content"> <div class="blocks"> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/go-memphis/arts/stage-news/new-ballet-ensemble-welcomes-back-prize-pupil-lil-buck-for-nut-remix_93332825?autoplay=true" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/11/20/buck g cover_1416495670897_9702629_ver1.0_320_240.JPG --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="New Ballet, Lil Buck team for 'Nut ReMix'" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/buck g cover_1416495670897_9702629_ver1.0_320_240.JPG" class="media" /> <noscript> <img alt="New Ballet, Lil Buck team for 'Nut ReMix'" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/buck g cover_1416495670897_9702629_ver1.0_320_240.JPG" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">New Ballet, Lil Buck team for 'Nut ReMix'</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video is-premium"> <a href="/go-memphis/nightlife/parties/party-line-theres-no-business-like-shoe-business-at-sneakfest-expo-2_08507582?autoplay=true" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/10/16/party_9074108_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Party Line: Sneakfest, Crafts Fair, etc." src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/16/party_9074108_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Party Line: Sneakfest, Crafts Fair, etc." src="http://mediaassets.commercialappeal.com/photo/2014/10/16/party_9074108_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Party Line: Sneakfest, Crafts Fair, etc.</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/go-memphis/nightlife/parties/party-line-blues-ball_26532503?autoplay=true" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/10/10/party_8903240_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Party Line: Blues Ball, more" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/10/party_8903240_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Party Line: Blues Ball, more" src="http://mediaassets.commercialappeal.com/photo/2014/10/10/party_8903240_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Party Line: Blues Ball, more</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/go-memphis/nightlife/parties/party-line-wine-and-swine-combine-at-brooks-museum_47663829?autoplay=true" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/10/03/party_8676253_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Party Line: Vin-a-Que at Brooks" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/03/party_8676253_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Party Line: Vin-a-Que at Brooks" src="http://mediaassets.commercialappeal.com/photo/2014/10/03/party_8676253_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Party Line: Vin-a-Que at Brooks</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/go-memphis/nightlife/parties/party-line-whole-lotta-grillin-going-on_25681799?autoplay=true" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/09/22/party_8318462_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Party Line: Whole lotta grillin' goin' on" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/09/22/party_8318462_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Party Line: Whole lotta grillin' goin' on" src="http://mediaassets.commercialappeal.com/photo/2014/09/22/party_8318462_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Party Line: Whole lotta grillin' goin' on</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/lifestyle/general/widow-gets-renovation-rescue-by-new-tv-show_81530619?autoplay=true" class="inner" > <!-- Thumbnail: http://mediaassets.commercialappeal.com/photo/2014/09/03/fix_it1_7710031_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Widow gets renovation rescue by new TV show" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/09/03/fix_it1_7710031_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Widow gets renovation rescue by new TV show" src="http://mediaassets.commercialappeal.com/photo/2014/09/03/fix_it1_7710031_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Widow gets renovation rescue by new TV show</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> </div> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_NFAuJG1aBsZ9_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_NFAuJG1aBsZ9"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_455060302_1.0"> <article id="m455060302" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Party Line</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/go-memphis/nightlife/parties/party-line-late-teenie-hodges-honored-with-birthday-party-at-the-warehouse_67991631" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Party Line: A tribute to Teenie Hodges" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/20/party_9712749_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Party Line: A tribute to Teenie Hodges" src="http://mediaassets.commercialappeal.com/photo/2014/11/20/party_9712749_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Party Line: A tribute to Teenie Hodges</h1> <p class="abstract"> Guests sent 50 colorful heat-propelled Chinese sky lanterns into the night during a party Nov. 15 to honor guitarist/songwriter Teenie&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/go-memphis/nightlife/parties/party-line-baseballthemed-benefit-from-cardinal-jason-motte-throws-strikes_62265782" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Party Line: Motte's baseball-themed benefit" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/13/party_9583674_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Party Line: Motte's baseball-themed benefit" src="http://mediaassets.commercialappeal.com/photo/2014/11/13/party_9583674_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Party Line: Motte's baseball-themed benefit</h1> <p class="abstract"> Pitching for the St. Louis Cardinals, Jason Motte strikes out a lot of hitters, but on Nov. 8 he continued his quest to strike out cancer; he&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/nightlife/parties/party-line-halloweenthemed-parties-plentiful_57287256" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Party Line: Walk the walk, Egyptian style" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/11/06/party_9474697_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Party Line: Walk the walk, Egyptian style" src="http://mediaassets.commercialappeal.com/photo/2014/11/06/party_9474697_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Party Line: Walk the walk, Egyptian style</h1> <p class="abstract"> "Walk Like an Egyptian" was the theme of The Avant-Garde Party held Nov. 1 at Memphis Brooks Museum of Art. Headdresses and flowing robes&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n is-premium"> <a href="/go-memphis/nightlife/parties/party-line-fired-up-at-dixon_53506772" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Party Line: Art heats up at Dixon" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/30/party_9393918_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Party Line: Art heats up at Dixon" src="http://mediaassets.commercialappeal.com/photo/2014/10/30/party_9393918_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Party Line: Art heats up at Dixon</h1> <p class="abstract"> Fire dancers, fire performers and a blazing bonfire are part of the annual Art on Fire fundraiser at Dixon Gallery and Gardens. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/nightlife/parties/party-line-memphis-outdoor-festival-memfix-in-edge-district-and-more_57798646" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Party Line: Memphis Outdoor Festival, MemFix" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/21/party_9241050_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Party Line: Memphis Outdoor Festival, MemFix" src="http://mediaassets.commercialappeal.com/photo/2014/10/21/party_9241050_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Party Line: Memphis Outdoor Festival, MemFix</h1> <p class="abstract"> Patrick Culligan&rsquo;s love for mountain biking resulted in his first &ldquo;Memphis Outdoor Festival&rdquo; Oct. 18 and 19 at Shelby Farms Park. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block has-video su-2n is-premium"> <a href="/go-memphis/nightlife/parties/party-line-theres-no-business-like-shoe-business-at-sneakfest-expo-2_08507582" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Party Line: Sneakfest, Crafts Fair, etc." src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/16/party_9074108_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Party Line: Sneakfest, Crafts Fair, etc." src="http://mediaassets.commercialappeal.com/photo/2014/10/16/party_9074108_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Party Line: Sneakfest, Crafts Fair, etc.</h1> <p class="abstract"> Zach Myers, guitarist for Shinedown and lead singer/guitarist for The Fairwell, was among the sneaker aficionados at SneakFest Expo 2. </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/party-line" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="layout__side portlet-area portlet-area--5" id="column-5"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-5"> <div id="p_p_id_56_INSTANCE_ZbSFV83UBNYd_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_ZbSFV83UBNYd"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_AD_300_BY_250_ABOVE_1.0"> <div id="mAD_300_BY_250_ABOVE" class="module module--ad content-box ad--300x250 show-desktop show-tablet show-phone companionAd "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "above", "Zone" : "go_memphis/landing", "renderOn" : "[DESKTOP, MOBILE, TABLET]", "fname" : "go_memphis", "Size" : "300x250"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_300_BY_250_ABOVE');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_300_BY_250_ABOVE');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_TJ8EUmQMobJN_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_TJ8EUmQMobJN"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_636419397_1.1"> <article id="m636419397" class="module module-- show-desktop show-tablet show-phone " > <div class="inner"> <div class="module__body"> <div class="inner"> <div class="blocks "> <div id="newsy-widget-container"></div> <script>/*<![CDATA[*/
+    (function(){
+
+            new srNewsyPlayer({
+
+            scriptUrl : 'http://www.newsy.com/widget/script.js',
+            autoplay : false,
+            hideIfStoryHasVideo: 'false',
+            
+                        player_id : 'aa4dcd715d7a4dff93de14594bc95ad9',
+            
+                        widget_id : '25',
+            
+                        adset : '378415b1a2434f7fa127356b0cca7beb',
+            
+                          bgcolor: '#000000',
+             
+                                                                 
+                categories: [ 'entertainment']
+
+                     });        
+        })();
+    /*]]>*/</script> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_gN4Xv3HkYHIP_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_gN4Xv3HkYHIP"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_366338919_1.0"> <article id="366338919" class="module module--trending nocontent show-desktop show-tablet show-phone "> <div class="inner"> <header class="header--dark">Trending Now</header> <div class="module__body"> <div id="m366338919_trending_container" class="blocks js-trending-now" data-apikey="06de469f576be61d2dcc350e4e602f0a" data-numheadlines="5" data-host="commercialappeal.com"> </div> </div> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_zAwLl7RQx5Ok_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_zAwLl7RQx5Ok"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_AD_300_BY_250_BELOW_1.0"> <div id="mAD_300_BY_250_BELOW" class="module module--ad content-box ad--300x250 show-desktop show-tablet show-phone "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "below", "Zone" : "go_memphis/landing", "renderOn" : "[DESKTOP, MOBILE, TABLET]", "fname" : "go_memphis", "Size" : "300x250"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_300_BY_250_BELOW');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_300_BY_250_BELOW');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_YmH2zgW1AOqE_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_YmH2zgW1AOqE"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_487192431_1.2"> <article id="m487192431" class="module module--static-content show-desktop show-tablet show-phone skin--module-box--false " > <div class="inner"> <div class="module__body"> <div class="inner"> <div class="blocks "> <iframe frameborder="0" height="430" src="http://events.commercialappeal.com/widget" width="100%"></iframe> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_J67sbz9RYeAN_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_J67sbz9RYeAN"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_498221876_1.0"> <article id="m" class="module module--twitter-feed show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">GoMemphis on Twitter</header> <div class="module__body"> <div class="inner"> <div class="blocks "> <a class="twitter-timeline" href="https://twitter.com/memphisnews" data-tweet-limit="5" data-widget-id="387943576157450240">Tweets by @</a> <script>/*<![CDATA[*/!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");/*]]>*/</script> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_1rF5BNQP3cxq_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_1rF5BNQP3cxq"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604436_478477175_1.1"> <article id="m478477175" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Chris Herrington's Morning Riff</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/go-memphis/morning-riff/chris-herringtons-morning-riff-heathers-hoop-dreams-at-indie-memphis" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Morning Riff: 'Heathers," "Hoop Dreams"" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/10/30/Heathers-1 _OP_2_CP__1414701956106_9392019_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Morning Riff: 'Heathers," "Hoop Dreams"" src="http://mediaassets.commercialappeal.com/photo/2014/10/30/Heathers-1 _OP_2_CP__1414701956106_9392019_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Morning Riff: 'Heathers," "Hoop Dreams"</h1> <p class="abstract"> Wishing I could have spent more time at the Indie Memphis Film Festival has become a depressing annual tradition. I want to go full-immersion&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/go-memphis/morning-riff/chris-herringtons-morning-riff-memphis-lives-to-screen-another-week" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Morning Riff: 'Memphis' extends its stay" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/09/17/g_memphis5_8140646_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Morning Riff: 'Memphis' extends its stay" src="http://mediaassets.commercialappeal.com/photo/2014/09/17/g_memphis5_8140646_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Morning Riff: 'Memphis' extends its stay</h1> <p class="abstract"> In this Riff, Chris Herrington&nbsp;takes a second look at the currently screening, locally shot &quot;Memphis.&quot; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/morning-riff/chris-herringtons-morning-riff-short-takes-on-current-movies-rick-ross-on-elvis" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Morning Riff: Movie Notes, Rick Ross on Elvis" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/07/31/g_boyhood_7150695_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Morning Riff: Movie Notes, Rick Ross on Elvis" src="http://mediaassets.commercialappeal.com/photo/2014/07/31/g_boyhood_7150695_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Morning Riff: Movie Notes, Rick Ross on Elvis</h1> <p class="abstract"> In today&#39;s Riff, Chris Herrington&nbsp;gives quick takes on current movies and spins Rick Ross&#39; new &quot;Elvis Presley Blvd.&quot; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/morning-riff/chris-herringtons-morning-riff-take-me-to-the-river-notes-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Morning Riff: 'Take Me to the River' and more" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/09/11/g_cover07_7948369_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Morning Riff: 'Take Me to the River' and more" src="http://mediaassets.commercialappeal.com/photo/2014/09/11/g_cover07_7948369_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Morning Riff: 'Take Me to the River' and more</h1> <p class="abstract"> In today&#39;s Riff, Chris Herrington weighs the strengths and weaknesses of the new Memphis music doc &quot;Take Me to the River&quot; and&hellip; </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/go-memphis/morning-riff/chris-herringtons-morning-riff-food-writers-in-memphis-alex-chilton-on-fallon" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Morning Riff: Food Writers, "Alex Chilton"" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/05/20/12alcenia_4982434_ver1.0_140_105.jpeg" class="media" /> <noscript> <img alt="Morning Riff: Food Writers, "Alex Chilton"" src="http://mediaassets.commercialappeal.com/photo/2014/05/20/12alcenia_4982434_ver1.0_140_105.jpeg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Morning Riff: Food Writers, "Alex Chilton"</h1> <p class="abstract"> In this Riff, Chris Herrington samples the Association of Food Journalists annual conference and spins the Replacements. </p> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/go-memphis/morning-riff/chris-herringtons-morning-riff-rickey-minor-al-green-endangered-milkshakes-and-more" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Morning Riff: Rickey Minor, Al Green, more" src="" data-src="http://mediaassets.commercialappeal.com/photo/2014/09/05/rickey minor_1409932819381_7746446_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Morning Riff: Rickey Minor, Al Green, more" src="http://mediaassets.commercialappeal.com/photo/2014/09/05/rickey minor_1409932819381_7746446_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Morning Riff: Rickey Minor, Al Green, more</h1> <p class="abstract"> In today&#39;s Riff, Chris Herrington reports on an addition to the &quot;Epitome of Soul Award&quot; event and looks at other headlines. </p> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/chris-herrington-morning-riff" target="_top">More stories</a> </footer> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> <div class="layout__container area__full-col--bottom portlet-area area__break--third portlet-area--6" id="column-6"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-6"></div> </div> </div> <form action="#" id="hrefFm" method="post" name="hrefFm"> <span></span> </form> </div> <!-- FOOT DEFAULT --> <section class="container"> <div id="mAD_728_BY_90_BELOW" class="module module--ad content-box ad--728x90 show-desktop show-tablet hide-phone "> <!-- siteType: mca.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232966312", "Call_Letters" : "mca", "Position" : "below", "Zone" : "go_memphis/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "go_memphis", "Size" : "728x90"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_728_BY_90_BELOW');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_728_BY_90_BELOW');
+                })();
+            /*]]>*/</script> </div> </section> <footer class="footer footer--bg" id="footer" role="contentinfo"> <div class="container"><a class="footer--logo" href="/"><img class="media" src="http://media.scrippsnationalnews.com/cms/images/color_schemes/mca/logo-footer@2x.png" /> </a> <nav class="nav nav--footer link-list--inline"> <a href="/local">News</a> <a href="/sports">Sports</a> <a href="/business">Business</a> <a href="/opinion">Opinion</a> <a href="/entertainment">GoMemphis</a> <a href="/lifestyle">Lifestyle</a> <a href="/data">Data</a></nav> <div class="nav--container"> <section class="nav nav--sponsored grid-row"> <header class="header"> The Commercial Appeal</header> <div class="section__body grid-container"><div class="grid grid-half link-list link-list--stacked"><ul><li><a href="/subscribe">Subscribe</a></li><li><a href="http://www.commercialappeal.com/allstars">Academic All-Stars</a></li><li><a href="/archives">Archives</a></li><li><a href="http://www.rdpdeals.com/portal.php?client=7B2A4B">Reader Rewards</a></li><li><a href="http://memp.mycapture.com/mycapture/photoRequestForm.asp">Buy a photo</a></li><li><a href="http://nieonline.com/memphis/" target="_blank">Newspapers in Education</a></li><li><a href="http://memphiscommercialappeal.tn.newsmemory.com/">E-Edition</a></li><li><a href="http://www.commercialappeal.com/rss-feeds">RSS Feeds</a></li><li><a href="/contact">Contact Us</a></li></ul></div><div class="grid grid-half link-list link-list--stacked"><ul><li><a href="/jobs">Jobs</a></li><li><a href="/realestate">Homes</a></li><li><a href="/cars">Cars</a></li><li><a href="/classifieds">Classifieds</a></li><li><a href="http://memphiscommercialappeal.tn.newsmemory.com/marketplace.php" target="_blank">Today's Ads</a></li><li><a href="/circulars" target="_blank">Circulars</a></li><li><a href="http://www.legalnotice.org/pl/commercialappeal/landing1.aspx">Legal Notices</a></li><li><a href="http://tnpublicnotice.com/">Statewide Public Notices</a></li></ul></div></div></section> <section class="nav nav--site-apps"> <header class="header"> Mobile Apps</header> <div class="items"><div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://mediaassets.commercialappeal.com/photo/2014/05/23/ca-mobile-app-icon_5153520_ver1.1.png" width="50" /></div><div class="side__body"><div class="title">CA Mobile</div><div class="link-list link-list--inline"><a href="https://itunes.apple.com/us/app/the-commercial-appeal/id441556271?mt=8">iPhone</a> <a href="https://itunes.apple.com/us/app/the-commercial-appeal/id441556271?mt=8">iPad</a> <a href="http://www.amazon.com/Commercial-Appeal-Memphis-Kindle-Tablet/dp/B005EO8G8A/ref=sr_1_12?s=mobile-apps&amp;ie=UTF8&amp;qid=1400862703&amp;sr=1-12">Kindle</a> <a href="https://play.google.com/store/apps/details?id=com.whiz.MediaFlow_CA">Android</a> <a href="http://apps.microsoft.com/windows/en-us/app/memphis-commercial-appeal/08a71bdb-dde6-43f9-af0f-7dd37ae5d55c">Windows</a></div></div></div><div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://media2.kjrh.com/image/mobile-apps/ss-app-icon144x144.png" width="50" /></div><div class="side__body"><div class="title">Storm Shield</div><div class="link-list link-list--inline"><a href="https://itunes.apple.com/us/app/storm-shield/id526831380?mt=8&amp;ign-mpt=uo%3D4">iPhone</a><a href="https://play.google.com/store/apps/details?id=com.wdtinc.android.stormshield&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS53ZHRpbmMuYW5kcm9pZC5zdG9ybXNoaWVsZCJd">Android</a></div></div></div></div></section> <section class="nav nav--stay-connected"> <header class="header"> Stay Connected</header> <div class="links link-list--inline"></div><div class="link-list link-list--stacked"><ul><li><a href="https://www.facebook.com/commercialappeal"><i class="rsp-icon icon--facebook"></i> facebook</a></li><li><a href="https://twitter.com/memphisnews"><i class="rsp-icon icon--twitter"></i> twitter</a></li><li><a href="http://www.pinterest.com/memphisnews/"><i class="rsp-icon icon--pinterest"> </i> pinterest</a></li><li><a href="http://instagram.com/memphisnews"><i class="rsp-icon icon--instagram"></i> instagram</a></li><li><a href="https://www.youtube.com/AppealTV"><i class="rsp-icon icon--youtube"> </i>youtube</a></li><!--<li><a href="http://contests.kjrh.com/engine/Registration.aspx?contestid=%2017884"><i class="rsp-icon icon--email"></i> Newsletters</a>--></ul></div></section> <section class="nav nav--business-directory"> <header class="header"> Business Directory</header> <form action="http://local.caller.com/search.pg" class="submit_form default_form" method="get" style="margin:0;color:#C2C2C2;background:transparent;border:0;padding:12px 0;" target="_top"> <label for="id_business"><span class="submit_label">Business: <span class="formtip">e.g. salon</span></span> <input class="CatTxtBxMojo" kl_virtual_keyboard_secure_input="on" maxlength="2048" name="q" style="width: 160px;color:#666666;" type="text" value="" /></label> <label for="id_business"><span class="submit_label">Location: <span class="formtip">e.g. Memphis, TN</span></span> <input class="CatTxtBxMojo" kl_virtual_keyboard_secure_input="on" maxlength="2048" name="z" style="width: 160px;color:#666666;" type="text" value="Memphis, TN" /></label><div class="CatBtnSubmitMojo"><input style="font-size:8pt;" type="submit" value="Search" /></div><br /> <div style="font-size:11px;"></div></form> </section> <section class="scripps-brand"> <div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://www.wcpo.com/wcpo-digital-theme/images/custom/logo-scripps.png" /></div><div class="side__body"><strong>Scripps Interactive Newspapers Group</strong> © 2014 The E.W. Scripps Co</div></div> <section class="soft-right"> <div class="link-list link-list--inline"><a href="/privacy-policy">Privacy Policy</a> <a href="/terms-of-use">Terms of Use</a></div></section> </section> </div></div></footer> <p></p> <!-- omniture scripts --> <script type="text/javascript">/*<![CDATA[*/
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+		Liferay.Portlet.runtimePortletIds = ['searchbox_WAR_sitesearchportlet','103'];
+	
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+// <![CDATA[
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_103_',
+						portletId: '103',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d103\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_2IOcPxLLXcwX_',
+						portletId: '56_INSTANCE_2IOcPxLLXcwX',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_2IOcPxLLXcwX\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_TL5TePGlY0UM_',
+						portletId: '56_INSTANCE_TL5TePGlY0UM',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_TL5TePGlY0UM\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_Ix5x1gqRqkQ3_',
+						portletId: '56_INSTANCE_Ix5x1gqRqkQ3',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_Ix5x1gqRqkQ3\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 3,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_EZBOcd8Z3phb_',
+						portletId: '56_INSTANCE_EZBOcd8Z3phb',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_EZBOcd8Z3phb\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_EpM5ufOlfoNc_',
+						portletId: '56_INSTANCE_EpM5ufOlfoNc',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_EpM5ufOlfoNc\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_7rfTRMooKGsi_',
+						portletId: '56_INSTANCE_7rfTRMooKGsi',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_7rfTRMooKGsi\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_oYMD7h2G58Ok_',
+						portletId: '56_INSTANCE_oYMD7h2G58Ok',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_oYMD7h2G58Ok\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_edHhN0NmPRHs_',
+						portletId: '56_INSTANCE_edHhN0NmPRHs',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_edHhN0NmPRHs\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_ywKW6wpJQW1p_',
+						portletId: '56_INSTANCE_ywKW6wpJQW1p',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_ywKW6wpJQW1p\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-7\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_NFAuJG1aBsZ9_',
+						portletId: '56_INSTANCE_NFAuJG1aBsZ9',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_NFAuJG1aBsZ9\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-7\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d2\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_ZbSFV83UBNYd_',
+						portletId: '56_INSTANCE_ZbSFV83UBNYd',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_ZbSFV83UBNYd\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_TJ8EUmQMobJN_',
+						portletId: '56_INSTANCE_TJ8EUmQMobJN',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_TJ8EUmQMobJN\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_gN4Xv3HkYHIP_',
+						portletId: '56_INSTANCE_gN4Xv3HkYHIP',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_gN4Xv3HkYHIP\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 3,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_zAwLl7RQx5Ok_',
+						portletId: '56_INSTANCE_zAwLl7RQx5Ok',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_zAwLl7RQx5Ok\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 4,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_YmH2zgW1AOqE_',
+						portletId: '56_INSTANCE_YmH2zgW1AOqE',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_YmH2zgW1AOqE\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d4\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 5,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_J67sbz9RYeAN_',
+						portletId: '56_INSTANCE_J67sbz9RYeAN',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_J67sbz9RYeAN\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d5\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 6,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_1rF5BNQP3cxq_',
+						portletId: '56_INSTANCE_1rF5BNQP3cxq',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3d56_INSTANCE_1rF5BNQP3cxq\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d6\x26p_p_col_count\x3d7\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_searchbox_WAR_sitesearchportlet_',
+						portletId: 'searchbox_WAR_sitesearchportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d385759705\x26p_p_id\x3dsearchbox_WAR_sitesearchportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fentertainment'
+					}
+				);
+			AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]>
+/*]]>*/</script> <script src="http://www.commercialappeal.com/newspaper-responsive-base-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1414646338000" type="text/javascript"></script> <script type="text/javascript">/*<![CDATA[*/
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	/*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/vendor/jquery.unveil.min.js"></script> <script src="http://media.scrippsnationalnews.com/cms/js/videoplayer.js?v=20141027-115212.1.72435"></script> <script src="http://media.scrippsnationalnews.com/cms/js/site.global.min.js?v=20141027-115212.1.72435"></script> <!-- Chartbeat Snippet --> <script type="text/javascript">/*<![CDATA[*/
+
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 15115;
+_sf_async_config.domain = 'www.commercialappeal.com'; 
+_sf_async_config.sections = 'News' 
+
+
+if (!window._story_authors) {
+  window._story_authors = '';
+}
+if (_story_authors != '') {
+    _sf_async_config.authors = _story_authors; /* Set by the STORY template */
+} else {
+    _sf_async_config.authors = 'Scripps Only Content ' + new Date().getFullYear();
+}
+
+/** CONFIGURATION END **/
+
+(function(){
+function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute("src", (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != "function") ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+/*]]>*/</script> </div> <!-- /.body__inner --> </body> </html> 

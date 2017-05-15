@@ -1,0 +1,592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Page not found</title><link rel="alternate" type="application/rss+xml" title="Media Mikes &raquo; Feed" href="http://www.mediamikes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Media Mikes &raquo; Comments Feed" href="http://www.mediamikes.com/comments/feed/" />
+<link rel='stylesheet' id='church-theme-css'  href='http://www.mediamikes.com/wp-content/themes/church/style.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='http://www.mediamikes.com/wp-content/plugins/captcha/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='category-posts-css'  href='http://www.mediamikes.com/wp-content/plugins/category-posts/cat-posts.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cntctfrm_stylesheet-css'  href='http://www.mediamikes.com/wp-content/plugins/contact-form-plugin/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.mediamikes.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cart66-css-css'  href='http://www.mediamikes.com/wp-content/plugins/cart66/cart66.css?ver=1.5.2' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.1.3 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-24772394-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://www.mediamikes.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='http://www.mediamikes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mediamikes.com/xmlrpc.php?rsd" />
+<link rel="Shortcut Icon" href="http://www.mediamikes.com/wp-content/themes/church/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://www.mediamikes.com/xmlrpc.php" />
+<meta name="generator" content="Cart66 Professional 1.5.2" />
+	<!-- En Spam Script -->
+	<script>
+	function setCookie(c_name,value,exdays)
+		{
+			var exdate=new Date();
+			exdate.setDate(exdate.getDate() + exdays);
+			var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+			document.cookie=c_name + "=" + c_value;
+		}
+	function getCookie(c_name)
+			{
+			var i,x,y,ARRcookies=document.cookie.split(";");
+			for (i=0;i<ARRcookies.length;i++)
+			{
+			  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+			  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+			  x=x.replace(/^\s+|\s+$/g,"");
+			  if (x==c_name)
+				{
+				return unescape(y);
+				}
+			  }
+	}
+	function cookieToCommenter(){
+		var cookie=getCookie('comment_author_fd8aaa2055aaed6d1ebc2661628571eb');
+		if(cookie==null) setCookie('comment_author_fd8aaa2055aaed6d1ebc2661628571eb',document.getElementById('author').value,30);
+	}
+	</script>
+	</head>
+<body class="error404 header-image content-sidebar"><div id="wrap"><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://www.mediamikes.com/">Media Mikes</a></p><p id="description">Movies, TV, Music...All Things Media</p></div><div class="widget-area header-widget-area"><div id="text-15" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4060276547272235";
+/* 468x60 */
+google_ad_slot = "6114778594";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div>
+</div></div></div><div id="nav"><div class="wrap"><ul id="menu-main" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-19939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19939"><a href="http://www.mediamikes.com/category/movies/">Movies</a>
+<ul class="sub-menu">
+	<li id="menu-item-19934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19934"><a href="http://www.mediamikes.com/category/movies/dvd-blu-reviews/">DVD/Blu-Ray Reviews</a></li>
+	<li id="menu-item-20017" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20017"><a href="http://www.mediamikes.com/category/movies/filmheadlines/">Film Headlines</a></li>
+	<li id="menu-item-20013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20013"><a href="http://www.mediamikes.com/category/movies/filminterviews/">Film Interviews</a></li>
+	<li id="menu-item-19933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19933"><a href="http://www.mediamikes.com/category/movies/film-reviews/">Film Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-19923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19923"><a href="http://www.mediamikes.com/category/tv/">TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-19975" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19975"><a href="http://www.mediamikes.com/category/tv/tv-headlines/">TV Headlines</a></li>
+	<li id="menu-item-20012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20012"><a href="http://www.mediamikes.com/category/tv/tv-interviews/">TV Interviews</a></li>
+</ul>
+</li>
+<li id="menu-item-19940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19940"><a href="http://www.mediamikes.com/category/music/">Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-19972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19972"><a href="http://www.mediamikes.com/category/music/cdreviews/">CD Reviews</a></li>
+	<li id="menu-item-19973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19973"><a href="http://www.mediamikes.com/category/music/concertreviews/">Concert Reviews</a></li>
+	<li id="menu-item-20444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20444"><a href="http://www.mediamikes.com/category/music/musicheadlines/">Music Headlines</a></li>
+	<li id="menu-item-31426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31426"><a href="http://www.mediamikes.com/category/music/musicinterviews/">Music Interviews</a></li>
+</ul>
+</li>
+<li id="menu-item-20116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20116"><a href="http://www.mediamikes.com/category/books/">Books</a>
+<ul class="sub-menu">
+	<li id="menu-item-20115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20115"><a href="http://www.mediamikes.com/category/books/authorinterviews/">Author Interviews</a></li>
+	<li id="menu-item-25620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25620"><a href="http://www.mediamikes.com/category/books/book-reviews/">Book Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-20108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20108"><a href="http://www.mediamikes.com/category/games/">Games</a>
+<ul class="sub-menu">
+	<li id="menu-item-22273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22273"><a href="http://www.mediamikes.com/category/games/gameheadlines/">Game Headlines</a></li>
+	<li id="menu-item-41728" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41728"><a href="http://www.mediamikes.com/category/games/game-reviews/">Game Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-36814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-36814"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/">Art/Theatre</a>
+<ul class="sub-menu">
+	<li id="menu-item-59301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59301"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/comic-book-reviews/">Comic Book Reviews</a></li>
+	<li id="menu-item-59302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59302"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/headlines-arts-theatre-conventions/">Headlines</a></li>
+	<li id="menu-item-36815" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36815"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/misc-interviews/">Interviews</a></li>
+	<li id="menu-item-36816" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36816"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/theatre-reviews/">Theatre Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-19916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19916"><a href="http://www.mediamikes.com/category/giveaways/">Giveaways</a></li>
+<li id="menu-item-19965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19965"><a href="http://www.mediamikes.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-20445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20445"><a href="http://www.mediamikes.com/about/">About</a></li>
+<li id="menu-item-20822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20822"><a title="Find Us on Facebook" href="http://www.facebook.com/pages/Media-Mikes/150439368370325"><img src="http://www.mediamikes.com//wp-content/themes/magazine/images/facebook-logo-icon.gif" height="15" width="15" /></a></li>
+<li id="menu-item-20855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20855"><a title="Follow Us On Twitter" href="http://twitter.com/mediamikes"><img src="http://www.mediamikes.com/wp-content/themes/magazine/images/twittericon.gif" border=0" height="15" width="15" /></a></li>
+</ul></div></div><div id="subnav"><div class="wrap"><ul id="menu-level-2" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-65245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65245"><a href="http://www.mediamikes.com/category/misc/appliances/">Appliances</a></li>
+<li id="menu-item-65251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65251"><a href="http://www.mediamikes.com/category/commentary/">Commentary</a></li>
+<li id="menu-item-65250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65250"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/convention-coverage/">Conventions</a></li>
+<li id="menu-item-65246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65246"><a href="http://www.mediamikes.com/category/misc/style-misc/">Style</a></li>
+<li id="menu-item-65247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65247"><a href="http://www.mediamikes.com/category/misc/technology/">Technology</a></li>
+<li id="menu-item-65248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65248"><a href="http://www.mediamikes.com/category/misc/toys-misc/">Toys</a></li>
+<li id="menu-item-65249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65249"><a href="http://www.mediamikes.com/category/misc/travel-misc/">Travel</a></li>
+<li id="menu-item-65252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65252"><a href="http://www.mediamikes.com/category/featured/">Featured</a></li>
+</ul></div></div><div id="inner"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="breadcrumb">You are here: <a href="http://www.mediamikes.com/">Home</a> / Not found: </div><div class="post hentry"><h1 class="entry-title">Not found, error 404</h1><div class="entry-content">
+			<p>The page you are looking for no longer exists. Perhaps you can return back to the site's <a href="http://www.mediamikes.com">homepage</a> and see if you can find what you are looking for. Or, you can try finding it with the information below.</p>
+
+			<h4>Pages:</h4>
+			<ul>
+				<li class="page_item page-item-2"><a href="http://www.mediamikes.com/about/">About</a></li>
+<li class="page_item page-item-34646"><a href="http://www.mediamikes.com/advertising-option-adchoices/">Advertising Option (AdChoices)</a></li>
+<li class="page_item page-item-20102"><a href="http://www.mediamikes.com/category/books/authorinterviews/">Author Interviews</a></li>
+<li class="page_item page-item-20132"><a href="http://www.mediamikes.com/category/comicsart/">Comic/Art Interviews</a></li>
+<li class="page_item page-item-4114"><a href="http://mediamikes.com/category/headlines/">Film Headlines</a></li>
+<li class="page_item page-item-18329"><a href="http://www.mediamikes.com/category/movies/filminterviews/">Film Interviews</a></li>
+<li class="page_item page-item-40207 page_item_has_children"><a href="http://www.mediamikes.com/store/">MediaMikes Store</a>
+<ul class='children'>
+	<li class="page_item page-item-40208"><a href="http://www.mediamikes.com/store/cart/">Cart</a></li>
+	<li class="page_item page-item-40209"><a href="http://www.mediamikes.com/store/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li class="page_item page-item-19991"><a href="http://www.mediamikes.com/category/music/musicinterviews/">Music Interviews</a></li>
+<li class="page_item page-item-19996"><a href="http://www.mediamikes.com/category/tv/tv-interviews/">TV Interviews</a></li>
+<li class="page_item page-item-40215"><a href="http://www.mediamikes.com/cart/">Your Shopping Cart</a></li>
+<li class="page_item page-item-10789"><a href="http://www.mediamikes.com/category/movies/film-reviews/">Film Reviews</a></li>
+<li class="page_item page-item-6287"><a href="http://www.mediamikes.com/category/movies/dvd-blu-reviews/">DVD/Blu-Ray Reviews</a></li>
+<li class="page_item page-item-63"><a href="http://mediamikes.com/category/trailers/">Movie Trailers</a></li>
+<li class="page_item page-item-65"><a href="http://mediamikes.com/category/giveaways/">Giveaways</a></li>
+<li class="page_item page-item-7764"><a href="http://mediamikes.com/category/commentary">Commentary</a></li>
+<li class="page_item page-item-74"><a href="http://www.mediamikes.com/contact-us/">Contact Us</a></li>
+			</ul>
+
+			<h4>Categories:</h4>
+			<ul>
+					<li class="cat-item cat-item-1205"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/" >Art/Theatre</a>
+<ul class='children'>
+	<li class="cat-item cat-item-8023"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/comic-book-reviews/" >Comic Book Reviews</a>
+</li>
+	<li class="cat-item cat-item-7313"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/convention-coverage/" >Conventions</a>
+</li>
+	<li class="cat-item cat-item-8026"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/headlines-arts-theatre-conventions/" >Headlines</a>
+</li>
+	<li class="cat-item cat-item-4573"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/misc-interviews/" >Interviews</a>
+</li>
+	<li class="cat-item cat-item-4574"><a href="http://www.mediamikes.com/category/arts-theatre-conventions/theatre-reviews/" >Theatre Reviews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1189"><a href="http://www.mediamikes.com/category/books/" >Books</a>
+<ul class='children'>
+	<li class="cat-item cat-item-1206"><a href="http://www.mediamikes.com/category/books/authorinterviews/" >Author Interviews</a>
+</li>
+	<li class="cat-item cat-item-2681"><a href="http://www.mediamikes.com/category/books/book-reviews/" >Book Reviews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.mediamikes.com/category/commentary/" >Commentary</a>
+</li>
+	<li class="cat-item cat-item-1229"><a href="http://www.mediamikes.com/category/featured/" >Featured</a>
+</li>
+	<li class="cat-item cat-item-1188"><a href="http://www.mediamikes.com/category/games/" >Games</a>
+<ul class='children'>
+	<li class="cat-item cat-item-1882"><a href="http://www.mediamikes.com/category/games/gameheadlines/" >Game Headlines</a>
+</li>
+	<li class="cat-item cat-item-5528"><a href="http://www.mediamikes.com/category/games/game-reviews/" >Game Reviews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.mediamikes.com/category/giveaways/" >Giveaways</a>
+</li>
+	<li class="cat-item cat-item-1477"><a href="http://www.mediamikes.com/category/interviews/" >Interviews</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.mediamikes.com/category/misc/" >Misc</a>
+<ul class='children'>
+	<li class="cat-item cat-item-9446"><a href="http://www.mediamikes.com/category/misc/appliances/" >Appliances</a>
+</li>
+	<li class="cat-item cat-item-9444"><a href="http://www.mediamikes.com/category/misc/style-misc/" >Style</a>
+</li>
+	<li class="cat-item cat-item-8024"><a href="http://www.mediamikes.com/category/misc/technology/" >Technology</a>
+</li>
+	<li class="cat-item cat-item-9445"><a href="http://www.mediamikes.com/category/misc/toys-misc/" >Toys</a>
+</li>
+	<li class="cat-item cat-item-9373"><a href="http://www.mediamikes.com/category/misc/travel-misc/" >Travel</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1185"><a href="http://www.mediamikes.com/category/movies/" >Movies</a>
+<ul class='children'>
+	<li class="cat-item cat-item-16"><a href="http://www.mediamikes.com/category/movies/dvd-blu-reviews/" >DVD/Blu-Ray Reviews</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.mediamikes.com/category/movies/filmheadlines/" >Film Headlines</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.mediamikes.com/category/movies/filminterviews/" >Film Interviews</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.mediamikes.com/category/movies/film-reviews/" >Film Reviews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1187"><a href="http://www.mediamikes.com/category/music/" >Music</a>
+<ul class='children'>
+	<li class="cat-item cat-item-1192"><a href="http://www.mediamikes.com/category/music/cdreviews/" >CD Reviews</a>
+</li>
+	<li class="cat-item cat-item-1193"><a href="http://www.mediamikes.com/category/music/concertreviews/" >Concert Reviews</a>
+</li>
+	<li class="cat-item cat-item-1287"><a href="http://www.mediamikes.com/category/music/musicheadlines/" >Music Headlines</a>
+</li>
+	<li class="cat-item cat-item-1195"><a href="http://www.mediamikes.com/category/music/musicinterviews/" >Music Interviews</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1186"><a href="http://www.mediamikes.com/category/tv/" >TV</a>
+<ul class='children'>
+	<li class="cat-item cat-item-1196"><a href="http://www.mediamikes.com/category/tv/tv-headlines/" >TV Headlines</a>
+</li>
+	<li class="cat-item cat-item-1194"><a href="http://www.mediamikes.com/category/tv/tv-interviews/" >TV Interviews</a>
+</li>
+</ul>
+</li>
+			</ul>
+
+			<h4>Authors:</h4>
+			<ul>
+				<li><a href="http://www.mediamikes.com/author/alawton/" title="Posts by Adam Lawton">Adam Lawton</a> (636)</li><li><a href="http://www.mediamikes.com/author/angeloc/" title="Posts by Angelo Casciorizzo">Angelo Casciorizzo</a> (4)</li><li><a href="http://www.mediamikes.com/author/bcallen/" title="Posts by B.C. Allen">B.C. Allen</a> (14)</li><li><a href="http://www.mediamikes.com/author/bwolf/" title="Posts by Bear Wolf">Bear Wolf</a> (7)</li><li><a href="http://www.mediamikes.com/author/brandonj/" title="Posts by Brandon Jones">Brandon Jones</a> (1)</li><li><a href="http://www.mediamikes.com/author/craigk/" title="Posts by Craig Kish">Craig Kish</a> (3)</li><li><a href="http://www.mediamikes.com/author/davep/" title="Posts by Dave Picton">Dave Picton</a> (36)</li><li><a href="http://www.mediamikes.com/author/elizabethp/" title="Posts by Elizabeth Phillips">Elizabeth Phillips</a> (11)</li><li><a href="http://www.mediamikes.com/author/erics/" title="Posts by Eric Schmitt">Eric Schmitt</a> (3)</li><li><a href="http://www.mediamikes.com/author/garrettl/" title="Posts by Garrett Lane">Garrett Lane</a> (2)</li><li><a href="http://www.mediamikes.com/author/jenniferk/" title="Posts by Jennifer Kish">Jennifer Kish</a> (5)</li><li><a href="http://www.mediamikes.com/author/jeremyw/" title="Posts by Jeremy Werner">Jeremy Werner</a> (82)</li><li><a href="http://www.mediamikes.com/author/juanitas/" title="Posts by Juanita Smith">Juanita Smith</a> (1)</li><li><a href="http://www.mediamikes.com/author/laurend/" title="Posts by Lauren Damon">Lauren Damon</a> (88)</li><li><a href="http://www.mediamikes.com/author/admin/" title="Posts by Mike Gencarelli">Mike Gencarelli</a> (4130)</li><li><a href="http://www.mediamikes.com/author/msmith/" title="Posts by Mike Smith">Mike Smith</a> (553)</li><li><a href="http://www.mediamikes.com/author/pgencarelli/" title="Posts by Patty Gencarelli">Patty Gencarelli</a> (13)</li><li><a href="http://www.mediamikes.com/author/paulad/" title="Posts by Paula Damon">Paula Damon</a> (1)</li><li><a href="http://www.mediamikes.com/author/phillips/" title="Posts by Phillip Smith">Phillip Smith</a> (17)</li>			</ul>
+
+			<h4>Monthly:</h4>
+			<ul>
+					<li><a href='http://www.mediamikes.com/2014/12/'>December 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/'>November 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/'>October 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/08/'>August 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/07/'>July 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/06/'>June 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/05/'>May 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/04/'>April 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/03/'>March 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/02/'>February 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2014/01/'>January 2014</a></li>
+	<li><a href='http://www.mediamikes.com/2013/12/'>December 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/11/'>November 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/10/'>October 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/09/'>September 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/08/'>August 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/07/'>July 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/06/'>June 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/05/'>May 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/04/'>April 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/03/'>March 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/02/'>February 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2013/01/'>January 2013</a></li>
+	<li><a href='http://www.mediamikes.com/2012/12/'>December 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/11/'>November 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/10/'>October 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/09/'>September 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/08/'>August 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/07/'>July 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/06/'>June 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/05/'>May 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/04/'>April 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/03/'>March 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/02/'>February 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2012/01/'>January 2012</a></li>
+	<li><a href='http://www.mediamikes.com/2011/12/'>December 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/11/'>November 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/10/'>October 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/09/'>September 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/08/'>August 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/07/'>July 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/06/'>June 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/05/'>May 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/04/'>April 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/03/'>March 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/02/'>February 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2011/01/'>January 2011</a></li>
+	<li><a href='http://www.mediamikes.com/2010/12/'>December 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/11/'>November 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/10/'>October 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/09/'>September 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/08/'>August 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/07/'>July 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/06/'>June 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/05/'>May 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/04/'>April 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/03/'>March 2010</a></li>
+	<li><a href='http://www.mediamikes.com/2010/02/'>February 2010</a></li>
+			</ul>
+
+			<h4>Recent Posts:</h4>
+			<ul>
+					<li><a href='http://www.mediamikes.com/2014/12/blu-ray-review-when-the-wind-blows-1986/'>Blu-ray Review &#8220;When The Wind Blows (1986)&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/12/blu-ray-review-the-twilight-samurai-2002/'>Blu-ray Review &#8220;The Twilight Samurai (2002)&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/12/blu-ray-review-flaming-star-1960/'>Blu-ray Review &#8220;Flaming Star (1960)&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/12/parker-sawyers-talks-about-role-in-monsters-dark-continent/'>Parker Sawyers talks about role in &#8220;Monsters: Dark Continent&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/12/blancbiehn-productions-announces-new-sexy-thriller-psychophonia/'>Blanc/Biehn Productions Announces New Sexy Thriller &#8220;Psychophonia&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/media-mikes-2014-holiday-film-preview/'>Media Mikes&#8217; 2014 Holiday Film Preview</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/win-passes-to-the-kansas-city-premiere-of-chris-rocks-top-five/'>Win Passes to the Kansas City Premiere of Chris Rock&#8217;s &#8220;Top Five&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/how-to-create-the-ultimate-games-room/'>How to Create the Ultimate Games Room</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/can-apple-become-a-market-leader-for-gaming/'>Can Apple become a Market Leader for Gaming?</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-the-picture-of-dorian-gray-1945/'>Blu-ray Review &#8220;The Picture of Dorian Gray (1945)&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/vinyl-review-frozen-the-songs/'>Vinyl Review &#8220;Frozen: The Songs&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/product-review-gemmy-airblown-frosty-the-snowman-snow-globe/'>Product Review &#8220;Gemmy Airblown Frosty the Snowman Snow Globe&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-reviews-demons-demons-2/'>Blu-ray Reviews &#8220;Demons&#8221; &#038; &#8220;Demons 2&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/creators-dan-harmon-and-justin-roiland-join-actors-chris-parnell-and-sarah-chalke-to-discuss-rick-and-morty-at-nycc/'>Creators Dan Harmon &#038; Justin Roiland join actors Chris Parnell &#038; Sarah Chalke to discuss &#8220;Rick and Morty&#8221; at NYCC</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-horrible-bosses-2/'>Film Review &#8220;Horrible Bosses 2&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/five-major-movies-turned-into-video-slots/'>Five Major Movies Turned Into Video Slots</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/care-bears-advent-calender-hits-itunes-app-store/'>&#8220;Care Bears Advent Calender&#8221; Hits iTunes App Store!</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-the-giver-with-jeff-bridges-meryl-streep/'>Enter to Win a Blu-ray of &#8220;The Giver&#8221; with Jeff Bridges &#038; Meryl Streep</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/event-review-festival-of-trees-tis-the-season-orlando-museum-of-art/'>Event Review &#8220;Festival of Trees: Tis the Season&#8221; Orlando Museum of Art</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-into-the-woods-original-broadway-production/'>Blu-ray Review &#8220;Into the Woods: Original Broadway Production&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-moontrap-anniversary-edition/'>Blu-ray Review &#8220;Moontrap: Anniversary Edition&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/theatre-review-a-christmas-story-the-musical-orlando-repertory-theatre/'>Theatre Review &#8220;A Christmas Story, The Musical&#8221; Orlando Repertory Theatre</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/mmike-nichols-oscar-winning-director-passes-away/'>Mike Nichols, Oscar Winning Director, Passes Away</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-the-hunger-games-mockingjay-part-1/'>Film Review &#8220;The Hunger Games: Mockingjay &#8211; Part 1&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/nick-pittom-talks-about-developing-for-oculus-rift-and-his-studio-ghiblis-demos/'>Nick Pittom talks about developing for Oculus Rift and his Studio Ghibli&#8217;s Demos</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/feld-entertainment-and-marvel-entertainments-marvel-universe-live-hits-orlando-fl-december/'>Feld Entertainment and Marvel Entertainment&#8217;s “Marvel Universe Live!&#8221; Hits Orlando, FL December!</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/product-feature-disney-frozen-olaf-inflatable-outdoor-christmas-figure/'>Product Feature &#8220;Disney Frozen Olaf Inflatable Outdoor Christmas Figure&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dr-dilznik-and-the-last-rekrute-relese-their-new-video-still-the-same/'>Dr. Dilznik and the Last Rekrute Relese Their New Video, &#8220;Still the Same&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/how-is-online-gaming-becoming-a-community/'>How is Online Gaming Becoming a Community?</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cavalera-conspiracys-iggor-cavalera-talks-about-latest-album-pandemonium/'>Cavalera Conspiracy&#8217;s Iggor Cavalera talks about latest album &#8220;Pandemonium&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/steven-quale-talks-about-directing-tornado-action-film-into-the-storm/'>Steven Quale talks about directing tornado action film &#8220;Into the Storm&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-the-hobbit-motion-picture-trilogy-location-guide-hobbiton-the-lonely-mountain-and-beyond/'>Book Review &#8220;The Hobbit Motion Picture Trilogy:  Location Guide &#8211; Hobbiton, the Lonely Mountain and Beyond&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-antonio-banderas-latest-film-automata/'>Enter to Win a Blu-ray of Antonio Banderas&#8217; latest film &#8220;Automata&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-the-wind-rises/'>Blu-ray Review &#8220;The Wind Rises&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/digital-hd-review-how-to-train-your-dragon-2/'>Digital HD Review &#8220;How to Train Your Dragon 2&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dvd-review-the-jeffersons-the-complete-series/'>DVD Review &#8220;The Jeffersons: The Complete Series&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dvd-review-mister-ed-the-complete-series/'>DVD Review &#8220;Mister Ed: The Complete Series&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-lord-of-illusions-collectors-edition/'>Blu-ray Review &#8220;Lord of Illusions (Collector&#8217;s Edition)&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-tales-from-the-crypt-vault-of-horror-double-feature/'>Blu-ray Review &#8220;Tales From the Crypt / Vault of Horror: Double Feature&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/vinyl-review-trans-siberian-orchestra-the-christmas-attic/'>Vinyl Review: Trans-Siberian Orchestra &#8220;The Christmas Attic&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-sailor-moon-season-1-part-1/'>Blu-ray Review &#8220;Sailor Moon: Season 1 Part 1&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dvd-review-22-jump-street/'>DVD Review &#8220;22 Jump Street&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-batman-the-complete-television-series-limited-edition/'>Blu-ray Review &#8220;Batman: The Complete Television Series (Limited Edition)&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-blu-ray-combo-pack-for-the-expendables-3-unrated-edition/'>Enter to Win Blu-ray Combo Pack for “The Expendables 3: Unrated Edition&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-combo-of-ragnarok/'>Enter to Win a Blu-ray Combo of &#8220;Ragnarok&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/nintendo-3ds-video-game-review-big-hero-6-battle-in-the-bay/'>Nintendo 3DS Video Game Review &#8220;Big Hero 6: Battle in the Bay&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/blu-ray-review-into-the-storm/'>Blu-ray Review &#8220;Into the Storm&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/eddie-redmayne-felicity-jones-and-filmmakers-discuss-the-theory-of-everything/'>Eddie Redmayne, Felicity Jones and filmmakers discuss &#8220;The Theory Of Everything&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/what-to-expect-from-the-upcoming-scorsese-casino-movie-starring-brad-pitt-robert-de-niro-and-leonardo-dicaprio/'>What to expect from the upcoming Scorsese casino movie starring Brad Pitt, Robert De Niro and Leonardo DiCaprio</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/orlando-museum-of-art-presents-festival-of-trees-tis-the-season/'>Orlando Museum of Art Presents Festival of Trees: “Tis the Season!”</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-dumb-and-dumber-to/'>Film Review &#8220;Dumb and Dumber To&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-rosewater/'>Film Review &#8220;Rosewater&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/season-afters-james-beattie-talks-about-new-album-calamity-scars-memoirs/'>Season After&#8217;s James Beattie talks about new album &#8220;Calamity Scars &#038; Memoirs&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-review-disney-fantasia-music-evolved-original-soundtrack/'>CD Review &#8220;Disney Fantasia: Music Evolved &#8211; Original Soundtrack&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/the-blind-boys-of-alabamas-jimmy-carter-talks-about-new-album-talkin-christmas-and-the-bands-70th-anniversary/'>The Blind Boys of Alabama&#8217;s Jimmy Carter talks about new album &#8220;Talkin’ Christmas!&#8221; and the band&#8217;s 70th Anniversary</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/crobot-discusses-touring-and-their-latest-album-something-supernatural/'>Crobot discusses touring and their latest album &#8220;Something Supernatural&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-review-exodus-blood-in-blood-out/'>CD Review: Exodus &#8220;Blood In Blood Out&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-review-lagwagon-hang/'>CD Review: Lagwagon &#8220;Hang&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-death-punchd-surviving-five-finger-death-punchs-metal-mayhem/'>Book Review &#8220;Death Punch’d: Surviving Five Finger Death Punch’s Metal Mayhem&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dvd-review-legends-of-the-knight/'>DVD Review &#8220;Legends of the Knight&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/indiebox-announces-brutal-legend-limited-edition/'>IndieBox Announces &#8220;Brütal Legend: Limited Edition&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/andy-wood-talks-about-new-album-caught-between-the-truth-and-a-lie/'>Andy Wood talks about new album &#8220;Caught Between the Truth and a Lie&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/3d-blu-ray-review-james-camerons-deepsea-challenge-3d/'>3D Blu-ray Review &#8220;James Cameron&#8217;s Deepsea Challenge 3D&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/starz-reteams-sam-raimi-bruce-campbell-and-rob-tapert-for-a-new-tv-series-based-on-their-classic-horror-film-the-evil-dead/'>STARZ Reteams Sam Raimi, Bruce Campbell and Rob Tapert for a New TV Series Based on Their Classic Horror Film &#8220;The Evil Dead&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dvd-review-wicked-wicked/'>DVD Review &#8220;Wicked, Wicked&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/dvd-review-my-little-pony-friendship-is-magic-season-4/'>DVD Review &#8220;My Little Pony Friendship Is Magic: Season 4&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-reviews-walt-disney-records-the-legacy-collection/'>CD Reviews &#8220;Walt Disney Records: The Legacy Collection&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/all-time-lows-zack-merrick-talks-about-clothing-line-amerrickan/'>All Time Low&#8217;s Zack Merrick talks about clothing line &#8220;Amerrickan&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-one-of-cinedigm-recent-three-gkids-animated-films/'>Enter to Win One of Cinedigm Recent Three GKIDS Animated Films</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-dvd-gift-set-for-historys-ancient-aliens-the-complete-seasons-1-6/'>Enter to Win DVD Gift Set for History&#8217;s &#8220;Ancient Aliens: The Complete Seasons 1-6&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/enter-to-win-blu-ray-reclaim-starring-john-cusack-and-ryan-phillippe/'>Enter to Win Blu-ray &#8220;Reclaim&#8221; Starring John Cusack And Ryan Phillippe</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/kal-penn-talks-about-his-latest-film-bhopal-a-prayer-for-rain/'>Kal Penn talks about his latest film &#8220;Bhopal: A Prayer for Rain&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/win-advance-passes-to-the-kansas-city-premiere-of-horrible-bosses-2/'>Win Advance Passes to the Kansas City Premiere of &#8220;Horrible Bosses 2&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-interstellar/'>Film Review &#8220;Interstellar&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-review-kontrust-explositive/'>CD Review: Kontrust &#8220;Explositive&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/grace-anna-highlights-the-2nd-annual-salute-our-heroes-gala/'>Grace Anna Highlights the 2nd Annual Salute Our Heroes Gala</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/tippi-hedren-reflects-on-alfred-hitchcocks-the-birds-and-her-foundation/'>Tippi Hedren reflects on &#8220;Alfred Hitchcock&#8217;s The Birds&#8221; and her foundation</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-reviews-artfolds-christmas-memories/'>Book Reviews &#8220;ArtFolds: Christmas Memories&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-build-my-own-a-magical-christmas/'>Book Review &#8220;Build My Own: A Magical Christmas&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-barbie-a-special-christmas/'>Book Review &#8220;Barbie: A Special Christmas&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-bubble-guppies-guess-whos-fin-tastic/'>Book Review &#8220;Bubble Guppies Guess Who&#8217;s Fin-tastic!&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-star-wars-costumes/'>Book Review &#8220;Star Wars Costumes&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/book-review-disney-fairies-meet-periwinkle/'>Book Review &#8220;Disney Fairies: Meet Periwinkle&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-big-hero-6/'>Film Review &#8220;Big Hero 6&#8243;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/kevin-greutert-talks-about-directing-and-editing-horror-film-jessabelle/'>Kevin Greutert talks about directing and editing horror film &#8220;Jessabelle&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/gamers-get-more-from-online-functionality/'>Gamers Get More from Online Functionality</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/holiday-gift-guides-2014-kidz-bop/'>Holiday Gift Guides 2014 &#8211; KIDZ BOP</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/billy-bates-to-premiere-in-kansas-city-this-friday/'>&#8220;Billy Bates&#8221; To Premiere in Kansas City This Friday</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/queensryche-launch-building-the-empire-a-new-album-pre-order-via-pledgemusic/'>Queensrÿche Launch &#8220;Building the Empire&#8221;, a New Album &#8211; Pre-order via Pledgemusic</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/austrians-crossover-band-kontrust-talks-about-new-album-explositive/'>Austrian crossover band Kontrust talks about new album &#8220;Explositive&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-review-cannibal-corpse-a-skeletal-domain/'>CD Review: Cannibal Corpse &#8220;A Skeletal Domain&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/cd-review-psychostick-iv-revenge-of-the-vegeance/'>CD Review: Psychostick &#8220;IV: Revenge of the Vegeance&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/11/film-review-the-theory-of-everything/'>Film Review &#8220;The Theory of Everything&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/enter-to-win-blu-ray-combo-pack-for-beethovens-treasure-tail/'>Enter to Win Blu-ray Combo Pack for &#8220;Beethoven&#8217;s Treasure Tail&#8221; [ENDED]</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/blu-ray-review-star-wars-the-clone-wars-the-lost-missions/'>Blu-ray Review: &#8220;Star Wars: The Clone Wars &#8211; The Lost Missions&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/dvd-review-phineas-ferb-star-wars/'>DVD Review &#8220;Phineas &#038; Ferb: Star Wars&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/blu-ray-review-beware-the-batman-season-1-part-2-dark-justice/'>Blu-ray Review &#8220;Beware the Batman: Season 1, Part 2 &#8211; Dark Justice&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/blu-ray-review-jersey-boys/'>Blu-ray Review &#8220;Jersey Boys&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/dvd-review-reno-911-the-complete-series/'>DVD Review &#8220;Reno 911!: The Complete Series&#8221;</a></li>
+	<li><a href='http://www.mediamikes.com/2014/10/malek-akkad-talks-about-about-his-directorial-debut-free-fall-and-the-halloween-franchise/'>Malek Akkad talks about about his directorial debut &#8220;Free Fall&#8221; and the &#8220;Halloween&#8221; franchise</a></li>
+			</ul>
+
+</div></div></div><div id="sidebar" class="sidebar widget-area"><div id="text-17" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4060276547272235";
+/* 300x250 */
+google_ad_slot = "5171040536";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div>
+<div id="search-3" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="http://www.mediamikes.com/" role="search" ><input type="text" value="Search this website&#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website&#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website&#x2026;&#039;;}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+		<div id="recent-posts-3" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title widgettitle">Recent Posts</h4>
+		<ul>
+					<li>
+				<a href="http://www.mediamikes.com/2014/12/blu-ray-review-when-the-wind-blows-1986/">Blu-ray Review &#8220;When The Wind Blows (1986)&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/12/blu-ray-review-the-twilight-samurai-2002/">Blu-ray Review &#8220;The Twilight Samurai (2002)&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/12/blu-ray-review-flaming-star-1960/">Blu-ray Review &#8220;Flaming Star (1960)&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/12/parker-sawyers-talks-about-role-in-monsters-dark-continent/">Parker Sawyers talks about role in &#8220;Monsters: Dark Continent&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/12/blancbiehn-productions-announces-new-sexy-thriller-psychophonia/">Blanc/Biehn Productions Announces New Sexy Thriller &#8220;Psychophonia&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/media-mikes-2014-holiday-film-preview/">Media Mikes&#8217; 2014 Holiday Film Preview</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/win-passes-to-the-kansas-city-premiere-of-chris-rocks-top-five/">Win Passes to the Kansas City Premiere of Chris Rock&#8217;s &#8220;Top Five&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/how-to-create-the-ultimate-games-room/">How to Create the Ultimate Games Room</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/can-apple-become-a-market-leader-for-gaming/">Can Apple become a Market Leader for Gaming?</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/blu-ray-review-the-picture-of-dorian-gray-1945/">Blu-ray Review &#8220;The Picture of Dorian Gray (1945)&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/vinyl-review-frozen-the-songs/">Vinyl Review &#8220;Frozen: The Songs&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/product-review-gemmy-airblown-frosty-the-snowman-snow-globe/">Product Review &#8220;Gemmy Airblown Frosty the Snowman Snow Globe&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/blu-ray-reviews-demons-demons-2/">Blu-ray Reviews &#8220;Demons&#8221; &#038; &#8220;Demons 2&#8243;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/creators-dan-harmon-and-justin-roiland-join-actors-chris-parnell-and-sarah-chalke-to-discuss-rick-and-morty-at-nycc/">Creators Dan Harmon &#038; Justin Roiland join actors Chris Parnell &#038; Sarah Chalke to discuss &#8220;Rick and Morty&#8221; at NYCC</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/film-review-horrible-bosses-2/">Film Review &#8220;Horrible Bosses 2&#8243;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/five-major-movies-turned-into-video-slots/">Five Major Movies Turned Into Video Slots</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/care-bears-advent-calender-hits-itunes-app-store/">&#8220;Care Bears Advent Calender&#8221; Hits iTunes App Store!</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-the-giver-with-jeff-bridges-meryl-streep/">Enter to Win a Blu-ray of &#8220;The Giver&#8221; with Jeff Bridges &#038; Meryl Streep</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/event-review-festival-of-trees-tis-the-season-orlando-museum-of-art/">Event Review &#8220;Festival of Trees: Tis the Season&#8221; Orlando Museum of Art</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/blu-ray-review-into-the-woods-original-broadway-production/">Blu-ray Review &#8220;Into the Woods: Original Broadway Production&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/blu-ray-review-moontrap-anniversary-edition/">Blu-ray Review &#8220;Moontrap: Anniversary Edition&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/theatre-review-a-christmas-story-the-musical-orlando-repertory-theatre/">Theatre Review &#8220;A Christmas Story, The Musical&#8221; Orlando Repertory Theatre</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/mmike-nichols-oscar-winning-director-passes-away/">Mike Nichols, Oscar Winning Director, Passes Away</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/film-review-the-hunger-games-mockingjay-part-1/">Film Review &#8220;The Hunger Games: Mockingjay &#8211; Part 1&#8243;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/nick-pittom-talks-about-developing-for-oculus-rift-and-his-studio-ghiblis-demos/">Nick Pittom talks about developing for Oculus Rift and his Studio Ghibli&#8217;s Demos</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/feld-entertainment-and-marvel-entertainments-marvel-universe-live-hits-orlando-fl-december/">Feld Entertainment and Marvel Entertainment&#8217;s “Marvel Universe Live!&#8221; Hits Orlando, FL December!</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/product-feature-disney-frozen-olaf-inflatable-outdoor-christmas-figure/">Product Feature &#8220;Disney Frozen Olaf Inflatable Outdoor Christmas Figure&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/dr-dilznik-and-the-last-rekrute-relese-their-new-video-still-the-same/">Dr. Dilznik and the Last Rekrute Relese Their New Video, &#8220;Still the Same&#8221;</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/how-is-online-gaming-becoming-a-community/">How is Online Gaming Becoming a Community?</a>
+						</li>
+					<li>
+				<a href="http://www.mediamikes.com/2014/11/cavalera-conspiracys-iggor-cavalera-talks-about-latest-album-pandemonium/">Cavalera Conspiracy&#8217;s Iggor Cavalera talks about latest album &#8220;Pandemonium&#8221;</a>
+						</li>
+				</ul>
+		</div></div>
+<div id="text-18" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><center><a href="http://www.mediamikes.com/store" target="_mediamikes"><img src="http://www.mediamikes.com/wp-content/uploads/2014/07/MediaMikes-Store-Ad.png" border="0" alt="bmw navigation"></a></center>
+
+</div>
+		</div></div>
+<div id="featured-post-5" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">GIVEAWAYS</h4>
+<div class="post-67850 post type-post status-publish format-standard has-post-thumbnail hentry category-giveaways tag-chris tag-city tag-kansas tag-passes tag-premiere tag-rocks tag-top tag-win entry"><a href="http://www.mediamikes.com/2014/11/win-passes-to-the-kansas-city-premiere-of-chris-rocks-top-five/" title="Win Passes to the Kansas City Premiere of Chris Rock&#8217;s &#8220;Top Five&#8221;" class="alignleft"><img width="70" height="70" src="http://www.mediamikes.com/wp-content/uploads/2014/11/Top_Five_poster-70x70.jpg" class="entry-image attachment-post" alt="Top_Five_poster" itemprop="image" /></a><h2><a href="http://www.mediamikes.com/2014/11/win-passes-to-the-kansas-city-premiere-of-chris-rocks-top-five/">Win Passes to the Kansas City Premiere of Chris Rock&#8217;s &#8220;Top Five&#8221;</a></h2><p>This contest will end on Sunday, December 7th</p>
+</div><div class="post-67586 post type-post status-publish format-standard has-post-thumbnail hentry category-giveaways tag-bluray tag-bridges tag-enter tag-giver tag-jeff tag-meryl tag-streep tag-win entry"><a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-the-giver-with-jeff-bridges-meryl-streep/" title="Enter to Win a Blu-ray of &#8220;The Giver&#8221; with Jeff Bridges &amp; Meryl Streep" class="alignleft"><img width="70" height="70" src="http://www.mediamikes.com/wp-content/uploads/2014/11/thegiver-70x70.jpg" class="entry-image attachment-post" alt="thegiver" itemprop="image" /></a><h2><a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-the-giver-with-jeff-bridges-meryl-streep/">Enter to Win a Blu-ray of &#8220;The Giver&#8221; with Jeff Bridges &amp; Meryl Streep</a></h2><p>This giveaway will remain open until December 5th</p>
+</div><div class="post-67699 post type-post status-publish format-standard has-post-thumbnail hentry category-giveaways entry"><a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-antonio-banderas-latest-film-automata/" title="Enter to Win a Blu-ray of Antonio Banderas&#8217; latest film &#8220;Automata&#8221;" class="alignleft"><img width="70" height="70" src="http://www.mediamikes.com/wp-content/uploads/2014/11/automata-70x70.jpg" class="entry-image attachment-post" alt="automata" itemprop="image" /></a><h2><a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-of-antonio-banderas-latest-film-automata/">Enter to Win a Blu-ray of Antonio Banderas&#8217; latest film &#8220;Automata&#8221;</a></h2><p>This giveaway will remain open until November 28th</p>
+</div><div class="post-67578 post type-post status-publish format-standard has-post-thumbnail hentry category-giveaways tag-3 tag-bluray tag-combo tag-edition tag-enter tag-expendables tag-pack tag-unrated tag-win entry"><a href="http://www.mediamikes.com/2014/11/enter-to-win-blu-ray-combo-pack-for-the-expendables-3-unrated-edition/" title="Enter to Win Blu-ray Combo Pack for “The Expendables 3: Unrated Edition&#8221;" class="alignleft"><img width="70" height="70" src="http://www.mediamikes.com/wp-content/uploads/2014/11/exp3_blu-ray-70x70.jpg" class="entry-image attachment-post" alt="exp3_blu-ray" itemprop="image" /></a><h2><a href="http://www.mediamikes.com/2014/11/enter-to-win-blu-ray-combo-pack-for-the-expendables-3-unrated-edition/">Enter to Win Blu-ray Combo Pack for “The Expendables 3: Unrated Edition&#8221;</a></h2><p>This giveaway will remain open until November 28th</p>
+</div><div class="post-67582 post type-post status-publish format-standard has-post-thumbnail hentry category-giveaways tag-bluray tag-combo tag-enter tag-ragnarok tag-win entry"><a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-combo-of-ragnarok/" title="Enter to Win a Blu-ray Combo of &#8220;Ragnarok&#8221;" class="alignleft"><img width="70" height="70" src="http://www.mediamikes.com/wp-content/uploads/2014/11/Ragnarok-70x70.jpg" class="entry-image attachment-post" alt="Ragnarok" itemprop="image" /></a><h2><a href="http://www.mediamikes.com/2014/11/enter-to-win-a-blu-ray-combo-of-ragnarok/">Enter to Win a Blu-ray Combo of &#8220;Ragnarok&#8221;</a></h2><p>This giveaway will remain open until November 28th</p>
+</div><p class="more-from-category"><a href="http://www.mediamikes.com/category/giveaways/" title="Giveaways">More Giveaways...</a></p></div></div>
+<div id="text-20" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><center><a href="https://www.etsy.com/shop/greymachine" target="greymachine"><img src="http://www.mediamikes.com/wp-content/uploads/2014/07/greymachine.jpg" border="0" alt="greymachine"></a></center></div>
+		</div></div>
+<div id="sidebar-bottom">
+
+	<div id="sidebar-bottom-left">
+		<div id="text-16" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-4060276547272235";
+/* 160x600 */
+google_ad_slot = "0053067364";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div>
+	</div><!-- end #sidebar-bottom-left -->
+	
+	<div id="sidebar-bottom-right">
+		<div id="text-19" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=movmik-20&o=1&p=29&l=ur1&category=gift_certificates&banner=14RFZN99KWC9ZBXB4382&f=ifr" width="120" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+		</div></div>
+	</div><!-- end #sidebar-bottom-right -->
+
+</div><!-- end #sidebar-bottom --></div></div></div><div id="footer" class="footer"><div class="wrap"><div class="creds"><p>Copyright: <a href="http://www.mediamikes.com/" title="Media Mikes">Media Mikes</a> &copy; 2014 &middot; Powered by: <a href="http://www.ngeneyes.com/" target="_blank" title="nGeneYes, Inc.">nGeneYes, Inc.</a> &middot; <a href="http://www.mediamikes.com/admin" title="Login"> Login </a></p></div><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to Top</a></p></div></div></div></div><!-- Quantcast Tag -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+  var elem = document.createElement('script');
+  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+  elem.async = true;
+  elem.type = "text/javascript";
+  var scpt = document.getElementsByTagName('script')[0];
+  scpt.parentNode.insertBefore(elem, scpt);
+  })();
+
+  _qevents.push({
+  qacct:"p-b4B_W2St_t-xo"
+  });
+</script>
+
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-b4B_W2St_t-xo.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+<!-- End Quantcast tag --><script type='text/javascript' src='http://www.mediamikes.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.4'></script>
+<script type='text/javascript' src='http://www.mediamikes.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.mediamikes.com/wp-content/themes/genesis/lib/js/menu/superfish.compat.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='http://www.mediamikes.com/wp-content/plugins/cart66/js/cart66-library.js?ver=1.5.2'></script>
+</body>
+</html>
