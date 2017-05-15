@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!-- Mobile Specific ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+
+    <!-- Title Tag ======================================================== -->
+    <title>Page not found | Geekadelphia</title>
+
+    <!-- Browser Specical Files =========================================== -->
+    <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->  
+    <!--[if lt IE 9]> <link rel='stylesheet' id=''  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/ie8.css' type='text/css' media='all' /><![endif]--> 
+
+    <!-- Site Favicon ===================================================== -->
+    <link rel="shortcut icon" href="http://www.geekadelphia.com/wp-content/uploads/2013/07/favicon.png" title="Favicon" />
+        
+    <!-- WP HEAD ========================================================== -->
+    
+<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<link rel="alternate" type="application/rss+xml" title="Geekadelphia &raquo; Feed" href="http://www.geekadelphia.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Geekadelphia &raquo; Comments Feed" href="http://www.geekadelphia.com/comments/feed/" />
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://www.geekadelphia.com/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://www.geekadelphia.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='st_style-css'  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/style.css?ver=2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/css/font-awesome.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ddsmoothmenu-css'  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/css/ddsmoothmenu.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/css/flexslider.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/css/responsive.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_css-css'  href='http://www.geekadelphia.com/wp-content/themes/magazon-wp/custom.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/www.geekadelphia.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"http:\/\/www.geekadelphia.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"","level":"3","clauses":"YTo0OntzOjI6IldDIjtzOjE3OToiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDY0KSkpIEFORCAoc2EuYWRfY2F0cyA9IDApICBBTkQgKHNhLmFkX2F1dGhvcnMgPSAwKSAgICAgICAiO3M6MzoiV0NUIjtzOjM2MjoiIEFORCBJRihzYS5hZF9zY2hlZHVsZSwgQ1VSREFURSgpIEJFVFdFRU4gc2EuYWRfc3RhcnRfZGF0ZSBBTkQgc2EuYWRfZW5kX2RhdGUsIFRSVUUpIEFORCBJRihzYS5saW1pdF9oaXRzLCBzYS5oaXRzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAwKSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2NsaWNrcywgc2EuY2xpY2tzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAxKSwgVFJVRSkiO3M6MzoiV0NXIjtzOjgwOiIgQU5EIElGKHNhLmFkX3dlaWdodCA+IDAsIChzYS5hZF93ZWlnaHRfaGl0cyoxMC8oc2EuYWRfd2VpZ2h0KjEwMDApKSA8IDEsIEZBTFNFKSI7czo0OiJXQzJXIjtzOjIyOiJBTkQgKHNhLmFkX3dlaWdodCA+IDApIjt9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.2.80'></script>
+<link href='http://fonts.googleapis.com/css?family=Monda:regular,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+
+body{ 
+    font-family: 'Monda'; 
+                    font-size: 14px;
+            line-height: 24px;
+            
+}
+</style>
+<link href='http://fonts.googleapis.com/css?family=Armata:regular&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+
+.post-title,.widget-post-title{ 
+    font-family: 'Armata'; 
+        font-style: normal;
+            font-style: normal;
+            font-weight: normal;
+                    
+}
+</style>
+<link href='http://fonts.googleapis.com/css?family=Armata:regular&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+
+.st-category-heading,.category .page-title,.search .page-title,.archive .page-title{ 
+    font-family: 'Armata'; 
+        font-style: normal;
+            font-style: normal;
+            font-weight: normal;
+                    
+}
+</style>
+    
+    <style type="text/css">
+      /************** Predefined Colors ********************/
+        .primary-nav ul li a:hover,.primary-nav ul li.current-menu-item > a,.primary-nav ul li a:hover,.primary-nav ul li.current-menu-item > a,.carousel-post-meta,.read-more-button,.list-tabbed li.list-tabbed-active a,table#wp-calendar thead > tr > th,table#wp-calendar td#today,.carousel-wrapper .flex-direction-nav .flex-prev:hover,.carousel-wrapper .flex-direction-nav .flex-next:hover,.subs_submit:hover,.tagcloud a:hover,.author-text b,#submit,.page-tags a:hover,.categories a,.thumb-slider-wrapper .flex-direction-nav .flex-next:hover,.thumb-slider-wrapper .flex-direction-nav .flex-prev:hover,.review-score-over, .review-total-score-wrapper .right,.inside-post-slider .flex-direction-nav .flex-next:hover,.inside-post-slider .flex-direction-nav .flex-prev:hover,.inside-post-slider .flex-control-nav li a.flex-active,.inside-post-slider .flex-control-nav li a:hover,.btn.color,.btn:hover,.tab-title li.current,.acc-title-active,.acc-title:hover,.toggle-title:hover,.toggle_current,.st-pagination .page-current,.st-pagination li a:hover,.carousel-next:hover,.carousel-prev:hover,.content input[type=submit], .bg_color:hover, .button, a.button, .page-numbers.current{
+   background-color: #64a6a0;
+   -webkit-transition: all .2s linear;
+   -moz-transition: all .2s linear;
+   -o-transition: all .2s linear;
+   transition: all .2s linear;
+}
+.footer-wrapper li.widget-post-wrapper:hover .widget-post-thumb img,.flickr_badge_image a img:hover{
+    border: 1px solid #64a6a0;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear;
+}
+    </style>
+    <style type="text/css">body {background:  #b5c8c2 url(http://www.geekadelphia.com/wp-content/uploads/2013/07/bg-skylinebymikey1.jpg)  center center no-repeat  fixed ; }</style><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11673566-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://www.geekadelphia.com/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=59" />
+		</head>
+<body class="error404">
+    <div class="body-outer-wrapper">
+        <div class="body-wrapper boxed-mode">
+            <div class="header-outer-wrapper b30">
+                <div class="top-nav-outer-wrapper">
+                    <div class="top-nav-wrapper container">
+                        <div class="row">
+                            <a href="#" id="top-nav-mobile" class="top-nav-close">
+                                <span></span>
+                            </a>
+                            <div class="top-nav-left">
+                                <nav id="top-nav-id" class="top-nav slideMenu">
+                                    <ul id="menu-top-menu" class="menu"><li id="menu-item-29358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29358"><a href="http://www.geekadelphia.com/about/">About</a></li>
+<li id="menu-item-29357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29357"><a href="http://www.geekadelphia.com/contact/">Contact</a></li>
+<li id="menu-item-29365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29365"><a target="_blank" href="http://www.phillygeekawards.com">Philly Geek Awards</a></li>
+</ul>                                </nav>
+                            </div>                            
+                            <div class="top-nav-right text-right right">
+                               
+								
+                                
+                                
+                                 <div class="social-block right">
+                                    <ul>
+                                                                                                                        <li><a class="icon-facebook"  target="_blank"  href="http://www.facebook.com/geekadelphia" title="Facebook"></a></li>
+                                        
+<!--
+                                                                                <li><a class="icon-google-plus"  target="_blank"  href="#" title="Google Plus"></a></li>
+                                         -->
+
+
+                                                                                 <li><a class="icon-twitter"  target="_blank"  href="http://www.twitter.com/geekadelphia" title="Twitter"></a></li>
+                                        <!--
+                                                                                 <li><a class="icon-linkedin"  target="_blank"  href="#" title="Linkedin"></a></li>
+                                                                                    -->
+                                         
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+                            
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div> <!-- END .top-nav-outer-wrapper -->
+                <div class="logo-outer-wrapper">
+                    <div class="logo-wrapper container">
+                        <div class="row">
+                            <div class="twelve columns">
+                                                                <div class="logo-left" style="padding:30px 0px 30px 0px">
+                                    <h1>
+                                      <a href="http://www.geekadelphia.com">
+                                                                            <img src="http://www.geekadelphia.com/wp-content/uploads/2013/07/header.png" alt="Logo"></a>
+                                                                            </a>
+                                    </h1>
+                                </div>
+                                <div class="logo-right-widget right">
+                                    <div class="logo-right-ads">
+                                                                            </div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div> <!-- END .logo-outer-wrapper -->
+
+                <div class="primary-nav-outer-wrapper">
+                    <div class="primary-nav-wrapper container">
+                        <div class="row">
+                            <div class="twelve columns nav-wrapper">
+                                <a href="#" id="primary-nav-mobile-a" class="primary-nav-close">
+                                    <span></span>
+                                    Navigation                                </a>
+                                <nav id="primary-nav-mobile"></nav>
+
+                                <nav id="primary-nav-id" class="primary-nav slideMenu">
+                                    <ul id="menu-global-menu" class="menu"><li id="menu-item-40315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40315"><a href="http://www.geekadelphia.com/category/art/">Arts</a></li>
+<li id="menu-item-40310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40310"><a href="http://www.geekadelphia.com/category/comic-books/">Comics</a></li>
+<li id="menu-item-40309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40309"><a href="http://www.geekadelphia.com/category/events/">Events</a></li>
+<li id="menu-item-40311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40311"><a href="http://www.geekadelphia.com/category/gaming/">Gaming</a></li>
+<li id="menu-item-40317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40317"><a href="http://www.geekadelphia.com/category/movies/">Movies</a></li>
+<li id="menu-item-40313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40313"><a href="http://www.geekadelphia.com/category/interviews/">Q&#038;A&#8217;s</a></li>
+<li id="menu-item-40312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40312"><a href="http://www.geekadelphia.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-40598" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40598"><a href="http://www.geekadelphia.com/category/science/">Science</a></li>
+<li id="menu-item-40610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40610"><a href="http://www.geekadelphia.com/category/tech/">Tech</a></li>
+<li id="menu-item-40318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40318"><a href="http://www.geekadelphia.com/category/philly-geek-awards/">Philly Geek Awards</a></li>
+</ul>                                    <div class="clear"></div>
+                                </nav>
+                                                                <form id="nav-searchform" method="get" action="http://www.geekadelphia.com">
+                                        <div class="iw">
+                                        	<input type="submit" value="Search" class="search-submit">
+                                        	<input type="text" name="s" value="" placeholder="SEARCH..." class="s closed">
+                                        	
+                                        </div>
+                                    </form>   
+                                                                
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div><!-- END .primary-nav-outer-wrapper -->
+            </div> <!-- END .header-outer-wrapper-->
+            
+            
+            
+            <div class="main-outer-wrapper mt30">
+			    <div class="main-wrapper container">
+			        <div class="row row-wrapper">
+			            <div class="page-wrapper twelve columns b0">
+			                <div class="row">
+            
+            
+            
+            
+            
+            
+            <div class="page-wrapper twelve columns right-sidebar b0">
+    
+    <div class="row">
+        <div class="content-wrapper eight columns b0">
+            <div class="content clearfix">
+    <div class="row t30">
+        <div class="six columns text-center b0">
+            <div class="class-404">
+                404            </div>
+        </div>
+        <div class="six columns b0">
+            <h1>Oops, Page not found.</h1>
+            <p>
+                 We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of these options:                </p>
+                <ul class="normal-list">
+                    <li><a href="http://www.geekadelphia.com" title="">Go to homepage</a></li>
+                </ul>
+            <p></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>        </div>
+         
+        <div class="right-sidebar-wrapper four columns b0">
+            <div class="right-sidebar sidebar">
+                <div id="stsocialsconnect-2" class="widget-container widget_stsocialsconnect">        <div class="connect-widget-wrapper">
+                <h3 class="connect-widget-title">Be the first to get updates regarding the Philly Geek Awards, movie screenings, and more!</h3>
+                <div class="connect-widget-form">
+                    <p></p>
+                    
+                    
+                                      
+                   <form id="subscribe_form" action="http://geekadelphia.us7.list-manage.com/subscribe/post?u=3d17b0507a11f91169b97ab60&#038;id=2965d86c4d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="" target="_blank" novalidate>
+					 					 
+					  
+					 <input type="text" value="" name="EMAIL" class="subs_input" id="mce-EMAIL" placeholder="Your Email Address..." required="true">
+					  <input type="submit" name="subscribe" value="Subscribe" class=" subs_submit">
+				 </form>
+				 					                   
+                   
+                    
+                </div>
+                <div class="connect-widget-social">
+                    <a class="connect-rss" href=""><strong>RSS</strong>Subscribe</a>
+                                         <a class="connect-twitter" twitter-id="geekadelphia" one-text="Follower" plural-text="Followers" href="https://twitter.com/geekadelphia">
+                        <strong class="num"></strong>
+                        <span class="txt"></span>
+                    </a>
+                                                            <a class="connect-facebook last" facebook-id="geekadelphia" one-text="Like" plural-text="Likes" href="https://www.facebook.com/geekadelphia">
+                        <strong class="num"></strong>
+                        <span class="txt"></span>
+                    </a>
+                                        
+                </div>
+            </div>
+        </div><div id="simple_ads_manager_widget-2" class="widget-container simple_ads_manager_widget"><div id='c5095_3_11' class='sam-container sam-place' data-sam='0'><a  id='a57_3' class='sam_ad' href='http://www.thetroc.com/events/' target='_blank' ><img src='http://www.geekadelphia.com/wp-content/uploads/2014/11/geek_troc_300by250_v2.gif'  alt=''  /></a></div></div><div id="simple_ads_manager_ad_widget-2" class="widget-container simple_ads_manager_ad_widget"><div id='c5835_4_12' class='sam-container sam-ad'><a  id='a5835_4' class='sam_ad' href='http://filmadelphia.org/events/trek35/' target='_blank' ><img src='http://www.geekadelphia.com/wp-content/uploads/2014/11/AD.jpg'  /></a></div></div><div id="text-22" class="widget-container widget_text">			<div class="textwidget"><p style="text-align: center;">
+	<a href="http://www.azukatheatre.org"><img class="aligncenter wp-image-58820" src="http://www.geekadelphia.com/wp-content/uploads/2014/10/Azuka-Theatre_Geekadelphia_300x250.jpg" alt="azuka ad" width="299" height="119" /></a>
+</p>
+<p style="text-align: center;">
+	<a href="http://www.clusterpuck99.com?ref=geekadelphia"><img class="aligncenter size-full wp-image-50113" alt="Clusterpuck99" src="http://www.geekadelphia.com/wp-content/uploads/2014/07/clusterpuck99.png" width="300" height="250" /></a>
+</p>
+<p style="text-align: center;">
+	<a target="_blank" href="http://www.adam12thebook.com?ref=geekadelphia"><img class="aligncenter size-full wp-image-47670" style="border: 1px solid black;" alt="adam" src="http://www.geekadelphia.com/wp-content/uploads/2014/02/adam.jpg" width="300" height="225" />
+</a>
+</p>
+<p style="text-align: center;">
+	<a href="http://www.thesixerscave.com?ref=geekadelphia"><img class="aligncenter size-full wp-image-48730" alt="Sixers-Cave-Ad-001" src="http://www.geekadelphia.com/wp-content/uploads/2014/03/Sixers-Cave-Ad-001.jpg" width="300" height="250" /></a>
+</p>
+<p style="text-align: center;">
+	<a target="_blank" href="http://www.thehacktory.org?ref=geekadelphia"><img class="aligncenter size-full wp-image-34710" title="GeekAd11.9" src="http://geekadelphia.com/wp-content/uploads/2012/11/GeekAd11.9.jpg" alt="" width="300" height="225" /></a>
+</p>
+<p style="text-align: center;">
+	<a target="_blank" href="http://firstpersonarts.org/category/podcast/?ref=geekadelphia"><img class="aligncenter size-full wp-image-41655" alt="TipSheet_Podcast1" src="http://www.geekadelphia.com/wp-content/uploads/2013/07/TipSheet_Podcast1.jpg" width="300" height="250" /></a>
+</p></div>
+		</div><div id="text-7" class="widget-container widget_text"><h3 class="widgettitle">Like Geekadelphia?</h3>			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fgeekadelphia&amp;width=300&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:258px;" allowTransparency="true"></iframe></div>
+		</div><div id="text-25" class="widget-container widget_text"><h3 class="widgettitle">Follow Us</h3>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/geekadelphia" data-widget-id="346829656672063488">Tweets by @geekadelphia</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</div><div id="text-9" class="widget-container widget_text"><h3 class="widgettitle">Blog Ads</h3>			<div class="textwidget"><center><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/323608383/feed.css" />
+<script language="javascript" src="http://cache.blogads.com/323608383/feed.js"></script><br/></center></div>
+		</div><div id="text-24" class="widget-container widget_text"><h3 class="widgettitle">Friends</h3>			<div class="textwidget"><a href="http://www.215mag.com/">215 Magazine</a> / <a href="http://drinkphilly.com">DrinkPhilly</a> / <a href="http://femmeandfortune.com/">Femme &amp; Fortune</a> / <a title="Foobooz" href="http://foobooz.com/">Foobooz</a> / <a title="Food In Jars, our pal Marisa" href="http://www.foodinjars.com/">Food In Jars</a> / <a href="http://www.visitphilly.com">GPTMC</a> / <a title="MakePhilly!" href="http://www.makephilly.com/">MakePhilly</a> / <a title="Overheard in Philly" href="http://overheardinphilly.blogspot.com/">Overheard in Philly</a> / <a title="Phawker" href="http://www.phawker.com/">Phawker</a> / <a title="Philadelphia Weekly" href="http://philadelphiaweekly.com/">Philadelphia Weekly</a> / <a title="Philebrity" href="http://www.philebrity.com/">Philebrity</a> / <a title="Philly Chit Chat!" href="http://phillychitchat.blogspot.com/">Philly Chit Chat</a>  / <a href="http://phillylovenotes.com">Philly Love Notes</a> / <a href="http://philly-ism.com/">Philly-ism</a> /  <a href="http://www.polygon.com/">Polygon</a> / <a href="http://www.shmittenkitten.com/">Shmitten Kitten</a> / <a href="http://streetsdept.com">Streets Dept</a> /  <a href="http://technicallyphilly.com/">Technically Philly</a> / <a title="Philly’s awesome sports blog" href="http://www.the700level.com/">The 700 Level</a> / <a title="Pop Culture and Humor, Philly Style" href="http://www.usedwigs.com/">Used Wigs</a> / <a href="http://www.uwishunu.com/">Uwishunu</a></div>
+		</div>                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+   
+</div>
+
+
+              </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div> <!-- END .main-outer-wrapper -->
+
+
+<div class="footer-outer-wrapper">
+                            <div class="footer-wrapper container">
+                    <div class="row">
+                    	<div class="three columns">
+                        	<div id="calendar-3" class="widget-container widget_calendar"><h3 class="widgettitle footer_widgettitle">Calendar</h3><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>November 2014</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://www.geekadelphia.com/2014/10/">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="5" class="pad">&nbsp;</td><td>1</td><td>2</td>
+	</tr>
+	<tr>
+		<td><a href="http://www.geekadelphia.com/2014/11/03/" title="Geeks on Film: The Week in Film Screenings [Events], Interview with Vikram Paralkar Author of The Afflictions from Lanternfish Press; Book Launch Party Wednesday @ the Mütter Museum, Win a Pair of Tickets to I Am Santa Claus [Contest], Video Games Re-Imagined Returns to the University of the Arts, Geekadelphia Night @ the Azuka Theatre: Sherlock, Computers, and Prizes from Lanternfish Press on November 13th, Weekly Kickstarter: DinosaurChannel.TV">3</a></td><td><a href="http://www.geekadelphia.com/2014/11/04/" title="Comic Roundup: Rasputin, Southern Bastards, Geeks on Film: Maleficent [Blu-ray Review], Geeks on Film: The Doctor and the Devils [Review], Super Smash Bros. N64 Tournament Coming to Sto&#8217;s Bar">4</a></td><td><a href="http://www.geekadelphia.com/2014/11/05/" title="Win Run of Engagement Passes for Interstellar [Contest], Event. Charity Event. Pyramid of Solace: A Bond-Themed Night of Fortune and Mystery">5</a></td><td><a href="http://www.geekadelphia.com/2014/11/06/" title="Nintendo Airstream Tour 2014: This Season&#8217;s Upcoming Toys and Video Games, Storytelling Block Parties Featuring the Philadelphia Public History Truck, Watch This: Running the Gammatar by Local Filmmaker Joe Kramer, Geekend Picks: Coffee and Tea Festival, Cuisine from the Collections: Chocolate Edition, Alton Brown Live, Philly Zine Fest 2014">6</a></td><td><a href="http://www.geekadelphia.com/2014/11/07/" title="#PFF23: Geeks on Film: Big Hero 6 [Review], OldStyle: Classical Meets Electronic Remix from Brother/Sister Duo">7</a></td><td>8</td><td>9</td>
+	</tr>
+	<tr>
+		<td><a href="http://www.geekadelphia.com/2014/11/10/" title="Geeks on Film: The Week in Film Screenings [Events], Azuka Theatre&#8217;s The (Curious Case of the) Watson Intelligence [Review], The Philadelphia Asian American Film Festival Takes Over the IHP Starting Wednesday!, Final TireFire Reading of 2014 @ Tattooed Mom This Thursday, Win a PAIR of RSVP Seats to an Advance Screening of The Theory of Everything [Contest]">10</a></td><td><a href="http://www.geekadelphia.com/2014/11/11/" title="Comic Roundup: Deep State, Comics News and Events, Get Passes to an Advance Screening of Dumb and Dumber To [Contests], State of Young Philly: Come to the #MeetPhilly Leaders Meetup!, The Silence of Six by E.C. Myers: Out Now [And a Giveaway!]">11</a></td><td><a href="http://www.geekadelphia.com/2014/11/12/" title="Check This Out: Woodcut Maps from Philly Love Notes, PAAFF 2014: Geeks on Film: A Leading Man [Review], Geeks on Film: Interstellar [Review], BarCamp Philly Number 7 Is This Saturday!">12</a></td><td><a href="http://www.geekadelphia.com/2014/11/13/" title="Interview with Jad Abumrad, Co-Host of Radiolab, &lt;del&gt;at Keswick Theatre next Week For &#8220;Embracing the Gut Churn&#8221;&lt;/del&gt;, Tell Me A Story presents “&#8217;Tis the Season” On November 19, Geekend Picks: PAAFF14, MEPACON, BarCamp Philly, Baltimore Rock Opera Society Bringing the Electric Pharaoh to Philly">13</a></td><td><a href="http://www.geekadelphia.com/2014/11/14/" title="Celebrate the Release of Nicolas Esposito&#8217;s Kensington Homestead @ Johnny Brenda&#8217;s, PAAFF 2014: Geeks on Film: Uzumasa Limelight [Review]">14</a></td><td>15</td><td>16</td>
+	</tr>
+	<tr>
+		<td><a href="http://www.geekadelphia.com/2014/11/17/" title="Geeks on Film: The Week in Film Screenings [Events], State of Young Philly Makers&#8217; Mixer @ The Philadelphia Art Alliance, The Philadelphia Film Society &amp; Geekadelphia Presents: Star Trek &#8211; 35 Years On 35mm: A Retrospective, Movie Movie Live: PhilaMOCA Hosting Interactive Comedy Game Show with a Nicolas Cage Theme, Weekly Kickstarter: The Big Bang Project by Ezra Masch">17</a></td><td><a href="http://www.geekadelphia.com/2014/11/18/" title="Comic Roundup: All New Captain America, Miles Morales, Superior Iron Man, TBA Con 4: BBC Burlesque at PhilaMOCA, Play RTO+P&#8217;s TuB Gin Racer Game for the next Two Days Only, South Fellini Hosting Black (Light) Friday Art Show @ Tattooed Mom">18</a></td><td><a href="http://www.geekadelphia.com/2014/11/19/" title="Geek of the Week: Christine Cox, Creative &amp; Executive Director of BalletX, 2014 Philadelphia Bacon And Beer Festival Is Coming December 6">19</a></td><td><a href="http://www.geekadelphia.com/2014/11/20/" title="Philadelphia Center for Architecture Launching Free Exhibit Full of LEGO, K&#8217;NEX, &amp; OMG Why Aren&#8217;t We There Right Now?!, Help Apiary Raise $500 By Thanksgiving, And We&#8217;ll Match It, Mystery Science Theater 3000 Turkey Day Stream, Geekend Picks: BalletX, Rocky Horror @ the Ritz, Book Paper Scissors, &amp; More">20</a></td><td><a href="http://www.geekadelphia.com/2014/11/21/" title="Talking Mockingjay &#8211; Part 1 with Willow Shields AKA Primrose Everdeen [Interview], Dinosaur Days @ The Academy Of Natural Sciences November 28-30">21</a></td><td>22</td><td>23</td>
+	</tr>
+	<tr>
+		<td id="today"><a href="http://www.geekadelphia.com/2014/11/24/" title="Geeks on Film: The Week in Film Screenings [Events], Geeks on Film: The Hunger Games: Mockingjay &#8211; Part 1, BarCamp Philly 7: Mission Accomplished, Weekly Kickstarter: The Comicverse by Awakening Comics, Thanks to a Drexel Professor, You Can Learn to Program with LocoRobo">24</a></td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+	</tr>
+	</tbody>
+	</table></div></div>                        </div>
+                        <div class="three columns">
+                          	<div id="nav_menu-4" class="widget-container widget_nav_menu"><h3 class="widgettitle footer_widgettitle">Staff</h3><div class="menu-author-menu-1-container"><ul id="menu-author-menu-1" class="menu"><li id="menu-item-41234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41234"><a href="http://www.geekadelphia.com/author/eric/">Eric Smith (Co-Founder)</a></li>
+<li id="menu-item-41254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41254"><a href="http://www.geekadelphia.com/author/timmyq/">Tim Quirino (Co-Founder)</a></li>
+<li id="menu-item-46242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46242"><a href="http://www.geekadelphia.com/author/mikey-il">Mikey Il (Editor-in-Chief)</a></li>
+<li id="menu-item-41238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41238"><a href="http://www.geekadelphia.com/author/chris-urie/">Chris Urie (Associate Editor)</a></li>
+<li id="menu-item-41240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41240"><a href="http://www.geekadelphia.com/author/dan/">Dan Tabor (Arts &#038; Entertainment Editor)</a></li>
+<li id="menu-item-41236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41236"><a href="http://www.geekadelphia.com/author/bianca/">Bianca Cevoli</a></li>
+<li id="menu-item-41237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41237"><a href="http://www.geekadelphia.com/author/chris-cummins/">Chris Cummins</a></li>
+<li id="menu-item-41241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41241"><a href="http://www.geekadelphia.com/author/christian/">Christian Johnson</a></li>
+<li id="menu-item-41239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41239"><a href="http://www.geekadelphia.com/author/colleen/">Colleen Reese</a></li>
+</ul></div></div>                        </div>
+                        <div class="three columns">
+                            <div id="nav_menu-5" class="widget-container widget_nav_menu"><h3 class="widgettitle footer_widgettitle">Staff</h3><div class="menu-author-menu-2-container"><ul id="menu-author-menu-2" class="menu"><li id="menu-item-46243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46243"><a href="http://www.geekadelphia.com/author/david-goodman/">David Goodman</a></li>
+<li id="menu-item-54342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54342"><a href="http://www.geekadelphia.com/author/david-goodman">Dustin</a></li>
+<li id="menu-item-46240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46240"><a href="http://www.geekadelphia.com/author/jo-pincushion/">Jo Pincushion</a></li>
+<li id="menu-item-46241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46241"><a href="http://www.geekadelphia.com/author/justin-mummert/">Justin Mummert</a></li>
+<li id="menu-item-41257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41257"><a href="http://www.geekadelphia.com/author/mary/">Mary Brickthrower</a></li>
+<li id="menu-item-46239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46239"><a href="http://www.geekadelphia.com/author/michelle/">Michelle Cryder</a></li>
+<li id="menu-item-41258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41258"><a href="http://www.geekadelphia.com/author/mike/">Mike Fenn</a></li>
+<li id="menu-item-41260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41260"><a href="http://www.geekadelphia.com/author/nicole-kline/">Nicole Kline</a></li>
+<li id="menu-item-41261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41261"><a href="http://www.geekadelphia.com/author/robby-perdue/">Robby Perdue</a></li>
+</ul></div></div>                        </div>
+                        <div class="three columns">
+                         <div id="nav_menu-3" class="widget-container widget_nav_menu"><h3 class="widgettitle footer_widgettitle">Get Involved</h3><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-41188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41188"><a href="http://www.geekadelphia.com/about/">About</a></li>
+<li id="menu-item-41189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41189"><a href="http://www.geekadelphia.com/category/events/">Events</a></li>
+<li id="menu-item-41186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41186"><a href="http://www.geekadelphia.com/press/">Press</a></li>
+<li id="menu-item-41185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41185"><a href="http://www.geekadelphia.com/advertising/">Advertising</a></li>
+<li id="menu-item-41244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41244"><a href="http://www.phillygeekawards.com">Philadelphia Geek Awards</a></li>
+<li id="menu-item-41187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41187"><a href="http://www.geekadelphia.com/contact/">Contact</a></li>
+</ul></div></div>                        </div>
+                        <div class="clear"></div>    
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                
+                
+                <div class="copyright-outer-wrapper">
+                    <div class="copyright-wrapper container">
+                        <div class="row clearfix">
+                            <div class="copyright-left left b20">
+                                                            	<nav class="footer-nav">
+                            		<ul id="menu-footer-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41188"><a href="http://www.geekadelphia.com/about/">About</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41189"><a href="http://www.geekadelphia.com/category/events/">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41186"><a href="http://www.geekadelphia.com/press/">Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41185"><a href="http://www.geekadelphia.com/advertising/">Advertising</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41244"><a href="http://www.phillygeekawards.com">Philadelphia Geek Awards</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41187"><a href="http://www.geekadelphia.com/contact/">Contact</a></li>
+</ul>                            	</nav>
+                                                            </div>
+                                                        <div class="copyright-right right b20 text-right">
+                            	&copy; 2007 - 2014 Geekadelphia / Analog Boys LLC. All Rights Reserved.                             </div>
+                                                        <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div> <!-- END .body-wrapper -->
+    </div> <!-- END .body-outer-wrapper -->
+    
+<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+	<div style="display:none">
+	</div>
+<div id="sttotop" class="bg_color"><i class="icon-angle-up"></i></div><script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/js/jquery.fitvids.js?ver=2.3'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/js/jquery.flexslider.js?ver=2.3'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/js/ddsmoothmenu.js?ver=2.3'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/js/jquery.carouFredSel-6.2.0-packed.js?ver=6.0.2'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/js/jquery.imagesloaded.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='http://www.geekadelphia.com/wp-content/themes/magazon-wp/assets/js/custom.js?ver=2.3'></script>
+
+	<script src="http://stats.wordpress.com/e-201448.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.8.2',blog:'2215301',post:'0',tz:'-5'});
+	var load_cmc = function(){linktracker_init(2215301,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+<meta name="Description" content="Error 403 page for LA Observed, covering Los Angeles media, politics, books and sense of place since 2003.">
+<meta name="Keywords" content="LA Observed, Los Angeles, advertising, video, links, books, business, finance, media, news, politics, blogs, Kevin Roderick, earthquakes, seismology, emergencies">
+<title>LA Observed error 403</title>
+<link rel="stylesheet" href="http://www.laobserved.com/LAOmodules/laostylesnew.css" type="text/css" />
+</head>
+
+<body>
+<div id="Pages">
+<center>
+<div id="Holder">
+
+
+<div id="header">
+<div class="headertry">
+<a href="http://www.laobserved.com">
+<img src="http://www.laobserved.com/laologonew84high.gif" border=0 align=left valign=center alt="LA Observed: Los Angeles media, politics and sense of place since 2003"></a>
+</div>
+
+<div class="bannerdate">
+<script language="JavaScript">
+// -- made by A1javascripts.com, please keep these credits when using this script
+    days = new Array(7)
+    days[1] = "Sunday";
+    days[2] = "Monday";
+    days[3] = "Tuesday"; 
+    days[4] = "Wednesday";
+    days[5] = "Thursday";
+    days[6] = "Friday";
+    days[7] = "Saturday";
+    months = new Array(12)
+    months[1] = "January";
+    months[2] = "February";
+    months[3] = "March";
+    months[4] = "April";
+    months[5] = "May";
+    months[6] = "June";
+    months[7] = "July";
+    months[8] = "August";
+    months[9] = "September";
+    months[10] = "October"; 
+    months[11] = "November";
+    months[12] = "December";
+    today = new Date(); day = days[today.getDay() + 1]
+    month = months[today.getMonth() + 1]
+    date = today.getDate()
+    year=today.getYear(); 
+if (year < 2000)
+year = year + 1900;
+    document.write (day + " " + month + " " + date + ", " + year + "</font>")
+    // -- end hiding 
+    </script>
+</div>
+
+<div class="searchtry">
+<form method="get" action="http://www.laobserved.com/scgi-bin/MT/mt-search.cgi">
+<input type="image" src="http://www.laobserved.com/searchbutton.gif" value="" />
+<input id="search" name="search" size="20" />
+<input type="hidden" name="IncludeBlogs" value="1" />
+</form>
+</div>
+
+<div class="bannercontents">
+<a href="http://www.laobserved.com">Front page</a>
+&#149;
+<a href="http://www.laobserved.com/biz">LA Biz</a>
+&#149;
+<a href="http://www.laobserved.com/pages/media.php">Media</a>
+&#149;
+<a href="http://www.laobserved.com/pages/politics.php">Politics</a>
+&#149;
+<a href="http://www.laobserved.com/pages/books.php">Books</a>
+&#149;
+<a href="http://www.laobserved.com/blogs.php">Our blogs</a>
+&#149;
+<a href="http://www.laobserved.com/contributors.php">Authors</a>
+&#149;
+<a href="http://www.laobserved.com/links.php">Links</a>
+&#149;
+<a href="http://www.laobserved.com/archives.php">Archive</a>
+&#149;
+<a href="http://www.laobserved.com/about.php">About</a>
+</div>
+
+</div>
+
+<div id="Contentpages">
+
+<div class="pagelabels">
+<img src="http://www.laobserved.com/sorry.gif" border=0 alt="Sorry!">
+</div>
+
+<div class="pagebody">
+
+<p>You have tried to view an LA Observed page that is temporarily unavailable or does not exist.</p>
+
+<p>Some older posts have been renamed. If the page name you want ends in <i>.html</i>, change the ending to <i>.php</i> and you will likely get the page you seek. If that doesn't work, visit the <a href="http://www.laobserved.com">front page</a> or the <a href="http://www.laobserved.com/archives.php">archive</a>. </p> 
+
+<p>If those pages aren't working either, there may be a momentary problem with the site's server. Try again shortly. If the problem persists, please email us at editor@laobserved.com.</p>
+
+<p>Thanks for visiting!</p>
+
+
+</div> <! -- closes pagebody >
+
+</div> <! -- closes contentpages >
+
+
+<div id="Centercolumnpages">  
+<?php include "http://www.laobserved.com/LAOmodules/centercolumnpages.inc"; ?>
+
+</div>  <! -- Closes centercolumnpages -- >
+
+<div id="rightcolumn">
+
+<div class="adcolumn">
+<?php include "/home/jyrmcnzm/public_html/LAOmodules/laoadcolumn.inc"; ?>
+</div>
+
+</div> <! -- closes rightcolumn >
+
+
+
+</div> 
+
+<div class="bottomline">
+<?php include "/home/jyrmcnzm/public_html/LAOmodules/bottomline.inc"; ?>
+</div>
+
+</center>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2040517-1";
+_udn="laobserved.com"; 
+urchinTracker();
+</script>
+
+</body>
+</html>

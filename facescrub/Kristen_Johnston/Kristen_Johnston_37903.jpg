@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' >
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <title>HTTP1.0/404 Not Found</title>
+    <link rel='stylesheet' href='/style/part2.css' type='text/css' />
+<style type='text/css'>
+  #goog-wm { }
+  #goog-wm h3.closest-match { }
+  #goog-wm h3.closest-match a { }
+  #goog-wm h3.other-things { }
+  #goog-wm ul li { }
+  #goog-wm li.search-goog { display: block; }
+</style>
+</head>
+<body>    
+<div class='top'>
+	<div class='logo'><a href='http://www.listwns.com/'><img src='/images/logo.gif' / alt='listwns.com' /></a></div>
+
+	<div class='nav' id='nav'>
+	<form action='/home/index.aspx' id='side-login' method='post'>
+			<a href='/home/register.aspx'>Join In</a>&nbsp;&nbsp;<a href='/help'>Help</a>&nbsp;&nbsp;
+			<span id='lg'>
+				<label for='username'>Username</label>
+				<input type='text' name='username' id='username' size='15' tabindex='1' />
+				<label for='password'>Password</label>
+
+				<input type='password' name='password' id='password' size='15' tabindex='2' />
+				<label for='remember'>Remember?</label>
+				<input type='checkbox' name='remember' id='remember' tabindex='3' checked='checked' />
+				<input type='submit' name='submit' class='submit' value='   ' style='' tabindex='4' />
+			</span>
+		</form>
+		
+	</div>
+
+</div>
+<br />
+<div class='c'>
+	<div class='lc'>
+		<h1 class='h2'>HTTP1.0/404 Not Found</h1>
+	<b>Suggestions:</b>
+
+    <p>* Check the spelling of the address you typed</p>
+    <p>* If you are still having problems, Please <a href='/help/contact.htm'>Contact Us</a> or <a href='/post/feedback.aspx'>Feed Back</a></p>
+<div class='se'><form action='/post/seek.aspx' method='get' id='form1'>
+		Keyword:<input name='s' type='text' id='s' style='width:279px;padding:5px;' /><input name='t' value='ny' type='hidden' id='t' />
+		<script language='javascript' type='text/javascript'>
+		var l = document.URL.split('/').length;
+		if(l>4)
+		{
+		    document.getElementById('t').value = document.URL.split('/')[l - 3];
+		}
+setInterval('go()',9000) 
+function go()
+{
+
+    var url=document.URL;
+if(url.indexOf('.htm') != -1)
+{
+    var arrUrl = url.split('/');
+    var newUrl='/';
+    for(var i=4;i<arrUrl.length-1;i++)
+    {
+    newUrl += arrUrl[i]+'/';
+    }
+window.location=newUrl;
+}
+else
+{
+window.location='http://www.listwns.com/';
+
+}
+}
+		</script>
+    <input type='submit' name='B1' value='Search' id='B1' style='height:31px;width:99px;' />
+		</form></div>
+<script type='text/javascript'>
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'http://www.listwns.com/';
+</script>
+<script type='text/javascript' 
+    src='http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js'></script>
+	</div>
+</div>
+  
+<div class='foot'>Copyright &copy; 2013 <a href='http://www.listwns.com'>listwns.com</a>  all rights reserved. </div>
+<script type='text/javascript' src='/js/count.js'></script>
+</body>
+
+</html>

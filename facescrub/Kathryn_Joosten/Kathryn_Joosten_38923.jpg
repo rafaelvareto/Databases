@@ -1,0 +1,141 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+    <head>
+        
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+<title>Error - Create Classified Ads</title>
+<meta name="title" content="Error - Create Classified Ads" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="Fri, Jan 01 1970 00:00:00 GMT" />
+
+<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<!-- favicon -->
+<link rel="shortcut icon" href="http://createclassifiedads.com/oc-content/themes/bender/favicon/favicon-48.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://createclassifiedads.com/oc-content/themes/bender/favicon/favicon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://createclassifiedads.com/oc-content/themes/bender/favicon/favicon-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://createclassifiedads.com/oc-content/themes/bender/favicon/favicon-72.png">
+<link rel="apple-touch-icon-precomposed" href="http://createclassifiedads.com/oc-content/themes/bender/favicon/favicon-57.png">
+<!-- /favicon -->
+
+<link href="http://createclassifiedads.com/oc-content/themes/bender/js/jquery-ui/jquery-ui-1.10.2.custom.min.css?66738" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+    var bender = window.bender || {};
+    bender.base_url = 'http://createclassifiedads.com/index.php';
+    bender.langs = {"delete":"Delete","cancel":"Cancel"};
+    bender.fancybox_prev = 'Previous image';
+    bender.fancybox_next = 'Next image';
+    bender.fancybox_closeBtn = 'Close';
+</script>
+<link href="http://createclassifiedads.com/oc-content/themes/bender/css/main.css?28834" rel="stylesheet" type="text/css" />
+<meta name="generator" content="Osclass 3.4.3" /><link href="http://createclassifiedads.com/oc-content/plugins/realestate_attributes/css/style.css" rel="stylesheet" type="text/css" /><link href="http://createclassifiedads.com/oc-content/plugins/jobs_attributes/css/styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascipt" src="http://createclassifiedads.com/freichat/client/main.php?id=0&xhash=3b752f065bd4c20f2323f53b0e21477b"></script>
+	<link rel="stylesheet" href="http://createclassifiedads.com/freichat/client/jquery/freichat_themes/freichatcss.php" type="text/css">
+<meta name="robots" content="noindex, nofollow, noarchive" />
+<meta name="googlebot" content="noindex, nofollow, noarchive" />
+<link href="http://createclassifiedads.com/oc-content/themes/bender/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+<link href="http://createclassifiedads.com/oc-content/themes/bender/css/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="http://createclassifiedads.com/oc-includes/osclass/assets/js/fineuploader/fineuploader.css" rel="stylesheet" type="text/css" />
+<link href="http://createclassifiedads.com/oc-content/themes/bender/css/ajax-uploader.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://createclassifiedads.com/oc-includes/osclass/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://createclassifiedads.com/oc-content/plugins/location_required/jquery.metadata.js"></script>
+<script type="text/javascript" src="http://createclassifiedads.com/oc-content/themes/bender/js/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="http://createclassifiedads.com/oc-includes/osclass/assets/js/date.js"></script>
+<script type="text/javascript" src="http://createclassifiedads.com/oc-includes/osclass/assets/js/fineuploader/jquery.fineuploader.min.js"></script>
+<script type="text/javascript" src="http://createclassifiedads.com/oc-includes/osclass/assets/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://createclassifiedads.com/oc-content/themes/bender/js/global.js"></script>
+    </head>
+<body class="has-searchbox error not-found">
+<div id="header">
+    <div class="wrapper">
+        <div id="logo">
+            <a href="http://createclassifiedads.com/">Create Classified Ads</a>            <span id="description">Free Post Classified Ads</span>
+        </div>
+        <ul class="nav">
+                                                    <li><a id="login_open" href="http://createclassifiedads.com/user/login">Login</a></li>
+                                    <li><a href="http://createclassifiedads.com/user/register">Register for a free account</a></li>
+                                                                <li class="publish"><a href="http://createclassifiedads.com/item/new">Publish your ad for free</a></li>
+                    </ul>
+    </div>
+    </div>
+<div class="wrapper wrapper-flash">
+        </div>
+<div class="wrapper" id="content">
+        <div id="main">
+        <div class="flashmessage-404">
+    <h1>Sorry but I can't find the page you're looking for</h1>
+
+    <p>Let us help you, we have got a few tips for you to find it.</p>
+    <ul>
+        <li>
+            <strong>Search</strong> for it:            <form action="http://createclassifiedads.com/index.php" method="get" class="search"><input type='hidden' name='CSRFName' value='CSRF888657006_1204165915' />
+        <input type='hidden' name='CSRFToken' value='5354ac89dcbeb5a51b19340c736fd853672c4efd075ef79b7be26d025d9701f7fd93195a7959c47f3577238d74a477f8fb61e18b97a91b7e01f32c71a69baf9d' />
+                <input type="hidden" name="page" value="search" />
+                <fieldset class="main">
+                    <input type="text" name="sPattern"  id="query" value="" />
+                    <button type="submit" class="ui-button ui-button-middle">Search</button>
+                </fieldset>
+            </form>
+        </li>
+        <li><strong>Look</strong> for it in the most popular categories.            <div class="categories">
+                                                        <h2><a class="category for-sale" href="http://createclassifiedads.com/for-sale">For sale</a> <span>(0)</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2><a class="category vehicles" href="http://createclassifiedads.com/vehicles">Vehicles</a> <span>(0)</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <h2><a class="category classes" href="http://createclassifiedads.com/classes">Classes</a> <span>(7)</h2>
+                                                                                                                                                                                                                                                                                                            <h3><a class="category tutoring-private-lessons" href="http://createclassifiedads.com/classes/tutoring-private-lessons">Tutoring - Private Lessons</a> <span>(1)</h3>
+                                                                                                                                <h3><a class="category other-classes" href="http://createclassifiedads.com/classes/other-classes">Other Classes</a> <span>(6)</h3>
+                                                                                                                            <h2><a class="category real-estate" href="http://createclassifiedads.com/real-estate">Real estate</a> <span>(1)</h2>
+                                                                                                                        <h3><a class="category houses-apartments-for-sale" href="http://createclassifiedads.com/real-estate/houses-apartments-for-sale">Houses - Apartments for Sale</a> <span>(1)</h3>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2><a class="category services" href="http://createclassifiedads.com/services">Services</a> <span>(4)</h2>
+                                                                                                                                                                                                                                                                                                                                                                        <h3><a class="category health-beauty-fitness" href="http://createclassifiedads.com/services/health-beauty-fitness">Health - Beauty - Fitness</a> <span>(1)</h3>
+                                                                                                                                                                                                                                                                                                                                                                                                                                            <h3><a class="category other-services" href="http://createclassifiedads.com/services/other-services">Other Services</a> <span>(3)</h3>
+                                                                                                                            <h2><a class="category community" href="http://createclassifiedads.com/community">Community</a> <span>(0)</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2><a class="category personals" href="http://createclassifiedads.com/personals">Personals</a> <span>(0)</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2><a class="category jobs" href="http://createclassifiedads.com/jobs">Jobs</a> <span>(2)</h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <h3><a class="category education-training" href="http://createclassifiedads.com/jobs/education-training">Education - Training</a> <span>(1)</h3>
+                                                                                                                                                                                                                                                                                                                    <h3><a class="category internet" href="http://createclassifiedads.com/jobs/internet">Internet</a> <span>(1)</h3>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </div>
+           <div class="clear"></div>
+        </li>
+    </ul>
+</div>
+</div><!-- content -->
+</div>
+<div id="responsive-trigger"></div>
+<!-- footer -->
+<div class="clear"></div>
+<div id="footer">
+    <div class="wrapper">
+        <ul class="resp-toogle">
+                                        <li><a href="http://createclassifiedads.com/user/login">Login</a></li>
+                                    <li>
+                        <a href="http://createclassifiedads.com/user/register">Register for a free account</a>
+                    </li>
+                                                                <li class="publish">
+                <a href="http://createclassifiedads.com/item/new">Publish your ad for free</a>
+            </li>
+                    </ul>
+        <ul>
+                    <li>
+                <a href="http://createclassifiedads.com/contact">Contact</a>
+            </li>
+        </ul>
+        <div>This website is proudly using the <a title="Osclass web" href="http://osclass.org/">classifieds scripts</a> software <strong>Osclass</strong></div>                                <strong>Language:</strong>
+                                    <span><a id="ar_SY" href="http://createclassifiedads.com/language/ar_SY">Arabic</a></span> &middot;                                         <span><a id="zh_CN" href="http://createclassifiedads.com/language/zh_CN">Chinese (China)</a></span>                                        <span><a id="nl_NL" href="http://createclassifiedads.com/language/nl_NL">Dutch</a></span>                                        <span><a id="en_US" href="http://createclassifiedads.com/language/en_US">English (US)</a></span>                                        <span><a id="fr_FR" href="http://createclassifiedads.com/language/fr_FR">French (France)</a></span>                                        <span><a id="de_DE" href="http://createclassifiedads.com/language/de_DE">German</a></span>                                        <span><a id="he_HE" href="http://createclassifiedads.com/language/he_HE">Hebrew</a></span>                                        <span><a id="hu_HU" href="http://createclassifiedads.com/language/hu_HU">Hungarian</a></span>                                        <span><a id="id_ID" href="http://createclassifiedads.com/language/id_ID">Indonesian</a></span>                                        <span><a id="it_IT" href="http://createclassifiedads.com/language/it_IT">Italian</a></span>                                        <span><a id="ja_JA" href="http://createclassifiedads.com/language/ja_JA">Japanese</a></span>                                        <span><a id="no_NO" href="http://createclassifiedads.com/language/no_NO">Norwegian</a></span>                                        <span><a id="pt_BR" href="http://createclassifiedads.com/language/pt_BR">Portuguese (Brazil)</a></span>                                        <span><a id="ru_RU" href="http://createclassifiedads.com/language/ru_RU">Russian</a></span>                                        <span><a id="es_ES" href="http://createclassifiedads.com/language/es_ES">Spanish (Spain)</a></span>                                        <span><a id="th_TH" href="http://createclassifiedads.com/language/th_TH">Thai</a></span>                                        <span><a id="tr_TR" href="http://createclassifiedads.com/language/tr_TR">Turkish</a></span>                                        </div>
+</div>
+    <!-- requrire location -->
+    <script type="text/javascript">
+        $(document).ready(function() {
+	        if( $("form[name=item]").length > 0 ) {
+                $('input[id="region"]').addClass("{required: true, messages: { required: 'Region is required'}}") ;
+                $('input[id="city"]').addClass("{required: true, messages: { required: 'City is required'}}") ;
+	        }
+        }) ;
+    </script>
+    <!-- require location end -->
+	</body></html>

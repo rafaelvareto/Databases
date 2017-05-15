@@ -1,0 +1,1699 @@
+
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="hc_bwsr_ie6 hc_bwsr_lt_ie7 hc_bwsr_lt_ie8 hc_bwsr_lt_ie9 hc_bwsr_lt_ie10"> <![endif]-->
+<!--[if IE 7 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="hc_bwsr_ie7 hc_bwsr_lt_ie8 hc_bwsr_lt_ie9 hc_bwsr_lt_ie10"> <![endif]-->
+<!--[if IE 8 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="hc_bwsr_ie8 hc_bwsr_lt_ie9 hc_bwsr_lt_ie10"> <![endif]-->
+<!--[if IE 9 ]>    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en" class="hc_bwsr_ie9 hc_bwsr_lt_ie10"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"> <!--<![endif]-->
+
+<head>
+    
+    
+        
+    
+
+    
+    <link href="https://cdn.datahc.com/Styles/StyleSheet.ashx?key=MainSite&cdn=02122014a" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.datahc.com/Styles/StyleSheet.ashx?key=JQueryUiMain&cdn=02122014a" rel="stylesheet" type="text/css" />  
+    
+         
+    <script type="text/javascript" src="https://cdn.datahc.com/Script/Bundles/Master?v=KeJvWrOi9SkmKEPOzFvJQxE43NoRTiMameQLggQWVuc1&cdn=02122014a"></script>
+
+    
+    <link rel="shortcut icon" href="https://cdn.datahc.com/Images/favicon.ico?cdn=02122014a" />
+    <script type="text/javascript">
+    //<![CDATA[
+        HC.gLanguageCode = "EN";
+        HC.gCountryCode = "US";
+        HC.gCurrencyCode = "USD";
+        HC.requestBase = 'http://www.hotelscombined.com';
+        
+        //ToDo: remove once affiliates have been updated. 
+        var gLanguageCode = HC.gLanguageCode;
+        var gCountryCode = HC.gCountryCode;
+        var gCurrencyCode = HC.gCurrencyCode;
+        HC.Common.Init({"backendconfirmationtest":1,"transliteratedtext":0,"homepagelayoutdesktop":1,"lowavailability":1,"hideusertoolbar":0,"activemaponlandingpage":0,"providersortordermobile":1,"excludetaxesforbrazil":0}, 'USD', false, '119178', false, 'EN', false, false, 'US', 'AIzaSyCYc7Ww1_d2Up1xUBX5q-RujiFi8yLGT_Y', 'https://cdn.datahc.com', '02122014a', 'Affiliate', {"DisableProviderRedirectRedirection":false}, 'Home');
+        HC.SpriteGallery.setImageConfiguration('https://media.datahc.com', 'HI');
+        
+        HC.Common.StarRating.setFilenames({
+            star: ["<img src=\"https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a\" />","<img src=\"https://cdn.datahc.com/Images/hc_star_half_8bit.png?cdn=02122014a\" />","<img src=\"https://cdn.datahc.com/Images/hc_star_grey_8bit.png?cdn=02122014a\" />"],
+            self: ["<img src=\"https://cdn.datahc.com/Images/hc_circle.gif?cdn=02122014a\" />","<img src=\"https://cdn.datahc.com/Images/hc_circle_half.gif?cdn=02122014a\" />","<img src=\"https://cdn.datahc.com/Images/hc_circle_grey.gif?cdn=02122014a\" />"]
+        });
+
+        HC.Common.setDevice({
+            webBrowserType: 0,
+            webBrowserMajorVersion: 0,
+            os: 0
+        });
+
+    //]]>
+    </script>
+    
+<script>
+    HC.Affiliate.setCurrentPlaceName(null);
+</script>
+
+<script>
+    $(function() {
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', '__hcga');
+
+
+        var customDimensions = {"dimension3":"119178","dimension4":"362699","dimension1":"Affiliate","dimension10":"USD","hostname":"www.hotelscombined.com","dimension15":0,"dimension9":"EN","dimension6":"Home","dimension2":"DesktopWeb"};
+
+        __hcga('create', 'UA-40537616-1', { 'storage': 'none', 'clientId': '37c49ad7-1cb6-4193-a415-ab6583078d2f' });
+        __hcga('create', 'UA-52058592-1', {'name': 'sitetracker', 'storage': 'none', 'clientId': '37c49ad7-1cb6-4193-a415-ab6583078d2f' });
+        __hcga('set', customDimensions);
+        __hcga('sitetracker.set', customDimensions);
+        __hcga('require', 'displayfeatures');
+        __hcga('sitetracker.require', 'displayfeatures');
+        __hcga('send', 'pageview');
+        __hcga('sitetracker.send', 'pageview');
+        
+
+        HC.GoogleUA.init();
+    });
+    
+</script>
+
+    
+
+<!-- Static data so move to head and only run once -->
+<script type="text/javascript">
+    
+(function () {
+
+    HC._currentServerTime = new Date(2014, 11, 3, 1, 13, 41, 979);
+
+    $.datepicker.regional['en-US'] = {
+        closeText: 'close',
+        prevText: 'Prev',
+        nextText: 'Next',
+        currentText: 'Today',
+        monthNames: ['January','February','March','April','May','June','July','August','September','October','November','December'],
+        monthNamesShort: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+        dayNames: ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],
+        dayNamesShort: ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],
+        dayNamesMin: ['Su','Mo','Tu','We','Th','Fr','Sa'],
+        weekHeader: 'Wk',
+        dateFormat: 'D, dd M yy',
+        firstDay: 0,
+        isRTL: false,
+        showMonthAfterYear: true,
+        yearSuffix: ''};
+
+    $.datepicker.setDefaults($.datepicker.regional['en-US']);
+    HC.DateSelection.setCulture('en-US');
+    HC.DateSelection.init(HC._currentServerTime, '', ''
+    , false);
+
+    HC.Translations.set([
+        ['DatedropdownMonthYearFormat', '[InsertMonthName] \u0027[InsertShortYear]'],
+        ['DatedropdownMonth', 'Month'],
+        ['DatedropdownDay', 'Day'],
+        ['DatedropdownMonthYearLongFormat', '[InsertMonthName] [InsertYear]'],
+        ['DatedropdownSelectMonthLabel', 'Select month:']
+    ]);
+    
+})();
+
+</script>
+
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+    HC.Translations.set([
+        ['JavaScriptEnsureCheckoutAfterCheckin', 'Please ensure that the Check-out date is after the Check-in date.'],
+        ['JavaScriptPeriodOfStay', 'Your period of stay should be no longer than 30 nights.'],
+        ['JavaScriptBookWithinOneYear', 'You cannot book more than 1 year in advance'],
+        ['JavaScriptEnterCheckinCheckout', 'Please enter your Check-in and Check-out dates'],
+        ['JavaScriptCheckoutCheckinInFuture', 'Please ensure that the Check-in and Check-out dates are in the future.'],
+        ['EnterCorrectNumberOfChars', 'Please enter a city name that is at least 3 characters in length'],
+        ['JavaScriptSearching', 'Searching<span></span>'],
+        ['RoomConfigEnterAllAges', 'Please enter all ages of children'],
+        ['RoomConfigEnterAgeOfChild', 'Please enter age of child'],
+        ['RoomConfigAgesBetween', 'All ages must be between 0 and 17 inclusive'],
+        ['RoomConfigAtLeast1Adult1Child', 'Please enter at least 1 adult or 1 child'],
+        ['HotelPageChangeDatesMessage', 'Change your search details below'],
+        ['AutoSuggestionBrowseText', 'or, browse by country'],
+        ['AutoSuggestionMoreOptions', 'Search more options for \u0027[InsertTerm]\u0027'],
+        ['ZeroHotels', '0 hotels'],
+        ['GeoLocationCurrentLocation', 'Current Location'],
+        ['GeoLocationCurrentlyNotAvailable', 'Unable to obtain your location. Please update your Location Services settings.'],
+        ['GeoLocationRetrievingLocation', 'Retrieving current location']
+    ]);
+
+    HC.SearchBox.init({
+        defaultCheckin: '',
+        defaultCheckout: '',
+        minNoSearchChars: '3',
+        rooms: []
+    });
+
+//]]>
+</script>
+
+    <script type="text/javascript">
+//<![CDATA[
+HC.Errors.init('\u003cp class=\u0027hc_f_t_err2 hc_f_error\u0027\u003e\u003cspan class=\u0027hc_icon\u0027\u003e!\u003c/span\u003e\u003cem\u003e[InsertMessage]\u003c/em\u003e\u003c/p\u003e','\u003cp class=\u0027hc_info\u0027\u003e\u003cspan class=\u0027hc_icon\u0027\u003ei\u003c/span\u003e\u003cem\u003e[InsertMessage]\u003c/em\u003e\u003c/p\u003e');
+//]]>
+</script>
+
+    <title>Compare &amp; Save on Cheap Hotel Deals - HotelsCombined</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE6" />
+    <meta name="keywords" content="HotelsCombined.com,compare hotel price,accommodation reservations" />
+    <meta name="description" content="Compare 1000s of sites in just one search to find the best hotel deals at HotelsCombined.com - awarded world’s best hotel price comparison site."/>
+    
+    <link rel="alternate" hreflang="ar" href="http://ar.hotelscombined.com/" />
+         <link rel="alternate" hreflang="ar-AE" href="http://www.hotelscombined.ae/" />
+         <link rel="alternate" hreflang="cs" href="http://www.hotelscombined.cz/" />
+         <link rel="alternate" hreflang="da" href="http://www.hotelscombined.dk/" />
+         <link rel="alternate" hreflang="de" href="http://www.hotelscombined.de/" />
+         <link rel="alternate" hreflang="de-AT" href="http://www.hotelscombined.at/" />
+         <link rel="alternate" hreflang="de-CH" href="http://www.hotelscombined.ch/" />
+         <link rel="alternate" hreflang="el" href="http://www.hotelscombined.gr/" />
+         <link rel="alternate" hreflang="en" href="http://www.hotelscombined.com/" />
+         <link rel="alternate" hreflang="en-AU" href="http://www.hotelscombined.com.au/" />
+         <link rel="alternate" hreflang="en-CA" href="http://www.hotelscombined.ca/" />
+         <link rel="alternate" hreflang="en-GB" href="http://www.hotelscombined.co.uk/" />
+         <link rel="alternate" hreflang="en-IE" href="http://www.hotelscombined.ie/" />
+         <link rel="alternate" hreflang="en-IN" href="http://www.hotelscombined.in/" />
+         <link rel="alternate" hreflang="en-NZ" href="http://www.hotelscombined.co.nz/" />
+         <link rel="alternate" hreflang="en-SG" href="http://www.hotelscombined.com.sg/" />
+         <link rel="alternate" hreflang="en-ZA" href="http://www.hotelscombined.co.za/" />
+         <link rel="alternate" hreflang="es" href="http://www.hotelscombined.es/" />
+         <link rel="alternate" hreflang="es-AR" href="http://www.detectahotel.com.ar/" />
+         <link rel="alternate" hreflang="es-BO" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-CL" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-CO" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-CR" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-DO" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-EC" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-GT" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-HN" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-MX" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-NI" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-PA" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-PE" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-PR" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-PY" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-SV" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-UY" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="es-VE" href="http://www.detectahotel.com/" />
+         <link rel="alternate" hreflang="et" href="http://www.hotelscombined.ee/" />
+         <link rel="alternate" hreflang="fr" href="http://www.hotelscombined.fr/" />
+         <link rel="alternate" hreflang="he" href="http://www.hotelscombined.co.il/" />
+         <link rel="alternate" hreflang="id" href="http://www.hotelscombined.co.id/" />
+         <link rel="alternate" hreflang="it" href="http://www.hotelscombined.it/" />
+         <link rel="alternate" hreflang="ja" href="http://www.hotelscombined.jp/" />
+         <link rel="alternate" hreflang="ko" href="http://www.hotelscombined.co.kr/" />
+         <link rel="alternate" hreflang="lt" href="http://www.hotelscombined.lt/" />
+         <link rel="alternate" hreflang="lv" href="http://www.hotelscombined.lv/" />
+         <link rel="alternate" hreflang="ms" href="http://www.hotelscombined.my/" />
+         <link rel="alternate" hreflang="nl" href="http://www.hotelscombined.nl/" />
+         <link rel="alternate" hreflang="nl-BE" href="http://www.hotelscombined.be/" />
+         <link rel="alternate" hreflang="no" href="http://www.hotelscombined.co.no/" />
+         <link rel="alternate" hreflang="pl" href="http://www.hotelscombined.pl/" />
+         <link rel="alternate" hreflang="pt" href="http://www.hotelscombined.pt/" />
+         <link rel="alternate" hreflang="pt-BR" href="http://www.detectahotel.com.br/" />
+         <link rel="alternate" hreflang="ro" href="http://www.hotelscombined.ro/" />
+         <link rel="alternate" hreflang="ru" href="http://www.roomguru.ru/" />
+         <link rel="alternate" hreflang="sk" href="http://www.hotelscombined.sk/" />
+         <link rel="alternate" hreflang="sl" href="http://www.hotelscombined.si/" />
+         <link rel="alternate" hreflang="sr" href="http://www.hotelscombined.rs/" />
+         <link rel="alternate" hreflang="sv" href="http://www.hotelscombined.se/" />
+         <link rel="alternate" hreflang="th" href="http://www.hotelscombined.co.th/" />
+         <link rel="alternate" hreflang="tl" href="http://www.hotelscombined.com.ph/" />
+         <link rel="alternate" hreflang="tr" href="http://www.hotelscombined.com.tr/" />
+         <link rel="alternate" hreflang="vi" href="http://www.hotelscombined.vn/" />
+         <link rel="alternate" hreflang="zh-Hans" href="http://www.biyi.cn/" />
+         <link rel="alternate" hreflang="zh-Hant" href="http://www.hotelscombined.com.tw/" />
+         <link rel="alternate" hreflang="zh-Hant-HK" href="http://www.hotelscombined.hk/" />
+         
+
+    <meta name="verify-v1" content="+qfXE4ElWJpNFaq8kLohw5OHpICKbtF3QRCA1mtiFf8=" />
+    
+        <meta property="og:type" content="Company" />
+        <meta property="og:image" content="http://www.hotelscombined.com/Images/logo_hc_250x250.gif" />
+        <meta property="og:description" content="Compare 1000s of sites in just one search to find the best hotel deals at HotelsCombined.com - awarded world’s best hotel price comparison site." />
+        
+               <meta property="og:url" content="http://www.hotelscombined.com/" />
+               
+        <meta property="og:site_name" content="HotelsCombined" />
+        <meta property="og:title" content="Compare &amp; Save on Cheap Hotel Deals - HotelsCombined" />
+        <link rel="publisher" href="https://plus.google.com/106781890121593329185" />
+    
+        <meta property="fb:admins" content="507668368" />
+    <link rel="canonical" href="http://www.hotelscombined.com/" />
+
+    
+<script type="text/javascript">
+//<![CDATA[
+var ShortDatePatternVariable = 'mm/dd/yyyy';var AbbrDayNamesVariable = 'Sun,Mon,Tue,Wed,Thu,Fri,Sat';var DayNamesVariable = 'Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday';var MonthNamesVariable = 'January,February,March,April,May,June,July,August,September,October,November,December';var AbbrMonthNamesVariable = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec';var FirstDayOfWeekVariable = '0';var LongDatePatternVariable = 'dddd, mmmm dd, yyyy';var DefaultShortDatePatternVariable = 'yyyy-mm-dd';var TranslatedShortDatePatternVariable = 'mm/dd/yyyy';var CheckinValueFromCookieVariable = '';var CheckoutValueFromCookieVariable = '';var SearchBoxPrepopulatedVariable = '1';HC._currentServerTime = new Date(2014,11,3,1,13,41,979);var JavaScriptEnsureCheckoutAfterCheckin = "Please ensure that the Check-out date is after the Check-in date.";var JavaScriptPeriodOfStay = "Your period of stay should be no longer than 30 nights.";var JavaScriptBookWithinOneYear = "You cannot book more than 1 year in advance";var JavaScriptEnterCheckinCheckout = "Please enter your Check-in and Check-out dates";var JavaScriptSelectNoRooms = "Please select the number of rooms.";var JavaScriptSelectNoGuests = "Please select the number of guests.";var JavaScriptSelectNoRoomsNoGuests = "Please select the number of guests and the number of rooms.";var JavaScriptCheckoutCheckinInFuture = "Please ensure that the Check-in and Check-out dates are in the future.";
+//]]>
+</script>
+
+    
+     
+</head>
+<body class="hc_page_home hc_lang_en hc_cur_usd hc_b_co    hc_r_layout_v7_full   hc_oldLogo">
+    
+
+        <script type="text/javascript">
+            //<![CDATA[
+            HC.Common.AnalyticsTrackVisitor();
+            //]]>
+        </script>    
+        
+
+<div id="hc_evt_tooltip_modal" class="hc_m_modal" style="display: none;"></div>
+
+
+<div id="hc_bodyElements">
+    
+</div>
+
+
+        <div id="hc_template_roomConfig" style="display: none;">
+        
+    <fieldset data-index="{index}" class="hc_f_roomConfig_{index}">
+        <legend>Room {index}:</legend>
+        <p class="hc_f_t_txt hc_f_roomDesc" data-hc_section="configurationMessageSection"> <a href="javascript:void(0);" class="hc_f_edit hc_evt_editRoom">change configuration<span></span></a></p>
+        
+        <div class="hc_f_t_s2 hc_f_adults" data-hc_section="adultsSection">
+            <label for="hc_f_id_adults_{index}_{instance}"><span>Adults</span>
+                <select id="hc_f_id_adults_{index}_{instance}" class="hc_evt_adults">
+            <option  value='0'>0</option><option  value='1'>1</option><option selected='selected' value='2'>2</option><option  value='3'>3</option><option  value='4'>4</option><option  value='5'>5</option><option  value='6'>6</option><option  value='7'>7</option><option  value='8'>8</option><option  value='9'>9</option><option  value='10'>10</option>
+            </select></label>
+        </div>
+        <div class="hc_f_t_s2 hc_f_children" data-hc_section="childrenSection">
+            <label for="hc_f_id_children_{index}_{instance}"><span>Children</span>
+                <select id="hc_f_id_children_{index}_{instance}" class="hc_evt_children">
+                <option selected='selected' value="0">0</option><option  value="1">1</option><option  value="2">2</option><option  value="3">3</option><option  value="4">4</option></select></label>
+        </div>
+        <div class="hc_f_t_i_multi hc_f_ages" data-hc_section="agesSection">
+            <label for="hc_f_id_ages_{index}_1_{instance}" style='display:none;' >Age of Children</label><input type="text" id="hc_f_id_ages_{index}_1_{instance}" maxlength="2" value="" style='display:none;'/><input type="text" id="hc_f_id_ages_{index}_2_{instance}" maxlength="2" value="" style='display:none;'/><input type="text" id="hc_f_id_ages_{index}_3_{instance}" maxlength="2" value="" style='display:none;'/><input type="text" id="hc_f_id_ages_{index}_4_{instance}" maxlength="2" value="" style='display:none;'/>
+        </div>
+                
+        <div class="hc_f_t_btn hc_f_remove">
+            <a href="javascript:void(0);" class="hc_f_btn_v0 hc_evt_removeRoom">remove<span></span></a>
+        </div>
+
+        <div class="cDiv"></div>
+
+    </fieldset>
+
+
+        </div>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            HC.RoomConfig.init($('#hc_template_roomConfig'));
+            //]]>
+        </script>
+
+        
+
+
+
+<div id="hc_r_globalWrap" class="hc_r_layout_v7_full">
+
+        <div class="hc_r_stickyWrap" id="hc_r_stickyWrap">
+            <div id="hc_r_hdWrap" class="hc_r_hdWrap" data-content="header">
+                <div id="hc_r_hd">
+                        <a href="/" class="hc_logo">
+                            <img src="https://cdn.datahc.com/Content/Images/Desktop/Main/site/hotelscombined/hc_logo.png?cdn=02122014a" alt="HotelsCombined – Compare Hotel Deals" title="HotelsCombined – Compare Hotel Deals" />
+                        </a>
+                        <p class="hc_slogan"></p>
+                        
+        <div id="hc_b_co">
+            <p>Proudly in partnership with</p>
+            <img src="https://media.datahc.com/Affiliates/119178/Brands/Image/tpsma1.png" alt="" />
+        </div>
+        
+
+                        
+<div id="hc_evt_settings_buttons" class="hc_settings" data-settings="buttons">
+    <ul>
+        <li class="">
+            <a href="javascript:void(0);" class="hc_settings_btn hc_settings_cur" data-settings-button="currency">$<span class="hc_icon hc_t_arrow_v2_down"></span></a>
+        </li>
+        <li class="">
+            <a href="javascript:void(0);" class="hc_settings_btn hc_settings_lang hc_flag_us" data-settings-button="language"><span class="hc_icon hc_t_flag"></span><span class="hc_icon hc_t_arrow_v2_down"></span></a>
+        </li>
+        
+                <li>
+                    <a href="javascript:void(0);" class="hc_settings_btn hc_settings_register" data-settings-button="register">Register</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0);" class="hc_settings_btn hc_settings_signin" data-settings-button="login">Sign In<span class="hc_icon hc_t_arrow_v2_down"></span></a>
+                </li>
+            
+    </ul>
+    <div class="cDiv"></div>
+</div>
+
+
+<div id="hc_evt_settings_login" class="hc_m hc_m_po hc_login" data-settings="login" data-settings-popover="login" data-settings-popover-options='{"stopAutoCloseOnSelf": true, "closeOnResize": false}' style="display:none;">
+    <a href="javascript:void(0);" class="hc_m_close" data-action="close"><span class="hc_icon hc_t_close"></span></a>
+    <div class="hc_m_arrow_top"></div>
+<b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd"></div>	<div class="hc_m_content">        <h2>Sign In</h2>
+<form action="https://www.hotelscombined.com/Account/Login" class="hc_f" method="post"><input name="__RequestVerificationToken" type="hidden" value="-EZhChwlbrvU6DY5WDISANmlFdxZkN11dQk5jfYOpfAenF6ow_ionE_TT1fn2BEUEPQpDqwKXgznfYnF26quY1oF4qE1" /><input style="position: absolute; left: -9999px; width: 1px; height: 1px;" type="submit" /><input id="hc_f_ReturnUrl" name="hc_f.ReturnUrl" type="hidden" value="/Home.aspx?languageCode=EN" />            <fieldset>
+                <div class="hc_f_t_i2 hc_f_email">
+                    <label for="hc_f_EmailLogin">
+                        <span>Email</span>
+                        
+<input autocapitalize="off" autocomplete="off" data-val="true" data-val-email="Please enter a valid email address" data-val-required="Please enter an email address" id="hc_f_EmailLogin" name="hc_f.Email" placeholder="Your email address" type="email" value="" />
+
+                    </label>
+                </div>
+                <span class="hc_f_t_err4_valid" data-valmsg-for="hc_f.Email" data-valmsg-replace="true"></span>
+                <div class="hc_f_t_i2 hc_f_password">
+                    <label for="hc_f_PasswordLogin">
+                        <span>Password</span>
+                        
+<input autocapitalize="off" autocomplete="off" data-val="true" data-val-required="Please enter a password" id="hc_f_PasswordLogin" name="hc_f.Password" placeholder="Your password" type="password" value="" />
+
+                    </label>
+                </div>
+                <span class="hc_f_t_err4_valid" data-valmsg-for="hc_f.Password" data-valmsg-replace="true"></span>
+                <div class="hc_f_t_cb hc_f_remember">
+                    <label for="hc_f_PersistentLogin">
+                        <span>Remember me on this computer</span>
+                        <input checked="checked" data-val="true" data-val-required="The Persistent field is required." id="hc_f_PersistentLogin" name="hc_f.Persistent" type="checkbox" value="true" /><input name="hc_f.Persistent" type="hidden" value="false" />
+                    </label>
+                </div>
+                <div class="hc_f_t_btn hc_f_submit">
+                    <a onclick="HC.Common.submitClosest(this)" href="javascript:void(0);" class="hc_f_btn_v10">Sign In<span></span></a>
+                </div>
+
+                <p class="hc_login_forgot">Forgot your password? <a href='/Account/ForgotPassword'>Reset it here</a>.</p>
+            </fieldset>
+</form><script>(function () {
+	var form = HC.Common.scriptPreviousSibling();
+	HC.Common.attachFormEvents(form);
+})();</script>        <div class="hc_login_register">
+            <h3>Not a member?</h3>
+            <p>Register for access to exclusive member benefits.</p>
+            <div class="hc_f_t_btn hc_f_register">
+                <a href="/Account/Create" class="hc_f_btn_v6">Register<span></span></a>
+            </div>
+        </div>
+            <hr />
+<form action="https://www.hotelscombined.com/Account/LoginExternal" class="hc_f" method="post"><input name="__RequestVerificationToken" type="hidden" value="olnWvrnqbHjsGP0mDSOmb3dclK0Jqd0yhImN05jE18QSj4ZJmDHtMaLcxeTYXPkWyUX8rpz-HMeLDYewcRTjPpKw-sg1" /><input style="position: absolute; left: -9999px; width: 1px; height: 1px;" type="submit" /><input id="hc_f_loginType" name="hc_f.loginType" type="hidden" value="Facebook" /><input id="hc_f_returnUrl" name="hc_f.returnUrl" type="hidden" value="/Home.aspx?languageCode=EN" />                <div class="hc_f_t_btn hc_f_fb">
+                    <a onclick="HC.Common.submitClosest(this)" href="javascript:void(0);" class="hc_f_btn_v26">Sign in with Facebook<span></span></a>
+                </div>
+</form><script>(function () {
+	var form = HC.Common.scriptPreviousSibling();
+	HC.Common.attachFormEvents(form);
+})();</script>            <p class="hc_login_disclaimer hc_lowlight">We&#39;ll never post anything to Facebook without your permission</p>
+        <div class="cDivBoth"></div>
+	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b></div>
+<script>
+    HC.Settings.addPopoverContainer(HC.Common.scriptPreviousSibling());
+</script>
+
+<div id="hc_evt_settings_register" class="hc_m_v21 hc_register" data-settings="register" data-settings-popover="register" data-settings-popover-options='{"stopAutoCloseOnSelf": true, "closeOnResize": false, "position": {"elementBeingPositioned": "center", "targetElement": "center", "useViewPortToPosition": true}, "isModal": true}' style="display: none;">
+<b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd">		<h2>Get the <strong>best tools</strong> to find the <strong>best deal</strong> on your hotel. <a href="/BestPriceGuaranteePopup.aspx" onclick="HC.Common.Popups.bestPriceGuaranteePopupFooter(this); return false;" data-settings-button="guarantee" class="hc_register_guarantee"  data-track='Best Price Guaranteed-Register:Title'>Guaranteed</a></h2>	</div>	<div class="hc_m_content">        <a href="javascript:void(0)" class="hc_m_close" data-action="close"><span class="hc_icon hc_t_close"></span></a>
+        <span class="hc_tt_po hc_hide" data-settings-popover="guarantee">
+            <span class="hc_tt_arrow_bottom"></span>
+            We want you to pay the lowest price possible for your hotel. Should you find your hotel room at a lower online rate after you have booked with a site listed on HotelsCombined, we will refund you the difference. <a href='/BestPriceGuaranteePopup.aspx' onclick='HC.Common.Popups.bestPriceGuaranteePopupFooter(this);return false;'>Find out more</a>
+        </span>
+<form action="https://www.hotelscombined.com/Account/Create" class="hc_f" method="post"><input name="__RequestVerificationToken" type="hidden" value="8zdcqIf02VC9_lM_Md52DyXVFjtohhQshkWM2_VNVKYmSFIwRVWoACEonR1daVWpHf4QRBWd2LtiXZPV3_nlcfBPfaM1" /><input style="position: absolute; left: -9999px; width: 1px; height: 1px;" type="submit" /><input id="hc_f_returnUrl" name="hc_f.returnUrl" type="hidden" value="/Home.aspx?languageCode=EN" />            <fieldset>
+                <legend>Register for access to exclusive member benefits:</legend>
+                <p class="hc_f_t_desc hc_f_desc">Register for exclusive member benefits</p>
+                <div class="hc_f_t_i3 hc_f_email">
+                    <label for="hc_f_EmailCreate">
+                        <span>Enter your email</span>
+                        
+<input autocapitalize="off" autocomplete="off" data-val="true" data-val-email="Please enter a valid email address" data-val-required="Please enter an email address" id="hc_f_EmailCreate" name="hc_f.Email" placeholder="Your email address" type="email" value="" />
+
+                    </label>
+                </div>
+                <span class="hc_f_t_err4_valid" data-valmsg-for="hc_f.Email" data-valmsg-replace="true"></span>
+                <div class="hc_f_t_i3 hc_f_password">
+                    <label for="hc_f_PasswordCreate">
+                        <span>Create a password</span>
+                        
+<input autocapitalize="off" autocomplete="off" data-val="true" data-val-length="Please enter a password that is 6 or more characters in length" data-val-length-max="1024" data-val-length-min="6" data-val-required="Please enter a password" id="hc_f_PasswordCreate" name="hc_f.Password" placeholder="Create your password" type="password" value="" />
+
+                    </label>
+                </div>
+                <span class="hc_f_t_err4_valid" data-valmsg-for="hc_f.Password" data-valmsg-replace="true"></span>
+                <div class="hc_f_t_btn hc_f_submit">
+                    <a onclick="HC.Common.submitClosest(this)" href="javascript:void(0);" class="hc_f_btn_v8">Register<span></span></a>
+                </div>
+            </fieldset>
+</form><script>(function () {
+	var form = HC.Common.scriptPreviousSibling();
+	HC.Common.attachFormEvents(form);
+})();</script>            <p>Or</p>
+<form action="https://www.hotelscombined.com/Account/LoginExternal" class="hc_f" method="post"><input name="__RequestVerificationToken" type="hidden" value="EsCRucnBh7FSHEOh00aOwsmlqDd_Uf64VAkBO1ru0o9RylVZSAxwJfIsB7SYu9acyNSuU0GwO34aygUOfdG2wxLa3GY1" /><input style="position: absolute; left: -9999px; width: 1px; height: 1px;" type="submit" /><input id="hc_f_loginType" name="hc_f.loginType" type="hidden" value="Facebook" /><input id="hc_f_returnUrl" name="hc_f.returnUrl" type="hidden" value="/Home.aspx?languageCode=EN" />                <div class="hc_f_t_btn hc_f_fb">
+                    <a onclick="HC.Common.submitClosest(this)" href="javascript:void(0);" class="hc_f_btn_v26">Register with Facebook<span></span></a>
+                </div>
+</form><script>(function () {
+	var form = HC.Common.scriptPreviousSibling();
+	HC.Common.attachFormEvents(form);
+})();</script>            <p class="hc_register_disclaimer">We&#39;ll never post anything to Facebook without your permission</p>
+        <div class="hc_register_login">
+
+            <ul class="hc_horizontal">
+                <li><a href="javascript:HC.Common.Jsl('t', '', '_blank')" rel="nofollow">Terms of Use</a></li>
+                <li><a href="javascript:HC.Common.Jsl('p', '', '_blank')" rel="nofollow">Privacy</a></li>
+            </ul>
+
+
+            <p>Already a member? <a href='/Account/Login'>Sign in here</a></p>
+        </div>
+	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b></div>
+<script>
+    (function () {
+        var popover = HC.Common.scriptPreviousSibling();
+        HC.Settings.addPopoverContainer(popover);
+        HC.Settings.registrationSetup(popover);
+    })();
+</script>
+
+
+
+<div id="hc_evt_settings_currency" class="hc_m hc_m_po hc_settings_po_cur" data-settings="currency" data-settings-popover="currency" style="display:none" data-settings-popover-options='{"autoAdjustPosition": true}'>
+    <a href="javascript:void(0);" class="hc_m_close" data-action="close"><span class="hc_icon hc_t_remove"></span></a>
+    <div class="hc_m_arrow_top"></div><b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd"></div>	<div class="hc_m_content">
+    <h2>Select currency</h2>
+    <ul>
+    
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="HOTELS">$€£<span>Hotels' Currency</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="AUD">AUD<span>Australian Dollars</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="BRL">R$<span>Brazil reais</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="GBP">£<span>British Pounds</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="CAD">C$<span>Canadian Dollars</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="CNY">CN¥<span>Chinese yuan</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="HRK">kn<span>Croatian Kuna</span></a>
+            </li>
+            
+                </ul><ul>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="CZK">CZK<span>Czech koruna</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="DKK">kr.<span>Danish Kroner</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="EUR">€<span>Euros</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="HKD">HK$<span>Hong Kong Dollars</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="ISK">kr.<span>Iceland Krona</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="INR">₹<span>Indian rupees</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="JPY">¥<span>Japanese Yen</span></a>
+            </li>
+            
+                </ul><ul>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="NZD">NZ$<span>New Zealand Dollars</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="NOK">kr<span>Norwegian Kroner</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="PLN">PLN<span>Polish Zloty</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="RON">RON<span>Romanian New Lei</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="RUB">RUB<span>Russian Rouble</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="SAR">SAR<span>Saudi riyal</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="SGD">S$<span>Singapore Dollars</span></a>
+            </li>
+            
+                </ul><ul>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="ZAR">R<span>South African Rand</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="KRW">₩<span>South Korean Won</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="SEK">kr<span>Swedish Kronas</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="CHF">CHF<span>Swiss Francs</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="TWD">NT$<span>Taiwan dollars</span></a>
+            </li>
+            
+            <li class="">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="TRY">TL<span>Turkish Lira</span></a>
+            </li>
+            
+            <li class="hc_selected">
+                <a href="javascript:void(0);" data-action="currencySelected" data-value="USD">$<span>U.S. Dollars</span></a>
+            </li>
+            
+                </ul><ul>
+            
+    </ul>  
+    <div class="cDiv"></div>
+    	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+</div>
+
+<div id="hc_evt_settings_language" class="hc_m hc_m_po hc_settings_po_lang" data-settings="language" data-settings-popover="language" style="display:none" data-settings-popover-options='{"autoAdjustPosition": true}' >
+    <a href="javascript:void(0);" class="hc_m_close" data-action="close"><span class="hc_icon hc_t_remove"></span></a>
+    <div class="hc_m_arrow_top"></div><b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd"></div>	<div class="hc_m_content">
+    <h2>Select language</h2>
+    <ul>
+        
+                <li class="hc_t_flag hc_flag_us hc_selected">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="EN"><span class="hc_icon"></span>English</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_de ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="DE"><span class="hc_icon"></span>Deutsch</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_nl ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="NL"><span class="hc_icon"></span>Nederlands</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_fr ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="FR"><span class="hc_icon"></span>Français</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_es ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="ES"><span class="hc_icon"></span>Español</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_cz ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="CZ"><span class="hc_icon"></span>Čeština</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_it ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="IT"><span class="hc_icon"></span>Italiano</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_pt ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="PT"><span class="hc_icon"></span>Português</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_br ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="PB"><span class="hc_icon"></span>Português Brasileiro</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_no ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="NO"><span class="hc_icon"></span>Norsk</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_se ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="SV"><span class="hc_icon"></span>Svenska</a>
+                </li>
+            
+                </ul><ul>
+            
+                <li class="hc_t_flag hc_flag_dk ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="DA"><span class="hc_icon"></span>Dansk</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_hr ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="HR"><span class="hc_icon"></span>Hrvatski</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_ro ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="RO"><span class="hc_icon"></span>Română</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_sa ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="AR"><span class="hc_icon"></span>العربية</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_kr ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="KO"><span class="hc_icon"></span>한국어</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_il ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="HE"><span class="hc_icon"></span>עברית</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_pl ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="PL"><span class="hc_icon"></span>Polski</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_gr ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="EL"><span class="hc_icon"></span>Ελληνικά</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_ru ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="RU"><span class="hc_icon"></span>Русский</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_tr ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="TR"><span class="hc_icon"></span>Türkçe</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_bg ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="BG"><span class="hc_icon"></span>Български</a>
+                </li>
+            
+                </ul><ul>
+            
+                <li class="hc_t_flag hc_flag_jp ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="JA"><span class="hc_icon"></span>日本語</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_cn ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="CS"><span class="hc_icon"></span>简体中文</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_tw ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="CN"><span class="hc_icon"></span>繁體中文</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_is ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="IS"><span class="hc_icon"></span>Íslenska</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_ct ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="CA"><span class="hc_icon"></span>Català</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_fi ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="FI"><span class="hc_icon"></span>Suomi</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_hu ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="HU"><span class="hc_icon"></span>Magyar</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_id ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="ID"><span class="hc_icon"></span>Bahasa Indonesia</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_th ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="TH"><span class="hc_icon"></span>ภาษาไทย</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_my ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="MS"><span class="hc_icon"></span>Bahasa Malaysia</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_vn ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="VI"><span class="hc_icon"></span>Tiếng Việt</a>
+                </li>
+            
+                </ul><ul>
+            
+                <li class="hc_t_flag hc_flag_ph ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="TA"><span class="hc_icon"></span>Filipino</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_ua ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="UK"><span class="hc_icon"></span>Українська</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_rs ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="SR"><span class="hc_icon"></span>Srpski</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_si ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="SL"><span class="hc_icon"></span>Slovenščina</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_lt ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="LT"><span class="hc_icon"></span>Lietuvių</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_lv ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="LV"><span class="hc_icon"></span>Latviski</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_ee ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="ET"><span class="hc_icon"></span>Eesti</a>
+                </li>
+            
+                <li class="hc_t_flag hc_flag_sk ">
+                    <a href="javascript:void(0);" data-action="languageSelected" data-value="SK"><span class="hc_icon"></span>Slovenčina</a>
+                </li>
+            
+    </ul>
+    <div class="cDiv"></div>
+    	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+</div>
+
+
+<script type="text/javascript">
+
+    HC.Settings.init({
+        buttonContainer: $("#hc_evt_settings_buttons"),
+        containers: [$("#hc_evt_settings_currency"), $("#hc_evt_settings_language"), $("#hc_evt_settings_languageRecommendation")],
+        popoverContainers: [$("#hc_evt_settings_currency"), $("#hc_evt_settings_language"), $("#hc_evt_settings_accountMenu")]
+    });
+
+</script>
+
+
+                    <div class="hc_r_clear"></div>
+                </div>
+            <div class="hc_r_clear"></div>
+            </div>
+        <div id="hc_r_v_full"></div>
+        <div id="hc_r_content" data-content="content">
+            <form method="post" action="Home.aspx?languageCode=EN" id="aspnetForm" class="hc_f">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+             
+
+<div id="hc_r_3"></div>
+<div id="hc_r_1">
+
+    
+    <div id="hc_findAHotel" class="hc_m_v2">
+        <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd">		<h1>Search hotels</h1>	</div>	<div class="hc_m_content">
+        
+        <div id="hc_social_plus1"></div>
+        <fieldset>
+            <div class="hc_f_t_search2 hc_f_where">
+                <label for="hc_f_id_where">Where?</label>
+                <input type="search" name="hc_f_id_where" id="hc_f_id_where" title="e.g. city, region, district or specific hotel" value="" autocomplete="off" autocorrect="off" spellcheck="false" autocapitalize="off" placeholder="e.g. city, region, district or specific hotel" />
+                <a href="javascript:void(0);" class="hc_icon hc_t_cancel"></a>
+            </div>
+            <script type="text/javascript">
+                //<![CDATA[
+                (function () {
+                    var $city = $('#hc_f_id_where');
+                    $city.hint('hc_f_hint'); 
+                    HC.Translations.set("CitySearchHintError", "Please provide either a city, region, country, landmark, hotel, or district");                                
+                })();
+            //]]>
+            </script>
+            <div class="hc_f_t_date3 hc_f_checkin">
+                <label for="hc_f_id_checkin_0">Check-in</label>
+                <div id="HC_DateSelection_checkin_0" data-track="DatePicker-ImgCal">
+    <input class="hc_f_i_cal" type="hidden" /><div class="hc_f_t_s3 hc_f_day" data-track="DatePicker-TextFieldDay"><label><select id="hc_f_id_checkin_0">
+            <option selected="selected">Thu 28</option>
+        </select></label></div><div class="hc_f_t_s3 hc_f_month" data-track="DatePicker-TextFieldMonth"><label><select>
+            <option selected="selected">September '14</option>
+        </select></label></div></div>
+<script type="text/javascript">
+//<![CDATA[
+    (function () {
+        new HC.DateSelection.DateSelect($('#HC_DateSelection_checkin_0'));
+    })();
+//]]>
+</script>
+
+            </div>
+            <div class="hc_f_t_date3 hc_f_checkout">
+                <label for="hc_f_id_checkout_0">Check-out</label>
+                <div id="HC_DateSelection_checkout_0" data-track="DatePicker-ImgCal">
+    <input class="hc_f_i_cal" type="hidden" /><div class="hc_f_t_s3 hc_f_day" data-track="DatePicker-TextFieldDay"><label><select id="hc_f_id_checkout_0">
+            <option selected="selected">Thu 28</option>
+        </select></label></div><div class="hc_f_t_s3 hc_f_month" data-track="DatePicker-TextFieldMonth"><label><select>
+            <option selected="selected">September '14</option>
+        </select></label></div></div>
+<script type="text/javascript">
+//<![CDATA[
+    (function () {
+        new HC.DateSelection.DateSelect($('#HC_DateSelection_checkout_0'));
+    })();
+//]]>
+</script>
+
+            </div>
+            
+            
+<div class="hc_f_t_date5 hc_f_checkin" data-section="checkin" style="display: none;">
+    <label for="hc_f_id_checkin_1_0">Check-in</label>
+    <img data-action="showDatePicker" src="https://cdn.datahc.com/Images/hc_pixel.gif?cdn=02122014a" />
+    <div class="hc_f_t_i2 hc_f_day">
+        <label for="hc_f_id_checkin_1_0">
+            <input id="hc_f_id_checkin_1_0" data-element="cal_input" readonly="readonly"/>
+        </label>
+    </div>
+</div>
+<script>
+(function () {
+    HC.DateSelection.Alternates.setupVersion1(HC.Common.scriptPreviousSibling());
+})();
+</script>
+<div class="hc_f_t_date5 hc_f_checkout" data-section="checkout" style="display: none;">
+    <label for="hc_f_id_checkout_1_0">Check-out</label>
+    <img data-action="showDatePicker" src="https://cdn.datahc.com/Images/hc_pixel.gif?cdn=02122014a" />
+    <div class="hc_f_t_i2 hc_f_day">
+        <label for="hc_f_id_checkout_1_0">
+            <input id="hc_f_id_checkout_1_0" data-element="cal_input" readonly="readonly"/>
+        </label>
+    </div>
+</div>
+<script>
+(function () {
+    HC.DateSelection.Alternates.setupVersion1(HC.Common.scriptPreviousSibling());
+})();    
+</script>
+
+
+            <div class="hc_f_t_cb2 hc_f_noDates">
+                <label for="hc_f_id_noDates_0"><span>I don&#39;t have specific dates yet</span>
+                    <input type="checkbox" id="hc_f_id_noDates_0" value="0" />
+                </label>
+            </div>
+
+            
+
+
+
+<div class="hc_f_t_s3 hc_f_guestsRooms">
+    <label for="hc_f_id_guestsRooms_1"><span>Guests</span>
+        <select name="hc_f_id_guestsRooms_" id="hc_f_id_guestsRooms_1" class="hc_evt_roomsGuests">
+        <option value="1-1" >1 adult</option><option value="2-1" selected='selected'>2 adults in 1 room</option><option value="3-1" >3 adults in 1 room</option><option value="4-1" >4 adults in 1 room</option><option value="2-2" >2 adults in 2 rooms</option><option value="0" >More options...</option></select></label>
+</div>
+
+<div class="hc_f_t_roomConfig hc_f_roomConfig" >
+
+    
+
+    <div class="hc_f_t_btn hc_f_add">
+        <a href="javascript:void(0);" class="hc_evt_addRoom">Add another room<span></span></a>
+    </div>
+
+</div>
+
+
+<script type="text/javascript">
+    HC.RoomConfig.setInitialValues({
+        childrenCount: [],
+        dropdownValue: '2-1'
+    });
+</script>
+
+
+            
+                <!--div class="hc_f_t_cb hc_f_compare">
+                    
+                    <label> Hotwire </label>
+                    <input type="checkbox" checked="checked" id="searchBoxContainer_Compare" value="0" />
+                </div-->
+            
+            <div class="hc_f_t_btn hc_f_submit">
+                <a id="hc_f_id_search" class="hc_f_btn_v15" href="javascript:void(0);" onclick="return HC.SearchBox.doSearchHome('EN','_self',null,document.getElementById('hc_f_id_where').value,null,null,{changeClass:['','hc_active'],searchButton:this,searchingStr:'Searching<span></span>'}, $('#hc_findAHotel'));" rel="nofollow" title="Hotel Search">Search<span></span></a>
+            </div>
+
+            <div class="cDivBoth"></div>
+        </fieldset>
+
+        	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+    </div>
+
+    <script type="text/javascript">
+    //<![CDATA[
+        new HC.SearchBox.SearchBoxInstance($('#hc_findAHotel'), '1', false, '', '', { searchHint: 'e.g. city, region, district or specific hotel' });
+    //]]>
+    </script>
+
+    
+
+    <div id="hc_deals_banner" class="hc_m">
+        <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd"></div>	<div class="hc_m_content">
+            <h2><span class="hc_icon hc_t_mail"></span>Never miss the hottest deals</h2>
+            <fieldset>
+                <div class="hc_f_t_i hc_f_email">
+                    <label for="hc_f_id_deals"><span>Get the best deals delivered to you from across the web</span>
+                        <input type="text" value="" id="hc_f_id_deals" title="Your email address" placeholder="Your email address" autocorrect="off" spellcheck="false" autocapitalize="off" /></label>
+                    <script type="text/javascript">
+                        var $city = $('#hc_f_id_deals');
+                        $city.hint('hc_deals_blur');
+                        HC.Translations.set('AboutUsSuppliersErrorMsg3', 'Invalid email address.');
+                    </script>
+                </div>
+                <div class="hc_f_t_btn hc_f_submit">
+                    <a href="javascript:void(0);" class="hc_f_btn_v8">Sign up<span></span></a>
+                </div>
+            </fieldset>
+        	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+    </div>
+    <script>
+        (function() {
+            HC.DealAlerts.initOld(HC.Common.scriptPreviousSibling(), 'Home', false);
+        })();
+    </script>
+
+
+    
+        <div id="hc_selectedDeals" class="hc_m_v7 hc_i_layout_v1">
+            <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd">		<h2>Trending Hotels Right Now</h2>	</div>	<div class="hc_m_content">
+                
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <h3>
+                    <a href="/Hotel/Hotel_Allegro_Bern.htm">Hotel Allegro Bern</a>
+                    <span class="hc_i_rating"><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /></span>
+                </h3>
+                
+                    <a class="hc_i_photo " href="/Hotel/Hotel_Allegro_Bern.htm">
+                        <img src="https://media.datahc.com/Z1196974.jpg?v=1650907984"  data-pid="115961824,470,265" alt="" />
+                    </a>
+                
+                <dl>
+                    
+                    <dt class="hc_i_rating">Hotel Rating</dt>
+                    <dd class="hc_i_rating"><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /></dd>
+                    
+                    <dt class="hc_i_addr">Address</dt>
+                    <dd class="hc_i_addr">Berne, Switzerland</dd>
+                    
+                    <dt class="hc_i_usrRating">Guest Rating</dt>
+                    <dd class="hc_i_usrRating">Very Good, 8.2</dd>
+                    
+                    <dt class="hc_i_reviews">Reviews</dt>
+                    <dd class="hc_i_reviews">from <span>459</span> guest reviews</dd>
+                    
+                    <dt class="hc_i_booking">Last Booked</dt>
+                    <dd class="hc_i_booking"><span>Latest booking:</span> 1 minute ago</dd>
+                    
+                    <dt class="hc_i_photos">Photos</dt>
+                    <dd class="hc_i_photos">
+                        <ul>
+                            
+                                <li class="hc_i_photos_0"><a href="javascript:void(0);"><img   data-pid="115961777,350,172" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_1"><a href="javascript:void(0);"><img   data-pid="115961781,350,233" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_2"><a href="javascript:void(0);"><img   data-pid="115961784,294,220" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_3"><a href="javascript:void(0);"><img   data-pid="115961786,451,300" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_4"><a href="javascript:void(0);"><img   data-pid="115961788,447,300" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_5"><a href="javascript:void(0);"><img   data-pid="115961792,450,300" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_6"><a href="javascript:void(0);"><img   data-pid="115961794,408,300" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_7"><a href="javascript:void(0);"><img   data-pid="115961796,400,300" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_8"><a href="javascript:void(0);"><img   data-pid="115961798,400,266" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_9"><a href="javascript:void(0);"><img   data-pid="115961800,470,265" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_10"><a href="javascript:void(0);"><img   data-pid="115961804,470,265" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_11"><a href="javascript:void(0);"><img   data-pid="115961807,470,265" src="https://media.datahc.com/Z1196974.jpg?v=1650907984" alt="" /></a></li>
+                                
+                        </ul>
+                        <div class="cDiv"></div>
+                    </dd>
+                    
+                </dl>
+                <div class="cDiv"></div>
+            </div>
+        </div>
+    
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <h3>
+                    <a href="/Hotel/Pontiac_Hotel.htm">Pontiac Hotel</a>
+                    <span class="hc_i_rating"><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /></span>
+                </h3>
+                
+                    <a class="hc_i_photo " href="/Hotel/Pontiac_Hotel.htm">
+                        <img src="https://media.datahc.com/Z1533780.jpg?v=-843504811"  data-pid="107055800,388,300" alt="" />
+                    </a>
+                
+                <dl>
+                    
+                    <dt class="hc_i_rating">Hotel Rating</dt>
+                    <dd class="hc_i_rating"><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /></dd>
+                    
+                    <dt class="hc_i_addr">Address</dt>
+                    <dd class="hc_i_addr">SoMa, San Francisco</dd>
+                    
+                    <dt class="hc_i_usrRating">Guest Rating</dt>
+                    <dd class="hc_i_usrRating">6.5</dd>
+                    
+                    <dt class="hc_i_reviews">Reviews</dt>
+                    <dd class="hc_i_reviews">from <span>37</span> guest reviews</dd>
+                    
+                    <dt class="hc_i_booking">Last Booked</dt>
+                    <dd class="hc_i_booking"><span>Latest booking:</span> 3 minutes ago</dd>
+                    
+                    <dt class="hc_i_photos">Photos</dt>
+                    <dd class="hc_i_photos">
+                        <ul>
+                            
+                                <li class="hc_i_photos_0"><a href="javascript:void(0);"><img   data-pid="107055802,449,300" src="https://media.datahc.com/Z1533780.jpg?v=-843504811" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_1"><a href="javascript:void(0);"><img   data-pid="107055807,449,300" src="https://media.datahc.com/Z1533780.jpg?v=-843504811" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_2"><a href="javascript:void(0);"><img   data-pid="107055812,451,300" src="https://media.datahc.com/Z1533780.jpg?v=-843504811" alt="" /></a></li>
+                                
+                        </ul>
+                        <div class="cDiv"></div>
+                    </dd>
+                    
+                </dl>
+                <div class="cDiv"></div>
+            </div>
+        </div>
+    
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <h3>
+                    <a href="/Hotel/Ocean_Breeze_Inn_Key_West.htm">Ocean Breeze Inn Key West</a>
+                    <span class="hc_i_rating"><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /></span>
+                </h3>
+                
+                    <a class="hc_i_photo " href="/Hotel/Ocean_Breeze_Inn_Key_West.htm">
+                        <img src="https://media.datahc.com/Z1569539.jpg?v=2134555609"  data-pid="107037583,450,300" alt="" />
+                    </a>
+                
+                <dl>
+                    
+                    <dt class="hc_i_rating">Hotel Rating</dt>
+                    <dd class="hc_i_rating"><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /><img src="https://cdn.datahc.com/Images/hc_star_8bit.png?cdn=02122014a" /></dd>
+                    
+                    <dt class="hc_i_addr">Address</dt>
+                    <dd class="hc_i_addr">Key West, Florida</dd>
+                    
+                    <dt class="hc_i_usrRating">Guest Rating</dt>
+                    <dd class="hc_i_usrRating">Very Good, 8.4</dd>
+                    
+                    <dt class="hc_i_reviews">Reviews</dt>
+                    <dd class="hc_i_reviews">from <span>11</span> guest reviews</dd>
+                    
+                    <dt class="hc_i_booking">Last Booked</dt>
+                    <dd class="hc_i_booking"><span>Latest booking:</span> 9 minutes ago</dd>
+                    
+                    <dt class="hc_i_photos">Photos</dt>
+                    <dd class="hc_i_photos">
+                        <ul>
+                            
+                                <li class="hc_i_photos_0"><a href="javascript:void(0);"><img   data-pid="107037512,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_1"><a href="javascript:void(0);"><img   data-pid="107037514,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_2"><a href="javascript:void(0);"><img   data-pid="107037516,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_3"><a href="javascript:void(0);"><img   data-pid="107037520,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_4"><a href="javascript:void(0);"><img   data-pid="107037523,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_5"><a href="javascript:void(0);"><img   data-pid="107037528,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_6"><a href="javascript:void(0);"><img   data-pid="107037531,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_7"><a href="javascript:void(0);"><img   data-pid="107037534,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_8"><a href="javascript:void(0);"><img   data-pid="107037538,400,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_9"><a href="javascript:void(0);"><img   data-pid="107037543,433,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_10"><a href="javascript:void(0);"><img   data-pid="107037548,224,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                                <li class="hc_i_photos_11"><a href="javascript:void(0);"><img   data-pid="107037551,363,300" src="https://media.datahc.com/Z1569539.jpg?v=2134555609" alt="" /></a></li>
+                                
+                        </ul>
+                        <div class="cDiv"></div>
+                    </dd>
+                    
+                </dl>
+                <div class="cDiv"></div>
+            </div>
+        </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+    HC.SpriteGallery.init($('#hc_selectedDeals'), { liClass: 'hc_i_photos_', ulClass: 'hc_i_photos' });
+//]]>
+</script>
+
+            	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+        </div>
+        
+
+    <div class="hc_r_clear"></div>
+</div>
+<div id="hc_r_2">
+    <div id="hc_r_2b">
+
+        
+            <div id="hc_providerLogos" class="hc_m_v7" onclick="HC.Common.blinkModule('#hc_findAHotel');">
+                <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd">		<h2>Compare thousands of travel sites and save up to 80%</h2>	</div>	<div class="hc_m_content">
+                
+                    <a class="hc_providerIcon_exp" data-track="HotelLogo-hc_providerIcon_exp"></a> <!-- expedia -->
+                    <a class="hc_providerIcon_ian" data-track="HotelLogo-hc_providerIcon_ian"></a> <!-- hotels -->
+                    <a class="hc_providerIcon_ihg-cp" data-track="HotelLogo-hc_providerIcon_ihg_cp"></a> <!-- crowne plaza -->
+                    <a class="hc_providerIcon_tcy" data-track="HotelLogo-hc_providerIcon_tcy"></a> <!-- travelocity -->
+                     <!-- Voyages SNCF -->
+                     <!-- tiket -->
+                    <a class="hc_providerIcon_htc" data-track="HotelLogo-hc_providerIcon_htc"></a> <!-- hotelclub -->
+                    <a class="hc_providerIcon_ven" data-track="HotelLogo-hc_providerIcon_ven"></a> <!-- venere -->
+                    <a class="hc_providerIcon_acc" data-track="HotelLogo-hc_providerIcon_acc"></a> <!-- accor hotels -->
+                    <a class="hc_providerIcon_hsb" data-track="HotelLogo-hc_providerIcon_hsb"></a> <!-- hostelbookers -->
+                    <a class="hc_providerIcon_ihg-hi" data-track="HotelLogo-hc_providerIcon_ihg_hi"></a> <!-- holiday inn -->
+                    <a class="hc_providerIcon_bks" data-track="HotelLogo-hc_providerIcon_bks"></a> <!-- booking -->
+                    <a class="hc_providerIcon_agd" data-track="HotelLogo-hc_providerIcon_agd"></a> <!-- agoda -->
+                    <a class="hc_providerIcon_mar" data-track="HotelLogo-hc_providerIcon_htc"></a> <!-- marriott -->
+                    <a class="hc_providerIcon_lmn" data-track="HotelLogo-hc_providerIcon_htc"></a><!-- lastminute --> 
+                    <a class="hc_providerIcon_bwn" data-track="HotelLogo-hc_providerIcon_bwn"></a> <!-- bestwestern -->
+                    <a class="hc_providerIcon_gar" data-track="HotelLogo-hc_providerIcon_gar"></a> <!-- getaroom -->
+                     <!-- ebookers.fr -->
+                
+                <strong><span data-track="HotelLogo-AndManyMore">...and many more!</span></strong>
+                	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+            </div>
+        
+        <div id="hc_topDest" class="hc_m_v14 hc_i_layout_v5">
+            <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd">		<h2>Top Destinations</h2>	</div>	<div class="hc_m_content">
+                
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Taipei.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT296794.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Taipei.htm">Taipei City
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_tw"><span class="hc_icon"></span>Taiwan</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>501</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Las_Vegas.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT48989.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Las_Vegas.htm">Las Vegas
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>300</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/New_York_City.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT49192.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/New_York_City.htm">New York City
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>1,411</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Orlando.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT49361.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Orlando.htm">Orlando
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>1,595</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/London.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT158584.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/London.htm">London
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_gb"><span class="hc_icon"></span>United Kingdom</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>3,340</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Miami_Beach.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT47741.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Miami_Beach.htm">Miami Beach
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>448</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Cancun.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT59514.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Cancun.htm">Cancun
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_mx"><span class="hc_icon"></span>Mexico</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>363</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Dubai.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT24399.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Dubai.htm">Dubai
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_ae"><span class="hc_icon"></span>United Arab Emirates</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>919</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Paris.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT43958.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Paris.htm">Paris
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_fr"><span class="hc_icon"></span>France</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>3,898</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/San_Francisco.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT42198.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/San_Francisco.htm">San Francisco
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>446</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/San_Diego.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT47584.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/San_Diego.htm">San Diego
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>485</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+        <div class="hc_i_wrapper">
+            <div class="hc_i">
+                <a href="http://www.hotelscombined.com/Place/Honolulu.htm" class="hc_i_photo" style="background-image:url(https://media.datahc.com/PT48710.jpg?v=02122014a);"></a>
+                <h3><a href="http://www.hotelscombined.com/Place/Honolulu.htm">Honolulu
+                    
+                    </a></h3>
+                <dl>
+                    <dt class="hc_i_addr">Country</dt>
+                    <dd class="hc_i_addr hc_flag_us"><span class="hc_icon"></span>United States</dd>
+                    <dt class="hc_i_numHtls">Number of hotels</dt>
+                    <dd class="hc_i_numHtls"><span>153</span> hotels</dd>
+                </dl>
+                <div class="cDivBoth"></div>
+            </div>
+        </div>
+        
+<div class="cDiv"></div>
+
+<div class="hc_f_btnWrap">
+    <a href="/BrowseByCountry.aspx" class="hc_f_btn_v7 hc_btn_browse">Browse all destinations<span></span></a>
+</div>
+
+            	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+        </div>
+
+        <div class="hc_r_clear"></div>
+    </div>
+    <div class="hc_r_clear"></div>
+</div>
+<div id="hc_r_4">
+    <div class="hc_r_clear"></div>
+</div>
+
+
+                
+
+                <div class="hc_r_clear"></div>
+                 
+                    <div id="hc_r_content_push" class="hc_r_content_push"></div>
+                </form>
+        </div></div> 
+            <div id="hc_r_ftWrap" class="hc_r_ftWrap" data-content="footer">
+                <div id="hc_r_ft">
+                    
+                    <div class="hc_box">
+                        <h2>We guarantee the best price</h2>
+                        <p>Easily find the best price and availability from all major travel websites at once. <a id='hc_bestPriceLink' href='/BestPriceGuaranteePopup.aspx?languageCode=EN' rel='nofollow' data-track='Best Price Guaranteed-Footer' onclick='HC.Common.Popups.bestPriceGuaranteePopupFooter(this);return false;' >We guarantee it.</a></p>
+		            </div>
+		            <div class="hc_box">
+			            <h2>We find more hotels</h2>
+			            <p>Access over 5 million hotel deals from 1000s of travel sites.</p>
+		            </div>
+		            <div class="hc_box hc_last">
+			            <h2>We cover the world</h2>
+			            <p>Over 220 countries, over 40 languages and 120 currencies.</p>
+		            </div>
+		            <div class="cDiv"></div>
+                    
+                    
+<div id="hc_social_links_ft" class="hc_m_v0 hc_social">
+    <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd"></div>	<div class="hc_m_content">
+    <div id="fb-root"></div>
+    <ul>
+         
+            <li class="hc_t_email" 
+                data-social="email" 
+                data-display-order="0" 
+                data-tt="Email this page to a friend" 
+                data-action="popup">
+                <a href="javascript:void(0)" data-analytics-actionname="Email_IconClick"><span class="hc_icon"></span></a>
+            </li>
+        
+            <li class="hc_t_facebook"
+                data-action="render"
+                data-social="facebook"
+                data-display-order="2">
+                <a href="http://www.facebook.com/HotelsCombined" data-analytics-actionname="FB_IconClick" target="_blank"><span class="hc_icon"></span></a>
+                <div data-social-container="facebook" class="hc_social_follow">
+                    <div data-href="http://www.facebook.com/HotelsCombined" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false" class="fb-like"></div>
+                </div>
+            </li>
+        
+            <li 
+                class="hc_t_twitter"
+                data-action="render"
+                data-social="twitter" 
+                data-display-order="3">
+                <a href="http://twitter.com/HotelsCombined" data-analytics-actionname="TW_IconClick" target="_blank"><span class="hc_icon"></span></a>
+                <div data-social-container="twitter" class="hc_social_follow"></div>
+            </li>
+        
+            <li 
+                class="hc_t_googleplus" 
+                data-action="render"
+                data-social="googlePlus" 
+                data-display-order="5" >
+                <a href="https://plus.google.com/106781890121593329185/posts" data-analytics-actionname="G+_IconClick" target="_blank"><span class="hc_icon"></span></a>
+                <div data-social-container="googlePlus" class="hc_social_follow"></div>
+            </li>
+          
+            <li 
+                class="hc_t_youtube"
+                data-action="render"
+                data-social="youTube" 
+                data-display-order="6">
+                <a href="http://www.youtube.com/user/hotelscombined" data-analytics-actionname="YT_IconClick" target="_blank"><span class="hc_icon"></span></a>
+                <div data-social-container="youTube" class="hc_social_follow"></div>
+            </li>
+        
+            <li
+                class="hc_t_pinterest" 
+                data-action="render"
+                data-social="pinterest" 
+                data-tt="Pinterest" 
+                data-display-order="7">
+                <a href="http://pinterest.com/hotelscombined/" data-analytics-actionname="PT_IconClick" target="_blank"><span class="hc_icon"></span></a>
+            </li>
+         
+            <li 
+                class="hc_t_blog" 
+                data-action="render"
+                data-social="blog" 
+                data-display-order="8" 
+                data-tt="HotelsCombined Blog">
+                <a href="http://blog.hotelscombined.com/" data-analytics-actionname="BG_IconClick" target="_blank"><span class="hc_icon"></span></a>
+            </li>
+        
+    </ul>
+    <div class="cDiv"></div>
+    	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+</div>
+
+
+<div id="hc_social_email" data-social-form="email" class="hc_m_v6 hc_s2f">
+    <b class="b1h"></b><b class="b2h"></b><b class="b3h"></b><b class="b4h"></b><div class="hc_m_outer">	<div class="hc_m_hd">		<h2>Email this page to a friend</h2>	</div>	<div class="hc_m_content">
+    <a class="hc_s2f_close" href="javascript:void(0)" data-action="close-email">close</a>
+    <div id="hc_social_email_status" class="hc_s2f_status"></div>
+    <form class="hc_f">
+        <fieldset>
+            <div class="hc_f_t_i hc_f_s2fName">
+                <label for="hc_f_fromName"><span>Your name:</span>
+                    <input type="text" id="hc_f_fromName" maxlength="32" />
+                </label>
+            </div>
+            <div class="hc_f_t_i hc_f_s2fEmail">
+                <label for="hc_f_fromEmail"><span>Your email address:</span>
+                    <input type="text" id="hc_f_fromEmail" maxlength="64" />
+                </label>
+            </div>
+            <div class="cDiv"></div>
+            <div class="hc_f_t_i hc_f_s2fFriendsEmail">
+                <label for="hc_f_toEmail"><span>Friend&#39;s email address:</span>
+                    <input type="text" id="hc_f_toEmail" maxlength="64" />
+                </label>
+            </div>
+            <div class="cDiv"></div>
+            <div class="hc_f_t_i hc_f_s2fSubject">
+                <label for="hc_f_emailSubject"><span>Subject:</span>
+                    <input type="text" id="hc_f_emailSubject" maxlength="64" />
+                </label>
+            </div>
+            <div class="hc_f_t_ta hc_f_s2fMessage">
+                <label for="hc_f_emailMessage"><span>Message:</span>
+                    <textarea rows="5" cols="50" id="hc_f_emailMessage"></textarea>
+                </label>
+            </div>
+            <div class="hc_f_t_cb hc_f_s2fOptin">
+                <label for="hc_f_emailSpecialDeals"><span>Yes, I want to receive special deals by email.</span>
+                    <input type="checkbox" id="hc_f_emailSpecialDeals" name="recieveSpecialDeals" />
+                </label>
+            </div>
+            <div class="hc_f_t_btn hc_f_submit">
+                <a class="hc_f_btn_v1" data-action="send" href="javascript:void(0);">Send email<span></span></a>
+            </div>
+        </fieldset>
+    </form>
+    	</div>	<div class="hc_m_ft"></div></div><b class="b4bh"></b><b class="b3bh"></b><b class="b2bh"></b><b class="b1h"></b>
+</div>
+<script type="text/javascript">
+    HC.Translations.set('EmailFormEmptyFields', 'Please fill in all the fields');
+    HC.Translations.set('EmailFormInvalidEmail', 'Please enter a valid email address');
+    HC.Translations.set('ShareText', 'Check out this page');
+    HC.Translations.set('EmailSuccessText', 'Email was successfully sent');
+    
+    (function () {
+        new HC.Social($("#hc_social_links_ft"), 'en-US', '100');
+
+    })();
+</script>
+
+
+                    <form action="/Newsletter/DealAlertsFooter" class="hc_f" method="post"><input name="__RequestVerificationToken" type="hidden" value="SR2pIsctF7zeNuI7528TP-q0FRfmkar6iJX6wOcjyfnLed-Pgr-enYL6DoAaZay_oMSum5ZWnmfZNvdMLom83_73UH01" /><input style="position: absolute; left: -9999px; width: 1px; height: 1px;" type="submit" /><input data-val="true" data-val-required="The Page field is required." id="hc_f_Page" name="hc_f.Page" type="hidden" value="Home" />    <div id="hc_deals_ftr" class="hc_f">
+        <h2>Never miss the hottest deals:</h2>
+        <fieldset>
+            <div class="hc_f_t_i hc_f_email">
+                
+<input autocapitalize="off" autocomplete="off" data-val="true" data-val-email="Invalid email address." data-val-required="Invalid email address." id="hc_f_EmailDealsFooter" name="hc_f.Email" placeholder="Your email address" spellcheck="false" type="email" value="" />
+
+            </div>
+            <div class="hc_f_t_btn hc_f_submit">
+                <a href="javascript:void(0);" onclick="HC.Common.submitClosest(this)" class="hc_f_btn_v11">Sign up<span></span></a>
+            </div>
+            <div class="cDiv"></div>
+        </fieldset>
+    </div>
+</form><script>(function () {
+	var form = HC.Common.scriptPreviousSibling();
+	HC.Common.attachFormEvents(form);
+})();</script><script>
+    (function () {
+        HC.DealAlerts.init(HC.Common.scriptPreviousSibling());
+    })();
+</script>
+
+                    <div class="cDiv"></div>
+ 
+                    
+
+<div class="hc_sites_names">
+    <h2>We speak your language:</h2>
+    <ul>
+    <li class="hc_li_first">English</li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('DE');" rel="nofollow">Deutsch</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('NL');" rel="nofollow">Nederlands</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('FR');" rel="nofollow">Français</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('ES');" rel="nofollow">Español</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('CZ');" rel="nofollow">Čeština</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('IT');" rel="nofollow">Italiano</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('PT');" rel="nofollow">Português</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('PB');" rel="nofollow">Português Brasileiro</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('NO');" rel="nofollow">Norsk</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('SV');" rel="nofollow">Svenska</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('DA');" rel="nofollow">Dansk</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('HR');" rel="nofollow">Hrvatski</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('RO');" rel="nofollow">Română</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('AR');" rel="nofollow">العربية</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('KO');" rel="nofollow">한국어</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('HE');" rel="nofollow">עברית</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('PL');" rel="nofollow">Polski</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('EL');" rel="nofollow">Ελληνικά</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('RU');" rel="nofollow">Русский</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('TR');" rel="nofollow">Türkçe</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('BG');" rel="nofollow">Български</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('JA');" rel="nofollow">日本語</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('CS');" rel="nofollow">简体中文</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('CN');" rel="nofollow">繁體中文</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('IS');" rel="nofollow">Íslenska</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('CA');" rel="nofollow">Català</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('FI');" rel="nofollow">Suomi</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('HU');" rel="nofollow">Magyar</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('ID');" rel="nofollow">Bahasa Indonesia</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('TH');" rel="nofollow">ภาษาไทย</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('MS');" rel="nofollow">Bahasa Malaysia</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('VI');" rel="nofollow">Tiếng Việt</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('TA');" rel="nofollow">Filipino</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('UK');" rel="nofollow">Українська</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('SR');" rel="nofollow">Srpski</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('SL');" rel="nofollow">Slovenščina</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('LT');" rel="nofollow">Lietuvių</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('LV');" rel="nofollow">Latviski</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('ET');" rel="nofollow">Eesti</a></li><li><a href="javascript:void(0);" onclick="HC.Common.langSwitchFooter('SK');" rel="nofollow">Slovenčina</a></li>
+    </ul>
+    <div class="cDiv"></div>
+</div>
+
+                    
+                    
+                    
+                    <div class="cDiv"></div>
+
+		            <ul class="hc_footerNav">
+			            <li class="hc_li_first"> <a href="/BrowseByCountry.aspx">Browse Hotels By Location</a></li>   
+			            <li><a href="/AboutUs/AboutUs.aspx">About Us</a></li>   
+                        <li><a href="/Affiliates.aspx">Affiliate Program</a></li>   
+			            <li><a href="/Hotelier/Contact.aspx">Hoteliers</a></li>   
+			            <li><a href="/AboutUs/ContactUs.aspx" rel="nofollow">Contact Us</a></li>   
+			            <li><a href="/AboutUs/TermsOfUse.aspx" rel="nofollow">Terms of Use</a></li>   
+			            <li><a href="/AboutUs/Privacy.aspx" rel="nofollow">Privacy</a></li>
+                        <li><a href="/Feedback?languageCode=EN&currencyCode=USD&url=http%3a%2f%2fwww.hotelscombined.com%2fHome.aspx%3flanguageCode%3dEN" target="feedbackWindow" data-track="FeedBack Form-Footer"  onclick="HC.Common.Popups.feedbackPopup(this);return false;" rel="nofollow">Website Feedback</a></li>
+		            </ul>
+                    <p class="hc_copy">&copy;&nbsp;2014</p>
+                    
+                <div class="hc_r_clear"></div>
+            </div>
+            <div class="hc_r_clear"></div>
+        </div>
+    <div class="hc_r_clear"></div>
+</div>
+
+<script type="text/javascript">
+    //<![CDATA[
+    $(function() {
+        (function() {
+            var image = new Image(1, 1);
+            image.src = "https://www.googleadservices.com/pagead/conversion/978509346/?label=r9XoCKbEyAIQorzL0gM&guid=ON&script=0";
+        })();
+    });
+//]]>
+</script>
+
+
+
+<script type="text/javascript">
+    $(function () {
+        (function () {
+            
+            var parameters = { "size": "", "href": "//www.hotelscombined.com"};
+            var showAnnotation = true;
+            parameters["annotation"] = showAnnotation ? "bubble" : "none";
+            window.___gcfg = {
+                lang: 'EN',
+                parsetags: 'explicit'
+            };
+            HC.Common.loadJs({
+                src: 'https://apis.google.com/js/plusone.js',
+                onload: function() {
+                    try {
+                        gapi.plusone.render("hc_social_plus1", parameters);
+                    } catch(e) {
+                    }
+                },
+                id: 'googlePlus'
+            });
+        })();
+    });    
+</script>
+
+    
+
+
+</body>
+</html>

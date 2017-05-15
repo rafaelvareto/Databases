@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<!-- inc/header.php -->
+
+<!--
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Developed By: Kevin Smithwick - kevin@smithwickdesign.com
+
+SmithwickDesign LLC (c)2014 All rights reserved.
+http://www.smithwickdesign.com
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-->
+
+<head>
+<title>GameWad.net | The first and best paid gaming tournament site</title>
+
+<meta name="Robots" content="All">
+<meta name="Revisit-After" content="7 Days">
+<meta name="Distribution" content="Global">
+<meta name="URL" content="http://gamewad.net/index.php">
+
+<meta name="author" content="Kevin Smithwick">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="GameWad uses the #1 online gaming platform, Steam, to connect you with gamers from across the world in cash tournaments where you get paid based on your skill.  With a growing number of games and game modes to choose from, there's plenty of opportunity for you to make a killing. It's simple: Log in, select a lobby, and get paid to play." />
+<meta name="keywords" content="gamewad,steam,paid tournament,counter strike, counter strike global offensive,css,csgo,paid for gaming,steam paid,paid for csgo,cs:go" />
+
+<link rel="shortcut icon" href="/images/fav_icon.png">
+<link href="/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="/css/layout.min.css" rel="stylesheet" type="text/css">
+<link href="/css/colors/purple.css" rel="stylesheet" type="text/css">
+<link href="/css/styles.css?v=1" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="/js/ajax.js?v=4"></script>
+<script type="text/javascript" src="/js/scripts.js?v=10"></script>
+<script type="text/javascript" src="/js/gamewad.js?v=3"></script>
+
+<script type="text/javascript" src="/jquery/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/jquery/jquery-ui-1.8.13.min.js"></script>
+<script type="text/javascript" src="/jquery/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/jquery/js/jquery.countdown.js"></script>
+</head>
+
+<body>
+
+<!-- END inc/header.php -->
+<!-- inc/header_tile.php -->
+
+<!-- END inc/header_tile.php -->
+<!-- inc/toolbar.php -->
+
+
+
+	
+<header style="padding-top: 8px;">
+	<div class="container">
+		<div class="logo pull-left"><a href="/"><img src="/images/logo.png" height="110" alt="GameWad.net"></a></div>
+				<div class="pull-right">
+			<a href="/november_tournament"><img src="/images/november_tournament.jpg" style="height: 120px; width: auto; margin-top: -5px;"></a>
+		</div>
+	</div>
+
+	<div id="navigation">
+		<div class="container">
+			<ul>
+				<li><a href="/">Home</a></li>
+								
+				<li><a href="/forum" target="_blank">Forum</a></li>				
+				<li><a href="/faq">FAQ</a></li>
+				<li><a href="/about">About Us</a></li>
+				<li><a href="/help">Help Guide</a></li>
+				
+								
+							</ul>
+
+							<div class="pull-right" style="padding-top: 7px;">
+					<a href="https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=http%3A%2F%2Fgamewad.net%2Flogin.php&amp;openid.realm=http%3A%2F%2Fgamewad.net&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select"><img src="/images/sits_small.png"></a>
+				</div>
+						
+			
+					</div>
+		
+	</div>
+</header>
+
+<div class="container">
+			<a href="https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=http%3A%2F%2Fgamewad.net%2Flogin.php&amp;openid.realm=http%3A%2F%2Fgamewad.net&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select"><img src="/images/main_banner.jpg"></a>
+	</div>
+
+<!-- END inc/toolbar.php -->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53a06ebf3b3660f8" async="async"></script>
+
+<div class="container">
+	<div id="wrapper" class="clearfix">
+		<div class="col-md-8 no-padding">
+			<div class="padding">
+				
+				
+							
+							
+								
+				<ul class="section-title no-margin-top clearfix">
+					<li><h3>Current Tournaments</h3></li>
+				</ul>
+				
+											
+				<section class="clearfix">
+					<div class="pull-left col-md-2 no-padding"><img src="/images/game_icons/icon_csgo.png" alt="Counter Strike Global Offensive" width="110"></div>
+					<div class="col-md-10">
+						<h3><a href="/game/5v5Competitive?game_id=1">Counter-Strike: Global Offensive</a></h3>
+						<p>
+							<span style="font-weight: bold; font-size: 12pt;">5v5 Competitive :: Winner Takes All :: Entry Fee $5.00</span><br>
+							<b>Classic Competitive</b><br>
+							5 Rounds Per Game / 3 Games
+						</p>
+						<div class="details">
+							<i class="fa fa-calendar-o"></i> Possible Earnings: <b>$45.00</b> &nbsp; <span class="fa fa-caret-right"></span> &nbsp; <i class="fa fa-users" title="Users In Lobby"></i><a href="/game/5v5Competitive?game_id=1" title="Users In Lobby">0 / 10</a><div class="pull-right" style="margin-top: -15px;"><a href="/game/5v5Competitive?game_id=1" class="btn btn-primary btn-flat btn-mini joinBtn"><i class="fa fa-plus" style="color: #FFF;"></i> Join</a></div>	</div>
+					</div>
+				</section><section class="clearfix">
+					<div class="pull-left col-md-2 no-padding"><img src="/images/game_icons/icon_csgo.png" alt="Counter Strike Global Offensive" width="110"></div>
+					<div class="col-md-10">
+						<h3><a href="/game/ArmsRace?game_id=2">Counter-Strike: Global Offensive</a></h3>
+						<p>
+							<span style="font-weight: bold; font-size: 12pt;">Arms Race :: Winner Takes All :: Entry Fee $5.00</span><br>
+							<b>Arms Race</b><br>
+							1 Rounds Per Game / 3 Games
+						</p>
+						<div class="details">
+							<i class="fa fa-calendar-o"></i> Possible Earnings: <b>$45.00</b> &nbsp; <span class="fa fa-caret-right"></span> &nbsp; <i class="fa fa-users" title="Users In Lobby"></i><a href="/game/ArmsRace?game_id=2" title="Users In Lobby">0 / 10</a><div class="pull-right" style="margin-top: -15px;"><a href="/game/ArmsRace?game_id=2" class="btn btn-primary btn-flat btn-mini joinBtn"><i class="fa fa-plus" style="color: #FFF;"></i> Join</a></div>	</div>
+					</div>
+				</section><section class="clearfix">
+					<div class="pull-left col-md-2 no-padding"><img src="/images/game_icons/icon_csgo.png" alt="Counter Strike Global Offensive" width="110"></div>
+					<div class="col-md-10">
+						<h3><a href="/game/5v5CompetitiveTeamPay?game_id=16">Counter-Strike: Global Offensive</a></h3>
+						<p>
+							<span style="font-weight: bold; font-size: 12pt;">5v5 Competitive :: Team Pay :: Entry Fee $5.00</span><br>
+							<b>Classic Competitive</b><br>
+							5 Rounds Per Game / 3 Games
+						</p>
+						<div class="details">
+							<i class="fa fa-calendar-o"></i> Possible Earnings: <b>$9.00</b> &nbsp; <span class="fa fa-caret-right"></span> &nbsp; <i class="fa fa-users" title="Users In Lobby"></i><a href="/game/5v5CompetitiveTeamPay?game_id=16" title="Users In Lobby">0 / 10</a><div class="pull-right" style="margin-top: -15px;"><a href="/game/5v5CompetitiveTeamPay?game_id=16" class="btn btn-primary btn-flat btn-mini joinBtn"><i class="fa fa-plus" style="color: #FFF;"></i> Join</a></div>	</div>
+					</div>
+				</section><section class="clearfix">
+					<div class="pull-left col-md-2 no-padding"><img src="/images/game_icons/icon_csgo.png" alt="Counter Strike Global Offensive" width="110"></div>
+					<div class="col-md-10">
+						<h3><a href="/game/ArmsRaceTeamPay?game_id=17">Counter-Strike: Global Offensive</a></h3>
+						<p>
+							<span style="font-weight: bold; font-size: 12pt;">Arms Race :: Team Pay :: Entry Fee $5.00</span><br>
+							<b>Arms Race</b><br>
+							1 Rounds Per Game / 3 Games
+						</p>
+						<div class="details">
+							<i class="fa fa-calendar-o"></i> Possible Earnings: <b>$9.00</b> &nbsp; <span class="fa fa-caret-right"></span> &nbsp; <i class="fa fa-users" title="Users In Lobby"></i><a href="/game/ArmsRaceTeamPay?game_id=17" title="Users In Lobby">0 / 10</a><div class="pull-right" style="margin-top: -15px;"><a href="/game/ArmsRaceTeamPay?game_id=17" class="btn btn-primary btn-flat btn-mini joinBtn"><i class="fa fa-plus" style="color: #FFF;"></i> Join</a></div>	</div>
+					</div>
+				</section>
+							</div>
+		</div>
+
+		
+<!-- sidebar section -->
+<div class="col-md-4 no-padding right-sidebar">
+	<div id="sidebar" class="sidebar-alignment">
+						
+						
+						
+		<!-- leader board -->
+		<div class="sidebar-section">
+			<div class="title"><i class="fa fa-gamepad"></i> Leader Board</div>
+							<div class="tab-content">
+				<ul id="all" class="tab-pane fade in active content">
+					<li class="clearfix">
+										<div class="number pull-left"><img src="http://media.steampowered.com/steamcommunity/public/images/avatars/ee/ee8fe689bcefda17712b7c18268651a33ff246aa_full.jpg" style="width: 30px; height: auto; margin-top: 0px; important;border-radius:5px;-webkit-border-radius:5px;" title="Tako"></div>
+										<div class="details">
+											<div class="pull-left">
+												<h5><a href="http://steamcommunity.com/profiles/76561197972362144" target="_blank">Tako</a></h5>
+												<span class="category">Current Rank: <b>1</b></span>
+												<div class="sidebar-info line-height">Last Play: Nov 18th</div>
+											</div>
+											<div class="rate pull-right"><span class="label label-success" title="Total Earnings: $39.50">$39.50</span></div>
+											<div class="rate pull-right"><span class="label label-success" title="Win Ratio 68%">68%</span></div>
+										</div>
+									</li><li class="clearfix">
+										<div class="number pull-left"><img src="http://media.steampowered.com/steamcommunity/public/images/avatars/e0/e0e41e8d7a270a3653c0d1dfab5b41a88a89a30f_full.jpg" style="width: 30px; height: auto; margin-top: 0px; important;border-radius:5px;-webkit-border-radius:5px;" title="Jawz"></div>
+										<div class="details">
+											<div class="pull-left">
+												<h5><a href="http://steamcommunity.com/profiles/76561197970625234" target="_blank">Jawz</a></h5>
+												<span class="category">Current Rank: <b>2</b></span>
+												<div class="sidebar-info line-height">Last Play: Nov 18th</div>
+											</div>
+											<div class="rate pull-right"><span class="label label-success" title="Total Earnings: $13.50">$13.50</span></div>
+											<div class="rate pull-right"><span class="label label-success" title="Win Ratio 80%">80%</span></div>
+										</div>
+									</li><li class="clearfix">
+										<div class="number pull-left"><img src="http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg" style="width: 30px; height: auto; margin-top: 0px; important;border-radius:5px;-webkit-border-radius:5px;" title="mronindia"></div>
+										<div class="details">
+											<div class="pull-left">
+												<h5><a href="http://steamcommunity.com/profiles/76561198162185687" target="_blank">mronindia</a></h5>
+												<span class="category">Current Rank: <b>3</b></span>
+												<div class="sidebar-info line-height">Last Play: Nov 18th</div>
+											</div>
+											<div class="rate pull-right"><span class="label label-success" title="Total Earnings: $10.50">$10.50</span></div>
+											<div class="rate pull-right"><span class="label label-warning" title="Win Ratio 40%">40%</span></div>
+										</div>
+									</li><li class="clearfix">
+										<div class="number pull-left"><img src="http://media.steampowered.com/steamcommunity/public/images/avatars/db/db6fcf8ff926f08074d1bc1f6b4942732145da49_full.jpg" style="width: 30px; height: auto; margin-top: 0px; important;border-radius:5px;-webkit-border-radius:5px;" title="Shhhh We Are Rushing B Site"></div>
+										<div class="details">
+											<div class="pull-left">
+												<h5><a href="http://steamcommunity.com/profiles/76561198083984365" target="_blank">Shhhh We Are Rushing B Site</a></h5>
+												<span class="category">Current Rank: <b>4</b></span>
+												<div class="sidebar-info line-height">Last Play: Nov 20th</div>
+											</div>
+											<div class="rate pull-right"><span class="label label-success" title="Total Earnings: $0.00">$0.00</span></div>
+											<div class="rate pull-right"><span class="label label-danger" title="Win Ratio 0%">0%</span></div>
+										</div>
+									</li><li class="clearfix">
+										<div class="number pull-left"><img src="http://media.steampowered.com/steamcommunity/public/images/avatars/84/848039fecc7abe6371b1f145e3a4e374a38d5296_full.jpg" style="width: 30px; height: auto; margin-top: 0px; important;border-radius:5px;-webkit-border-radius:5px;" title="kangoku kurumi"></div>
+										<div class="details">
+											<div class="pull-left">
+												<h5><a href="http://steamcommunity.com/profiles/76561198073728847" target="_blank">kangoku kurumi</a></h5>
+												<span class="category">Current Rank: <b>5</b></span>
+												<div class="sidebar-info line-height">Last Play: Nov 20th</div>
+											</div>
+											<div class="rate pull-right"><span class="label label-success" title="Total Earnings: $0.00">$0.00</span></div>
+											<div class="rate pull-right"><span class="label label-danger" title="Win Ratio 0%">0%</span></div>
+										</div>
+									</li>		
+				</ul>
+								
+			</div>
+		</div>
+		<!-- ./leader board -->
+
+									
+		<!-- latest news -->
+		<div class="sidebar-section">
+			<div class="title"><i class="fa fa-file-text-o"></i> Latest News</div>
+			<ul class="content">
+				<!-- row #1 -->
+				<li class="clearfix">
+					<div class="details col-md-12 no-padding">
+						<div class="icon-nav pull-left">
+							<i class="fa fa-rss"></i>
+						</div>
+						<div class="pull-left">
+							<h5><a href="/november_tournament">November Leader Tournament</a></h5>
+							<div class="sidebar-info line-height">November 1st - November 30th, 2014</div>
+						</div>
+					</div>
+				</li>								
+			</ul>
+		</div>
+		<!-- ./latest news -->
+								
+		<!-- facebook -->
+		<div class="sidebar-section">
+			<div class="title"><i class="fa fa-thumbs-up"></i> Facebook</div>
+			<div class="facebook-like-box">
+				<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fgamewad&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=698909696834254" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
+			</div>
+		</div>
+		<!-- ./facebook -->
+	</div>
+</div>
+<!-- ./sidebar section -->
+		
+	</div>
+</div>
+	
+<!-- inc/footer.php -->
+
+<footer>
+	<div class="footer-bottom">
+		<div class="container">
+			<ul>
+				<li>&copy; 2014 GAMEWAD. All rights reserved.</li>
+				<li><a href="/">Privacy Policy</a></li>
+				<li><a href="/about">About Us</a></li>
+				<li><a href="/faq">FAQ</a></li>
+				<li><a href="/terms">Terms of Use</a></li>
+			</ul>
+		</div>
+	</div>
+</footer>	
+
+<!-- Javascript -->
+<script src="/js_new/bootstrap.min.js"></script>
+<script src="/js_new/styleswitcher.js"></script>
+<script src="/js_new/jquery.bxslider.min.js"></script>
+<script src="/js_new/jquery.prettyPhoto.js"></script>
+<script src="/js_new/holder.js"></script>
+<script src="/js_new/custom.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56335197-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "7RK2HV3KONBW7A6N4CXRED";
+adroll_pix_id = "EQ66F3LXUVAE5KTDLUUAV6";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+</body>
+</html>
+
+<!-- END inc/footer.php -->

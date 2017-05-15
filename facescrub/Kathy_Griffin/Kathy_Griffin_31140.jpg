@@ -1,0 +1,1303 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<!-- A ZERGE design (http://www.color-theme.com - http://themeforest.net/user/ZERGE) - Proudly powered by WordPress (http://wordpress.org) -->
+
+<head>
+
+
+  
+	
+
+	<title>Naughty But Nice Rob - Always a pinch, never a punch!</title>	
+
+	
+
+	<meta name="keywords" content="Naughty Gossip" />
+
+	<meta name="description" content="Always a pinch, but never a punch!" />  
+
+	
+
+ 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<!-- Mobile Specific Metas  ================================================== -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.03">
+
+	<link rel="pingback" href="http://www.naughtygossip.com/xmlrpc.php" /> 
+
+	
+
+	
+    <!-- Fav and touch icons -->
+
+    <link rel="shortcut icon" href="http://naughtybutnicerob.com/wp-content/uploads/2013/03/rs.png">
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.naughtygossip.com/wp-content/themes/wp-crossroad/img/icons/apple-touch-icon-144-precomposed.png">
+
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.naughtygossip.com/wp-content/themes/wp-crossroad/img/icons/apple-touch-icon-114-precomposed.png">
+
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.naughtygossip.com/wp-content/themes/wp-crossroad/img/icons/apple-touch-icon-72-precomposed.png">
+
+    <link rel="apple-touch-icon-precomposed" href="http://www.naughtygossip.com/wp-content/themes/wp-crossroad/img/icons/apple-touch-icon-57-precomposed.png">
+
+	
+		
+
+			
+
+			
+
+	
+	
+	    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'naughtybutnicerob';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<style type="text/css"> .arve-maxwidth-wrapper {  width: 100%;  } .arve-embed-container { position: relative; padding-bottom: 56.25%; /* 16/9 ratio */ /* padding-top: 30px; */ /* IE6 workaround */ height: 0; overflow: hidden; margin-bottom: 20px; } * html .arve-embed-container { margin-bottom: 45px; margin-bot\tom: 0; } .arve-embed-container a{ z-index: 9999; } .arve-embed-container iframe, .arve-embed-container object, .arve-embed-container embed { z-index: 5000; } .arve-inner { display: block; position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .arve-thumb-wrapper { /** background image is applied with inline CSS */ background-position: center center; behavior: url(http://www.naughtygossip.com/wp-content/plugins/advanced-responsive-video-embedder/js/backgroundsize.min.htc); /** IE polyfill for background size */ background-size: cover; background-color: #000; width: 530px; height: 353px; position: relative; margin-bottom: 20px; } .arve-play-background { background: transparent url(http://www.naughtygossip.com/wp-content/plugins/advanced-responsive-video-embedder/img/play.png) no-repeat center center; } .arve-hidden { display: none; } .arve-hidden-obj { width: 100%; height: 100%; } .arve-fakethumb { background-color: transparent; } </style>
+<link rel='stylesheet' id='abel_google-fonts-css'  href='http://fonts.googleapis.com/css?family=Abel&#038;ver=3.8' type='text/css' media='screen' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/css/bootstrap.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-responsive-css'  href='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/css/bootstrap-responsive.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/style.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css-css'  href='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/css/prettyphoto.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-options-css'  href='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/css/options.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.naughtygossip.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-video-embeds-css'  href='http://www.naughtygossip.com/wp-content/plugins/responsive-video-embeds/css/responsive-video-embeds.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-video-light-css'  href='http://www.naughtygossip.com/wp-content/plugins/responsive-video-light/css/responsive-videos.css?ver=20130111' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://www.naughtygossip.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='sharedaddy-css'  href='http://www.naughtygossip.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=2.2.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Naughty Gossip" />
+<meta property="og:description" content="Always a pinch, but never a punch!" />
+<meta property="og:url" content="http://www.naughtygossip.com/" />
+<meta property="og:site_name" content="Naughty Gossip" />
+<!--[if lt IE 9]><link rel="stylesheet" id="ie-fix-css"  href="http://www.naughtygossip.com/wp-content/themes/wp-crossroad/css/ie-fix.css" type="text/css" media="all" /> <![endif]-->
+<!-- All in One SEO Pack 2.0 by Michael Torbert of Semper Fi Web Design[210,278] -->
+<meta name="description" content="celebrity gossip, celebrity news, exclusives, breaking news, hollywood scoop, celebrity buzz, naughty but nice rob, rob shuter" />
+
+<meta name="keywords" content="celebrity gossip, celebrity news, exclusives, breaking news, hollywood scoop, celebrity buzz, celebrity, gossip, news, buzz, scoop, exclusive, naughty but nice rob, rob shuter, shooter, schuter, nbn, nbnrob, gossip, table, vh1, celeb, celebs, breaking" />
+
+<link rel="canonical" href="http://www.naughtygossip.com/" />
+<!-- /all in one seo pack -->
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://www.naughtygossip.com/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=14" />
+			
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+
+    <!--[if lt IE 9]>
+
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+	  <script src="https://raw.github.com/scottjehl/Respond/master/respond.min.js"></script>      
+
+    <![endif]-->
+
+	
+
+	
+<style>
+
+#top-block-bg {
+
+background: url(http://naughtybutnicerob.com/wp-content/themes/wp-crossroad/img/bg1.jpg);
+
+background-repeat: repeat-x;
+
+/*height: 164px !important;*/
+
+}
+
+body, .body-class {
+
+	/*background: url(http://naughtybutnicerob.com/wp-content/uploads/2013/02/nbn_background3.jpg) center top no-repeat fixed; 250626*/
+
+	background-color: #fff;}
+
+</style>
+
+<!--ContentUnlock Tag // Environment - Prod // Website: naughtybutnicerob -->
+
+ 
+
+<!--<script type="text/javascript" src="http://cu.genesismedia.com/pub/naughtybutnicerob/config/cuconfig.js"></script>
+-->
+ 
+
+ <script type="text/javascript">
+
+    window.onload=function(){
+
+        var ua = navigator.userAgent;
+
+        if(ua.indexOf("Android")>=0){
+
+            var androidversion=parseFloat(ua.slice(ua.indexOf("Android")+8)); 
+
+            if(androidversion<=2.3){
+
+                document.getElementsByName("viewport")[0].setAttribute("content","width=device-width, initial-scale=1.02");
+
+            }
+
+        }
+
+    };
+
+</script>
+
+ 
+
+ 
+
+<!-- End of ContentUnlock Tags -->
+
+<script type="text/javascript">
+
+ window._taboola = window._taboola || [];
+
+_taboola.push({article:'auto'}); 
+
+!function (e, f, u) {
+
+    e.async = 1;
+
+    e.src = u;
+
+    f.parentNode.insertBefore(e, f);
+
+}(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/naughtybutnicerob/loader.js');
+
+</script>
+
+<script type='text/javascript'>
+
+var googletag = googletag || {};
+
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+
+var gads = document.createElement('script');
+
+gads.async = true;
+
+gads.type = 'text/javascript';
+
+var useSSL = 'https:' == document.location.protocol;
+
+gads.src = (useSSL ? 'https:' : 'http:') + 
+
+'//www.googletagservices.com/tag/js/gpt.js';
+
+var node = document.getElementsByTagName('script')[0];
+
+node.parentNode.insertBefore(gads, node);
+
+})();
+
+</script>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/25135005/nbnr_any_300x250', [300, 250], 'div-gpt-ad-1398540938524-0').addService(googletag.pubads());
+
+googletag.defineSlot('/25135005/nbnr_any_728x90_atf', [728, 90], 'div-gpt-ad-1398540938524-1').addService(googletag.pubads());
+
+googletag.defineSlot('/25135005/nbnr_any_728x90_btf', [728, 90], 'div-gpt-ad-1398540938524-2').addService(googletag.pubads());
+
+googletag.defineSlot('/25135005/nbnr_any_728x90_atf', [728, 90], 'div-gpt-ad-1416196980576-0').addService(googletag.pubads());
+
+googletag.defineSlot('/25135005/nbnr_any_300x250', [300, 250], 'div-gpt-ad-1416200645309-0').addService(googletag.pubads());
+
+googletag.defineSlot('/25135005/nbnr_any_160x600', [160, 600], 'div-gpt-ad-1416202392211-0').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+
+googletag.enableServices();
+
+});
+
+</script>
+
+</head>
+
+<body class="home blog body-class">
+
+<script type="text/javascript"> Caspion = { 'cfg': { 'id': 'naughtybutnicerobcom' } };</script>
+
+<script type="text/javascript" src="//gae.caspion.com/cas.js"></script>							
+
+<!-- Start Top Content -->
+
+  <div id="header" itemscope itemtype="http://schema.org/WPHeader" >
+
+    <!-- START TOP BLOCK -->
+
+    <div id="top-block-bg">
+
+  	  <div class="container">
+
+        <div class="row-fluid">
+
+          <div class="logo-block">
+
+      	    <div class="row-fluid">
+
+      	      <div class="span20">
+
+      	  	    <div class="row-fluid">
+
+    	    	  <div class="span20">
+
+				    <div id="logo">
+
+                    <div style="width:100%; float:center">
+
+		  			  
+    							<h1 style="text-align:center; width:100%"><a href="http://www.naughtygossip.com"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/10/Naughty-Gossip-4a.jpg" alt="" class="logocl"/></a></h1>
+
+							
+				    </div></div> <!-- #logo -->
+
+                    
+
+                    <div id="nav2" style="width:100%; float:center; margin-top:6px; font-family: 'Abel', sans-serif, Helvetica;
+
+text-transform: uppercase;"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="sf-menu"><li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="http://naughtygossip.com/">Home</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.naughtygossip.com/contact/">Contact</a></li>
+</ul></div>      </div>
+
+    	    	  </div><!-- /span12 -->
+
+    	  	    </div><!-- /row-fluid -->
+
+      	      </div><!-- /span12 -->
+
+    	    </div><!-- /row-fluid -->
+
+          </div><!-- /span3 -->
+
+          <!-- /span9 -->
+
+        </div><!-- /row-fluid -->
+
+	  </div><!-- /container -->      
+
+    </div><!-- /top-block-bg -->	
+
+    <!-- END TOP BLOCK -->
+
+	
+
+  <!-- START MAIN MENU -->
+
+    <div id="mainmenu-block-bg">
+
+	<div class="container">
+
+	  <div class="row-fluid">
+
+	    <div class="span12">	  
+
+		  <div class="navigation">
+
+		    <div id="menu">
+
+		  	  <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="http://naughtygossip.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.naughtygossip.com/contact/">Contact</a></li>
+</ul></div>             
+
+		    </div> <!-- /menu -->
+
+		  </div>  <!-- /navigation -->
+
+		</div> <!-- /span12 -->
+
+      </div><!-- /row-fluid -->
+
+  	</div> <!-- container -->
+
+  </div>
+
+ <!-- mainmenu-block-bg -->	
+
+  </div> <!-- #header -->
+
+  <!-- nbnr_any_728x90_atf -->
+
+<!--<div id='div-gpt-ad-1398540938524-1' style='width:728px; height:90px; margin:0 auto; margin-top:15px;'>
+
+<script type='text/javascript'>
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398540938524-1'); });
+
+</script>
+
+</div>
+-->
+  
+
+  <div class="cunlock_main_content">
+
+
+  <!-- START CONTENT ENTRY -->
+  <div id="content" class="container">
+  
+	<!-- START TOP WIDGETS AREA -->
+		  <div class="row-fluid">
+	    <div class="span12">
+			
+		<div class="widget clearfix"><div class="row-fluid margin-25t"><div class="span12">		
+
+
+<script type="text/javascript">
+jQuery.noConflict()(function($){
+	$(document).ready(function() {
+
+  $('#carousel-531776201').flexslider({
+    animation: "slide",
+    animationLoop: true,
+    itemWidth: 270,
+    itemMargin: 30,
+	minItems: 1,
+	maxItems: 4,   
+    slideshow: true,
+    controlNav: false
+  });
+   
+});
+}); 
+
+</script>
+		
+	<div id="carousel-531776201" class="flexslider">
+	  <ul class="slides">
+		
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/RichieSambora640-270x190.jpg" alt="&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  &#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/rs_560x415-141023130605-1024-teresa-giudice-new-jersey.ls_.102314-270x190.jpg" alt="Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/6a00d8341c2ca253ef01b7c714a77c970b-550wi-270x190.png" alt="Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/Kim-Kardashian-IVF-301x400-270x190.jpg" alt="Kim Kardashian: We’ll Do IVF To Get Pregnant Again" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Kim Kardashian: We’ll Do IVF To Get Pregnant Again			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-02-at-12.34.02-PM-270x190.png" alt="Bethenny Being Criticized For Being Too Nice! WATCH" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Bethenny Being Criticized For Being Too Nice! WATCH			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/the-victorias-secret-angels-have-arrived-in-london-prince-harry-invited/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/rs_634x815-141201182338-634-man-of-the-world-prince-harry-cover.jw_.12114-270x190.jpg" alt="The Victoria&#8217;s Secret Angels Have Arrived In London! &#8211; PRINCE HARRY INVITED!" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/the-victorias-secret-angels-have-arrived-in-london-prince-harry-invited/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  The Victoria&#8217;s Secret Angels Have Arrived In London! &#8211; PRINCE HARRY INVITED!			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/harry-styles-planning-to-leave-one-direction-watch/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/Harry-Styles-This-Is-Us-270x190.jpg" alt="Harry Styles Planning To Leave One Direction! WATCH" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/harry-styles-planning-to-leave-one-direction-watch/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Harry Styles Planning To Leave One Direction! WATCH			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/is-kathy-griffins-makeover-of-fashion-police-a-good-idea-watch/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-01-at-7.32.29-PM-270x190.png" alt="Is Kathy Griffin&#8217;s Makeover Of &#8216;Fashion Police&#8217; A Good Idea? &#8211; WATCH" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/is-kathy-griffins-makeover-of-fashion-police-a-good-idea-watch/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Is Kathy Griffin&#8217;s Makeover Of &#8216;Fashion Police&#8217; A Good Idea? &#8211; WATCH			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/julia-roberts-almosts-caused-bradley-cooper-to-quit-acting-noooooo/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/rs_634x890-141202064231-0115VF_JAN_2015_cover-270x190.jpg" alt="Julia Roberts Almosts Caused Bradley Cooper To QUIT Acting! NOOOOOO" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/julia-roberts-almosts-caused-bradley-cooper-to-quit-acting-noooooo/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Julia Roberts Almosts Caused Bradley Cooper To QUIT Acting! NOOOOOO			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+		
+	    <li>
+	      <div class="carousel-thumb">
+				      
+			  <a href="http://www.naughtygossip.com/prince-harry-finally-talks-about-infamous-naked-vegas-trip/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/rs_634x815-141201182338-634-man-of-the-world-prince-harry-cover.jw_.12114-270x190.jpg" alt="Prince Harry Finally Talks About Infamous NAKED Vegas Trip" /></a>
+			  
+						
+<!--		    <div class="mask"></div>  
+		    <a class="mask" href="http://www.naughtygossip.com/prince-harry-finally-talks-about-infamous-naked-vegas-trip/"></a> -->
+  			  
+			
+						
+			<div class="title-mask">
+			  Prince Harry Finally Talks About Infamous NAKED Vegas Trip			</div><!-- title-mask -->
+			
+		  </div><!-- /carousel-thumb -->
+		  
+	    </li>
+	
+	  </ul>
+	</div> <!-- /flexslider -->
+
+		</div><!-- span12 --></div><!-- row-fluid --></div><!-- .widget -->	    </div> <!-- /span12 -->	
+	  </div> <!-- /row-fluid -->
+		
+	<!-- END TOP WIDGETS AREA -->
+	
+	
+	
+    	  <!-- LEFT + CONTENT + RIGHT -->
+      <div class="row-fluid">
+        <div class="span3">
+		  
+
+
+
+
+		<div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="colored-border" style="border-top-color:#ff00cc;"></div><div class="widget-title"><h2 style="text-align: center;">Connect With Rob</h2></div><!-- widget-title -->
+	
+
+		
+
+
+	<div class="social-center">
+
+		<ul id="social-counter" style="border-top: 1px solid #EBECED; padding-top: 15px; padding-left:55px;">
+		
+
+		
+		<li class="facebook-social">
+
+		  <a href="https://www.facebook.com/NaughtButNice"><span class="c-icon"></span>
+
+		  <span class="social">21,678</span><br/><span class="fans">Fans</span></a>
+
+		</li>
+
+		
+
+
+		
+		<li class="twitter-social">
+
+		  <a href="http://twitter.com/NaughtyNiceRob"><span class="c-icon"></span>
+
+			<span class="social">77,892</span><br/><span class="fans">Followers</span></a>
+
+		</li>
+
+		
+
+
+		
+
+
+		
+		
+
+		</ul>
+
+	</div><!-- social-center -->
+
+
+
+		</div><!-- .widget --><div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="colored-border" style="border-top-color:#ff00cc;"></div>		
+		<!-- BEGIN WIDGET -->
+				
+				  <div class="text-widget" style="overflow: hidden;"><div id='taboola-left-rail-mix'></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'thumbs-4r-lr', container:'taboola-left-rail-mix', placement:'left-rail', target_type:'mix'});
+</script></div>
+			
+		<!-- END WIDGET -->
+		</div><!-- .widget -->        </div><!-- span3 -->
+        <div class="span6">
+		  <div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="row-fluid"><div class="span12 button-blog">
+
+
+		  <div class="widget-title"><h2>Latest Posts</h2></div><!-- widget-title --><div id="entry-blog">												<article id="post-66851" class="post-66851 post type-post status-publish format-standard hentry category-big-boy tag-bed tag-bon-jovi tag-great tag-nikki-lund tag-richie-sambora tag-sex entry-post">	
+				  <div class="title-block">
+					
+			  		<span class="category-item" style="background-color:#ff00cc"><a href="http://www.naughtygossip.com/category/big-boy/" title="View all posts in BIG BOY!">BIG BOY!</a></span>
+					<span class="meta-time">December 2, 2014</span>															  <div class="meta-share">
+					    <div class="entry-share">
+  					      <span class="share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!&url=http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/"></a></span>
+					      <span class="share-fb"><a href="http://www.facebook.com/sharer.php?u=http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/" target="_blank"></a></span>
+					      <span class="share-google"><a href="https://plus.google.com/share?url=http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/" target="_blank"></a></span>
+					    </div><!-- entry-share -->
+					    <a href="#">Share</a>
+					  </div><!-- meta-share -->
+									  </div> <!-- /title-block -->
+
+				  <h2 class="entry-title"><a href="http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/" title="Permalink to &#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!">&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!</a></h2>
+
+				  <div class="entry-content">
+				    				  <!-- start post thumb -->
+				  <div class="entry-thumb">
+ 					    
+                    	 <a href="http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/RichieSambora640-730x410.jpg" alt="&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!" /></a>
+					    				  </div> <!-- /entry-thumb -->
+			  	                      <div style="margin-top:10px;">
+					  <p>Designer Nikki Lund is finally admitting that she and Bon Jovi rocker Richie Sambora have been dating off-and-on for eight years, RumorFix is reporting exclusively. Nikki tells RumorFix, “I got&#8230;</p>
+<a style="margin-left: 5px;display: inline-block;" href="http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/">Read More</a>                      </div>
+				   				  </div><!-- entry-content -->
+
+
+
+					
+ 					
+ 					
+
+	                  									
+
+						
+						
+				</article> <!-- /post ID -->
+
+							<div id='div-gpt-ad-1416200645309-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1416200645309-0'); });
+</script>
+</div>
+												<article id="post-66848" class="post-66848 post type-post status-publish format-standard hentry category-bye-bye tag-eresa-giudice tag-film tag-not tag-prison tag-real-housewives-of-new-jersey entry-post">	
+				  <div class="title-block">
+					
+			  		<span class="category-item" style="background-color:#ff00cc"><a href="http://www.naughtygossip.com/category/bye-bye/" title="View all posts in BYE BYE">BYE BYE</a></span>
+					<span class="meta-time">December 2, 2014</span>															  <div class="meta-share">
+					    <div class="entry-share">
+  					      <span class="share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison&url=http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/"></a></span>
+					      <span class="share-fb"><a href="http://www.facebook.com/sharer.php?u=http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/" target="_blank"></a></span>
+					      <span class="share-google"><a href="https://plus.google.com/share?url=http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/" target="_blank"></a></span>
+					    </div><!-- entry-share -->
+					    <a href="#">Share</a>
+					  </div><!-- meta-share -->
+									  </div> <!-- /title-block -->
+
+				  <h2 class="entry-title"><a href="http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/" title="Permalink to Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison">Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison</a></h2>
+
+				  <div class="entry-content">
+				    				  <!-- start post thumb -->
+				  <div class="entry-thumb">
+ 					    
+                    	 <a href="http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/rs_560x415-141023130605-1024-teresa-giudice-new-jersey.ls_.102314.jpg" alt="Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison" /></a>
+					    				  </div> <!-- /entry-thumb -->
+			  	                      <div style="margin-top:10px;">
+					  <p>Teresa Giudice will not be stepping in front of the Real Housewives of New Jersey cameras before heading to prison. In January, she&#8217;s set to report for a 15-month prison&#8230;</p>
+<a style="margin-left: 5px;display: inline-block;" href="http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/">Read More</a>                      </div>
+				   				  </div><!-- entry-content -->
+
+
+
+					
+ 					
+ 					
+
+	                  									
+
+						
+						
+				</article> <!-- /post ID -->
+
+															<article id="post-66844" class="post-66844 post type-post status-publish format-standard hentry category-drama-3 tag-covers tag-hate tag-madonna tag-naked entry-post">	
+				  <div class="title-block">
+					
+			  		<span class="category-item" style="background-color:#ff00cc"><a href="http://www.naughtygossip.com/category/drama-3/" title="View all posts in DRAMA!">DRAMA!</a></span>
+					<span class="meta-time">December 2, 2014</span>															  <div class="meta-share">
+					    <div class="entry-share">
+  					      <span class="share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW&url=http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/"></a></span>
+					      <span class="share-fb"><a href="http://www.facebook.com/sharer.php?u=http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/" target="_blank"></a></span>
+					      <span class="share-google"><a href="https://plus.google.com/share?url=http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/" target="_blank"></a></span>
+					    </div><!-- entry-share -->
+					    <a href="#">Share</a>
+					  </div><!-- meta-share -->
+									  </div> <!-- /title-block -->
+
+				  <h2 class="entry-title"><a href="http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/" title="Permalink to Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW">Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW</a></h2>
+
+				  <div class="entry-content">
+				    				  <!-- start post thumb -->
+				  <div class="entry-thumb">
+ 					    
+                    	 <a href="http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/6a00d8341c2ca253ef01b7c714a77c970b-550wi.png" alt="Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW" /></a>
+					    				  </div> <!-- /entry-thumb -->
+			  	                      <div style="margin-top:10px;">
+					  <p>The UK press is sooooooo dramatic!</p>
+<a style="margin-left: 5px;display: inline-block;" href="http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/">Read More</a>                      </div>
+				   				  </div><!-- entry-content -->
+
+
+
+					
+ 					
+ 					
+
+	                  									
+
+						
+						
+				</article> <!-- /post ID -->
+
+															<article id="post-66841" class="post-66841 post type-post status-publish format-standard hentry category-baby-news tag-ivf tag-kanye-west tag-kim-kardashian tag-pregnant entry-post">	
+				  <div class="title-block">
+					
+			  		<span class="category-item" style="background-color:#ff00cc"><a href="http://www.naughtygossip.com/category/baby-news/" title="View all posts in BABY NEWS">BABY NEWS</a></span>
+					<span class="meta-time">December 2, 2014</span>															  <div class="meta-share">
+					    <div class="entry-share">
+  					      <span class="share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Kim Kardashian: We’ll Do IVF To Get Pregnant Again&url=http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/"></a></span>
+					      <span class="share-fb"><a href="http://www.facebook.com/sharer.php?u=http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/" target="_blank"></a></span>
+					      <span class="share-google"><a href="https://plus.google.com/share?url=http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/" target="_blank"></a></span>
+					    </div><!-- entry-share -->
+					    <a href="#">Share</a>
+					  </div><!-- meta-share -->
+									  </div> <!-- /title-block -->
+
+				  <h2 class="entry-title"><a href="http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/" title="Permalink to Kim Kardashian: We’ll Do IVF To Get Pregnant Again">Kim Kardashian: We’ll Do IVF To Get Pregnant Again</a></h2>
+
+				  <div class="entry-content">
+				    				  <!-- start post thumb -->
+				  <div class="entry-thumb">
+ 					    
+                    	 <a href="http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/Kim-Kardashian-IVF-301x400.jpg" alt="Kim Kardashian: We’ll Do IVF To Get Pregnant Again" /></a>
+					    				  </div> <!-- /entry-thumb -->
+			  	                      <div style="margin-top:10px;">
+					  <p>Kim Kardashian tells Elle UK, “I want a boy and another girl; I want it to start happening straight away. I loved being part of a huge family – and&#8230;</p>
+<a style="margin-left: 5px;display: inline-block;" href="http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/">Read More</a>                      </div>
+				   				  </div><!-- entry-content -->
+
+
+
+					
+ 					
+ 					
+
+	                  									
+
+						
+						
+				</article> <!-- /post ID -->
+
+															<article id="post-66838" class="post-66838 post type-post status-publish format-standard hentry category-what tag-bethenny tag-criticized tag-nice tag-real-housewives entry-post">	
+				  <div class="title-block">
+					
+			  		<span class="category-item" style="background-color:#ff00cc"><a href="http://www.naughtygossip.com/category/what/" title="View all posts in WHAT?">WHAT?</a></span>
+					<span class="meta-time">December 2, 2014</span>															  <div class="meta-share">
+					    <div class="entry-share">
+  					      <span class="share-twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Bethenny Being Criticized For Being Too Nice! WATCH&url=http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/"></a></span>
+					      <span class="share-fb"><a href="http://www.facebook.com/sharer.php?u=http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/" target="_blank"></a></span>
+					      <span class="share-google"><a href="https://plus.google.com/share?url=http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/" target="_blank"></a></span>
+					    </div><!-- entry-share -->
+					    <a href="#">Share</a>
+					  </div><!-- meta-share -->
+									  </div> <!-- /title-block -->
+
+				  <h2 class="entry-title"><a href="http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/" title="Permalink to Bethenny Being Criticized For Being Too Nice! WATCH">Bethenny Being Criticized For Being Too Nice! WATCH</a></h2>
+
+				  <div class="entry-content">
+				    				  <!-- start post thumb -->
+				  <div class="entry-thumb">
+ 					    
+                    	 <a href="http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/"><img src="http://www.naughtygossip.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-02-at-12.34.02-PM.png" alt="Bethenny Being Criticized For Being Too Nice! WATCH" /></a>
+					    				  </div> <!-- /entry-thumb -->
+			  	                      <div style="margin-top:10px;">
+					  <p>Get More: The Gossip Table, Celebrity Gossip</p>
+<a style="margin-left: 5px;display: inline-block;" href="http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/">Read More</a>                      </div>
+				   				  </div><!-- entry-content -->
+
+
+
+					
+ 					
+ 					
+
+	                  									
+
+						
+						
+				</article> <!-- /post ID -->
+
+			</div><!-- entry-blog -->		
+
+	    <!-- Begin Navigation -->
+				  <div class="blog-navigation clearfix">
+			<div class="pagination clearfix"><span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://www.naughtygossip.com/page/2/'>2</a>
+<a class='page-numbers' href='http://www.naughtygossip.com/page/3/'>3</a>
+<a class='page-numbers' href='http://www.naughtygossip.com/page/4/'>4</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.naughtygossip.com/page/2639/'>2,639</a>
+<a class="next page-numbers" href="http://www.naughtygossip.com/page/2/">Next</a></div>		  </div> <!-- blog-navigation -->
+				<!-- End Navigation -->
+
+		</div><!-- span12 --></div><!-- row-fluid --></div><!-- .widget -->		
+        </div><!-- span6 -->
+        <div class="span3">
+		  <div class="widget box margin-25t bt-5px b-shadow clearfix">			<div class="textwidget"><div id='div-gpt-ad-1398540938524-0' style='width:300px; height:250px; margin: -18px 0px 0px -18px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398540938524-0'); });
+</script>
+</div></div>
+		</div><!-- .widget --><div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="colored-border" style="border-top-color:#ff00cc;"></div>		<!-- BEGIN WIDGET -->
+		<div class="widget-title"><h2>Search</h2></div><!-- widget-title -->		
+		
+
+			<div class="bt-pt15-1px"></div>
+		<div id="search-block">	<form method="get" id="searchform" action="http://www.naughtygossip.com/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</div><!-- /search-block -->
+
+	
+		<!-- END WIDGET -->
+		</div><!-- .widget --><div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="colored-border" style="border-top-color:#ff00cc;"></div><div class="widget-title"><h2>Most Viewed Posts</h2></div><!-- widget-title -->			
+		
+
+
+
+
+			<ul class="popular-post-widget">
+			  			  <li class="clearfix">
+
+									  <div class="widget-thumb">
+					    <a href='http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/' title='&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!'><img src="http://naughtygossip.com/wp-content/themes/wp-crossroad/img/new/1.png" alt="&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!" /></a>
+					  </div><!-- widget-thumb -->
+					
+			      				
+				<!-- Post Title -->
+				
+				  <div class="post-title"><a href='http://www.naughtygossip.com/richie-sambora-is-great-in-bed-says-ex-nikki-lund/' title='&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!'>&#8220;Richie Sambora Is Great In Bed&#8221; says Nikki Lund &#8211; BIG BOY!</a></div><!-- post-title -->
+				
+
+				<!-- Meta -->
+				  <div class="meta">
+							
+				  <div class="meta-comments">251 views&nbsp;&nbsp;				  </div><!-- meta-comments -->
+				  <div class="meta-time">Dec 2, 2014</div><!-- meta-time -->
+				</div><!-- meta -->
+			  </li>	
+		     			  <li class="clearfix">
+
+									  <div class="widget-thumb">
+					    <a href='http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/' title='Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison'><img src="http://naughtygossip.com/wp-content/themes/wp-crossroad/img/new/2.png" alt="Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison" /></a>
+					  </div><!-- widget-thumb -->
+					
+			      				
+				<!-- Post Title -->
+				
+				  <div class="post-title"><a href='http://www.naughtygossip.com/teresa-giudice-will-not-film-real-housewives-of-new-jersey-before-prison/' title='Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison'>Teresa Giudice Will Not Film Real Housewives of New Jersey Before Prison</a></div><!-- post-title -->
+				
+
+				<!-- Meta -->
+				  <div class="meta">
+							
+				  <div class="meta-comments">146 views&nbsp;&nbsp;				  </div><!-- meta-comments -->
+				  <div class="meta-time">Dec 2, 2014</div><!-- meta-time -->
+				</div><!-- meta -->
+			  </li>	
+		     			  <li class="clearfix">
+
+									  <div class="widget-thumb">
+					    <a href='http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/' title='Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW'><img src="http://naughtygossip.com/wp-content/themes/wp-crossroad/img/new/3.png" alt="Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW" /></a>
+					  </div><!-- widget-thumb -->
+					
+			      				
+				<!-- Post Title -->
+				
+				  <div class="post-title"><a href='http://www.naughtygossip.com/madonna-is-going-to-hate-or-love-these-covers-see-below/' title='Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW'>Madonna Is Going To HATE Or LOVE These Covers! SEE BELOW</a></div><!-- post-title -->
+				
+
+				<!-- Meta -->
+				  <div class="meta">
+							
+				  <div class="meta-comments">124 views&nbsp;&nbsp;				  </div><!-- meta-comments -->
+				  <div class="meta-time">Dec 2, 2014</div><!-- meta-time -->
+				</div><!-- meta -->
+			  </li>	
+		     			  <li class="clearfix">
+
+									  <div class="widget-thumb">
+					    <a href='http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/' title='Kim Kardashian: We’ll Do IVF To Get Pregnant Again'><img src="http://naughtygossip.com/wp-content/themes/wp-crossroad/img/new/4.png" alt="Kim Kardashian: We’ll Do IVF To Get Pregnant Again" /></a>
+					  </div><!-- widget-thumb -->
+					
+			      				
+				<!-- Post Title -->
+				
+				  <div class="post-title"><a href='http://www.naughtygossip.com/kim-kardashian-well-do-ivf-to-get-pregnant-again/' title='Kim Kardashian: We’ll Do IVF To Get Pregnant Again'>Kim Kardashian: We’ll Do IVF To Get Pregnant Again</a></div><!-- post-title -->
+				
+
+				<!-- Meta -->
+				  <div class="meta">
+							
+				  <div class="meta-comments">287 views&nbsp;&nbsp;				  </div><!-- meta-comments -->
+				  <div class="meta-time">Dec 2, 2014</div><!-- meta-time -->
+				</div><!-- meta -->
+			  </li>	
+		     			  <li class="clearfix">
+
+									  <div class="widget-thumb">
+					    <a href='http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/' title='Bethenny Being Criticized For Being Too Nice! WATCH'><img src="http://naughtygossip.com/wp-content/themes/wp-crossroad/img/new/5.png" alt="Bethenny Being Criticized For Being Too Nice! WATCH" /></a>
+					  </div><!-- widget-thumb -->
+					
+			      				
+				<!-- Post Title -->
+				
+				  <div class="post-title"><a href='http://www.naughtygossip.com/bethenny-being-criticized-for-being-too-nice-watch/' title='Bethenny Being Criticized For Being Too Nice! WATCH'>Bethenny Being Criticized For Being Too Nice! WATCH</a></div><!-- post-title -->
+				
+
+				<!-- Meta -->
+				  <div class="meta">
+							
+				  <div class="meta-comments">141 views&nbsp;&nbsp;				  </div><!-- meta-comments -->
+				  <div class="meta-time">Dec 2, 2014</div><!-- meta-time -->
+				</div><!-- meta -->
+			  </li>	
+		     		   </ul>
+
+
+</div><!-- .widget --><div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="colored-border" style="border-top-color:#ff00cc;"></div>		
+		<!-- BEGIN WIDGET -->
+				
+				  <div class="text-widget" style="overflow: hidden;"><div id='taboola-right-rail-mix'></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'thumbs-4r-rr', container:'taboola-right-rail-mix', placement:'right-rail', target_type:'mix'});
+</script></div>
+			
+		<!-- END WIDGET -->
+		</div><!-- .widget --><div class="widget box margin-25t bt-5px b-shadow clearfix"><div class="colored-border" style="border-top-color:#ff00cc;"></div>		
+		<!-- BEGIN WIDGET -->
+				
+				  <div class="text-widget" style="overflow: hidden;"><div id="contentad22885"></div>
+<script type="text/javascript">
+    (function() {
+        var params =
+        {
+            id: "5fe8778c-256b-4f07-986f-056114af50ec",
+            d:  "bmF1Z2h0eWJ1dG5pY2Vyb2IuY29t",
+            wid: "22885",
+            cb: (new Date()).getTime()
+        };
+
+        var qs="";
+        for(var key in params){qs+=key+"="+params[key]+"&"}
+        qs=qs.substring(0,qs.length-1);
+        var s = document.createElement("script");
+        s.type= 'text/javascript';
+        s.src = "http://api.content.ad/Scripts/widget.aspx?" + qs;
+        s.async = true;
+        document.getElementById("contentad22885").appendChild(s);
+    })();
+</script></div>
+			
+		<!-- END WIDGET -->
+		</div><!-- .widget -->        </div><!-- span3 -->      
+      </div><!-- row-fluid -->
+	  <!-- END LEFT + CONTENT + RIGHT -->
+	  
+        
+  </div> <!-- #content -->
+  <!-- END CONTENT ENTRY -->
+
+
+
+
+</div>
+
+	<footer id="footer" itemscope="" itemtype="http://schema.org/WPFooter">
+
+			
+
+	  <!-- START FOOTER WIDGETS -->
+
+	  <div class="container">
+
+		<div class="row-fluid">
+
+		  
+		  
+  	    </div> <!-- /row-fluid -->
+
+	  </div><!-- container -->
+
+	  <!-- END FOOTER WIDGETS -->
+
+	  
+
+	  <div id="bottommenu-block-bg">
+
+	    <div class="container">
+
+			  <div class="row-fluid">
+
+			    <div class="span12">
+
+			    	<div class="bottom-menu">
+
+		        		<img src="http://www.naughtygossip.com/wp-content/uploads/2014/10/Naughty-Gossip-4a.jpg" />
+
+		      		</div> <!-- /top-menu -->
+
+			    </div><!-- span12 -->
+
+			  </div><!-- row -->
+
+	    </div><!-- container -->
+
+	  </div><!-- bottommenu-block-bg -->
+
+
+
+  	  <!-- START COPYRIGHT -->	
+
+	  <div id="bottom-block-bg">
+
+	    <div class="container">
+
+			  <div class="row-fluid">
+
+			    <div class="span34 clearfix">
+
+  				  		<div class="copyright">
+
+						  <p><a href="http://naughtygossip.com/">HOME</a> | <a href="http://naughtygossip.com/contact/">CONTACT</a> | <a href="http://naughtygossip.com/conditions-of-use/">TERMS OF USE</a> | <a href="http://naughtygossip.com/advertising/">ADVERTISING & MEDIA INQUIRIES</a></p>
+
+				  		</div> <!-- /copyright -->
+
+			    </div><!-- span4 -->
+
+			    <div class="span83">
+
+  				  		<div class="add-info">
+
+			      			<p>© Copyright 2013. The Shuter Group LLC | All Rights Reserved Powered by Jubilant Web <a href="http://jubilantweb.com/">Marketing Company</a> <img src="http://naughtygossip.com/wp-content/themes/wp-crossroad/img/jwicon.png" /></p>
+
+				  		</div> <!-- /copyright -->
+
+		    
+
+		    	<div>
+
+		      		</div> <!--  -->
+
+			    </div><!-- span8 -->
+
+			  </div><!-- row -->
+
+	    </div><!-- container -->
+
+	  </div><!-- bottom-block-bg -->		  
+
+	</footer>
+
+
+
+
+
+
+
+	<div style="display:none">
+	</div>
+<script>var _RNKW_pref = {rows:"10",showUser:"true",bg:"ffffff",highlight:"grey",titleColor:"de0060",titleFont:"helevtica",itemFont:"helevtica"};</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_var = {"url":"http:\/\/www.naughtygossip.com\/wp-admin\/admin-ajax.php","nonce":"704ad4a4bd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/post-like.js?ver=1.0'></script>
+<script type='text/javascript' src='http://cdn.widget.ranker.com/static/rnkw.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.32.0-2013.04.03'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.naughtygossip.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201449'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Decaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.8'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/superfish.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jquery.easing.1.3.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/prettify.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jflickrfeed.min.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jquery.tweet.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jquery.ticker.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/jquery.prettyphoto.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/bootstrap.js'></script>
+<script type='text/javascript' src='http://www.naughtygossip.com/wp-content/themes/wp-crossroad/js/custom.js'></script>
+
+	<script src="http://stats.wordpress.com/e-201449.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.2.7',blog:'77783938',post:'0',tz:'-5'});
+	var load_cmc = function(){linktracker_init(77783938,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+
+
+
+
+<!-- STICKY MAIN MENU -->
+
+
+<script>
+
+jQuery.noConflict()(function($){
+
+  $(document).ready(function(){
+
+  
+
+	// grab the initial top offset of the navigation 
+
+	var sticky_navigation_offset_top = $('#mainmenu-block-bg').offset().top+50;
+
+	
+
+	// our function that decides weather the navigation bar should have "fixed" css position or not.
+
+	var sticky_navigation = function(){
+
+		var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+
+		
+
+		// if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
+
+		if (scroll_top > sticky_navigation_offset_top) { 
+
+			$('#mainmenu-block-bg').css({ 'background': 'rgba(47, 47, 47, 0.9)',  'position': 'fixed', 'top':0, 'left':0 });
+
+		} else {
+
+			$('#mainmenu-block-bg').css({ 'position': 'relative', 'background': '#ff006f' }); 
+
+		}   
+
+	};
+
+	
+
+	// run our function on load
+
+	sticky_navigation();
+
+	
+
+	// and run it again every time you scroll
+
+	$(window).scroll(function() {
+
+		 sticky_navigation();
+
+	});
+
+  });
+
+});
+
+</script>
+
+
+<!-- STICKY MAIN MENU -->
+
+
+
+<!-- GOGLE ANALYTICS -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39196146-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+<script>
+
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'}); 
+
+    _taboola.push({flush:true});
+
+</script>
+
+
+
+<script async type="text/javascript" src="http://adserver.powerlinks.com/serve?id=13324"></script>
+
+
+</body>
+
+
+
+</html>
+
+
+

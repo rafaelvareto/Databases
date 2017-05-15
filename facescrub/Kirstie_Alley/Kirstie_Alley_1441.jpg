@@ -1,0 +1,1337 @@
+<!DOCTYPE html> 
+<html lang="en-US">
+<head> 
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035233&cv=2.0&cj=1" />
+</noscript>
+	<!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="generator" content="Live! 2.0.6.4" />
+<meta name="generator" content="Wolf Framework 1.4.2.5" />
+	<!-- Favicons -->
+	<link rel="shortcut icon" href="http://bluecentric.com/wp-content/themes/live/images/favicons/favicon.ico">
+	<link rel="apple-touch-icon" href="http://bluecentric.com/wp-content/themes/live/images/favicons/touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://bluecentric.com/wp-content/themes/live/images/favicons/touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://bluecentric.com/wp-content/themes/live/images/favicons/touch-icon-114x114.png">
+	
+	<!-- Title -->
+	<title>Page not found | Bluecentric Productions | </title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	
+	<!-- RSS & Pingbacks -->
+	<link rel="alternate" type="application/rss+xml" title="Bluecentric Productions RSS Feed" href="http://bluecentric.com/feed/" />
+	<link rel="pingback" href="http://bluecentric.com/xmlrpc.php" />
+	<!-- Below added by Shareprints Gallery --><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-ui, user-scalable=0"><!-- Above added by Shareprints Gallery --><link rel="alternate" type="application/rss+xml" title="Bluecentric Productions &raquo; Feed" href="http://bluecentric.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bluecentric Productions &raquo; Comments Feed" href="http://bluecentric.com/comments/feed/" />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://bluecentric.com/?mcsf_action=main_css&#038;ver=4.0' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://bluecentric.com/wp-content/plugins/mailchimp/css/ie.css?ver=4.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='contact-form-7-css'  href='http://bluecentric.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://bluecentric.com/wp-includes/css/dashicons.min.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='http://bluecentric.com/wp-includes/css/jquery-ui-dialog.min.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://bluecentric.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.5.01&#038;ver=4.0' type='text/css' media='all' />
+<style type='text/css'>
+.tp-caption.medium_grey {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:20px;
+line-height:20px;
+font-family:Arial;
+padding:2px 4px;
+margin:0px;
+border-width:0px;
+border-style:none;
+background-color:#888;
+white-space:nowrap;
+}
+
+.tp-caption.small_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:14px;
+line-height:20px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.medium_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:20px;
+line-height:20px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.large_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:40px;
+line-height:40px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.very_large_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+letter-spacing:-2px;
+}
+
+.tp-caption.very_big_white {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 4px;
+padding-top:1px;
+background-color:#000;
+}
+
+.tp-caption.very_big_black {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:700;
+font-size:60px;
+line-height:60px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+padding:0px 4px;
+padding-top:1px;
+background-color:#fff;
+}
+
+.tp-caption.modern_medium_fat {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:800;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.modern_medium_fat_white {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.modern_medium_light {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:300;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.modern_big_bluebg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:30px;
+line-height:36px;
+font-family:"Open Sans", sans-serif;
+padding:3px 10px;
+margin:0px;
+border-width:0px;
+border-style:none;
+background-color:#4e5b6c;
+letter-spacing:0;
+}
+
+.tp-caption.modern_big_redbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:30px;
+line-height:36px;
+font-family:"Open Sans", sans-serif;
+padding:3px 10px;
+padding-top:1px;
+margin:0px;
+border-width:0px;
+border-style:none;
+background-color:#de543e;
+letter-spacing:0;
+}
+
+.tp-caption.modern_small_text_dark {
+position:absolute;
+color:#555;
+text-shadow:none;
+font-size:14px;
+line-height:22px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.boxshadow {
+-moz-box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+box-shadow:0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+.tp-caption.black {
+font-size:32px;
+font-weight:500;
+font-family:Impact, Charcoal, sans-serif;
+color:#000000;
+text-decoration:none;
+padding:10px 10px 10px 10px;
+text-shadow:none;
+background-color:rgba(11, 167, 173, 0.8);
+a color:#fff;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.noshadow {
+text-shadow:none;
+}
+
+.tp-caption.thinheadline_dark {
+position:absolute;
+color:rgba(0,0,0,0.85);
+text-shadow:none;
+font-weight:300;
+font-size:30px;
+line-height:30px;
+font-family:"Open Sans";
+background-color:transparent;
+}
+
+.tp-caption.thintext_dark {
+position:absolute;
+color:rgba(0,0,0,0.85);
+text-shadow:none;
+font-weight:300;
+font-size:16px;
+line-height:26px;
+font-family:"Open Sans";
+background-color:transparent;
+}
+
+.tp-caption.largeblackbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#000;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.largepinkbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#db4360;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.largewhitebg {
+position:absolute;
+color:#000;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#fff;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.largegreenbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#67ae73;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.excerpt {
+font-size:36px;
+line-height:36px;
+font-weight:700;
+font-family:Arial;
+color:#ffffff;
+text-decoration:none;
+background-color:rgba(0, 0, 0, 1);
+text-shadow:none;
+margin:0px;
+letter-spacing:-1.5px;
+padding:1px 4px 0px 4px;
+width:150px;
+white-space:normal !important;
+height:auto;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
+.tp-caption.large_bold_grey {
+font-size:60px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(102, 102, 102);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+margin:0px;
+padding:1px 4px 0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_thin_grey {
+font-size:34px;
+line-height:30px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(102, 102, 102);
+text-decoration:none;
+background-color:transparent;
+padding:1px 4px 0px;
+text-shadow:none;
+margin:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.small_thin_grey {
+font-size:18px;
+line-height:26px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(117, 117, 117);
+text-decoration:none;
+background-color:transparent;
+padding:1px 4px 0px;
+text-shadow:none;
+margin:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.lightgrey_divider {
+text-decoration:none;
+background-color:rgba(235, 235, 235, 1);
+width:370px;
+height:3px;
+background-position:initial initial;
+background-repeat:initial initial;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.large_bold_darkblue {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(52, 73, 94);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_darkblue {
+font-size:33px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:#222222;
+text-decoration:none;
+background-color:rgba(255,255,255,0.7);
+padding:10px 10px 10px 10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bold_red {
+font-size:24px;
+line-height:30px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(227, 58, 12);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_light_red {
+font-size:21px;
+line-height:26px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(227, 58, 12);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_red {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(227, 58, 12);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bold_orange {
+font-size:24px;
+line-height:30px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(243, 156, 18);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_orange {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(243, 156, 18);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.grassfloor {
+text-decoration:none;
+background-color:rgba(160, 179, 151, 1);
+width:4000px;
+height:150px;
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.large_bold_white {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_light_white {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumlarge_light_white {
+font-size:34px;
+line-height:40px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumlarge_light_white_center {
+font-size:34px;
+line-height:40px;
+font-weight:300;
+font-family:"Open Sans";
+color:#ffffff;
+text-decoration:none;
+background-color:transparent;
+padding:0px 0px 0px 0px;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_asbestos {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(127, 140, 141);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_light_black {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.large_bold_black {
+font-size:58px;
+line-height:60px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumlarge_light_darkblue {
+font-size:34px;
+line-height:40px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(52, 73, 94);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.small_light_white {
+font-size:17px;
+line-height:28px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.roundedimage {
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
+.tp-caption.large_bg_black {
+font-size:40px;
+line-height:40px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+padding:10px 20px 15px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.mediumwhitebg {
+font-size:30px;
+line-height:30px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:rgb(255, 255, 255);
+padding:5px 15px 10px;
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.medium_bg_white {
+font-size:20px;
+line-height:20px;
+font-weight:500;
+font-family:"Open Sans";
+color:rgb(34, 34, 34);
+text-decoration:none;
+padding:15px;
+background-color:rgba(255, 255, 255, 0.8);
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_white:hover {
+font-size:20px;
+line-height:20px;
+font-weight:500;
+font-family:"Open Sans";
+color:rgb(38, 193, 240);
+text-decoration:none;
+padding:15px;
+background-color:rgba(255, 255, 255, 0.8);
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_bluecentric {
+font-size:24px;
+line-height:20px;
+font-weight:500;
+font-family:Tahoma, Geneva, sans-serif;
+color:rgb(255, 255, 255);
+text-decoration:none;
+padding:15px;
+background-color:rgba(4, 172, 223, 0.8);
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_bluecentric:hover {
+font-size:24px;
+line-height:20px;
+font-weight:500;
+font-family:Tahoma, Geneva, sans-serif;
+color:rgb(221, 221, 221);
+text-decoration:none;
+padding:15px;
+background-color:rgba(4, 172, 223, 0.8);
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+
+.tp-caption a {
+color:#ffffff;
+}
+  
+.tp-caption a:visited {
+color:#ffffff;
+}
+
+.tp-caption a:hover {
+color:#000000;
+}
+</style>
+<link rel='stylesheet' id='jplayer-playlist-css'  href='http://bluecentric.com/wp-content/plugins/wolf-jplayer/assets/css/min/jplayer.min.css?ver=2.1.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://bluecentric.com/wp-content/plugins/wolf-jplayer/assets/css/min/mCustomScrollbar.min.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-shortcodes-css'  href='http://bluecentric.com/wp-content/plugins/wolf-shortcodes/assets/css/shortcodes.min.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-tour-dates-css'  href='http://bluecentric.com/wp-content/plugins/wolf-tour-dates/assets/css/tour-dates.min.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//bluecentric.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//bluecentric.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//bluecentric.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='shareprints-fe-style-css'  href='http://bluecentric.com/wp-content/plugins/shareprints-gallery/assets/css/shareprints-fe-style.css?ver=1.0.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-fonts-css'  href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Source+Sans+Pro:400,700,900|Lato:400,700|Montserrat:400,700|Lato:300,400,700,900|Lato:300,400,700,900&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-discography-css'  href='http://bluecentric.com/wp-content/plugins/wolf-discography/assets/css/discography.min.css?ver=1.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-instagram-css'  href='http://bluecentric.com/wp-content/plugins/wolf-gram/css/instagram.css?ver=1.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='swipebox-css'  href='http://bluecentric.com/wp-content/plugins/wolf-gram/swipebox/swipebox.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-message-bar-css'  href='http://bluecentric.com/wp-content/plugins/wolf-message-bar/assets/css/message-bar.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-sidebars-css'  href='http://bluecentric.com/wp-content/plugins/wolf-sidebars/css/sidebars.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-twitter-css'  href='http://bluecentric.com/wp-content/plugins/wolf-twitter/css/twitter.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-videos-css'  href='http://bluecentric.com/wp-content/plugins/wolf-videos/assets/css/videos.min.css?ver=1.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-widgets-pack-css'  href='http://bluecentric.com/wp-content/plugins/wolf-widgets-pack/css/widgets.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://bluecentric.com/wp-content/plugins/wolf-gram/fancybox/jquery.fancybox.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://bluecentric.com/wp-content/themes/live/css/lib/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='live-style-css'  href='http://bluecentric.com/wp-content/themes/live/style.css?ver=2.0.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wolf-share-css'  href='http://bluecentric.com/wp-content/themes/live/includes/features/wolf-share/css/share.css?ver=0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/bluecentric.com\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/modal-links/assets/js/modal-links-jquery-scoped.js?ver=4.0'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/modal-links/assets/js/modal-links-calls.js?ver=4.0'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.5.01&#038;ver=4.0'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.5.01&#038;ver=4.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bluecentric.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bluecentric.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<meta name="generator" content="WooCommerce 2.2.2" />
+<style type="text/css"> .wolf-jplayer-playlist-container, .wolf-jplayer-playlist a{ color: #ffffff!important; } .wolf-jplayer-playlist .jp-play-bar, .wolf-jplayer-playlist .jp-volume-bar-value{ background-color: #ffffff; } .wolf-jplayer-loader-overlay{ background-color: #333333; } .wolf-jplayer-playlist-container{ background-color:rgba(51,51,51, 1 ); } .wolf-jplayer-playlist-container .mCSB_scrollTools .mCSB_dragger_bar{ background-color: #ffffff; } .wolf-jplayer-playlist-container.wolf-jplayer-scrollbar .jp-playlist{ max-height : 370px; } </style>
+<style type="text/css">#wolf-message-bar-container #wolf-message-bar {display:block;}#wolf-message-bar-container #wolf-message-bar, #wolf-message-bar-container #wolf-message-bar-ribbon {background:#04acdf;}</style><style type="text/css">.wolf-music-logo-link{ border:none!important; } .wolf-music-logo { border:none!important; box-shadow:none!important; -moz-box-shadow:none!important; -webkit-box-shadow:none!important; -o-box-shadow:none!important; }</style><style type="text/css">
+/* Custom CSS */
+body, body.dark, body.light, body.grunge {background-image:none!important;}body, body.dark, body.light, body.grunge {background-color:#f4f4f4;}.dark header#masthead, .light header#masthead, .grunge header#masthead {background : #f4f4f4 url("http://bluecentric.com/wp-content/uploads/2014/08/productions_header.jpg") center top no-repeat scroll}.dark header#masthead, .light header#masthead, .grunge header#masthead { -webkit-background-size: 100%; -o-background-size: 100%; -moz-background-size: 100%; background-size: 100%; }.dark.wrapped #page, .light.wrapped #page, .grunge.wrapped #page {background-image:none!important;}.dark.wrapped #page, .light.wrapped #page, .grunge.wrapped #page {background-color:#f4f4f4;}.dark #top-holder, .light #top-holder, .grunge #top-holder {background-image:none!important;}.dark #top-holder, .light #top-holder, .grunge #top-holder {background-color:#ffffff;}.dark #bottom-holder, .light #bottom-holder, .grunge #bottom-holder {background-image:none!important;}.dark #bottom-holder, .light #bottom-holder, .grunge #bottom-holder {background-color:#ffffff;}.wolf-music-social-icons-container {background-image:none!important;}.wolf-music-social-icons-container {background-color:#ffffff;}.dark footer#colophon, .light footer#colophon, .grunge footer#colophon {background-image:none!important;}.dark footer#colophon, .light footer#colophon, .grunge footer#colophon {background-color:#ffffff;}.dark.wrapped #page, .grunge.wrapped #page, .light.wrapped #page { box-shadow:none; -moz-box-shadow:none; -webkit-box-shadow: none; -o-box-shadow:none; }body #top-holder, body.dark #top-holder, body.light #top-holder, body.grunge #top-holder {border:none!important }body #bottom-holder, body.dark #bottom-holder, body.light #bottom-holder, body.grunge #bottom-holder {border:none!important }a, a:visited, table a {color:#26c1f0 } .main-navigation .nav-menu li a:hover, .light .main-navigation .nav-menu li a:hover, .site-navigation .current_page_item a, .entry-meta a:hover, body.light .site-navigation a:hover, body.light .site-navigation .current_page_item a, #primary-menu li ul li a:hover, .post .entry-link:hover, .release .entry-link:hover, table a, span.comment-author a.url:hover, table a:hover, span.themecolor, .wolf-show-entry-link:hover, .wolf-show-flyer:hover, .entry-title a:hover, .album-thumb p {color:#26c1f0!important} .mobile-navigation li a:visited{ color:white!important;} .mobile-navigation li a:hover{ color:#26c1f0!important;} ::-moz-selection, span.dropcap-bg{ background: #26c1f0 ;} ::selection { background:#26c1f0 ;} a:link { -webkit-tap-highlight-color:#26c1f0 ; } a.comment-bubble-link:hover, a.more-link:hover, a.buy-button:hover, input[type=submit]:hover, a.more-link:focus, a.buy-button:focus, input[type=submit]:focus, a.theme-button:hover, a.theme-button:focus, .button:hover, .button:focus, .wolf-show-actions a:hover, .wolf-show-actions a:focus {background-color:#26c1f0!important} ul.page-numbers li .page-numbers.current {background-color: #26c1f0!important;} ul.page-numbers li .page-numbers.current{border-color:#26c1f0} .wolf-woocommerce-buttons.woocommerce .button.alt, .wolf-woocommerce-buttons.woocommerce #content input.button.alt, .wolf-woocommerce-buttons.woocommerce #respond input#submit.alt, .wolf-woocommerce-buttons.woocommerce-page .button.alt, .wolf-woocommerce-buttons.woocommerce-page #content input.button.alt, .wolf-woocommerce-buttons.woocommerce-page #respond input#submit.alt, .wolf-widget-area .wolf_widget_col_12.widget_mailchimpsf_widget #mc_signup .mc_signup_submit input[type="submit"] { border:1px solid #0099c8!important; text-shadow:0px 0px 5px #0099c8!important; background: #26c1f0; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #26c1f0), color-stop(100%, #0099c8)!important); background-image: -webkit-linear-gradient(#26c1f0, #0099c8)!important; background-image: -moz-linear-gradient(#26c1f0, #0099c8)!important; background-image: -o-linear-gradient(#26c1f0, #0099c8)!important; background-image: linear-gradient(#26c1f0, #0099c8)!important; } .wolf-woocommerce-buttons.woocommerce .button.alt:hover, .wolf-woocommerce-buttons.woocommerce #content input.button.alt:hover, .wolf-woocommerce-buttons.woocommerce #respond input#submit.alt:hover, .wolf-woocommerce-buttons.woocommerce-page .button.alt:hover, .wolf-woocommerce-buttons.woocommerce-page #content input.button.alt:hover, .wolf-woocommerce-buttons.woocommerce-page #respond input#submit.alt:hover, .wolf-woocommerce-buttons.woocommerce .button.alt:focus, .wolf-woocommerce-buttons.woocommerce #content input.button.alt:focus, .wolf-woocommerce-buttons.woocommerce #respond input#submit.alt:focus, .wolf-woocommerce-buttons.woocommerce-page .button.alt:focus, .wolf-woocommerce-buttons.woocommerce-page #content input.button.alt:focus, .wolf-woocommerce-buttons.woocommerce-page #respond input#submit.alt:focus, .wolf-widget-area .wolf_widget_col_12.widget_mailchimpsf_widget #mc_signup .mc_signup_submit input[type="submit"]:hover, .wolf-widget-area .wolf_widget_col_12.widget_mailchimpsf_widget #mc_signup .mc_signup_submit input[type="submit"]:focus{ background: #3ad5ff!important; } .wolf-woocommerce-buttons.woocommerce .button.alt:active, .wolf-woocommerce-buttons.woocommerce #content input.button.alt:active, .wolf-woocommerce-buttons.woocommerce #respond input#submit.alt:active, .wolf-woocommerce-buttons.woocommerce-page .button.alt:active, .wolf-woocommerce-buttons.woocommerce-page #content input.button.alt:active, .wolf-woocommerce-buttons.woocommerce-page #respond input#submit.alt:active, .wolf-widget-area .wolf_widget_col_12.widget_mailchimpsf_widget #mc_signup .mc_signup_submit input[type="submit"]:active{ background: #26c1f0; } .wolf-woocommerce-buttons.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .wolf-woocommerce-buttons.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range{ background: #26c1f0; } .wolf-woocommerce-buttons.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .wolf-woocommerce-buttons.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle{ background: #0099c8; } .wolf-woocommerce.woocommerce div.product .woocommerce-tabs .panel, .wolf-woocommerce.woocommerce #content div.product .woocommerce-tabs .panel, .wolf-woocommerce.woocommerce-page div.product .woocommerce-tabs .panel, .wolf-woocommerce.woocommerce-page #content div.product .woocommerce-tabs .panel{ background-color:#26c1f0!important; } .wolf-woocommerce.woocommerce div.product .woocommerce-tabs ul.tabs li.active, .wolf-woocommerce.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .wolf-woocommerce.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .wolf-woocommerce.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active{ background: #26c1f0; } body {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif}#head-slider-container {height:200px!important}h1, h2, h3, h4, h5, h6{font-family:'Lato'}h1, h2, h3, h4, h5, h6{font-weight:400}h1, h2, h3, h4, h5, h6{text-transform:uppercase}.site-navigation a, #mobile-menu-dropdown li{ font-family:'Lato'}.site-navigation a, #mobile-menu-dropdown li{font-weight:500}.site-navigation a {text-transform:uppercase; font-size:14px;} #hello {color:#111;} h1.page-title {text-align:left;border-bottom:#ddd 2px solid;padding-bottom:5px;} .site-infos {color:#ddd;} #bottom-bar a {color:#ddd;} #bottom-bar a:hover {color:#fff;} .blue {color:#26c1f0;} .widget-entry-title {color: #222;} .widget-entry-title a {color: #222;} @media (max-width: 1920px) { #logo-container img { width: 100%; height: auto; } .widget_mailchimpsf_widget {text-align:center;padding-top:10px;padding-bottom:10px;} 
+/* Custom Background */
+
+
+</style>
+
+<!-- Single Post Header Background Parallax -->
+
+
+	
+	
+	<!--[if lt IE 9]>
+	<script src="http://bluecentric.com/wp-content/themes/live/js/html5shiv.js" type="text/javascript"></script>
+	<![endif]-->
+
+</head>
+<body class="error404 wolf wolf-woocommerce wolf-woocommerce-buttons fullwidth light sidebar-right sticky-menu">
+<div align="center"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1639497357&adSize=728x90"></script></div>
+		<div id="wolf-message-bar-container">
+			<div id="wolf-message-bar">
+				<div id="wolf-message-bar-wrap">
+					<div id="wolf-message-bar-inner"><div align="center"><strong>Our New Series "Thirsty" premieres this Fall. Check back for updates!</strong></div>
+
+</div>
+					<span id="wolf-message-bar-close">close <span id="wolf-message-bar-cross">&times;</span></span>
+				</div>
+			</div>
+			<span id="wolf-message-bar-ribbon">&#43;</span>
+		</div>
+		
+<div id="top"></div><a id="top-arrow" class="scroll" href="#top"></a>
+<div id="fb-root"></div><script type="text/javascript">(function(doc, script) {
+			        var js, 
+			        fjs = doc.getElementsByTagName(script)[0],
+			        add = function(url, id) {
+			            if (doc.getElementById(id)) {return;}
+			            js = doc.createElement(script);
+			            js.src = url;
+			            id && (js.id = id);
+			            fjs.parentNode.insertBefore(js, fjs);
+			        };add("//connect.facebook.net/en_US/all.js#xfbml=1", "facebook-jssdk");
+add("//platform.twitter.com/widgets.js", "twitter-wjs");
+add("https://apis.google.com/js/plusone.js");
+add("//assets.pinterest.com/js/pinit.js");
+}(document, "script"));</script>
+<div id="page" class="hfeed site" style="border-top:3px #fff solid;">
+	<nav id="primary-menu-container" role="navigation" class="site-navigation main-navigation clearfix">
+		<div class="wrap">
+			<div class="menu-top-navigation-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-150" class="home-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://bluecentric.com/">Homepage</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27"><a href="#">Profile</a>
+<ul class="sub-menu">
+	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://bluecentric.com/who-we-are/">Who We Are</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://bluecentric.com/services/">Services</a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37"><a href="#">Productions</a>
+<ul class="sub-menu">
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://bluecentric.com/productions/">All</a></li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-release menu-item-117"><a href="http://bluecentric.com/release/the-love-project/">The Love Project</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-release menu-item-115"><a href="http://bluecentric.com/release/skyes-the-limit/">Skye&#8217;s The Limit</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-release menu-item-118"><a href="http://bluecentric.com/release/thirsty/">Thirsty (Series)</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-release menu-item-119"><a href="http://bluecentric.com/release/thirsty-water/">Thirsty (Short)</a></li>
+</ul>
+</li>
+<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="http://bluecentric.com/category/casting/">Casting</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45"><a href="#">Visuals</a>
+<ul class="sub-menu">
+	<li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-57"><a href="#">Video</a>
+	<ul class="sub-menu">
+		<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://bluecentric.com/videos/">All</a></li>
+		<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-video_type menu-item-59"><a href="http://bluecentric.com/video-type/blues-vlog/">Blue&#8217;s Vlog</a></li>
+		<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-video_type menu-item-58"><a href="http://bluecentric.com/video-type/behind-the-scenes/">Behind The Scenes</a></li>
+		<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-video_type menu-item-60"><a href="http://bluecentric.com/video-type/production/">Productions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142"><a href="#">Photos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-328"><a href="http://bluecentric.com/category/galleries/">All</a></li>
+		<li id="menu-item-327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-327"><a href="http://bluecentric.com/category/galleries/work/">Work</a></li>
+		<li id="menu-item-317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-317"><a href="http://bluecentric.com/category/galleries/play/">Play</a></li>
+		<li id="menu-item-316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-316"><a href="http://bluecentric.com/category/galleries/misc/">Misc</a></li>
+	</ul>
+</li>
+	<li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://bluecentric.com/instagram/">Instagram</a></li>
+</ul>
+</li>
+<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-532"><a href="http://bluecentric.com/blog/">Blog</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="http://bluecentric.com/events/">Events</a></li>
+<li id="menu-item-291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-291"><a href="#">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a href="http://#">Digital</a>
+	<ul class="sub-menu">
+		<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="http://skye.bluecentric.com/">Skye&#8217;s The Limit</a></li>
+	</ul>
+</li>
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://bluecentric.com/donate/">Donate</a></li>
+</ul>
+</li>
+<li id="menu-item-279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-279"><a href="http://bluecentric.com/category/playlist/">Playlist</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48"><a href="#">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://bluecentric.com/contact/hire-us/">Hire Us</a></li>
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://bluecentric.com/contact/casting-calls/">Casting Calls</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://bluecentric.com/contact/press/">Press</a></li>
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://bluecentric.com/contact/job-opportunities/">General</a></li>
+</ul>
+</li>
+</ul></div>		</div>
+	</nav><!-- .site-navigation .main-navigation -->
+		<header id="masthead" class="site-header" role="banner">
+		<div class="wrap">
+			<div class="table-head">
+				<div id="logo-container"><div id="logo">
+		<a href="http://bluecentric.com/" rel="home">
+			<img src="http://bluecentric.com/wp-content/uploads/2014/10/bcp_small.png" alt="Bluecentric Productions">
+		</a>
+		</div></div>			
+				<div id="head-slider-container">
+					<!-- Flexslider -->
+		<script type="text/javascript">
+			jQuery(window).load(function(){
+				var firstImg = jQuery('.slides li').first().find('img').css('opacity', 1);
+				jQuery("#flexslider").flexslider({
+					animation: "fade",
+					controlNav: true,
+					directionNav: true,
+					pauseOnHover: true, 
+					slideshow: true,
+					slideshowSpeed: 3500,
+					animationSpeed: 800, 
+					touch: true
+				});
+				
+			});</script>
+		<!-- Flexslider --><div class="flexslider flexslider-fade" id="flexslider"><ul class="slides"><li><a href="http://skyesthelimit.bluecentric.com"><img src="http://bluecentric.com/wp-content/uploads/live/wolf-flexslider/slides/stl_hslider2.png" alt="slider"></a></li><li><a href="http://bluecentric.com/for-those-who-keep-asking-whats-thirsty-about/"><img src="http://bluecentric.com/wp-content/uploads/live/wolf-flexslider/slides/stl_hslider_iphone.png" alt="slider"></a></li><li><a href="http://bluecentric.com/services/"><img src="http://bluecentric.com/wp-content/uploads/live/wolf-flexslider/slides/hireus_slide.png" alt="slider"></a></li></ul></div>				</div>
+			</div>
+		</div>
+		
+
+	
+		
+	</header><!-- #masthead .site-header -->
+
+	<nav id="mobile-menu-container" role="navigation" class="site-navigation mobile-navigation">
+		<ul id="mobile-menu-dropdown"><li>Browse</li></ul>
+		<div class="menu-top-navigation-menu-container"><ul id="mobile-menu" class="menu"><li class="home-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://bluecentric.com/">Homepage</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27"><a href="#">Profile</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://bluecentric.com/who-we-are/">Who We Are</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://bluecentric.com/services/">Services</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37"><a href="#">Productions</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://bluecentric.com/productions/">All</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-release menu-item-117"><a href="http://bluecentric.com/release/the-love-project/">The Love Project</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-release menu-item-115"><a href="http://bluecentric.com/release/skyes-the-limit/">Skye&#8217;s The Limit</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-release menu-item-118"><a href="http://bluecentric.com/release/thirsty/">Thirsty (Series)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-release menu-item-119"><a href="http://bluecentric.com/release/thirsty-water/">Thirsty (Short)</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="http://bluecentric.com/category/casting/">Casting</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45"><a href="#">Visuals</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-57"><a href="#">Video</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://bluecentric.com/videos/">All</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-video_type menu-item-59"><a href="http://bluecentric.com/video-type/blues-vlog/">Blue&#8217;s Vlog</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-video_type menu-item-58"><a href="http://bluecentric.com/video-type/behind-the-scenes/">Behind The Scenes</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-video_type menu-item-60"><a href="http://bluecentric.com/video-type/production/">Productions</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142"><a href="#">Photos</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-328"><a href="http://bluecentric.com/category/galleries/">All</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-327"><a href="http://bluecentric.com/category/galleries/work/">Work</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-317"><a href="http://bluecentric.com/category/galleries/play/">Play</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-316"><a href="http://bluecentric.com/category/galleries/misc/">Misc</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://bluecentric.com/instagram/">Instagram</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-532"><a href="http://bluecentric.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="http://bluecentric.com/events/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-291"><a href="#">Shop</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a href="http://#">Digital</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="http://skye.bluecentric.com/">Skye&#8217;s The Limit</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://bluecentric.com/donate/">Donate</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-279"><a href="http://bluecentric.com/category/playlist/">Playlist</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48"><a href="#">Contact</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://bluecentric.com/contact/hire-us/">Hire Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://bluecentric.com/contact/casting-calls/">Casting Calls</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://bluecentric.com/contact/press/">Press</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://bluecentric.com/contact/job-opportunities/">General</a></li>
+</ul>
+</li>
+</ul></div>	</nav><!-- .site-navigation .mobile-navigation -->
+
+	
+	<section id="main" class="site-main clearfix">
+		<div class="wrap">
+
+	<div id="main-content" class="wrap">
+		<article id="post-0" class="post error404 not-found center">
+			<h1><span class="themecolor">404</span> <br>
+				Page not found !			</h1>
+			<p>You've tried to reach a page that doesn't exist or has moved.</p>
+			<p><a href="http://bluecentric.com/">&larr; back home</a></p>
+		</article>
+	</div><!-- .wrap #main-content -->
+	
+	
+		</div><!-- .wrap -->
+	</section><!-- section#main -->
+
+		
+		
+	<footer id="colophon" class="site-footer" role="contentinfo">
+				
+		
+		<div class="wolf-music-social-icons-container"><div class="wolf-music-social-icons" style="text-align:center"><a class="wolf-music-logo-link" title="Twitter" target="_blank" href="http://twitter.com/bluecentric"><img class="wolf-music-logo" style="height:32px" height="32" src="http://bluecentric.com/wp-content/plugins/wolf-music-network/music-network-images/twitter.png" alt="twitter"></a></div></div>
+	</footer><!-- #colophon -->
+
+	<div id="bottom-bar">
+		<div class="wrap">
+			<nav id="site-navigation-tertiary" class="navigation tertiary-navigation" role="navigation">
+				<div class="menu-bottom-menu-container"><ul id="bottom-menu" class="nav-menu-tertiary"><li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://bluecentric.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+			<div class="site-infos">&copy; 2014 Bluecentric.com</div>
+		</div>
+	</div>
+<div style="float:right;"><script type="text/javascript" language="JavaScript">
+glam_affiliate_id = '1639497357';
+</script>
+<script src="http://www8.glam.com/js/widgets/glammedia_logo.js"></script></div>	
+	
+</div><!-- #page .hfeed .site -->
+
+
+<div id="modalLinksDialog"></div><script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/bluecentric.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/bluecentric.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/bluecentric.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/bluecentric.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/bluecentric.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bluecentric.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='//bluecentric.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/bluecentric.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/bluecentric.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bluecentric.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='//bluecentric.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//bluecentric.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/themes/live/js/lib/jquery.parallax.min.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/themes/live/js/lib/jquery.flexslider.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/themes/live/js/lib/jquery.fancybox.pack.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/themes/live/js/lib/jquery.fancybox-media.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WolfThemeParams = {"ajaxUrl":"http:\/\/bluecentric.com\/wp-admin\/admin-ajax.php","lightbox":"fancybox","videoLightbox":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/themes/live/js/jquery.functions.js?ver=2.0.6.4'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/wolf-message-bar/assets/js/min/jquery.memo.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://bluecentric.com/wp-content/plugins/wolf-message-bar/assets/js/min/message-bar.min.js?ver=1.1.4'></script>
+
+<style type="text/css">
+
+.0 .ui-button.ui-dialog-titlebar-close {
+    display: block
+}
+
+</style>
+
+<script type="text/javascript">
+jQuery(function(){
+
+    if (jQuery.isNumeric(350)
+        && 'px' == '%'
+    ) {
+        var modalLinksModalWidthOpt = window.innerWidth * (350 / 100);
+    } else {
+        var modalLinksModalWidthOpt = 350;
+    }
+
+    if (jQuery.isNumeric('auto')
+        && 'px' == '%'
+    ) {
+        var modalLinksModalHeightOpt = window.innerWidth * ('auto' / 100);
+    } else {
+        var modalLinksModalHeightOpt = 'auto';
+    }
+
+    if (jQuery.isNumeric(600)
+        && '' == '%'
+    ) {
+        var modalLinksModalMaxHeightOpt = window.innerWidth * (600 / 100);
+    } else {
+        var modalLinksModalMaxHeightOpt = 600;
+    }
+
+    jQuery(window).on('resize', function(){
+
+        if (('true' === 'true')
+            && ('px' === '%')
+            && (jQuery.isNumeric(350))
+        ) {
+            var modalLinksModalWidthRes = window.innerWidth * (350 / 100);
+            jQuery('#modalLinksDialog')
+            .dialog('option', 'width', modalLinksModalWidthRes);
+        }
+
+        if (('true' === 'true')
+            && ('px' === '%')
+            && (jQuery.isNumeric('auto'))
+        ) {
+            var modalLinksModalHeight = window.innerWidth * ('auto' / 100);
+            jQuery('#modalLinksDialog')
+            .dialog('option', 'height', modalLinksModalHeightRes);
+        }
+
+        if (('true' === 'true')
+            && ('' === '%')
+            && (jQuery.isNumeric(600))
+        ) {
+            var modalLinksModalMaxHeight = window.innerWidth * (600 / 100);
+            jQuery('#modalLinksDialog')
+            .dialog('option', 'maxHeight', modalLinksModalMaxHeightRes);
+        }
+
+        if ('true' === 'true') {
+            jQuery('#modalLinksDialog')
+            .dialog('option', 'position', {my: 'center center', at: 'center center', of: window});
+        }
+
+    });
+
+    jQuery(document).on('click', 'a[target="_modal"]', function(e) {
+
+        e.preventDefault();
+        var thisID         = jQuery(this).attr('id');
+        var thisHref       = jQuery(this).attr('href');
+        var thisDataTitle  = jQuery(this).attr('data-title');
+        var thisDataLogin  = jQuery(this).attr('data-login');
+        var thisDataAction = jQuery(this).attr('data-action');
+
+        var data = {
+            modalLoadingGif: '',
+            action: 'modalLinksGetPost'
+        };
+
+        if (thisID) {
+            data.modalLinks_postID = thisID;
+            if ((thisDataTitle === 'true') || (thisDataTitle === 'false'))
+                data.modalLinks_postDataTitle = thisDataTitle;
+        } else if (thisHref != '#') {
+            data.modalLinks_postPermalink = thisHref;
+            if((thisDataTitle === 'true') || (thisDataTitle === 'false'))
+                data.modalLinks_postDataTitle = thisDataTitle;
+        } else if (thisDataLogin === 'true') {
+            data.modalLinks_postDataLogin = thisDataLogin;
+            if ((thisDataAction === 'register') || (thisDataAction === 'logout'))
+                data.modalLinks_postDataAction = thisDataAction;
+            if ((thisDataTitle === 'true') || (thisDataTitle === 'false'))
+                data.modalLinks_postDataTitle = thisDataTitle;
+        } else {
+            data = '';
+        }
+
+        if (data) {
+
+            modalLinksGetPostCall('http://bluecentric.com/wp-admin/admin-ajax.php', data, function(data){
+
+                if (data) {
+                    var modalLoadingGif = data.modalLoadingGif;
+                    var modalTitle      = data.modalTitle;
+                    var modalDate       = data.modalDate;
+                    var modalAuthor     = data.modalAuthor;
+                    var modalContent    = data.modalContent;
+                    var modalTitleExtended = '';
+
+                    if (data.modalButtons && (data.modalButtons === 'false')) {
+                        var buttonsDisplay = jQuery('#modalLinksDialog')
+                        .parent('div')
+                        .find('.ui-dialog-buttonpane')
+                        .css('display');
+
+                        if (buttonsDisplay !== 'none') {
+                            jQuery('#modalLinksDialog')
+                            .parent('div')
+                            .find('.ui-dialog-buttonpane')
+                            .css('display', 'none');
+                        }
+                    } else {
+                        var buttonsDisplay = jQuery('#modalLinksDialog')
+                        .parent('div')
+                        .find('.ui-dialog-buttonpane')
+                        .css('display');
+
+                        if (buttonsDisplay === 'none') {
+                            jQuery('#modalLinksDialog')
+                            .parent('div')
+                            .find('.ui-dialog-buttonpane')
+                            .css('display', 'block');
+                        }
+                    }
+
+                    if (modalAuthor !== '' || modalDate !== '') {
+                        modalTitleExtended = '<span class="entry-meta" style="padding-left:10px">';
+                        //console.log(modalTitleExtended);
+                        if (modalDate !== '') {
+                            modalTitleExtended += '<span class="entry-date">'+
+                            '<time class="entry-date">'+modalDate+'</time>'+
+                            '</span>';
+                        }
+                        //console.log(modalTitleExtended);
+                        if (modalAuthor !== '') {
+                            modalTitleExtended += '<span class="byline" style="display:inline-block">'+
+                            '<span class="author vcard">'+modalAuthor+'</span>'+
+                            '</span>';
+                        }
+                        //console.log(modalTitleExtended);
+                        modalTitleExtended += '</span>';
+                        //console.log(modalTitleExtended);
+                    }
+
+                    jQuery('#modalLinksDialog')
+                    .html(modalContent)
+                    .dialog('option', 'title', modalTitle)
+                    .prev()
+                    .find('.ui-dialog-title')
+                    .append(modalTitleExtended);
+
+                    if (modalLoadingGif === '') {
+                        jQuery('#modalLinksDialog')
+                        .dialog('open');
+                    } else {
+                        jQuery('#modalLinksDialog')
+                        .dialog('option', 'position', {my: 'center center', at: 'center center', of: window});
+                    }
+                }
+
+            });
+        }
+
+    });
+
+    jQuery('#modalLinks button[data-dismiss="modal"]').on('click', function(e){
+
+        e.preventDefault();
+        jQuery('#modalLinks').fadeOut();
+
+    });
+
+    jQuery('#modalLinksDialog').dialog({
+        dialogClass   : '0',
+        modal         : true,
+        autoOpen      : false,
+        closeOnEscape : true,
+        draggable     : true,
+        resizable     : false,
+        show          : true,
+        hide          : false,
+        open : function(event, ui) {
+
+                jQuery(this).dialog('option',
+                                    {'width': modalLinksModalWidthOpt,
+                                     'height': modalLinksModalHeightOpt,
+                                     'maxHeight': modalLinksModalMaxHeightOpt
+                                    }
+                                   );
+
+        },
+        close : function(event, ui) {
+
+                    jQuery(this)
+                    .html('')
+                    .dialog('option', 'title', '')
+                    .dialog('close');
+
+        },
+        buttons : {
+            Ok    : function() {
+
+                        jQuery(this)
+                        .html('')
+                        .dialog('option', 'title', '')
+                        .dialog('close');
+
+                    }
+        }
+    });
+
+    jQuery('#modalLinksDialog')
+    .addClass('entry-content')
+    .prev()
+    .find('.ui-dialog-title')
+    .addClass('entry-title');
+
+});
+</script>
+</body>
+</html>

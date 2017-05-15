@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8" /> 
+   										<meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+										<meta name="viewport" content="width=1046, maximum-scale=1.0" />
+										<title>VladTV</title>
+										<meta name="description" content="" />
+										<link rel="shortcut icon" href="http://www.vladtv.com/favicon.ico" />
+										<link rel="stylesheet" type="text/css" href="/includes/css/site.css" />    	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+		ga('create', 'UA-6141937-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>
+		
+		/* -- MENU VARIABLES ------------------------ */
+		var show 		= false;
+		var prev_id 	= '';
+		var current 	= '';
+		var _counter 	= 0;
+		var _seconds 	= 0;
+			
+		function openMenu() {
+
+			_seconds++;
+
+			if(_seconds == 2) { 
+				showMenu();
+				clearInterval(_counter);
+			}
+		
+		}
+		
+		function showMenu() {
+							
+			var id = '#'+ current.attr('rel');
+			var li = current.parent();
+			var pr = $('.menu-current');
+				
+			pr.removeClass('menu-current');
+			li.addClass('menu-current');
+				
+			if (!show) {
+				$(id).slideDown(500);
+				show = true;
+				prev_id = id;
+			} else {
+				$(prev_id).hide();
+				$(id).show();
+				prev_id = id;	
+			}
+
+		}
+
+		$(document).ready(function() {
+			
+			// CHECK FOR ANALYTICS EVENT DETECTION --------------------------------------- //
+			$("a[data-event]").click(function(e) {
+				var ev = $(this).attr('data-event');
+				ga('send', 'event', 'linksource', ev);
+				return true;
+			});
+			
+			if (screen.width <= 768) {
+				
+				$('.menu-link').click(function(e) { 
+					current = $(this);
+					var id 	= '#' + current.attr('rel');
+					if (id != prev_id) {
+						e.preventDefault();
+						showMenu();
+					}
+				});
+
+			} else {
+			
+				$(".menu-link").hover(function(){
+					
+					current = $(this);
+					
+					if (!show) {
+						 _counter = setInterval(openMenu, 250);
+					} else {
+						showMenu()
+					}
+		
+				}, function() {
+					clearInterval(_counter);
+				});
+			
+			}
+			
+			/* -- FACEBOOK RENDER FOR HIDDEN DIV ------- */	
+			var subscribe	= document.getElementsByClassName("social-media-icon-h")[0];
+			var fb_wrap		= document.getElementsByClassName("fb-wrap")[0]; 
+    		var rendered 	= false;
+
+			window.fbAsyncInit = function () {
+    			subscribe.onmouseover = function () {
+        			if (!rendered) {
+            			FB.XFBML.parse(fb_wrap);
+           				rendered = true;
+        			}
+    			};
+			};
+			
+			$(".social-media-icon-h").hover(function(e) {
+				var $em = $(this).find(".social-media-badge");
+				$em.css("z-index", '101');
+				$em.hide();
+				$em.slideDown(250);
+			}, function(e) {
+				$(this).find(".social-media-badge").slideUp(250);
+			});
+						
+		});
+	</script>
+    <script>
+		!function(d,s,id){
+			var js,fjs=d.getElementsByTagName(s)[0];
+			if(!d.getElementById(id)){
+				js=d.createElement(s);
+				js.id=id;
+				js.src="//platform.twitter.com/widgets.js";
+				fjs.parentNode.insertBefore(js,fjs);
+			}
+		}(document,"script","twitter-wjs");
+	</script>
+	<script>
+		cmnunt_site 		= 'cmn_vladtv';
+		cmnunt_silo 		= 's_mus';		
+		cmnunt_subsilo 		= '';	
+		cmnunt_tier 		= 'to,home';				
+		cmnunt_zone			= 'home';					
+		cmnunt_kw 			= '';						
+		cmnunt_exclude		= '';						
+	</script>
+	<script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>    <meta name="google-site-verification" content="CznTFf3SiKYf2pTiopM4ruAH2-jh-GClfl38E4TX4iA" />
+    <script src="/includes/javascript/jquery/jquery.cookie.js"></script>
+    <script>
+    	
+		/* -- NOTIFICATION VARIABLES ------------------------ */
+		var n 		= 1417570385; 
+		var u 		= 60*1000;
+		var title 	= document.title;
+		var message = false;
+		
+		/*-- SET THE NOTIFICATION COOKIE -------------------- */
+		$.cookie('vtv-notify', n, {expires:1, path:'/'})
+		
+		function updateNotification() {
+			
+			$.getJSON("/includes/cache/recent-posts.cache", function(data) {
+				
+				var t = 0;
+				
+				$.each(data, function(k, v) {
+					
+					if (k > n) {
+						t += 1;
+					} else {
+						//return false;	
+					}
+				
+				});
+				
+				if (t > 0) {
+					
+					var message = (t == '1') ? 'New article just published' : t+' new articles published.';
+					
+					if (t > 30) {
+						message = '30+ new articles published';	
+					}
+					
+					$("#notification").html('<p id="notification-message"><a href="/index.php?view='+n+'">'+message+' Click To View</a></p>');
+					
+					if (!$("#notification").is(":visible")) {
+						$("#notification").slideDown(250);
+					}
+					
+					document.title = '('+t+') ' + title;
+				}
+			
+			});
+
+		}
+		
+		var notificationId = setInterval(updateNotification, u);
+
+		$(document).ready(function() {
+			
+						
+		});
+		
+    </script>
+</head>
+
+<body><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.vladtv.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+
+		<div id="fb-root"></div>
+	<div id="cmn_ad_tag_head" class="fw_vladtv clearfix"><script>cmnUNT('3x3', tile_num++, 1);</script></div>
+	<div id="cmn_wrap">
+
+    <div id="container">
+    	
+        <div id="header" class="clearfix">
+           	<a href="/"><img src="/images/site/logo-vladtv-v2.png" alt="Logo: VladTV" width="454" height="90" id="header-logo" /></a>
+                        <div id="header-right">
+            	<div id="social-media-icons-h" class="clearfix">
+                    <div class="social-media-icon-h" style="width:63px;">
+                    	<span class="social-media-icon" id="icons-facebook"></span>
+                    	<span class="social-media-count">41k</span>
+                        <div class="social-media-badge fb-wrap">
+                            <div class="fb-like" data-href="http://www.facebook.com/vladtv" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+						</div>
+                    </div>
+                    <div class="social-media-icon-h">
+                    	<span class="social-media-icon" id="icons-twitter"></span>
+                    	<span class="social-media-count">111k</span>
+                    	<div class="social-media-badge tw-wrap">
+                        	<a href="https://twitter.com/djvlad" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @djvlad</a>
+						</div>
+                   	</div>
+                    <div class="social-media-icon-h">
+                    	<span class="social-media-icon" id="icons-instagram"></span>
+                    	<span class="social-media-count">40k</span>
+                    	<div class="social-media-badge">
+							<a href="http://instagram.com/vladtv?ref=badge" class="instagram-follow-button" target="_blank"><img src="//badges.instagram.com/static/images/ig-badge-16.png" alt="Image: Instagram Icon" />Follow</a>		
+						</div>
+                   	</div>
+                    <div class="social-media-icon-h">
+                    	<span class="social-media-icon" id="icons-youtube"></span>
+                    	<span class="social-media-count">702k</span>
+                    	<div class="social-media-badge yt-wrap">
+							<script src="https://apis.google.com/js/platform.js"></script>
+							<div class="g-ytsubscribe" data-channel="djvlad" data-layout="default" data-count="hidden"></div>
+						</div>
+                   	</div>
+                    <div class="social-media-icon-h" style="width:30px;">
+                    	<a href="/page/contact/" class="social-media-icon" id="icons-contact"></a>
+                   	</div>
+                </div>
+                <div id="login">Guest User | <a href="/user-login.php">Login</a> | <a href="/user-register.php">Register</a></div>
+                <div id="search">
+                    <form action="/search.php" method="get">
+                        <input type="text" name="title" value="SEARCH" onFocus="this.value='';" /><input type="image" name="submit" src="/images/site/button-search.png" />
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div id="body">
+        
+        	<div id="menu" class="clearfix">
+				<ul><li><a href="/" title="Front Page" rel="menu-front-page" data-event="menu-main" class="menu-link">Front Page</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/exclusives/" rel="menu-exclusives" data-event="menu-main" class="menu-link">Exclusives</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/lists/" rel="menu-lists" data-event="menu-main" class="menu-link">Lists</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/beef/" rel="menu-beef" data-event="menu-main" class="menu-link">Beef</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/drama/" rel="menu-drama" data-event="menu-main" class="menu-link">Drama</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/mc-battles/" rel="menu-mc-battles" data-event="menu-main" class="menu-link">MC Battles</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/music/" rel="menu-music" data-event="menu-main" class="menu-link">Music</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/lmao-twitpics/" rel="menu-lmao-twitpics" data-event="menu-main" class="menu-link">LMAO Twitpics</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li><li><a href="/channel/breaking-news/" rel="menu-breaking-news" data-event="menu-main" class="menu-link">Breaking News</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow" /></li></ul><div id="menu-front-page" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202251.jpg" alt="Kimbella Puts Her Enormous Cakes on Full Display for the 'Gram" /><p>Kimbella Puts Her Enormous Cakes on Full Display for the..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202220.jpg" alt="Kevin Gates Threatens Fan for Lusting After Rumored Girlfriend" /><p>Kevin Gates Threatens Fan for Lusting After Rumored..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202253.jpg" alt="Mr. International: Game Shows Off Blood-Red Lamborghini in Dubai" /><p>Mr. International: Game Shows Off Blood-Red Lamborghini..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/?menu" data-event="menu-article-text">Charlamagne & Azealia Banks Exchange..</a></p><p><a href="/blog/202222/so-you-know-its-real-erica-mena-gets-bow-wows-name-tatted/?menu" data-event="menu-article-text">So You Know It's Real: Erica Mena Gets..</a></p><p><a href="/blog/202221/lil-waynes-manager-jas-prince-threatened-me-at-gunpoint/?menu" data-event="menu-article-text">Lil Wayne's Manager: Jas Prince..</a></p><p><a href="/blog/202231/curreny-seeking-3-million-from-dame-dash-in-new-court-docs/?menu" data-event="menu-article-text">Curren$y Seeking $3 Million From Dame..</a></p></div></div><div id="menu-exclusives" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/video/202111/project-pat-explains-why-juicy-j-wont-be-in-da-mafia-6ix/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202111.jpg" alt="Project Pat Explains Why Juicy J Won't Be in Da Mafia 6ix" /><p>Project Pat Explains Why Juicy J Won't Be in Da Mafia..</p></a></div><div class="menu-highlight-entry"><a href="/video/202164/lord-jamar-on-mase-vs-charlamagne-beef-50-cents-career/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202164.jpg" alt="Lord Jamar on Mase vs. Charlamagne Beef &amp; 50 Cent's Career" /><p>Lord Jamar on Mase vs. Charlamagne Beef & 50 Cent's..</p></a></div><div class="menu-highlight-entry"><a href="/video/201991/roscoe-dash-speaks-on-past-beef-with-meek-mill/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-201991.jpg" alt="Roscoe Dash Speaks on Past Beef With Meek Mill" /><p>Roscoe Dash Speaks on Past Beef With Meek Mill</p></a></div><div class="menu-highlight-text"><p><a href="/video/202184/ar-ab-featuring-dark-lo-blow-3-music-video/?menu" data-event="menu-article-text">Ar-Ab featuring Dark Lo - "Blow 3"..</a></p><p><a href="/video/202241/lhhhs-amanda-explains-why-she-exposed-lil-fizz-on-instagram/?menu" data-event="menu-article-text">LHHH's Amanda Explains Why She Exposed..</a></p><p><a href="/video/202173/immortal-technique-on-the-killing-of-12-year-old-tamir-rice/?menu" data-event="menu-article-text">Immortal Technique on the Killing of..</a></p><p><a href="/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/?menu" data-event="menu-article-text">Math Hoffa: Cassidy Has to Get Crazy..</a></p></div></div><div id="menu-lists" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/202124/vladtvs-hottest-vixens-of-the-week-for-2014/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202124.jpg" alt="VladTV's Hottest Vixens of the Week for 2014" /><p>VladTV's Hottest Vixens of the Week for 2014</p></a></div><div class="menu-highlight-entry"><a href="/blog/201533/vladtvs-top-50-best-celebrity-thirst-traps/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-201533.jpg" alt="VladTV's Top 50 Best Celebrity Thirst Traps" /><p>VladTV's Top 50 Best Celebrity Thirst Traps</p></a></div><div class="menu-highlight-entry"><a href="/video/201661/lil-jay-gets-at-king-louie-for-allegedly-getting-video-shut-down/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-201661.jpg" alt="Lil Jay Gets at King Louie For Allegedly Getting Video Shut Down" /><p>Lil Jay Gets at King Louie For Allegedly Getting Video..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/201414/vladtvs-vixen-of-the-week-the-enormous-cheeks-of-steph-bad/?menu" data-event="menu-article-text">VladTV's Vixen of the Week: The..</a></p><p><a href="/blog/200331/vladtvs-vixen-of-the-week-curvy-temptress-champagne-pink/?menu" data-event="menu-article-text">VladTV's Vixen of the Week: Curvy..</a></p><p><a href="/blog/199864/vladtvs-top-25-hottest-rappers-right-now/?menu" data-event="menu-article-text">VladTV's Top 25 Hottest Rappers Right..</a></p><p><a href="/blog/174626/vladtvs-true-hip-hop-stories-all-episodes/?menu" data-event="menu-article-text">VladTV's True Hip Hop Stories (All..</a></p></div></div><div id="menu-beef" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/video/201991/roscoe-dash-speaks-on-past-beef-with-meek-mill/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-201991.jpg" alt="Roscoe Dash Speaks on Past Beef With Meek Mill" /><p>Roscoe Dash Speaks on Past Beef With Meek Mill</p></a></div><div class="menu-highlight-entry"><a href="/blog/201934/dc-rapper-targeting-migos-is-now-threatening-fat-trel/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-201934.jpg" alt="DC Rapper Targeting Migos is Now Threatening Fat Trel" /><p>DC Rapper Targeting Migos is Now Threatening Fat Trel</p></a></div><div class="menu-highlight-entry"><a href="/blog/201929/dc-rapper-fires-off-on-migos-member-quavo-over-robbery-song/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-201929.jpg" alt="D.C. Rapper Fires Off on Migos Member Quavo Over Robbery Song" /><p>D.C. Rapper Fires Off on Migos Member Quavo Over Robbery..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/201800/migos-react-to-dc-crew-flashing-quavos-jewelry-in-interview/?menu" data-event="menu-article-text">Migos React to D.C. Crew Flashing..</a></p><p><a href="/video/201913/quavo-addresses-dc-chain-robbery-on-new-track-tha-truth/?menu" data-event="menu-article-text">Quavo Addresses D.C. Chain Robbery on..</a></p><p><a href="/blog/201726/lil-kim-remy-ma-squash-beef-at-fabolous-90s-birthday-party/?menu" data-event="menu-article-text">Lil Kim & Remy Ma Squash Beef at..</a></p><p><a href="/blog/201557/glo-gangs-capo-posts-quavo-facetime-in-response-to-chain-drama/?menu" data-event="menu-article-text">Glo Gang's Capo Posts Quavo FaceTime in..</a></p></div></div><div id="menu-drama" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202143.jpg" alt="Charlamagne &amp; Azealia Banks Exchange Heated Words on Twitter" /><p>Charlamagne & Azealia Banks Exchange Heated Words on..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202018/plies-allegedly-jumped-at-king-of-diamonds-threatened-online/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202018.jpg" alt="Plies Allegedly Jumped at King of Diamonds, Threatened Online" /><p>Plies Allegedly Jumped at King of Diamonds, Threatened..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202038/oscar-de-la-hoya-offers-floyd-pacquiao-biggest-payday-ever/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202038.jpg" alt="Oscar De La Hoya Offers Floyd &amp; Pacquiao Biggest Payday Ever" /><p>Oscar De La Hoya Offers Floyd & Pacquiao Biggest Payday..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/202148/the-ex-files-sheneka-adams-ex-posts-freaky-flick-of-her-on-ig/?menu" data-event="menu-article-text">The Ex-Files: Sheneka Adams' Ex Posts..</a></p><p><a href="/blog/202085/khloe-k-kid-ink-more-party-with-game-for-b-day-bash-in-la/?menu" data-event="menu-article-text">Khloe K., Kid Ink & More Party With..</a></p><p><a href="/blog/202142/college-baller-claims-wife-had-affair-with-nfls-demarco-murray/?menu" data-event="menu-article-text">College Baller Claims Wife Had Affair..</a></p><p><a href="/blog/202084/busta-rhymes-addresses-nasty-tumble-off-stage-on-twitter/?menu" data-event="menu-article-text">Busta Rhymes Addresses Nasty Tumble Off..</a></p></div></div><div id="menu-mc-battles" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/202229/gillie-da-kid-says-dizaster-will-be-easy-work-for-cassidy/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202229.jpg" alt="Gillie Da Kid Says Dizaster Will Be &quot;Easy Work&quot; for Cassidy" /><p>Gillie Da Kid Says Dizaster Will Be "Easy Work" for..</p></a></div><div class="menu-highlight-entry"><a href="/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202239.jpg" alt="Math Hoffa: Cassidy Has to Get Crazy After All of the Trash Talk" /><p>Math Hoffa: Cassidy Has to Get Crazy After All of the..</p></a></div><div class="menu-highlight-entry"><a href="/video/202174/loaded-lux-my-new-album-proves-battlers-can-make-good-music/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202174.jpg" alt="Loaded Lux: My New Album Proves Battlers Can Make Good Music" /><p>Loaded Lux: My New Album Proves Battlers Can Make Good..</p></a></div><div class="menu-highlight-text"><p><a href="/video/202167/goodz-on-female-battles-they-cant-best-us-its-a-mans-world/?menu" data-event="menu-article-text">Goodz on Female Battles: They Can't..</a></p><p><a href="/video/202235/swave-sevah-cassidy-vs-dizaster-will-be-a-mainstream-letdown/?menu" data-event="menu-article-text">Swave Sevah: Cassidy vs. Dizaster Will..</a></p><p><a href="/video/202243/charlie-clips-bets-jack-thriller-that-he-will-beat-joell-ortiz/?menu" data-event="menu-article-text">Charlie Clips Bets Jack Thriller That..</a></p><p><a href="/video/202238/shotgun-suge-calls-out-40-cal-jae-millz-to-battle/?menu" data-event="menu-article-text">Shotgun Suge Calls Out 40 Cal & Jae..</a></p></div></div><div id="menu-music" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/video/202184/ar-ab-featuring-dark-lo-blow-3-music-video/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202184.jpg" alt="Ar-Ab featuring Dark Lo - &quot;Blow 3&quot; (Music Video)" /><p>Ar-Ab featuring Dark Lo - "Blow 3" (Music Video)</p></a></div><div class="menu-highlight-entry"><a href="/video/202144/bizarre-jack-my-dk-music-video/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202144.jpg" alt="Bizarre - &quot;Jack My D**k&quot; (Music Video)" /><p>Bizarre - "Jack My D**k" (Music Video)</p></a></div><div class="menu-highlight-entry"><a href="/video/202166/jasmine-v-on-new-album-working-w-mike-will-made-it-jeremih/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202166.jpg" alt="Jasmine V on New Album &amp; Working w/ Mike Will Made It &amp; Jeremih" /><p>Jasmine V on New Album & Working w/ Mike Will Made It &..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/202122/ginuwine-to-reunite-with-timbaland-for-upcoming-album/?menu" data-event="menu-article-text">Ginuwine to Reunite With Timbaland for..</a></p><p><a href="/video/202208/sincere-show-not-on-forbes-music-video/?menu" data-event="menu-article-text">Sincere Show- "Not On Forbes" (Music..</a></p><p><a href="/video/202233/splash-you-a-thot/?menu" data-event="menu-article-text">Splash - "You a Thot"</a></p><p><a href="/blog/202093/jcole-teases-new-truly-yours-dreamville-projects-on-instagram/?menu" data-event="menu-article-text">J.Cole Teases New Truly Yours &..</a></p></div></div><div id="menu-lmao-twitpics" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/42759/make-it-rain/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-042759.jpg" alt="Make It Rain" /><p>Make It Rain</p></a></div><div class="menu-highlight-entry"><a href="/blog/52560/the-moment-you-realize-your-mom-thinks-youre-gay/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-052560.jpg" alt="the moment you realize your mom thinks you're gay" /><p>the moment you realize your mom thinks you're gay</p></a></div><div class="menu-highlight-entry"><a href="/blog/43541/lil-kim-sisters/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-043541.jpg" alt="Lil Kim Sisters?" /><p>Lil Kim Sisters?</p></a></div><div class="menu-highlight-text"><p><a href="/blog/43674/namethatshape/?menu" data-event="menu-article-text">#NameThatShape</a></p><p><a href="/blog/62856/fat-nasty-sloppy-fail/?menu" data-event="menu-article-text">fat nasty sloppy fail</a></p><p><a href="/blog/52988/guess-the-celeb-booty/?menu" data-event="menu-article-text">guess the celeb booty</a></p><p><a href="/blog/41860/any-reasonable-explanation/?menu" data-event="menu-article-text">Any Reasonable Explanation?</a></p></div></div><div id="menu-breaking-news" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/202141/50-cent-shows-off-brand-new-decked-out-ferrari-on-instagram/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202141.jpg" alt="50 Cent Shows Off Brand New, Decked Out Ferrari on Instagram" /><p>50 Cent Shows Off Brand New, Decked Out Ferrari on..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202040/vladtvs-vixen-of-the-week-redbone-baddie-kendra-kouture/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202040.jpg" alt="VladTV's Vixen of the Week: Redbone Baddie Kendra Kouture" /><p>VladTV's Vixen of the Week: Redbone Baddie Kendra..</p></a></div><div class="menu-highlight-entry"><a href="/blog/202037/what-a-life-cassie-diddy-spend-thanksgiving-in-paradise/?menu" data-event="menu-article-thumb"><img src="/images/size_th/video-202037.jpg" alt="What a Life: Cassie &amp; Diddy Spend Thanksgiving in Paradise" /><p>What a Life: Cassie & Diddy Spend Thanksgiving in..</p></a></div><div class="menu-highlight-text"><p><a href="/blog/202098/50-cents-son-says-hell-beat-his-dad-in-a-game-of-basketball/?menu" data-event="menu-article-text">50 Cent's Son Says He'll Beat His Dad..</a></p><p><a href="/blog/202171/la-laker-carlos-boozer-caught-sliding-in-models-dms-on-ig/?menu" data-event="menu-article-text">LA Laker Carlos Boozer Caught Sliding..</a></p><p><a href="/blog/202188/darnell-dockett-posts-inappropiate-pic-of-malia-obama-on-ig/?menu" data-event="menu-article-text">Darnell Dockett Posts Inappropiate Pic..</a></p><p><a href="/blog/202043/trey-songzs-rumored-boo-mila-j-sparks-pregnancy-rumors-with-pic/?menu" data-event="menu-article-text">Trey Songz's Rumored Boo Mila J Sparks..</a></p></div></div>        	</div>
+			
+            <div id="notification"></div>        
+        
+            
+        <div id="content-top" class="clearfix">
+        
+            <div id="area-featured">
+                <h2><span>FEATURED</span></h2>
+                	<div id="video-featured">
+							<div id="video-featured-image">
+								<a href="/blog/202234/its-official-meek-mill-released-from-prison/"><img src="/images/size_fs/video-202234.jpg" alt="Image: It's Official: Meek Mill Released From Prison" id="video-featured-image" /></a>
+								<h1><a href="/blog/202234/its-official-meek-mill-released-from-prison/"><span>It's&nbsp;</span><span>Official:&nbsp;</span><span>Meek&nbsp;</span><span>Mill&nbsp;</span><span>Released&nbsp;</span><span>From&nbsp;</span><span>Prison</span></a></h1>
+								
+							</div>
+							<div id="video-featured-detail">
+								<div id="video-featured-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202234/its-official-meek-mill-released-from-prison/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="It's Official: Meek Mill Released From Prison (@meekmill @wale)" data-url="http://www.vladtv.com/blog/202234/its-official-meek-mill-released-from-prison/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<div id="video-featured-counts">
+									<span>VIEWS</span> 52,933
+									<span>COMMENTS</span> <a href="http://www.vladtv.com/blog/202234/its-official-meek-mill-released-from-prison/#disqus_thread" data-disqus-identifier="202234"></a>
+								</div>
+							</div>
+						</div>            </div>
+            
+            <div id="area-featured-right">
+                <div id="area-highlights">
+                    <h2><span>TOP STORIES</span></h2>
+                    	<div class="highlight-entry">
+								<a href="/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/">Kimbella Puts Her Enormous Cakes on Full Display for the 'Gram</a>
+							</div>	<div class="highlight-entry">
+								<a href="/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/">Kevin Gates Threatens Fan for Lusting After Rumored Girlfriend</a>
+							</div>	<div class="highlight-entry">
+								<a href="/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/">Mr. International: Game Shows Off Blood-Red Lamborghini in Dubai</a>
+							</div>	<div class="highlight-entry">
+								<a href="/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/">Charlamagne &amp; Azealia Banks Exchange Heated Words on Twitter</a>
+							</div>                </div>
+                <div id="ad-300" style="margin-top:5px;">
+                    <script type="text/javascript">cmnUNT('300x250', tile_num++, 1);</script> 
+                </div>
+            </div>
+        
+        </div>
+        
+        <div id="content-bottom" class="clearfix">
+            <div class="video-header">Tuesday, 12.2.14</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202252/female-police-officer-suspended-after-appearing-in-rap-video/"><img src="/images/size_mb/video-202252.jpg" alt="Female Police Officer Suspended After Appearing in Rap Video" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202252/female-police-officer-suspended-after-appearing-in-rap-video/">Female Police Officer Suspended After Appearing in Rap Video</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202252/female-police-officer-suspended-after-appearing-in-rap-video/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Female Police Officer Suspended After Appearing in Rap Video" data-url="http://www.vladtv.com/blog/202252/female-police-officer-suspended-after-appearing-in-rap-video/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />3,729&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202252/female-police-officer-suspended-after-appearing-in-rap-video/#disqus_thread" data-disqus-identifier="202252"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/"><img src="/images/size_mb/video-202143.jpg" alt="Charlamagne &amp; Azealia Banks Exchange Heated Words on Twitter" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/">Charlamagne & Azealia Banks Exchange Heated Words on Twitter</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Charlamagne &amp; Azealia Banks Exchange Heated Words on Twitter (@cthagod)" data-url="http://www.vladtv.com/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />527 K&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202143/charlamagne-azealia-banks-exchange-heated-words-on-twitter/#disqus_thread" data-disqus-identifier="202143"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/video/202257/da-jungle-battle-fresh-wess-spazzes-on-opponent-with-hard-bars/"><img src="/images/size_mb/video-202257.jpg" alt="Da Jungle Battle: Fresh Wess Spazzes on Opponent With Hard Bars" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202257/da-jungle-battle-fresh-wess-spazzes-on-opponent-with-hard-bars/">Da Jungle Battle: Fresh Wess Spazzes on Opponent With Hard Bars</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202257/da-jungle-battle-fresh-wess-spazzes-on-opponent-with-hard-bars/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Da Jungle Battle: Fresh Wess Spazzes on Opponent With Hard Bars (@conceitednyc)" data-url="http://www.vladtv.com/video/202257/da-jungle-battle-fresh-wess-spazzes-on-opponent-with-hard-bars/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />1,536&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202257/da-jungle-battle-fresh-wess-spazzes-on-opponent-with-hard-bars/#disqus_thread" data-disqus-identifier="202257"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202141/50-cent-shows-off-brand-new-decked-out-ferrari-on-instagram/"><img src="/images/size_mb/video-202141.jpg" alt="50 Cent Shows Off Brand New, Decked Out Ferrari on Instagram" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202141/50-cent-shows-off-brand-new-decked-out-ferrari-on-instagram/">50 Cent Shows Off Brand New, Decked Out Ferrari on Instagram</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202141/50-cent-shows-off-brand-new-decked-out-ferrari-on-instagram/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="50 Cent Shows Off Brand New, Decked Out Ferrari on Instagram (@50cent)" data-url="http://www.vladtv.com/blog/202141/50-cent-shows-off-brand-new-decked-out-ferrari-on-instagram/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />209 K&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202141/50-cent-shows-off-brand-new-decked-out-ferrari-on-instagram/#disqus_thread" data-disqus-identifier="202141"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/"><img src="/images/size_mb/video-202251.jpg" alt="Kimbella Puts Her Enormous Cakes on Full Display for the 'Gram" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/">Kimbella Puts Her Enormous Cakes on Full Display for the 'Gram</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Kimbella Puts Her Enormous Cakes on Full Display for the 'Gram (@kimbellasworld)" data-url="http://www.vladtv.com/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />43,107&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202251/kimbella-puts-her-enormous-cakes-on-full-display-for-the-gram/#disqus_thread" data-disqus-identifier="202251"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202142/college-baller-claims-wife-had-affair-with-nfls-demarco-murray/"><img src="/images/size_mb/video-202142.jpg" alt="College Baller Claims Wife Had Affair With NFL's DeMarco Murray" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202142/college-baller-claims-wife-had-affair-with-nfls-demarco-murray/">College Baller Claims Wife Had Affair With NFL's DeMarco Murray</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202142/college-baller-claims-wife-had-affair-with-nfls-demarco-murray/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="College Baller Claims Wife Had Affair With NFL's DeMarco Murray (@brennanclay24)" data-url="http://www.vladtv.com/blog/202142/college-baller-claims-wife-had-affair-with-nfls-demarco-murray/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />180 K&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202142/college-baller-claims-wife-had-affair-with-nfls-demarco-murray/#disqus_thread" data-disqus-identifier="202142"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/"><img src="/images/size_mb/video-202253.jpg" alt="Mr. International: Game Shows Off Blood-Red Lamborghini in Dubai" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/">Mr. International: Game Shows Off Blood-Red Lamborghini in Dubai</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Mr. International: Game Shows Off Blood-Red Lamborghini in Dubai (@thegame)" data-url="http://www.vladtv.com/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />38,300&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202253/mr-international-game-shows-off-blood-red-lamborghini-in-dubai/#disqus_thread" data-disqus-identifier="202253"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202171/la-laker-carlos-boozer-caught-sliding-in-models-dms-on-ig/"><img src="/images/size_mb/video-202171.jpg" alt="LA Laker Carlos Boozer Caught Sliding in Model's DMs on IG" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202171/la-laker-carlos-boozer-caught-sliding-in-models-dms-on-ig/">LA Laker Carlos Boozer Caught Sliding in Model's DMs on IG</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202171/la-laker-carlos-boozer-caught-sliding-in-models-dms-on-ig/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="LA Laker Carlos Boozer Caught Sliding in Model's DMs on IG" data-url="http://www.vladtv.com/blog/202171/la-laker-carlos-boozer-caught-sliding-in-models-dms-on-ig/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />138 K&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202171/la-laker-carlos-boozer-caught-sliding-in-models-dms-on-ig/#disqus_thread" data-disqus-identifier="202171"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/video/202243/charlie-clips-bets-jack-thriller-that-he-will-beat-joell-ortiz/"><img src="/images/size_mb/video-202243.jpg" alt="Charlie Clips Bets Jack Thriller That He Will Beat Joell Ortiz" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202243/charlie-clips-bets-jack-thriller-that-he-will-beat-joell-ortiz/">Charlie Clips Bets Jack Thriller That He Will Beat Joell Ortiz</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202243/charlie-clips-bets-jack-thriller-that-he-will-beat-joell-ortiz/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Charlie Clips Bets Jack Thriller That He Will Beat Joell Ortiz (@CHARLIECLIPS @jackthriller)" data-url="http://www.vladtv.com/video/202243/charlie-clips-bets-jack-thriller-that-he-will-beat-joell-ortiz/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />2,100&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202243/charlie-clips-bets-jack-thriller-that-he-will-beat-joell-ortiz/#disqus_thread" data-disqus-identifier="202243"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202188/darnell-dockett-posts-inappropiate-pic-of-malia-obama-on-ig/"><img src="/images/size_mb/video-202188.jpg" alt="Darnell Dockett Posts Inappropiate Pic of Malia Obama on IG" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202188/darnell-dockett-posts-inappropiate-pic-of-malia-obama-on-ig/">Darnell Dockett Posts Inappropiate Pic of Malia Obama on IG</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202188/darnell-dockett-posts-inappropiate-pic-of-malia-obama-on-ig/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Darnell Dockett Posts Inappropiate Pic of Malia Obama on IG" data-url="http://www.vladtv.com/blog/202188/darnell-dockett-posts-inappropiate-pic-of-malia-obama-on-ig/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />129 K&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202188/darnell-dockett-posts-inappropiate-pic-of-malia-obama-on-ig/#disqus_thread" data-disqus-identifier="202188"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202255/lil-fizz-on-amandas-claims-hes-broke-she-was-probably-jealous/"><img src="/images/size_mb/video-202255.jpg" alt="Lil Fizz on Amanda's Claims He's Broke: She Was Probably Jealous" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202255/lil-fizz-on-amandas-claims-hes-broke-she-was-probably-jealous/">Lil Fizz on Amanda's Claims He's Broke: She Was Probably Jealous</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202255/lil-fizz-on-amandas-claims-hes-broke-she-was-probably-jealous/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! Lil Fizz on Amanda's Claims He's Broke: She Was Probably Jealous (@airfizzo)" data-url="http://www.vladtv.com/video/202255/lil-fizz-on-amandas-claims-hes-broke-she-was-probably-jealous/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />2,967&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202255/lil-fizz-on-amandas-claims-hes-broke-she-was-probably-jealous/#disqus_thread" data-disqus-identifier="202255"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202212/kevin-gates-publicly-turns-down-lingerie-clad-fan-online/"><img src="/images/size_mb/video-202212.jpg" alt="Kevin Gates Publicly Turns Down Lingerie-Clad Fan Online" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202212/kevin-gates-publicly-turns-down-lingerie-clad-fan-online/">Kevin Gates Publicly Turns Down Lingerie-Clad Fan Online</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202212/kevin-gates-publicly-turns-down-lingerie-clad-fan-online/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Kevin Gates Publicly Turns Down Lingerie-Clad Fan Online (@kevin_gates)" data-url="http://www.vladtv.com/blog/202212/kevin-gates-publicly-turns-down-lingerie-clad-fan-online/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />86,642&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202212/kevin-gates-publicly-turns-down-lingerie-clad-fan-online/#disqus_thread" data-disqus-identifier="202212"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202231/curreny-seeking-3-million-from-dame-dash-in-new-court-docs/"><img src="/images/size_mb/video-202231.jpg" alt="Curren$y Seeking $3 Million From Dame Dash in New Court Docs" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202231/curreny-seeking-3-million-from-dame-dash-in-new-court-docs/">Curren$y Seeking $3 Million From Dame Dash in New Court Docs</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202231/curreny-seeking-3-million-from-dame-dash-in-new-court-docs/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Curren$y Seeking $3 Million From Dame Dash in New Court Docs (@currensy_spitta)" data-url="http://www.vladtv.com/blog/202231/curreny-seeking-3-million-from-dame-dash-in-new-court-docs/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />27,404&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202231/curreny-seeking-3-million-from-dame-dash-in-new-court-docs/#disqus_thread" data-disqus-identifier="202231"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202229/gillie-da-kid-says-dizaster-will-be-easy-work-for-cassidy/"><img src="/images/size_mb/video-202229.jpg" alt="Gillie Da Kid Says Dizaster Will Be &quot;Easy Work&quot; for Cassidy" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202229/gillie-da-kid-says-dizaster-will-be-easy-work-for-cassidy/">Gillie Da Kid Says Dizaster Will Be "Easy Work" for Cassidy</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202229/gillie-da-kid-says-dizaster-will-be-easy-work-for-cassidy/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Gillie Da Kid Says Dizaster Will Be &quot;Easy Work&quot; for Cassidy (@MRDIZASTER @CASSIDY_LARSINY)" data-url="http://www.vladtv.com/blog/202229/gillie-da-kid-says-dizaster-will-be-easy-work-for-cassidy/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />14,417&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202229/gillie-da-kid-says-dizaster-will-be-easy-work-for-cassidy/#disqus_thread" data-disqus-identifier="202229"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202222/so-you-know-its-real-erica-mena-gets-bow-wows-name-tatted/"><img src="/images/size_mb/video-202222.jpg" alt="So You Know It's Real: Erica Mena Gets Bow Wow's Name Tatted" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202222/so-you-know-its-real-erica-mena-gets-bow-wows-name-tatted/">So You Know It's Real: Erica Mena Gets Bow Wow's Name Tatted</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202222/so-you-know-its-real-erica-mena-gets-bow-wows-name-tatted/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="So You Know It's Real: Erica Mena Gets Bow Wow's Name Tatted" data-url="http://www.vladtv.com/blog/202222/so-you-know-its-real-erica-mena-gets-bow-wows-name-tatted/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />86,325&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202222/so-you-know-its-real-erica-mena-gets-bow-wows-name-tatted/#disqus_thread" data-disqus-identifier="202222"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202247/brittany-renner-im-the-queen-of-thirst-traps/"><img src="/images/size_mb/video-202247.jpg" alt="Brittany Renner: I'm the Queen of Thirst Traps" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202247/brittany-renner-im-the-queen-of-thirst-traps/">Brittany Renner: I'm the Queen of Thirst Traps</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202247/brittany-renner-im-the-queen-of-thirst-traps/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! Brittany Renner: I'm the Queen of Thirst Traps (@Rennerbrittany)" data-url="http://www.vladtv.com/video/202247/brittany-renner-im-the-queen-of-thirst-traps/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />2,967&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202247/brittany-renner-im-the-queen-of-thirst-traps/#disqus_thread" data-disqus-identifier="202247"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202221/lil-waynes-manager-jas-prince-threatened-me-at-gunpoint/"><img src="/images/size_mb/video-202221.jpg" alt="Lil Wayne's Manager: Jas Prince Threatened Me at Gunpoint" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202221/lil-waynes-manager-jas-prince-threatened-me-at-gunpoint/">Lil Wayne's Manager: Jas Prince Threatened Me at Gunpoint</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202221/lil-waynes-manager-jas-prince-threatened-me-at-gunpoint/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Lil Wayne's Manager: Jas Prince Threatened Me at Gunpoint" data-url="http://www.vladtv.com/blog/202221/lil-waynes-manager-jas-prince-threatened-me-at-gunpoint/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />74,868&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202221/lil-waynes-manager-jas-prince-threatened-me-at-gunpoint/#disqus_thread" data-disqus-identifier="202221"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/video/202232/charles-barkley-defends-darren-wilson-verdict-gets-roasted/"><img src="/images/size_mb/video-202232.jpg" alt="Charles Barkley Defends Darren Wilson Verdict &amp; Gets Roasted" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202232/charles-barkley-defends-darren-wilson-verdict-gets-roasted/">Charles Barkley Defends Darren Wilson Verdict & Gets Roasted</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202232/charles-barkley-defends-darren-wilson-verdict-gets-roasted/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Charles Barkley Defends Darren Wilson Verdict &amp; Gets Roasted (@vladtv @espn)" data-url="http://www.vladtv.com/video/202232/charles-barkley-defends-darren-wilson-verdict-gets-roasted/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />11,899&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202232/charles-barkley-defends-darren-wilson-verdict-gets-roasted/#disqus_thread" data-disqus-identifier="202232"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202225/fans-debate-whos-hot-christina-milians-sisters-vs-kardashians/"><img src="/images/size_mb/video-202225.jpg" alt="Fans Debate Who's Hot: Christina Milian's Sisters vs Kardashians" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202225/fans-debate-whos-hot-christina-milians-sisters-vs-kardashians/">Fans Debate Who's Hot: Christina Milian's Sisters vs Kardashians</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202225/fans-debate-whos-hot-christina-milians-sisters-vs-kardashians/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Fans Debate Who's Hot: Christina Milian's Sisters vs Kardashians (@ChristinaMilian @KimKardashian)" data-url="http://www.vladtv.com/blog/202225/fans-debate-whos-hot-christina-milians-sisters-vs-kardashians/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />62,385&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202225/fans-debate-whos-hot-christina-milians-sisters-vs-kardashians/#disqus_thread" data-disqus-identifier="202225"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/"><img src="/images/size_mb/video-202220.jpg" alt="Kevin Gates Threatens Fan for Lusting After Rumored Girlfriend" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/">Kevin Gates Threatens Fan for Lusting After Rumored Girlfriend</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Kevin Gates Threatens Fan for Lusting After Rumored Girlfriend" data-url="http://www.vladtv.com/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />93,833&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202220/kevin-gates-threatens-fan-for-lusting-after-rumored-girlfriend/#disqus_thread" data-disqus-identifier="202220"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202241/lhhhs-amanda-explains-why-she-exposed-lil-fizz-on-instagram/"><img src="/images/size_mb/video-202241.jpg" alt="LHHH's Amanda Explains Why She Exposed Lil Fizz on Instagram" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202241/lhhhs-amanda-explains-why-she-exposed-lil-fizz-on-instagram/">LHHH's Amanda Explains Why She Exposed Lil Fizz on Instagram</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202241/lhhhs-amanda-explains-why-she-exposed-lil-fizz-on-instagram/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! LHHH's Amanda Explains Why She Exposed Lil Fizz on Instagram (@_amandasecor)" data-url="http://www.vladtv.com/video/202241/lhhhs-amanda-explains-why-she-exposed-lil-fizz-on-instagram/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />6,793&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202241/lhhhs-amanda-explains-why-she-exposed-lil-fizz-on-instagram/#disqus_thread" data-disqus-identifier="202241"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202237/fans-turn-up-over-meek-mill-finally-coming-home-from-jail/"><img src="/images/size_mb/video-202237.jpg" alt="Fans Turn Up Over Meek Mill Finally Coming Home From Jail" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202237/fans-turn-up-over-meek-mill-finally-coming-home-from-jail/">Fans Turn Up Over Meek Mill Finally Coming Home From Jail</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202237/fans-turn-up-over-meek-mill-finally-coming-home-from-jail/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Fans Turn Up Over Meek Mill Finally Coming Home From Jail (@MeekMill)" data-url="http://www.vladtv.com/blog/202237/fans-turn-up-over-meek-mill-finally-coming-home-from-jail/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />27,904&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202237/fans-turn-up-over-meek-mill-finally-coming-home-from-jail/#disqus_thread" data-disqus-identifier="202237"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/"><img src="/images/size_mb/video-202239.jpg" alt="Math Hoffa: Cassidy Has to Get Crazy After All of the Trash Talk" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/">Math Hoffa: Cassidy Has to Get Crazy After All of the Trash Talk</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! Math Hoffa: Cassidy Has to Get Crazy After All of the Trash Talk (@MATHHOFFA @CASSIDY_LARSINY)" data-url="http://www.vladtv.com/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />3,108&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202239/math-hoffa-cassidy-has-to-get-crazy-after-all-of-the-trash-talk/#disqus_thread" data-disqus-identifier="202239"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202226/lhhhs-masika-admits-to-starring-in-porno-flick-for-playboy-tv/"><img src="/images/size_mb/video-202226.jpg" alt="LHHH's Masika Admits to Starring in Porno Flick for Playboy TV" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202226/lhhhs-masika-admits-to-starring-in-porno-flick-for-playboy-tv/">LHHH's Masika Admits to Starring in Porno Flick for Playboy TV</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202226/lhhhs-masika-admits-to-starring-in-porno-flick-for-playboy-tv/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="LHHH's Masika Admits to Starring in Porno Flick for Playboy TV" data-url="http://www.vladtv.com/blog/202226/lhhhs-masika-admits-to-starring-in-porno-flick-for-playboy-tv/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />41,460&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202226/lhhhs-masika-admits-to-starring-in-porno-flick-for-playboy-tv/#disqus_thread" data-disqus-identifier="202226"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202238/shotgun-suge-calls-out-40-cal-jae-millz-to-battle/"><img src="/images/size_mb/video-202238.jpg" alt="Shotgun Suge Calls Out 40 Cal &amp; Jae Millz to Battle" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202238/shotgun-suge-calls-out-40-cal-jae-millz-to-battle/">Shotgun Suge Calls Out 40 Cal & Jae Millz to Battle</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202238/shotgun-suge-calls-out-40-cal-jae-millz-to-battle/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! Shotgun Suge Calls Out 40 Cal &amp; Jae Millz to Battle (@shotgunsuge103 @fortycal)" data-url="http://www.vladtv.com/video/202238/shotgun-suge-calls-out-40-cal-jae-millz-to-battle/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />1,461&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202238/shotgun-suge-calls-out-40-cal-jae-millz-to-battle/#disqus_thread" data-disqus-identifier="202238"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202235/swave-sevah-cassidy-vs-dizaster-will-be-a-mainstream-letdown/"><img src="/images/size_mb/video-202235.jpg" alt="Swave Sevah: Cassidy vs. Dizaster Will Be a Mainstream Letdown" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202235/swave-sevah-cassidy-vs-dizaster-will-be-a-mainstream-letdown/">Swave Sevah: Cassidy vs. Dizaster Will Be a Mainstream Letdown</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202235/swave-sevah-cassidy-vs-dizaster-will-be-a-mainstream-letdown/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! Swave Sevah: Cassidy vs. Dizaster Will Be a Mainstream Letdown (@swavesevah @MRDIZASTER)" data-url="http://www.vladtv.com/video/202235/swave-sevah-cassidy-vs-dizaster-will-be-a-mainstream-letdown/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />2,332&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202235/swave-sevah-cassidy-vs-dizaster-will-be-a-mainstream-letdown/#disqus_thread" data-disqus-identifier="202235"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/video/202187/protester-rocks-cop-with-a-barricade-during-ferguson-protest/"><img src="/images/size_mb/video-202187.jpg" alt="Protester Rocks Cop With a Barricade During Ferguson Protest" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202187/protester-rocks-cop-with-a-barricade-during-ferguson-protest/">Protester Rocks Cop With a Barricade During Ferguson Protest</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202187/protester-rocks-cop-with-a-barricade-during-ferguson-protest/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Protester Rocks Cop With a Barricade During Ferguson Protest" data-url="http://www.vladtv.com/video/202187/protester-rocks-cop-with-a-barricade-during-ferguson-protest/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />3,445&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202187/protester-rocks-cop-with-a-barricade-during-ferguson-protest/#disqus_thread" data-disqus-identifier="202187"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-1">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202148/the-ex-files-sheneka-adams-ex-posts-freaky-flick-of-her-on-ig/"><img src="/images/size_mb/video-202148.jpg" alt="The Ex-Files: Sheneka Adams' Ex Posts Freaky Flick of Her on IG" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202148/the-ex-files-sheneka-adams-ex-posts-freaky-flick-of-her-on-ig/">The Ex-Files: Sheneka Adams' Ex Posts Freaky Flick of Her on IG</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202148/the-ex-files-sheneka-adams-ex-posts-freaky-flick-of-her-on-ig/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="The Ex-Files: Sheneka Adams' Ex Posts Freaky Flick of Her on IG" data-url="http://www.vladtv.com/blog/202148/the-ex-files-sheneka-adams-ex-posts-freaky-flick-of-her-on-ig/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />236 K&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202148/the-ex-files-sheneka-adams-ex-posts-freaky-flick-of-her-on-ig/#disqus_thread" data-disqus-identifier="202148"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-2">
+							<div class="video-spacer">&nbsp;</div>
+							<a href="/blog/202234/its-official-meek-mill-released-from-prison/"><img src="/images/size_mb/video-202234.jpg" alt="It's Official: Meek Mill Released From Prison" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/blog/202234/its-official-meek-mill-released-from-prison/">It's Official: Meek Mill Released From Prison</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/blog/202234/its-official-meek-mill-released-from-prison/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="It's Official: Meek Mill Released From Prison (@meekmill @wale)" data-url="http://www.vladtv.com/blog/202234/its-official-meek-mill-released-from-prison/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />55,334&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/blog/202234/its-official-meek-mill-released-from-prison/#disqus_thread" data-disqus-identifier="202234"></a>
+							</div>
+						</div>	<div class="video-entry video-entry-spacing-3 video-border">
+							<div class="video-exclusive">EXCLUSIVE</div>
+							<a href="/video/202215/shy-glizzy-road-to-fame-is-easy-aside-from-the-opportunists/"><img src="/images/size_mb/video-202215.jpg" alt="Shy Glizzy: Road to Fame Is Easy Aside From the Opportunists" width="250" height="141" /></a>
+							<div class="video-entry-title"><a href="/video/202215/shy-glizzy-road-to-fame-is-easy-aside-from-the-opportunists/">Shy Glizzy: Road to Fame Is Easy Aside From the Opportunists</a></div>
+							<div class="video-entry-stats clearfix">
+								<div class="video-entry-social-media">	<div class="social-media-entry sm-facebook">
+					<div class="fb-like" data-href="http://www.vladtv.com/video/202215/shy-glizzy-road-to-fame-is-easy-aside-from-the-opportunists/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
+				</div>
+				<div class="social-media-entry sm-twitter">
+					<a href="http://twitter.com/share" class="twitter-share-button" data-text="Exclusive! Shy Glizzy: Road to Fame Is Easy Aside From the Opportunists (@shyglizzy)" data-url="http://www.vladtv.com/video/202215/shy-glizzy-road-to-fame-is-easy-aside-from-the-opportunists/" data-via="vladtv" data-count="horizontal" data-size="80" rel="nofollow">Tweet</a>
+				</div></div>
+								<img src="/images/site/icon-views.png" alt="Icon: Views" class="icon-views" />2,015&nbsp;&nbsp;&nbsp;<img src="/images/site/icon-comments.png" alt="Icon: Comments" class="icon-views" /><a href="http://www.vladtv.com/video/202215/shy-glizzy-road-to-fame-is-easy-aside-from-the-opportunists/#disqus_thread" data-disqus-identifier="202215"></a>
+							</div>
+						</div><div class="clearfix"></div><br /><table id="paging"><tr><td align="left" width="20%"></td><td align="center" width="60%"></td><td align="right" width="20%"><a href="/channel/homepage?page=2" " class="button">OLDER &gt;&gt;</a></td></tr></table>        </div>
+
+    </div>
+    
+    <a name="hot-content"></a>
+    <div id="area-hot-content" class="clearfix">
+        <h2><span>HOT CONTENT</span></h2>
+        	<div class="exclusives-entry">
+								<a href="/blog/195098/vladtvs-top-50-shortest-rappers/"><img src="/images/size_mb/video-195098.jpg" alt="Hot Content: VladTV's Top 50 Shortest Rappers" /></a>
+								<a href="/blog/195098/vladtvs-top-50-shortest-rappers/">VladTV's Top 50 Shortest Rappers</a>
+							</div>	<div class="exclusives-entry">
+								<a href="/blog/196083/vladtvs-top-50-most-curvaceous-celebrity-bodies/"><img src="/images/size_mb/video-196083.jpg" alt="Hot Content: VladTV's Top 50 Most Curvaceous Celebrity Bodies" /></a>
+								<a href="/blog/196083/vladtvs-top-50-most-curvaceous-celebrity-bodies/">VladTV's Top 50 Most Curvaceous Celebrity Bodies</a>
+							</div>	<div class="exclusives-entry">
+								<a href="/blog/201533/vladtvs-top-50-best-celebrity-thirst-traps/"><img src="/images/size_mb/video-201533.jpg" alt="Hot Content: VladTV's Top 50 Best Celebrity Thirst Traps" /></a>
+								<a href="/blog/201533/vladtvs-top-50-best-celebrity-thirst-traps/">VladTV's Top 50 Best Celebrity Thirst Traps</a>
+							</div>	<div class="exclusives-entry">
+								<a href="/blog/199350/vladtvs-top-50-hottest-video-vixens-of-all-time/"><img src="/images/size_mb/video-199350.jpg" alt="Hot Content: VladTV's Top 50 Hottest Video Vixens of All Time" /></a>
+								<a href="/blog/199350/vladtvs-top-50-hottest-video-vixens-of-all-time/">VladTV's Top 50 Hottest Video Vixens of All Time</a>
+							</div><div class="clear"></div>	<div class="exclusives-entry">
+								<a href="/blog/198536/vladtvs-top-50-baddest-ladies-of-love-hip-hop/"><img src="/images/size_mb/video-198536.jpg" alt="Hot Content: VladTV's Top 50 Baddest Ladies of 'Love &amp; Hip Hop'" /></a>
+								<a href="/blog/198536/vladtvs-top-50-baddest-ladies-of-love-hip-hop/">VladTV's Top 50 Baddest Ladies of 'Love & Hip Hop'</a>
+							</div>	<div class="exclusives-entry">
+								<a href="/blog/199864/vladtvs-top-25-hottest-rappers-right-now/"><img src="/images/size_mb/video-199864.jpg" alt="Hot Content: VladTV's Top 25 Hottest Rappers Right Now" /></a>
+								<a href="/blog/199864/vladtvs-top-25-hottest-rappers-right-now/">VladTV's Top 25 Hottest Rappers Right Now</a>
+							</div>	<div class="exclusives-entry">
+								<a href="/blog/202124/vladtvs-hottest-vixens-of-the-week-for-2014/"><img src="/images/size_mb/video-202124.jpg" alt="Hot Content: VladTV's Hottest Vixens of the Week for 2014" /></a>
+								<a href="/blog/202124/vladtvs-hottest-vixens-of-the-week-for-2014/">VladTV's Hottest Vixens of the Week for 2014</a>
+							</div>	<div class="exclusives-entry">
+								<a href="/blog/198088/vladtvs-top-25-craziest-nicki-minaj-verses/"><img src="/images/size_mb/video-198088.jpg" alt="Hot Content: VladTV's Top 25 Craziest Nicki Minaj Verses" /></a>
+								<a href="/blog/198088/vladtvs-top-25-craziest-nicki-minaj-verses/">VladTV's Top 25 Craziest Nicki Minaj Verses</a>
+							</div>    </div>
+    
+        <a name="next-to-blow"></a>
+    <div id="area-next" class="clearfix">
+        <h2><span>NEXT TO BLOW</span> <a href="/channel/user-submissions/" class="button">GO TO CHANNEL &gt;</a></h2>
+        	<div class="exclusives-entry">
+									<a href="/video/197561/dandrell-scott-her-names-bokeysha/"><img src="/images/size_mb/video-197561.jpg" alt="Dandrell Scott - &quot;Her Name's Bokeysha&quot;" /></a>
+									<a href="/video/197561/dandrell-scott-her-names-bokeysha/">Dandrell Scott - &quot;Her Name's Bokeysha&quot;</a>
+								</div>	<div class="exclusives-entry">
+									<a href="/video/194673/dc-deezy-dre-ced-ftp/"><img src="/images/size_mb/video-194673.jpg" alt="Dc_Deezy , Dre , Ced - FTP" /></a>
+									<a href="/video/194673/dc-deezy-dre-ced-ftp/">Dc_Deezy , Dre , Ced - FTP</a>
+								</div>	<div class="exclusives-entry">
+									<a href="/video/202160/jay-ax-young-bachelor-official-video/"><img src="/images/size_mb/video-202160.jpg" alt="Jay Ax - &quot;Young Bachelor&quot; (Official Video)" /></a>
+									<a href="/video/202160/jay-ax-young-bachelor-official-video/">Jay Ax - &quot;Young Bachelor&quot; (Official Video)</a>
+								</div>	<div class="exclusives-entry">
+									<a href="/video/202153/huva-haz-twerk-it-dir-by-mxemmxiii/"><img src="/images/size_mb/video-202153.jpg" alt="Huva Haz -Twerk It Dir By MXE.MMXIII" /></a>
+									<a href="/video/202153/huva-haz-twerk-it-dir-by-mxemmxiii/">Huva Haz -Twerk It Dir By MXE.MMXIII</a>
+								</div><div class="clear"></div>	<div class="exclusives-entry exclusives-no-border">
+									<a href="/video/202149/jumz-criminal-mind/"><img src="/images/size_mb/video-202149.jpg" alt="JUMZ - &quot;Criminal Mind&quot;" /></a>
+									<a href="/video/202149/jumz-criminal-mind/">JUMZ - &quot;Criminal Mind&quot;</a>
+								</div>	<div class="exclusives-entry exclusives-no-border">
+									<a href="/video/202107/bheath-vs-yle/"><img src="/images/size_mb/video-202107.jpg" alt="B.HEATH vs YLE" /></a>
+									<a href="/video/202107/bheath-vs-yle/">B.HEATH vs YLE</a>
+								</div>	<div class="exclusives-entry exclusives-no-border">
+									<a href="/video/202046/real-btch/"><img src="/images/size_mb/video-202046.jpg" alt="REAL B*TCH" /></a>
+									<a href="/video/202046/real-btch/">REAL B*TCH</a>
+								</div>	<div class="exclusives-entry exclusives-no-border">
+									<a href="/user-login.php?redirect=%2Fuser-submission.php"><img src="/images/site/submit-video.jpg" alt="Image: Submit Your Video" /></a>
+									<a href="/user-login.php?redirect=%2Fuser-submission.php">Submit Your Video</a>
+								</div>
+								<div class="clear"></div>    </div>
+        
+            <div id="footer">
+            Copyright &copy; 2008-2014 Hot In Here, Inc. All Rights Reserved. <a href="/page/terms/">Terms of Service</a> | <a href="/page/privacy/">Privacy</a> | <a href="/page/jobs/">Jobs</a> | <a href="/page/contact/">Contact</a><br />
+        </div>
+    
+    </div>
+    
+</div>
+
+<!-- Begin comScore Tag --> 
+<script>
+	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script> 
+<script>   
+	COMSCORE.beacon({     
+	c1: 2,     
+	c2: 6685975,     
+	c3: "",     
+	c4: "www.vladtv.com/'",     
+	c5: "",     
+	c6: "",     
+	c15: ""   
+	}); 
+</script> 
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript> 
+<!-- End comScore Tag -->   
+
+<script>			
+    cmnTB();
+    cmnUNT('tover', tile_num++, 1);
+</script>
+
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=126470887435515";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script>
+	var disqus_shortname = 'vladtv';
+	(function () {
+		var s = document.createElement('script'); s.async = true;
+		s.type = 'text/javascript';
+		s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+	}());
+</script> 
+ 
+
+ 
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"5a103dc51c","applicationID":"1482965","transactionName":"MwBTNxAFX0EEBkxcCwpKZBELS1hcAQBAGxQMFQ==","queueTime":0,"applicationTime":183,"atts":"H0dQQVgfTE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script></body>
+</html>
