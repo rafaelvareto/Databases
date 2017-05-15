@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>jeffreylancaster.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sevilla">
+    <meta name="author" content="Jeffrey Lancaster">
+    <link rel="icon" href="http://www.jeffreylancaster.com/jeffreylancaster.png"/>
+    <!--<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/prototype.js"></script>
+    <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="js/lightbox.js"></script>
+    <script type="text/javascript" src="js/background_functions.js"></script>-->
+
+    <!-- Le styles -->
+    <link href="http://www.jeffreylancaster.com/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+	  }
+    </style>
+    <link href="http://www.jeffreylancaster.com/css/bootstrap-responsive.css" rel="stylesheet">
+    <!--<script src='js/thumbnail.js'></script>-->
+  </head>
+
+  <body>
+	
+    <!-- HEADER -->
+    <div id="JRLheader"></div>
+	<script src='http://www.jeffreylancaster.com/js/JRLheader.js'></script>
+    <!-- /HEADER -->
+
+    <div class="container">
+      <div class="row">
+      <!-- CONTENT -->
+        <div class="span12">
+        <h2>Page Not Found (404 Error)</h2>
+        <hr>
+		<p align="center"><a href="http://www.jeffreylancaster.com/index.html">There's no place like home.  There's no place like home.</a></p>
+        
+        
+        
+        </div><!--/span12-->
+      <!-- /CONTENT -->  
+      </div><!--/row-->
+
+      <hr>
+		<!-- FOOTER -->
+  		<div id="JRLfooter"></div>
+		<script src='http://www.jeffreylancaster.com/js/JRLfooter.js'></script>
+   		<!-- /FOOTER -->
+
+    </div><!--/.fluid-container-->
+    
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://www.jeffreylancaster.com/js/jquery-1.7.2.min.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-transition.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-alert.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-modal.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-dropdown.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-scrollspy.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-tab.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-tooltip.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-popover.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-button.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-collapse.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-carousel.js"></script>
+    <script src="http://www.jeffreylancaster.com/js/bootstrap-typeahead.js"></script>
+
+  </body>
+</html>

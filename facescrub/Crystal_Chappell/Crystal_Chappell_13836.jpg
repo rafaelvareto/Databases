@@ -1,0 +1,44 @@
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<title>Error 404 File not found</title>
+
+		<META NAME="robots" CONTENT="noindex,nofollow">
+		<link rel="stylesheet" href="/nabble.pack.css?v=28" type="text/css" />
+		<style type="text/css">
+			p { margin: .3em 0 0; }
+			.error-details {
+				border: 1px solid gray;
+				padding: .5em;
+				width:90%;
+				margin-left:2.5%;
+				position: relative;
+				overflow-x:scroll;
+			}
+		</style>
+	</head>
+	<body>
+		
+<div class="nabble" id="nabble">
+	<div class="top-bar">
+		<div class="breadcrumbs" style="float:left;">
+			<a href='http://www.nabble.com/'>Nabble</a>
+		</div>
+	</div>
+	
+<h2 style="padding:0;margin:1em 0">File not found</h2>
+
+Please contact <a href="http://support.nabble.com/" target="_new">Nabble Support</a> if you need help.
+
+<table class="footer-table shaded-bg-color">
+	<tr>
+		<td class="footer-left">
+			Powered by <a href="http://www.nabble.com/" target="_top" title="Free forum and other embeddable web apps">Nabble</a>
+		</td>
+		<td class="footer-right"></td>
+	</tr>
+</table>
+</div>
+</body>
+</html>

@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>Actor Headshots Photographer Los Angeles New York LA  NYC - EdgyHeadshots</title>
+        <meta name="description" content="EdgyHeadshots  is a top Los Angeles LA | New York City | NYC Headshot photographer studio that  specializes in the best location and studio headshots for actors, corporate, and event photography.">
+        <meta name="keywords" content="Headshots, Los Angeles, LA, New York city, NYC, Actor,LOCATION,studio, professional, best, top, corporate, commercial, event">
+        
+	<meta property="og:image" content="http://www.edgyheadshots.com">
+	<meta property="og:description" content="">
+	<meta property="og:url" content="http://www.edgyheadshots.com/">
+	<meta property="og:type" content="article">    
+    <link rel="stylesheet" type="text/css" href="sources/design.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="./sources/javascript/social_media/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="sources/shadowbox/shadowbox.php?version=1.0">
+
+    <style type="text/css" media="screen">
+        <!--
+        body { color: #000000; }
+        body a { color: #000000; }
+        #social_media { ; }
+        #social_media a { display:block; float:left; }
+        #expired p { font-family: arial, sans-serif; font-size: 15px; color: #6a6a6a; padding: 0px 50px 0 50px; text-align: left; }
+        #expired p.first { color: #000; padding-top: 50px; }
+        #expired a { color: #ff7d00 ; text-decoration: none;}
+        .flashHide {visibility: hidden; width: 0px; height: 0px;}
+        -->
+    </style>
+    <!--[if lt IE 8]><style>#flashcontent { position: absolute; }</style><![endif]-->
+        </head>
+<body bgcolor='#949494'>
+    <div id="overlay" class="overlay" style="display:none;"></div>
+    <div id='body_s9g' class='notvisible'></div>
+    <div id='flash_s9g' class='notvisible'></div>
+    <div id='flashwrapper' class='fw flashwrappernoflashnojs'>
+        <div id='flashcontent' class='flashcontentnoflashnojs'>
+            <div id='alternativecontent'>
+                <h1>Actor Headshots Photographer Los Angeles New York LA  NYC - EdgyHeadshots</h1><p>EdgyHeadshots  is a top Los Angeles LA | New York City | NYC Headshot photographer studio that  specializes in the best location and studio headshots for actors, corporate, and event photography.</p>
+                <div id='getflash'><p>This content requires <noscript>a javascript enabled browser and</noscript> the Adobe Flash Player 10 or higher. <a href='http://get.adobe.com/flashplayer/' rel='nofollow'>Get Flash Player now</a>.</p></div>
+                <div id="htmlwebsite"><a href="first.html" rel="nofollow">Click here to view the HTML version of this website</a></div><div id="footer"><span>&copy; EDGYHEADSHOTS 2014 </span> | <a href="/website.html" title="Site Map">Site Map</a> | <a href="/headshots-photographer-new-york-city-nyc-los-angeles-la-corporate-actor-headshots-l.html" title="Headshots Photographer New York City NYC | Los Angeles LA &ndash; Corporate &amp; Actor Headshots.">Headshots Photographer New York City NYC | Los Angeles LA &ndash; Corporate &amp; Actor Headshots.</a></div>            </div>
+        </div>
+        <script type="text/javascript">
+            document.getElementById("alternativecontent").style.display = "none";
+        </script>
+    </div>
+    
+
+<!-- Copyright 2003-2014, WWLB Management, LLC, All Rights Reserved  -->
+<!-- 6.8.39 web41 -->
+
+    
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" src="sources/js/livebooks_libs.min.js"></script>
+    
+    <script language="VBScript" type="text/vbscript">
+        Sub flashapp_FSCommand(ByVal command, ByVal args)
+            select case command
+                case "putHREF"
+                    location.href = args
+                case "putTitle"
+                    document.title = args
+            end select
+        end sub
+    </script>
+
+    <script type="text/javascript">
+
+        if (swfobject.hasFlashPlayerVersion("10.0.0")) {
+            $("#body_s9g").removeClass('notvisible');
+            $("#flash_s9g").removeClass('notvisible');
+            $("#flashwrapper").removeClass('flashwrappernoflashnojs');
+            $("#flashwrapper").removeClass('flashwrappernoflashnojs[id]');
+        }
+
+        var pageURL;
+        var pageURLShort;
+        var pageTitle;
+        var socialMediaTitle = "";
+        var socialMediaExtraTitle = '';
+        var socialMediaExtraDescription = '';
+        var socialMediaDescription = "";
+        var socialMediaImage = '';
+        var initialSocialMediaPhoto = '';
+        var socialMediaPhoto = initialSocialMediaPhoto;
+
+        var domainName = 'www.edgyheadshots.com';
+        var ogOrigTitle = $('meta[property="og:title"]').attr("content");
+        var ogOrigDescription = $('meta[property="og:description"]').attr("content");
+        var ogOrigUrl = $('meta[property="og:url"]').attr("content");
+
+        var longUrlCurrent;
+
+        var scaling_type                =   "FULL";
+        var halign                      =   "center";
+        var valign                      =   "center";
+        var padding_top                 =   0;
+        var padding_right               =   0;
+        var padding_bottom              =   0;
+        var padding_left                =   0;
+        var fixed_width                 =   971;
+        var fixed_height                =   636;
+        var min_width                   =   1255;
+        var min_height                  =   837;
+        var max_width                   =   2880;
+        var max_height                  =   2880;
+
+        var s9g_body_top                =   0;
+        var s9g_body_bottom             =   0;
+        var s9g_body_left               =   0;
+        var s9g_body_right              =   0;
+
+        var s9g_flashwrapper_top        =   0;
+        var s9g_flashwrapper_bottom     =   0;
+        var s9g_flashwrapper_left       =   0;
+        var s9g_flashwrapper_right      =   0;
+
+        // check the mobile device
+        var mobileBrowser = '';
+        if(mobileBrowser != '') {
+            try {
+                pageURL = location.href;
+                pos = pageURL.indexOf('#');
+                anchorSection = '';
+                // Show Android
+                var showMobileForAndroid = false;
+                if(jQuery.inArray(mobileBrowser, ["Android", "Android-Tablet", "BlackBerry", "Palm", "Symbian", "Windows Mobile", "Opera Mini"]) >= 0) {
+                    if(mobileBrowser == "Android" || mobileBrowser == "Android-Tablet") {
+                        showMobileForAndroid = true;
+                    } else {
+                        document.location = '/first.html';
+                    }
+                } else if(jQuery.inArray(mobileBrowser, ["Lint", "Pinterest"]) >= 0) {
+                    if (pos != -1) {
+                        updateOGTags(pageURL, false);
+                    }
+                }
+                if(jQuery.inArray(mobileBrowser, ["iPhone","iPad", "iPod"]) >= 0 || showMobileForAndroid) {
+                }
+            } catch(e){
+            }
+        } else {
+            if (!swfobject.hasFlashPlayerVersion("10.0.0")) {
+                document.getElementById("alternativecontent").style.display = "block";
+            }
+        }
+
+        
+        var flashvars = {};
+        flashvars.local                 =   "http://www.edgyheadshots.com/";
+        flashvars.bgColor               =   "0x949494";
+        flashvars.refreshSwitcher       =   "0";
+        flashvars.splash_page_type      =   "4";
+        flashvars.splash_bar_type       =   "line_01";
+        flashvars.splash_bar_color1     =   "0x000000";
+        flashvars.splash_bar_color2     =   "0x6a6a6a";
+        flashvars.splash_text           =   "";
+        flashvars.splash_text_color     =   "0x6a6a6a";
+        flashvars.splash_graphic_type   =   "1";
+        flashvars.splash_timer          =   "1";
+        flashvars.splash_graphic        =   "data/default/pages/splash_1285880080.swf";
+        flashvars.hide_url              =   "0";
+        flashvars.files_version         =   "_6_8_39";
+        flashvars.use_fotomoto          =   "0";
+
+        if (swfobject.getQueryParamValue("pt"))     flashvars.pt    =   swfobject.getQueryParamValue("pt");
+        if (swfobject.getQueryParamValue("pi"))     flashvars.pi    =   swfobject.getQueryParamValue("pi");
+        if (swfobject.getQueryParamValue("mi"))     flashvars.mi    =   swfobject.getQueryParamValue("mi");
+        if (swfobject.getQueryParamValue("at"))     flashvars.at    =   swfobject.getQueryParamValue("at");
+        if (swfobject.getQueryParamValue("a"))      flashvars.a     =   swfobject.getQueryParamValue("a");
+        if (swfobject.getQueryParamValue("p"))      flashvars.p     =   swfobject.getQueryParamValue("p");
+        if (swfobject.getQueryParamValue("s"))      flashvars.s     =   swfobject.getQueryParamValue("s");
+        if (swfobject.getQueryParamValue("pw"))     flashvars.pw    =   swfobject.getQueryParamValue("pw");
+        if (swfobject.getQueryParamValue("cpi"))    flashvars.cpi   =   swfobject.getQueryParamValue("cpi");
+
+        var params = {
+            menu: "false",
+            wmode: "transparent",
+            scale: "noscale",
+            allowFullScreen: "true",
+            allowScriptAccess: "always"
+        };
+
+        var attributes = {
+            id: "liveBooks",
+            name: "liveBooks"
+        };
+
+        swfobject.embedSWF("./sources/index_website_line_01_6_8_39.swf","flashcontent","100%","100%","10.0.0","",flashvars,params,attributes);
+
+        var detect = navigator.userAgent.toLowerCase();
+        var OS,browser,version,total,thestring;
+        if (checkIt('konqueror'))    {
+            browser = "Konqueror";
+            OS = "Linux";
+        }
+        else if (checkIt('safari'))
+            browser = "Safari"
+        else if (checkIt('omniweb'))
+            browser = "OmniWeb"
+        else if (checkIt('opera'))
+            browser = "Opera"
+        else if (checkIt('webtv'))
+            browser = "WebTV";
+        else if (checkIt('icab'))
+            browser = "iCab"
+        else if (checkIt('msie'))
+            browser = "Internet Explorer"
+        else if (!checkIt('compatible')){
+            browser = "Netscape Navigator"
+            version = detect.charAt(8);
+            }
+            else browser = "An unknown browser";
+
+        if (!version)
+            version = detect.charAt(place + thestring.length);
+        if (!OS){
+            if (checkIt('linux'))
+                OS = "Linux";
+            else if (checkIt('x11')) OS = "Unix";
+            else if (checkIt('mac')) OS = "Mac"
+            else if (checkIt('win')) OS = "Windows"
+            else OS = "an unknown operating system";
+        }
+
+        $(document).ready(function () {
+            $( "#flashwrapper" ).css("padding-top","0px");
+            $( "#flashwrapper" ).css("padding-right","0px");
+            $( "#flashwrapper" ).css("padding-bottom","0px");
+            $( "#flashwrapper" ).css("padding-left","0px");
+
+            $( "#body_s9g" ).css("padding","0 0 0 0");
+            $( "#flash_s9g" ).css("padding","0 0 0 0");
+
+            var s9g_body_top                =   0;
+            var s9g_body_bottom             =   0;
+            var s9g_body_left               =   0;
+            var s9g_body_right              =   0;
+
+            var s9g_flashwrapper_top        =   0;
+            var s9g_flashwrapper_bottom     =   0;
+            var s9g_flashwrapper_left       =   0;
+            var s9g_flashwrapper_right      =   0;
+
+            if (s9g_body_top != 0 && s9g_body_bottom != 0 && s9g_body_left != 0 && s9g_body_right != 0)
+                $( "#body_s9g" ).scale9Grid({top:0,bottom:0,left:0,right:0});
+
+            if (s9g_flashwrapper_top != 0 && s9g_flashwrapper_bottom != 0 && s9g_flashwrapper_left != 0 && s9g_flashwrapper_right != 0)
+                $( "#flash_s9g" ).scale9Grid({top:0,bottom:0,left:0,right:0});
+
+            position();
+
+            
+        });
+
+        $(window).load(function() {
+            Shadowbox.init({
+                language: "en",
+                overlayColor: '#000000',
+                overlayOpacity: 0.9,
+                players: ["flv", "html", "iframe", "wmp", "img", "swf", "qt"]
+            });
+        });
+
+        $(window).resize(function() {
+            position();
+        });
+
+        var isFotoMotoLoaded = false;
+        var isFlashSiteLoaded = false;
+        var updatedTotalCartItems = null;
+
+        function flashSiteLoaded() {
+            isFlashSiteLoaded = true;
+            var macmousewheel = new SWFMacMouseWheel( swfobject.getObjectById('liveBooks') );
+            if (isFotoMotoLoaded) updateCart();
+            $("#share-link").show();
+            $("#follow-link").show();
+            $("#share-link").click(function (e) {
+                e.preventDefault();
+                var element = $($(this).attr("href"));
+                shareWindow(element);
+            });
+            $("#follow-link").click(function (e) {
+                e.preventDefault();
+                var element = $($(this).attr("href"));
+                showPopup(element);
+            });
+            $("#overlay").click(function (e) {
+                e.preventDefault();
+                hidePopup();
+            });
+            $(".close").click(function (e) {
+                e.preventDefault();
+                hidePopup();
+            });
+        }
+
+        var freeForSyncExecution = true;
+
+        function updateFotoMoto() {
+            if(freeForSyncExecution) {
+                freeForSyncExecution = false;
+                $.ajax({
+                    url: "/sources/worker.php" + "?action=update-fotomoto&dummy=" + new Date().getTime(),
+                    dataType: 'json',
+                    success: function (data) {
+                        // console.log("success");
+                        freeForSyncExecution = true;
+                    },
+                    error: function(xhr, status, error) {
+                        // console.log("status : " + status + " with error : " + error);
+                        freeForSyncExecution = true;
+                    }
+                });
+            }
+        }
+
+        function fotomoto_loaded() {
+            var updateCMSWithFMStatus = false;
+            if (updateCMSWithFMStatus) {
+                updateFotoMoto();
+            }
+            isFotoMotoLoaded = true;
+            FOTOMOTO.API.setItemChanged(fotoMotoCartCallback);
+            if (isFlashSiteLoaded)
+            {
+                swfobject.getObjectById("liveBooks").fotoMotoLoaded();
+                updateCart();
+            }
+        }
+
+        function fotoMotoCartCallback(totalCartItems) {
+            updatedTotalCartItems = totalCartItems;
+            if (isFlashSiteLoaded) swfobject.getObjectById("liveBooks").fotoMotoCartUpdate(totalCartItems);
+        }
+
+        function updateCart() {
+            if (updatedTotalCartItems !== null) swfobject.getObjectById("liveBooks").fotoMotoCartUpdate(updatedTotalCartItems);
+        }
+
+        var FlashSetImageProperties, __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
+
+        FlashSetImageProperties = (function() {
+
+            function FlashSetImageProperties(artistType, artist, category, slide, photo)
+            {
+                this.artistType = artistType;
+                this.artist = artist;
+                this.category = category;
+                this.slide = slide;
+                this.photo = photo;
+                this.callbackFunction = __bind(this.callbackFunction, this);
+            }
+
+            FlashSetImageProperties.prototype.callbackFunction = function(result) {
+                return swfobject.getObjectById("liveBooks").fotomoto_getImageProducts(JSON.stringify(result), this.artistType, this.artist, this.category, this.slide, this.photo);
+            };
+
+            return FlashSetImageProperties;
+        })();
+
+        function fotomoto_getImageProducts(image_url, activeArtistType, activeArtist, activeCategory, new_slide, i)
+        {
+            window.setTimeout(function() {
+                window.imageProperties = new FlashSetImageProperties(activeArtistType, activeArtist, activeCategory, new_slide, i);
+                FOTOMOTO.API.getImageProducts(image_url, window.imageProperties.callbackFunction);
+            }, 0);
+            return 1;
+        }
+    </script>
+    <script src="//hello.staticstuff.net/w/ironstats.js" type="text/javascript"></script><script type="text/javascript">try{ ironstats.init(100700772); }catch(e){}</script><noscript><p><img alt="IronStats" width="1" height="1" src="//win.staticstuff.net/100700772ns.gif" /></p></noscript></body>
+</html>

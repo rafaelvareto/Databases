@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+<title>Page not found &#8211; Entertainment &amp; Money</title>
+
+<link rel="shortcut icon" href="http://entmoney.com/wp-content/uploads/2014/08/elg.png" /><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://entmoney.com/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://entmoney.com/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://entmoney.com/feed/atom/" />
+<link rel="pingback" href="http://entmoney.com/xmlrpc.php" />
+
+<meta property="og:image" content="http://entmoney.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-08-at-1.41.51-AM-360x220.png" />
+
+<meta property="og:description" content="" /> 
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Entertainment &amp; Money &raquo; Feed" href="http://entmoney.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Entertainment &amp; Money &raquo; Comments Feed" href="http://entmoney.com/comments/feed/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    (function() {
+      var shr = document.createElement('script');
+      shr.setAttribute('data-cfasync', 'false');
+      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript'; shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var site_id = '8b72f8a412ad1bbcaff25414aff02ea8';
+        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
+    Shareaholic.Utils.ajax({
+      cache: true,
+      cache_ttl: '1 minute',
+      url: 'http://entmoney.com/wp-admin/admin-ajax.php',
+      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
+      success: function(res) {
+        if(res && res.data) {
+          cb(res.data, true);
+        }
+      }
+    })
+  }}}};
+        try { Shareaholic.init(site_id, page_config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Entertainment &amp; Money' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:site_id' content='8b72f8a412ad1bbcaff25414aff02ea8' />
+<meta name='shareaholic:wp_version' content='7.6.0.1' />
+
+<!-- Shareaholic Content Tags End -->
+<link rel='stylesheet' id='contact-form-7-css'  href='http://entmoney.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='iecss-css'  href='http://entmoney.com/wp-content/themes/osage/css/iecss.css?ver=4.0.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mvp-style-css'  href='http://entmoney.com/wp-content/themes/osage/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css'  href='http://entmoney.com/wp-content/themes/osage/css/reset.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='media-queries-css'  href='http://entmoney.com/wp-content/themes/osage/css/media-queries.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='menufication-css'  href='http://entmoney.com/wp-content/themes/osage/css/menufication.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://entmoney.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/plugins/flash-album-gallery/admin/js/swfobject.js?ver=2.2'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/plugins/flash-album-gallery/admin/js/swfaddress.js?ver=2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://entmoney.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://entmoney.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+
+<!-- <meta name='Grand Flagallery' content='4.23' /> -->
+
+<style type='text/css'>
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800,900|Oswald:100,200,300,400,500,600,700,800,900|Bitter:100,200,300,400,500,600,700,800,900|Acme:400|Oswald:400,700|Open+Sans:400,700,800&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+
+a, a:visited {
+	color: #000000;
+	}
+
+a:hover,
+h2 a:hover,
+#sidebar-wrapper .sidebar-list-text p a:hover,
+#footer-widget-wrapper .sidebar-list-text p a:hover,
+#footer-nav .menu li a:hover {
+	color: #ba1f24;
+	}
+
+#wallpaper {
+	background: url() no-repeat 50% 0;
+	}
+
+#info-wrapper,
+span.post-header,
+h4.widget-header,
+h4.sidebar-header,
+h1.cat-title,
+span.post-header {
+	background: #000000;
+	}
+
+span.home-header-wrap h4.widget-header:after,
+span.sidebar-header-wrap h4.sidebar-header:after,
+h4.post-header span.post-header:after,
+span.cat-title-contain h1.cat-title:after {
+	border-color: transparent transparent transparent #000000;
+	}
+
+span.home-header-wrap,
+span.sidebar-header-wrap,
+h4.post-header,
+span.cat-title-contain {
+	border-bottom: 1px solid #000000;
+	}
+
+#social-sites-wrapper ul li,
+nav .menu li:hover ul li a:hover,
+h3.post-cat,
+.woocommerce span.onsale,
+.woocommerce-page span.onsale,
+span.post-tags-header,
+.post-tags a:hover,
+span.post-tags-header,
+.post-tags a:hover,
+.tag-cloud a:hover {
+	background: #b80428;
+	}
+
+.headlines-list h3,
+nav .menu li:hover a,
+h1.cat-heading,
+.blog-layout1-text h3,
+.blog-layout2-text h3 {
+	color: #b80428;
+	}
+
+#nav-wrapper,
+#search-bar {
+	background: #000000;
+	}
+
+nav .menu li a {
+	color: #ffffff;
+	}
+
+h2.featured-headline,
+h2.standard-headline,
+#content-area h1,
+#content-area h2,
+#content-area h3,
+#content-area h4,
+#content-area h5,
+#content-area h6 {
+	font-family: 'Open Sans', sans-serif;
+	}
+
+nav .menu li a {
+	font-family: 'Oswald', sans-serif;
+	}
+
+.headlines-main-text h2 a,
+#sidebar-wrapper .sidebar-list-text p a,
+#footer-widget-wrapper .sidebar-list-text p a,
+.blog-layout1-text h2 a,
+.blog-layout2-text h2 a,
+h1.story-title,
+.related-text a,
+.prev-post a,
+.next-post a,
+#woo-content h1.page-title,
+#woo-content h1,
+#woo-content h2,
+#woo-content h3,
+#woo-content h4,
+#woo-content h5,
+#woo-content h6,
+h2.widget-feat-headline,
+h2.widget-stand-headline {
+	font-family: 'Bitter', sans-serif;
+	}
+
+#menufication-outer-wrap.menufication-transition-in #menufication-scroll-container {
+	overflow-y: auto !important;
+	}
+
+</style>
+	
+
+<style type="text/css">
+</style>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://entmoney.com/wp-content/uploads/2014/09/Graybg57.png'); background-repeat: no-repeat; background-position: top center; background-attachment: scroll; }
+</style>
+
+</head>
+
+<body class="error404 custom-background">
+<div id="social-sites-wrapper">
+	<ul>
+					<li><a href="https://www.facebook.com/getentmoney" alt="Facebook" class="fb-but3" target="_blank"></a></li>
+							<li><a href="https://twitter.com/willentmoneyj" alt="Twitter" class="twitter-but3" target="_blank"></a></li>
+							<li><a href="http://www.pinterest.com/entmoney/" alt="Pinterest" class="pinterest-but3" target="_blank"></a></li>
+							<li><a href="https://instagram.com/willjay.ig" alt="Instagram" class="instagram-but3" target="_blank"></a></li>
+											<li><a href="https://www.youtube.com/user/entmoney7/" alt="YouTube" class="youtube-but3" target="_blank"></a></li>
+									<li><a href="http://feeds.feedburner.com/EntertainmentMoney" alt="RSS Feed" class="rss-but3"></a></li>
+			</ul>
+</div><!--social-sites-wrapper-->
+<div id="site">
+	<div id="header-top-wrapper">
+												<div id="large-logo-wrapper">
+				<div id="large-logo">
+											<a itemprop="url" href="http://entmoney.com"><img itemprop="logo" src="http://entmoney.com/wp-content/uploads/2014/09/LGENT1.png" alt="Entertainment &amp; Money" /></a>
+									</div><!--large-logo-->
+			</div><!--large-logo-wrapper-->
+					</div><!--header-top-wrapper-->
+	<div id="boxed-wrapper">
+	<div id="nav-wrapper">
+		<div id="nav-container">
+															<nav>
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="http://entmoney.com/">Home</a></li>
+<li id="menu-item-730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-730"><a href="http://entmoney.com/category/news/">News</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16"><a href="http://entmoney.com/category/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-724" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-724"><a href="http://entmoney.com/category/entertainment/music/">Music</a></li>
+	<li id="menu-item-723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-723"><a href="http://entmoney.com/category/entertainment/film-television/">Film &#038; Television</a></li>
+	<li id="menu-item-779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-779"><a href="http://entmoney.com/category/entertainment/funny/">Funny</a></li>
+	<li id="menu-item-725" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-725"><a href="http://entmoney.com/category/entertainment/sports/">Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://entmoney.com/category/fashion/">Fashion</a></li>
+<li id="menu-item-729" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-729"><a href="http://entmoney.com/category/entreprenuership/">Entrepreneurship</a></li>
+<li id="menu-item-687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-687"><a href="http://entmoney.com/category/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-777" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-777"><a href="http://entmoney.com/category/business/celebrity-business-deals/">Celebrity Business Deals</a></li>
+</ul>
+</li>
+<li id="menu-item-733" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-733"><a href="http://entmoney.com/category/financial-swagger/">Financial Swagger</a></li>
+<li id="menu-item-778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="http://entmoney.com/category/business/tech/">Tech</a></li>
+</ul></div>			</nav>
+			<div id="search-button">
+			</div><!--search-button-->
+			<div id="search-bar">
+				<form method="get" id="searchform" action="http://entmoney.com/">
+	<input type="text" name="s" id="s" value="Search" onfocus='if (this.value == "Search") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Search"; }' />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>			</div><!--search-bar-->
+		</div><!--nav-container-->
+	</div><!--nav-wrapper-->
+	<div id="body-wrapper">
+		<div id="body-wrapper">
+	<div id="content-wrapper">
+		<div id="content">
+			<div id="content-main" class="content-full">
+				<div id="post-area" itemscope itemtype="http://schema.org/Article" class="post-1278 post type-post status-publish format-standard has-post-thumbnail hentry category-celebrity-business-deals category-entertainment category-sports tag-arizona-cardinals tag-carson-palmer tag-carson-palmer-contract">
+					<div id="post-404">
+						<h1>Error 404!</h1>
+						The page you requested does not exist or has moved.					</div><!--post-404-->
+				</div><!--post-area-->
+			</div><!--content-main-->
+		</div><!--content-->
+	</div><!--content-wrapper-->
+</div><!--body-wrapper-->
+	<footer id="footer-wrapper">
+		<div id="footer">
+						<div id="footer-nav">
+				<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="http://entmoney.com/">Home</a></li>
+<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="http://entmoney.com/advertise/">Advertise</a></li>
+<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="http://entmoney.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a href="http://entmoney.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1083"><a href="http://entmoney.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-1084" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1084"><a href="http://entmoney.com/category/business/">Business</a></li>
+<li id="menu-item-1086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1086"><a href="http://entmoney.com/category/entreprenuership/">Entrepreneurship</a></li>
+<li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="http://entmoney.com/contact/">Contact</a></li>
+</ul></div>			</div><!--footer-nav-->
+			<div id="footer-widget-wrapper">
+									<div class="footer-widget">
+													<div id="logo-footer">
+								<img src="http://entmoney.com/wp-content/uploads/2014/08/entmoneylogored83.png" alt="Entertainment &amp; Money" />
+							</div><!--logo-footer-->
+												<div class="footer-info-text">
+							 						</div><!--footer-info-text-->
+						<div id="footer-social">
+							<ul>
+																<li class="fb-item">
+									<a href="https://www.facebook.com/getentmoney" alt="Facebook" class="fb-but2" target="_blank"></a>
+								</li>
+																								<li class="twitter-item">
+									<a href="https://twitter.com/willentmoneyj" alt="Twitter" class="twitter-but2" target="_blank"></a>
+								</li>
+																								<li class="pinterest-item">
+									<a href="http://www.pinterest.com/entmoney/" alt="Pinterest" class="pinterest-but2" target="_blank"></a>
+								</li>
+																																<li class="instagram-item">
+									<a href="https://instagram.com/willjay.ig" alt="Instagram" class="instagram-but2" target="_blank"></a>
+								</li>
+																								<li class="youtube-item">
+									<a href="https://www.youtube.com/user/entmoney7/" alt="YouTube" class="youtube-but2" target="_blank"></a>
+								</li>
+																																<li><a href="http://feeds.feedburner.com/EntertainmentMoney" alt="RSS Feed" class="rss-but2"></a></li>
+															</ul>
+						</div><!--footer-social-->
+						<div id="copyright">
+							<p>Copyright © 2013 Entertainment & Money.</p>
+						</div><!--copyright-->
+					</div><!--footer-widget-->
+								<div id="mvp_sidecat_widget-3" class="footer-widget mvp_sidecat_widget"><h4 class="footer-widget-header">Latest Post</h4>
+
+		<ul class="sidebar-list">
+					<li>
+			<div class="sidebar-list-img">
+									<a href="http://entmoney.com/carson-palmer-inks-50-million-deal-to-remain-with-arizona-cardinals/" rel="bookmark"title="Carson Palmer Inks $50 Million Deal To Remain With Arizona Cardinals"><img width="150" height="90" src="http://entmoney.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-08-at-1.41.51-AM-150x90.png" class="attachment-small-thumb wp-post-image" alt="Carson Palmer" /></a>
+							</div><!--sidebar-list-img-->
+			<div class="sidebar-list-text">
+				<p><a href="http://entmoney.com/carson-palmer-inks-50-million-deal-to-remain-with-arizona-cardinals/" rel="bookmark">Carson Palmer Inks $50 Million Deal To Remain With Arizona Cardinals</a></p>
+			</div><!--sidebar-list-text-->
+			</li>
+						<li>
+			<div class="sidebar-list-img">
+									<a href="http://entmoney.com/the-2015-mercedes-maybach-s600/" rel="bookmark"title="The 2015 Mercedes-Maybach S600"><img width="150" height="90" src="http://entmoney.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-08-at-1.25.35-AM-150x90.png" class="attachment-small-thumb wp-post-image" alt="Mercedes-Maybach S600" /></a>
+							</div><!--sidebar-list-img-->
+			<div class="sidebar-list-text">
+				<p><a href="http://entmoney.com/the-2015-mercedes-maybach-s600/" rel="bookmark">The 2015 Mercedes-Maybach S600</a></p>
+			</div><!--sidebar-list-text-->
+			</li>
+						<li>
+			<div class="sidebar-list-img">
+									<a href="http://entmoney.com/bill-gates-on-reshaping-poverty-globally/" rel="bookmark"title="Bill Gates On Reshaping Poverty Globally"><img width="150" height="90" src="http://entmoney.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-08-at-1.15.11-AM-150x90.png" class="attachment-small-thumb wp-post-image" alt="Bill Gates" /></a>
+							</div><!--sidebar-list-img-->
+			<div class="sidebar-list-text">
+				<p><a href="http://entmoney.com/bill-gates-on-reshaping-poverty-globally/" rel="bookmark">Bill Gates On Reshaping Poverty Globally</a></p>
+			</div><!--sidebar-list-text-->
+			</li>
+						<li>
+			<div class="sidebar-list-img">
+									<a href="http://entmoney.com/chris-rock-talks-dealing-with-critics/" rel="bookmark"title="Chris Rock Talks Dealing With Critics"><img width="150" height="90" src="http://entmoney.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-07-at-11.35.52-PM-150x90.png" class="attachment-small-thumb wp-post-image" alt="Chris Rock" /></a>
+							</div><!--sidebar-list-img-->
+			<div class="sidebar-list-text">
+				<p><a href="http://entmoney.com/chris-rock-talks-dealing-with-critics/" rel="bookmark">Chris Rock Talks Dealing With Critics</a></p>
+			</div><!--sidebar-list-text-->
+			</li>
+					</ul><!--sidebar-list-->
+
+
+		</div><div id="mvp_tags_widget-2" class="footer-widget mvp_tags_widget"><h4 class="footer-widget-header">TAGS</h4>
+
+				<div class="tag-cloud">
+					<a href='http://entmoney.com/tag/hip-hop/' class='tag-link-152' title='12 topics' style='font-size: 12px;'>Hip Hop</a>
+<a href='http://entmoney.com/tag/rap/' class='tag-link-153' title='10 topics' style='font-size: 12px;'>Rap</a>
+<a href='http://entmoney.com/tag/celebrity-deals/' class='tag-link-166' title='6 topics' style='font-size: 12px;'>celebrity deals</a>
+<a href='http://entmoney.com/tag/beautiful-women/' class='tag-link-328' title='5 topics' style='font-size: 12px;'>Beautiful Women</a>
+<a href='http://entmoney.com/tag/bad-girl-alert/' class='tag-link-326' title='5 topics' style='font-size: 12px;'>Bad Girl Alert</a>
+<a href='http://entmoney.com/tag/models/' class='tag-link-330' title='4 topics' style='font-size: 12px;'>Models</a>
+<a href='http://entmoney.com/tag/mark-cuban/' class='tag-link-186' title='4 topics' style='font-size: 12px;'>Mark Cuban</a>
+<a href='http://entmoney.com/tag/entreprenuership/' class='tag-link-144' title='4 topics' style='font-size: 12px;'>Entrepreneurship</a>
+<a href='http://entmoney.com/tag/kendrick-lamar/' class='tag-link-149' title='4 topics' style='font-size: 12px;'>Kendrick Lamar</a>
+<a href='http://entmoney.com/tag/featured/' class='tag-link-19' title='4 topics' style='font-size: 12px;'>Featured</a>
+<a href='http://entmoney.com/tag/business/' class='tag-link-55' title='4 topics' style='font-size: 12px;'>Business</a>
+<a href='http://entmoney.com/tag/nba/' class='tag-link-101' title='4 topics' style='font-size: 12px;'>NBA</a>
+<a href='http://entmoney.com/tag/t-i/' class='tag-link-316' title='3 topics' style='font-size: 12px;'>T.I.</a>
+<a href='http://entmoney.com/tag/50-cent/' class='tag-link-219' title='3 topics' style='font-size: 12px;'>50 Cent</a>
+<a href='http://entmoney.com/tag/kanye-west/' class='tag-link-208' title='3 topics' style='font-size: 12px;'>Kanye West</a>
+<a href='http://entmoney.com/tag/lebron-james/' class='tag-link-177' title='3 topics' style='font-size: 12px;'>LeBron James</a>
+<a href='http://entmoney.com/tag/shark-tank/' class='tag-link-185' title='3 topics' style='font-size: 12px;'>Shark Tank</a>
+<a href='http://entmoney.com/tag/music/' class='tag-link-99' title='3 topics' style='font-size: 12px;'>Music</a>
+<a href='http://entmoney.com/tag/beyonce/' class='tag-link-188' title='3 topics' style='font-size: 12px;'>Beyonce</a>
+<a href='http://entmoney.com/tag/fashion/' class='tag-link-4' title='2 topics' style='font-size: 12px;'>Fashion</a>
+<a href='http://entmoney.com/tag/dr-dre/' class='tag-link-342' title='2 topics' style='font-size: 12px;'>Dr. Dre</a>
+<a href='http://entmoney.com/tag/richard-branson/' class='tag-link-274' title='2 topics' style='font-size: 12px;'>Richard Branson</a>
+<a href='http://entmoney.com/tag/box-office-report/' class='tag-link-268' title='2 topics' style='font-size: 12px;'>Box Office Report</a>
+<a href='http://entmoney.com/tag/rb/' class='tag-link-262' title='2 topics' style='font-size: 12px;'>R&amp;B</a>
+<a href='http://entmoney.com/tag/space-travel/' class='tag-link-275' title='2 topics' style='font-size: 12px;'>Space Travel</a>
+<a href='http://entmoney.com/tag/r-kelly/' class='tag-link-293' title='2 topics' style='font-size: 12px;'>R. Kelly</a>
+<a href='http://entmoney.com/tag/christian-bale/' class='tag-link-366' title='2 topics' style='font-size: 12px;'>Christian Bale</a>
+<a href='http://entmoney.com/tag/music-videos/' class='tag-link-295' title='2 topics' style='font-size: 12px;'>Music Videos</a>
+<a href='http://entmoney.com/tag/rick-ross/' class='tag-link-292' title='2 topics' style='font-size: 12px;'>Rick Ross</a>
+<a href='http://entmoney.com/tag/usher/' class='tag-link-259' title='2 topics' style='font-size: 12px;'>Usher</a>
+<a href='http://entmoney.com/tag/hollywood-reporter/' class='tag-link-250' title='2 topics' style='font-size: 12px;'>Hollywood Reporter</a>
+<a href='http://entmoney.com/tag/movies/' class='tag-link-98' title='2 topics' style='font-size: 12px;'>Movies</a>
+<a href='http://entmoney.com/tag/bill-gates/' class='tag-link-67' title='2 topics' style='font-size: 12px;'>Bill Gates</a>
+<a href='http://entmoney.com/tag/eminem/' class='tag-link-340' title='2 topics' style='font-size: 12px;'>Eminem</a>
+<a href='http://entmoney.com/tag/sony/' class='tag-link-122' title='2 topics' style='font-size: 12px;'>Sony</a>
+<a href='http://entmoney.com/tag/leonardo-dicaprio/' class='tag-link-365' title='2 topics' style='font-size: 12px;'>Leonardo DiCaprio</a>
+<a href='http://entmoney.com/tag/scandal/' class='tag-link-248' title='2 topics' style='font-size: 12px;'>Scandal</a>
+<a href='http://entmoney.com/tag/jay-z/' class='tag-link-207' title='2 topics' style='font-size: 12px;'>Jay Z</a>
+<a href='http://entmoney.com/tag/nike/' class='tag-link-191' title='2 topics' style='font-size: 12px;'>Nike</a>
+<a href='http://entmoney.com/tag/jeezy/' class='tag-link-148' title='2 topics' style='font-size: 12px;'>Jeezy</a>				</div>
+
+
+		</div>			</div><!--footer-widget-wrapper-->
+<center><!-- Site Meter -->
+<script type="text/javascript" src="http://s22.sitemeter.com/js/counter.js?site=s22entmoney">
+</script>
+<noscript>
+<a href="http://s22.sitemeter.com/stats.asp?site=s22entmoney" target="_top">
+<img src="http://s22.sitemeter.com/meter.asp?site=s22entmoney" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter --></center>
+		</div><!--footer-->	
+</footer>
+</div><!--boxed-wrapper-->
+</div><!--site-->
+<script type="text/javascript">
+//<![CDATA[
+jQuery(document).ready(function($){
+$('.carousel').elastislide({
+	imageW 	: 160,
+	minItems	: 1,
+	margin		: 3
+});
+});
+//]]>
+</script>
+
+
+<script type='text/javascript'>
+//<![CDATA[
+jQuery(document).ready(function($){
+  $(window).load(function(){
+ 	 $('.gallery-thumbs').flexslider({
+ 	   animation: "slide",
+ 	   controlNav: false,
+ 	   animationLoop: false,
+ 	   slideshow: false,
+ 	   itemWidth: 75,
+ 	   itemMargin: 10,
+    	   prevText: "&lt;",
+           nextText: "&gt;",
+  	  asNavFor: '.gallery-slider'
+ 	 });
+
+ 	 $('.gallery-slider').flexslider({
+ 	   animation: "slide",
+  	  controlNav: false,
+  	  animationLoop: false,
+  	  slideshow: false,
+    	  prevText: "&lt;",
+          nextText: "&gt;",
+  	  sync: ".gallery-thumbs"
+ 	 });
+	});
+});
+//]]>
+</script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/entmoney.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/jquery.iosslider.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/jquery.infinitescroll.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/respond.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/retina.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/stickyMojo.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/jquery.elastislide.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://entmoney.com/wp-content/themes/osage/js/jquery.flexslider.js?ver=4.0.1'></script>
+</body>
+</html>

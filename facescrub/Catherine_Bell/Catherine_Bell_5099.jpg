@@ -1,0 +1,51 @@
+<head>
+
+<title>Error Page Not Found</title>
+<script>
+var browser_type=navigator.appName
+var browser_version=parseInt(navigator.appVersion)
+
+//if NS 4+
+
+if (browser_type=="Netscape"&&browser_version>=4)
+window.location.replace("http://www.scrup.com/parkpage.htm")
+
+//if IE 4+
+
+else if (browser_type=="Microsoft Internet Explorer"&&browser_version>=4)
+window.location.replace("http://www.scrup.com/parkpage.htm")
+
+//Default goto page (NOT NS 4+ and NOT IE 4+)
+else
+window.location="http://www.scrup.com/parkpage.htm"
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36037974-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+</body>
+
+</html>
+
+
+
+
+
+
+<!-- 
+                                                                                                                                  
+--> 
+
+                            
+--> 
+
