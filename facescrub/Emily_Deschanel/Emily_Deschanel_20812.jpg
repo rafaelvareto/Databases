@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Thing" class="squarespace-damask" lang="en-US" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="scripts/jquery-1.11.1.min.js"><\/script>')</script>
+<script type="text/javascript" src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/272/scripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/272/scripts/modernizr.js"></script>
+<link rel="stylesheet" type="text/css" href="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/css/bootstrap.min.css" />
+
+<link rel="stylesheet" type="text/css" href="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/css/tpx.css" />
+
+<!--Include sqs scripts, meta tags, and user content from the code injection tab.-->
+<!-- This is Squarespace. --><!-- telepicturestv -->
+<base href="">
+<meta charset="utf-8" />
+<title>TelepicturesTV</title>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+<link rel="canonical" href="http://telepicturestv.com/"/>
+<meta property="og:site_name" content="TelepicturesTV"/>
+<meta property="og:title" content="Index"/>
+<meta property="og:url" content="http://telepicturestv.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static.squarespace.com/static/538e6c61e4b0ee46dfd7d77f/t/53a070fbe4b0fc23446569f0/1416341499264/?format=1000w"/>
+<meta itemprop="name" content="Index"/>
+<meta itemprop="url" content="http://telepicturestv.com/"/>
+<meta itemprop="thumbnailUrl" content="http://static.squarespace.com/static/538e6c61e4b0ee46dfd7d77f/t/53a070fbe4b0fc23446569f0/1416341499264/?format=1000w"/>
+<link rel="image_src" href="http://static.squarespace.com/static/538e6c61e4b0ee46dfd7d77f/t/53a070fbe4b0fc23446569f0/1416341499264/?format=1000w" />
+<meta itemprop="image" content="http://static.squarespace.com/static/538e6c61e4b0ee46dfd7d77f/t/53a070fbe4b0fc23446569f0/1416341499264/?format=1000w"/>
+<meta name="description" content="Telepictures Productions has the hottest entertainment online: Ellen, TMZ, 
+TMZ LIVE, Extra, Bethenny, Anderson, Let's Ask America, Judge Mathis, 
+People's Court and more!" />
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-7aa6c7edf497e02b061c5df2b9bb5c52-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/commerce-41848a53fae8f7a0b6387c83bf42803e-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//static.squarespace.com/universal/styles-compressed/commerce-c5619a553f9c81d3e5f18a1c7c04b14e-min.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script type="text/javascript" data-sqs-type="dynamic-assets-loader">(function() {(function(a){try{if(window.top!=window&&window.top.Squarespace&&window.top.Squarespace.frameAvailable){window.top.Squarespace.frameAvailable(window,SQUARESPACE_ROLLUPS);return}}catch(d){console.error(d)}window.__dynamicAssetLoaderErrorLogger=function(a){var b=new XMLHttpRequest;b.open("GET","/api/rollups/error?path="+encodeURIComponent(a.src||a.href)+"&page="+encodeURIComponent(window.location.href),!0);b.send()};for(var c in a){if(a[c].js)for(var b=0;b<a[c].js.length;b++)document.write('<script type="text/javascript" src="'+
+a[c].js[b]+'" onerror="__dynamicAssetLoaderErrorLogger(this)">\x3c/script>');if(a[c].css)for(b=0;b<a[c].css.length;b++)document.write('<link rel="stylesheet" type="text/css" href="'+a[c].css[b]+'" onerror="__dynamicAssetLoaderErrorLogger(this)" />')}})(SQUARESPACE_ROLLUPS);
+})();</script>
+<script>Static.SQUARESPACE_CONTEXT = {"rollups":{"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-3d296132f5773d0024056c9449cffd92-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-a33dc0dcbfb8acf7b97a44d24944de65-min.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e1db8ee387298b95f8b521ea202d5fa4-min.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-0eeb350021efe00540fbb65b276d3701-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-81e4a3e332c86b01d3775efb218affa3-min.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-3aa353dc0ac8992256671d29344cf512-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-f8fd100a225e287465f9a2e4e6723495-min.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-b305e9d0613e2bace43cbe4f787e1893-min.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-67073476a1985644e993d4d017d79a71-min.js"}},"pageType":2,"website":{"id":"538e6c61e4b0ee46dfd7d77f","identifier":"telepicturestv","contentModifiedOn":1416341499264,"cloneable":false,"developerMode":true,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"TelepicturesTV","siteDescription":"<p>Telepictures Productions has the hottest entertainment online: Ellen, TMZ, TMZ LIVE, Extra,&nbsp; Bethenny, Anderson, Let's Ask America, Judge Mathis, People's Court, The Real and more!</p>","location":{"mapZoom":12.0,"mapLat":40.7207559,"mapLng":-74.0007613},"logoImageId":"53a070fbe4b0fc23446569f0","shareButtonOptions":{"1":true,"2":true,"5":true,"3":true,"4":true,"8":true,"6":true,"7":true},"logoImageUrl":"//static.squarespace.com/static/538e6c61e4b0ee46dfd7d77f/t/53a070fbe4b0fc23446569f0/1416341499264/","authenticUrl":"http://telepicturestv.com","baseUrl":"http://telepicturestv.com","primaryDomain":"telepicturestv.com","typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false},"websiteSettings":{"id":"538e6c62e4b0ee46dfd7d780","websiteId":"538e6c61e4b0ee46dfd7d77f","subjects":[],"country":"US","state":"CA","markdownMode":false,"simpleLikingEnabled":false,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"lastAgreedTermsOfService":2,"defaultPostFormat":"%y-%m-%d-%t","commentLikesAllowed":false,"commentAnonAllowed":false,"commentThreaded":false,"commentApprovalRequired":false,"commentAvatarsOn":false,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":false,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","homepageTitleFormat":"%s","collectionTitleFormat":"%c \u2014 %s","itemTitleFormat":"%i \u2014 %s","commentsEnabled":false,"allowSquarespacePromotion":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"useLightCart":false,"showNoteField":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"isLive":false,"stripeConnected":false,"storeState":3},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1},"websiteCloneable":false,"collection":{"title":"Index","id":"538f9821e4b0c77913189a19","fullUrl":"/"},"subscribed":false,"appDomain":"squarespace.com","secureDomain":"https://telepicturestv.squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"#222","galleryArrowColor":"#fff","galleryAutoplaySpeed":"3","galleryCircleColor":"#fff","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"false","product-image-auto-crop":"true"},"templateId":"538e6dc7e4b0e4caa981a954","pageFeatures":[1,2],"impersonatedSession":false,"demoCollections":[{"collectionId":"50296402e4b096e761d7ef40","deleted":true},{"collectionId":"5048fde7c4aa917cbd4d8e13","deleted":true},{"collectionId":"5048ff95c4aa917cbd4d91bb","deleted":true},{"collectionId":"5049fb47c4aa06de7c43bfdb","deleted":true},{"collectionId":"504a0b11c4aa917cbd4f8e5a","deleted":true},{"collectionId":"504a0d90c4aa917cbd4f94c4","deleted":true}],"isFacebookTab":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}}; SquarespaceFonts.loadViaContext(); Squarespace.load(window); </script>
+
+<!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><script src="//static.squarespace.com"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/538e6c61e4b0ee46dfd7d77f/1/538e6dc7e4b0e4caa981a954/538e6dc7e4b0e4caa981a962/272/1416341332893/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<!-- End of Squarespace Headers -->
+
+
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap-ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/assets/css/ie8.css" />
+<![endif]-->
+</head>
+
+<body id="collection-538f9821e4b0c77913189a19" class="gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-excerpts event-list-date event-list-time event-list-address event-icalgcal-links      opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-default button-corner-style-square product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing native-currency-code-usd collection-538f9821e4b0c77913189a19 collection-type-page collection-layout-tpx homepage mobile-style-available">
+<header id="header-site">
+    <div class="header">
+        <div class="container">
+            <div class="tpx-logo"><a href="/"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/logo-telepictures.png" class="img-responsive" alt="Telepictures Productions"></a></div>
+        </div>
+    </div>
+</header>
+<div id="content">
+    <main id="main" class="clearfix" role="main">
+        <div id="carousel-tpx-shows" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item candidly-vh1 active"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_candidlynicole_vh1.jpg" class="img-responsiive" alt="Candidly Nicole VH1">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.vh1.com/shows/candidly-nicole/" target="_blank">&raquo; Visit Site</a></p>
+                    </div>
+                </div>
+
+                <div class="item candidly-aol"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_candidlynicole_aol.jpg" class="img-responsive" alt="Candidly Nicole AOL">
+                    <div class="carousel-caption">
+                        <p><a href="http://on.aol.com/show/candidly-nicole-517742769/" target="_blank">&raquo; Visit Site</a></p>
+                    </div>
+                </div>
+
+                <div class="item dc-all-access"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_dc.jpg" class="img-responsive" alt="DC All Access">
+                    <div class="carousel-caption">
+                        <p><a href="http://dcallaccess.com/" target="_blank">&raquo; Visit Site</a></p>
+                    </div>
+                </div>
+
+                <div class="item ellen"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_ellen.jpg" class="img-responsive" alt="The Ellen DeGeneres Show">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.ellentv.com/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://www.ellentv.com/when-its-on/" target="_blank">&raquo; See When It's On</a></p>
+                        <p><a href="http://www.ellentv.com/videos/" target="_blank">&raquo; Watch Videos</a></p>
+                    </div>
+                </div>
+
+                <div class="item extra"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_extra.jpg" class="img-responsive" alt="Extra">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.extratv.com/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://www.extratv.com/videos/" target="_blank">&raquo; Watch Videos</a></p>
+                        <p><a href="http://photos.extratv.warnerbros.com/" target="_blank">&raquo; View Photos</a></p>
+                    </div>
+                </div>
+
+                <div class="item mathis"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_judgemathis.jpg" class="img-responsive" alt="Judge Mathis">
+                    <div class="carousel-caption">
+                        <p><a href="http://judgemathistv.warnerbros.com/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://judgemathistv.warnerbros.com/about/whenitson.html/" target="_blank">&raquo; See When It's On</a></p>
+                    </div>
+                </div>
+
+                <div class="item laa"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_laa.jpg" class="img-responsive" alt="Let's Ask America">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.letsaskamerica.tv/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://letsaskamerica.tv/be-on-the-show/755/?adid=tpxcom_beacontestant" target="_blank">&raquo; Be a Contestant</a></p>
+                    </div>
+                </div>
+
+                <div class="item peoplescourt"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_peoplescourt.jpg" class="img-responsive" alt="People's Court">
+                    <div class="carousel-caption">
+                        <p><a href="http://peoplescourt.com/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://peoplescourt.com/when-its-on/" target="_blank">&raquo; See When It's On</a></p>
+                    </div>
+                </div>
+
+                <div class="item thereal"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_thereal.jpg" class="img-responsive" alt="The Real">
+                    <div class="carousel-caption">
+                        <p><a href="http://thereal.com/" target="_blank">&raquo; Visit Site</a></p>
+                    </div>
+                </div>
+
+                <div class="item tmz"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_tmz.jpg" class="img-responsive" alt="TMZ">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.tmz.com/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://www.tmz.com/videos" target="_blank">&raquo; Watch Videos</a></p>
+                        <p><a href="http://www.tmz.com/photos" target="_blank">&raquo; View Photos</a></p>
+                    </div>
+                </div>
+
+                <div class="item tmzlive"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_tmzlive.jpg" class="img-responsive" alt="TMZ Live">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.tmz.com/" target="_blank">&raquo; Visit Site</a></p>
+                        <p> <a href="http://www.tmz.com/videos" target="_blank">&raquo; Watch Videos</a></p>
+                        <p><a href="http://www.tmz.com/photos" target="_blank">&raquo; View Photos</a></p>
+                    </div>
+                </div>
+
+                <div class="item tmzsports"> <img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/slide_tmzsports.jpg" class="img-responsive" alt="TMZ Sports">
+                    <div class="carousel-caption">
+                        <p><a href="http://www.tmzsports.com/" target="_blank">&raquo; Visit Site</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-tpx-shows" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#carousel-tpx-shows" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> </div>
+        <!-- end carousel-tpx-shows -->
+        <div class="container clearfix" id="show-grid">
+            <div class="row">
+                <div class="col-xs-3 col-md-3">
+                    <h2 class="page-header">Shows</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.vh1.com/shows/candidly-nicole/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_candidlynicole_vh1.jpg" class="img-responsive" alt="Candidly Nicole VH1"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://on.aol.com/show/candidly-nicole-517742769/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_candidlynicole_aol.jpg" class="img-responsive" alt="Candidly Nicole AOL"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://dcallaccess.com" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_dcaccess.jpg" class="img-responsive" alt="DC All Access"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.ellentv.com" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_ellen.jpg" class="img-responsive" alt="The Ellen DeGeneres Show"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+            </div><!--row-->
+
+            <div class="row">
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.extratv.com" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_extra.jpg" class="img-responsive" alt="Extra"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://judgemathistv.com/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_judgemathis.jpg" class="img-responsive" alt="Judge Mathis"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.letsaskamerica.tv/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_letsaskamerica.jpg" class="img-responsive" alt="Let's Ask America"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://peoplescourt.com" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_peoplescourt.jpg" class="img-responsive" alt="People's Court"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+            </div><!--row-->
+
+            <div class="row">
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.thereal.com/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_thereal.jpg" class="img-responsive" alt="The Real"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.tmz.com/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_tmz.jpg" class="img-responsive" alt="TMZ"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.tmz.com" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_tmzlive.jpg" class="img-responsive" alt="TMZ Live"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+
+                <div class="col-xs-3 col-md-3">
+                    <div class="show-thumb"><a href="http://www.tmzsports.com/" target="_blank"><img src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/271/assets/thumb_tmzsports.jpg" class="img-responsive" alt="TMZ Sports"><span class="show-link hidden">&raquo; Visit Site</span></a></div>
+                </div>
+            </div><!--row-->
+
+            <script type="text/javascript">
+				(function($) {
+					$(".show-thumb img").hover (
+						function() {
+							$(this).siblings(".show-link").removeClass("hidden");
+						}
+					);
+					$(".show-thumb img").mouseout (
+						function() {
+							$(this).siblings(".show-link").addClass("hidden");
+						}
+					);
+				})(jQuery);
+            </script>
+        </div>
+        <!-- end container -->
+    </main>
+</div>
+<footer id="footer-site-copy-right">
+    <div class="container">
+        <p><a href="http://www.warnerbros.com/privacy/terms.html?adid=tpxfooterlink" target="_blank">Terms of Use</a> | <a href=" http://www.warnerbros.com/privacy/policy.html?adid=tpxfooterlink" target="_blank">Privacy Policy</a> | <a href="#" data-toggle="modal" data-target="#myModal">Advertise with Us</a> | <a href="http://www.warnerbroscareers.com/?adid=tpxfooterlink" target="_blank">Job Opportunities</a> |  &copy; Warner Bros. Entertainment Inc.</p>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <h4 class="modal-title" id="myModalLabel">Advertise with Us</h4>
+          </div>
+          <div class="modal-body">
+           <p>Contact: Warner Bros. Digital Media - <a href="mailto:adops@warnerbros.com">adops@warnerbros.com</a></p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+</footer>
+<!--Combo and minify the scripts when you're not logged in.-->
+<script type="text/javascript" src="https://static.squarespace.com/static/ta/538e6c61e4b0ee46dfd7d77f/272/scripts/combo/?site.js"></script>
+
+<!--Injection point for tracking scripts and user content from the code injection tab.-->
+<script type="text/javascript" data-sqs-type="imageloader">(function() {var SQUARESPACE_SIZES=[1500,1E3,750,500,300,100],IMAGE_LOADING_CLASS="loading",ImageLoader=new function(){this.load=function(a,b){function c(a,b,c){var d=new Image;d.onload=b;d.onerror=c;d.src=a}a.getDOMNode&&(a=a.getDOMNode());var d=this._getDataFromNode(a,b),e=!(!d.dimensions||!d.dimensions.width||!d.dimensions.height),l=d.load+"";if("false"===l)return!1;var g=d.mode;if(e&&("fit"==g||"fill"==g)){g=a.parentNode;if(!g)return console.error("Not doing anything, parentNode not found."),!1;if(!this.refresh(a,
+b,g))return!1}var n=this._intendToLoad(a,d);if("string"==typeof n&&"viewport"!==l){var m=this.getUrl(n,d),d=a.getAttribute("data-image-resolution");a.getAttribute("src")!==m&&this.isValidResolution(n,d)&&(a.onload=function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("data-image-resolution",n)},!a.getAttribute("src")&&-1===a.className.indexOf(IMAGE_LOADING_CLASS)&&(a.className+=(a.className?" ":"")+IMAGE_LOADING_CLASS),!a.getAttribute("src")&&e?a.setAttribute("src",
+m):c(m,function(){e?a.setAttribute("src",m):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),ImageLoader.load(a,b))},function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("src",m)}));return!0}return n};this.refresh=function(a,b,c){a.getDOMNode&&(a=a.getDOMNode());c&&c.getDOMNode&&(c=c.getDOMNode());c=c||a.parentNode;if(!c)return console.error("Not doing anything, parentNode not found."),!1;var d=this._getDataFromNode(a,b),e=c.offsetWidth,l=c.offsetHeight;
+b=d.mode;if("none"!=b){var g=d.dimensions.width,n=d.dimensions.height,m=g/n,q=e/l;if(d.fixedRatio)"fill"==b&&q>m||"fit"==b&&q<m?(h=100,k=100*(q/m),r=(100-k)*d.focalPoint.y,p=0):(h=100*(m/q),k=100,r=0,p=(100-h)*d.focalPoint.x),a.style.top=r+"%",a.style.left=p+"%",a.style.width=h+"%",a.style.height=k+"%";else{var f;"fill"===b?f=m>q?l/n:e/g:"fit"===b&&(f=m<q?l/n:e/g);!d.stretch&&("fit"==b&&1<f)&&(f=1);var h=Math.ceil(g*f),k=Math.ceil(n*f);if(0===h||0===k)return!1;var p,r;"fill"===b?(p=Math.min(Math.max(e/
+2-h*d.focalPoint.x,e-h),0),r=Math.min(Math.max(l/2-k*d.focalPoint.y,l-k),0)):"fit"===b&&(f=d.fitAlignment,p=f.left?0:f.right?e-h:h<e?(e-h)/2:0,r=f.top?0:f.bottom?l-k:k<l?(l-k)/2:0,"inline"==this._getStyle(a,"display")&&(a.style.fontSize="0px"),this._resetAlt(a,function(){h-=a.offsetHeight-a.clientHeight;k-=a.offsetWidth-a.clientWidth}));a.style.top=Math.ceil(r)+"px";a.style.left=Math.ceil(p)+"px";a.style.width=Math.ceil(h)+"px";a.style.height=Math.ceil(k)+"px"}p=this._getStyle(c,"position");a.style.position=
+"relative"==p?"absolute":"relative";if("fill"==b&&(b=this._getStyle(c,"overflow"),!b||"hidden"!=b))c.style.overflow="hidden";return!0}};this._intendToLoad=function(a,b){function c(c,d){"none"===b.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(c)),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,c),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,"max-"+c,"max"+(c.substr(0,1).toUpperCase()+c.substr(1))),f=parseFloat(e);if(0===d||e)switch(g._stringType(e)){case "percentage":d=
+parseInt(e,10)/100*l["offset"+c.substr(0,1).toUpperCase()+c.substr(1)];break;case "number":d=parseInt(e,10)}!f&&(0!==d&&!a.getAttribute("src"))&&(d=0);return d}b=b||this._getDataFromNode(a);if(!b.source)return!1;var d=a.offsetWidth,e=a.offsetHeight,l=a.parentNode,g=this;this._resetAlt(a,function(){d=c("width",d);e=c("height",e)});0===d&&0===e?(d=b.dimensions.width,e=b.dimensions.height):0===d?d=this.getDimensionForValue("width",e,b):0===e&&(e=this.getDimensionForValue("height",d,b));"viewport"===
+b.load&&(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.getSquarespaceSize(d,e,b)};this._getDataFromNode=function(a,b){b=b||{};var c={focalPoint:{x:0.5,y:0.5},dimensions:{width:null,height:null},mode:"none",fitAlignment:{center:!0},load:"true",stretch:!0,fixedRatio:!1};if(b.focalPoint)c.focalPoint=b.focalPoint;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)c.focalPoint={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(b.dimensions)c.dimensions=
+b.dimensions;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)c.dimensions={width:parseInt(d[0],10),height:parseInt(d[1],10)};b.mode?c.mode=b.mode:a.parentNode&&(d=a.parentNode.className,-1!==d.indexOf("content-fill")?c.mode="fill":-1!==d.indexOf("content-fit")&&(c.mode="fit"));if("fit"===c.mode&&a.parentNode&&(d=b.fitAlignment||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))c.fitAlignment={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),
+center:-1!==d.indexOf("center"),right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};if(b.load)c.load=b.load;else if(d=a.getAttribute("data-load"))c.load=d;if("undefined"!==typeof b.stretch)c.stretch=b.stretch;else if(d=a.getAttribute("data-image-stretch"))c.stretch="true"===d?!0:!1;c.source=b.source?b.source:a.getAttribute("data-src");if(c.source&&(-1!==c.source.indexOf("squarespace.com")||-1!==c.source.indexOf("squarespace.net"))&&"http:"===c.source.substr(0,5)&&"https"===window.location.protocol.substr(0,
+5))c.source=c.source.replace("http://","https://");if(b.fixedRatio)c.fixedRatio=b.fixedRatio;else if(d=a.getAttribute("data-fixed-ratio"))c.fixedRatio="true"==d;return c};this._stringType=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this._getStyle=function(a,b,c){var d;a.currentStyle?d=a.currentStyle[c||b]:window.getComputedStyle&&(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(b));return d};this._isVisible=function(a){a=
+a.getBoundingClientRect();return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.getSquarespaceSize=function(a,b,c){a=Math.max(b/(c.dimensions.height/c.dimensions.width),a);"number"==typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(b=1;b<SQUARESPACE_SIZES.length&&!(a>SQUARESPACE_SIZES[b]);b++);return SQUARESPACE_SIZES[b-1]+"w"};this.getDimensionForValue=function(a,b,c){var d=c.dimensions.width;c=c.dimensions.height;return"width"==a?
+d/c*b:"height"==a?c/d*b:NaN};this.getUrl=function(a,b){var c=b.source;return a&&("/"==c[0]||-1!=c.indexOf("squarespace.com")||-1!=c.indexOf("squarespace.net"))?(-1===c.indexOf("format="+a)&&(c=c+(-1!==c.indexOf("?")?"&":"?")+"format="+a),window.Static&&(window.Static.IN_BACKEND&&-1===c.indexOf("storage=local"))&&(c+="&storage=local"),c):b.source};this.isValidResolution=function(a,b){a=parseInt(a,10);b=parseInt(b,10);return isNaN(a)||isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var c=a.getAttribute("alt"),
+d=c&&0<c.length&&!a.getAttribute("src");if(d){var e=a.style.display;a.removeAttribute("alt");a.style.display="none";a.offsetHeight+0;a.style.display=e}b.call(this);d&&a.setAttribute("alt",c)}};window.ImageLoader=ImageLoader;var siteCSSHandle,loopHandle,imagesTimer=50;function ancestorHasClass(a,b){return"undefined"!==typeof a.className&&-1!==a.className.indexOf(b)?!0:a.parentNode?ancestorHasClass(a.parentNode,b):!1}
+var hasAttr=function(a,b){return a.hasAttribute?a.hasAttribute(b):!!a.attributes[b]},getAttr=function(a,b){return a.getAttribute?a.getAttribute(b):a.attributes[b]};function init(){var a=document.images;if(0<a.length)for(var b=0,c=a.length;b<c;b++)(hasAttr(a[b],"data-image")||hasAttr(a[b],"data-src"))&&"false"!==getAttr(a[b],"data-load")+""&&ImageLoader.load(a[b])}init();window.YUI&&YUI.add("squarespace-imageloader",function(a){});
+})();</script>
+<script>Squarespace.afterBodyLoad(Y);</script>
+</body>
+</html>

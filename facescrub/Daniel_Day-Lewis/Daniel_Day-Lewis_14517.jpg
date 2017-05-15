@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<title>SiteGround System Page Not Active</title>
+	<link rel="stylesheet" type="text/css" href="http://www.siteground.com/css/systempages.css" media="screen, handheld" />	
+</head>
+<body>
+	<div id="wrapper">
+		<img src="http://www.siteground.com/img/systempages/cloud_storm.png" alt="This Page is currently not active" />
+		<h1>Pity. This website is currently not active.</h1>
+		<h2>This web page is hosted by <a href="http://www.siteground.com">SiteGround.com</a>, but currently the hosting account is not active.</h2>
+		<div class="sep"></div>
+		<p>If you're the website owner and would like to re-activate this hosting account, please contact <a href="https://siteground.chat-assistance.com/">SiteGround.com Customer Service Team</a>. We'd love to have you back!</p>
+		<a href="http://www.siteground.com"><img id="logosg" src="http://www.siteground.com/img/systempages/logo.png" alt="SiteGround" /></a>
+	</div>
+</body>
+</html>

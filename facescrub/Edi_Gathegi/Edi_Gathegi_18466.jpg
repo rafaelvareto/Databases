@@ -1,0 +1,257 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Jamati Online  |  Page not found</title>
+
+<meta name="generator" content="WordPress 4.0.1" />
+
+<link rel="shortcut icon" href="http://www.jamati.com/jamati-favicon.gif">
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://jamati.com/online/feed/" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://jamati.com/online/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://jamati.com/online/feed/atom/" />
+
+<link rel="stylesheet" href="http://www.jamati.com/css/single.css" />
+
+<link href="http://www.jamati.com/SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+<script src="http://www.jamati.com/SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+
+
+<style type="text/css">
+ul#nav1 li ul, ul#nav2 li ul {display: none;}
+ul#nav1 li:hover ul, ul#nav2 li:hover ul, ul#nav1 li.over ul, ul#nav2 li.over ul {display: block !important;}
+ul#nav1 li.main_cat:hover, ul#nav2 li.main_cat:hover, ul#nav1 li.main_cat.over, ul#nav2 li.main_cat.over {background:url(http://www.jamati.com/images/buttons/minus.gif) no-repeat top right;} 
+</style>
+	<style type="text/css">
+		#centercol .ddfmwrap{padding:15px;background:#eee6dd; !important}
+		#centercol fieldset {border:1px solid #503a1b;margin-bottom:10px !important;padding:0 20px 20px;}
+			html>body  #centercol fieldset {padding:auto;}
+		#centercol .ddfmwrap #event_name {width:300px !important;}
+		#centercol .ddfmwrap #event_venue {width:300px !important;}
+		#centercol .input_title {padding:10px 0 0 !important;font-size:12px;font-weight:bold;}
+		#centercol .checkbox,.radiobutton{font-size:11px !important;line-height:15px !important;}
+		#centercol textarea{width:350px !important;height:200px !important;}
+		#centercol .long{width:300px !important;}
+		#centercol .submit{padding:10px 0 !important;}
+		#centercol .ddfmwrap #event_hr, .ddfmwrap #event_min {width:30px !important;}
+		#centercol .block {display:block !important;}
+	</style>
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+startListOne = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav1");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+startListTwo = function() {
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("nav2");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+}
+
+//--><!]]></script>
+
+</head>
+
+<body onload="startListOne();startListTwo();">
+  
+<div id="pseudo_body" class="clearfix">
+<div id="header" class="clearfix">
+  
+	<div id="top_leaderboard_wrapper">
+	  <div id="top_leaderboard" class="ad_banner">
+		
+		<script language='JavaScript' type='text/javascript' src='http://www.jamati.com/openads/adx.js'></script>
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.jamati.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href='http://www.jamati.com/openads/adclick.php?n=ab1767a4' target='_blank'><img src='http://www.jamati.com/openads/adview.php?what=zone:1&amp;n=ab1767a4' border='0' alt=''></a></noscript>
+			  </div> <!-- END  top_leaderboard -->
+	</div>
+
+	<div id="masthead">
+	
+		<div id="search_bar">
+			<p id="reference_links"><a href="http://www.jamati.com/join/">JOIN THE TEAM</a> | <a href="http://www.jamati.com/contact/">CONTACT</a> | <a href="http://www.jamati.com/newsletter/">NEWSLETTER</a> | <a href="http://www.jamati.com/advertise/">ADVERTISE</a></p>
+			<form id="searchbox_015318329485934518079:mf5cjgrdlko" action="search.php">
+				<div class="form_wrapper">
+				<input type="hidden" name="cx" value="015318329485934518079:mf5cjgrdlko" />
+				<input type="hidden" name="cof" value="FORID:9" />
+				<input name="q" type="text" value="" />
+				<input type="submit" name="sa" value="Search" />
+				</div>
+			</form>
+		</div> <!-- END  search_bar -->  
+	
+		<div id="language">
+					<p><span>ENGLISH</span><a href="http://www.jamati.com/francais/?lang=french">FRANCAIS</a></p>
+			<!--<a href="http://www.jamati.com/"><img src="http://www.jamati.com/images/buttons/logo_button.gif" title="HOME" width="500" height="80" /></a> -->
+				</div> <!-- language -->
+	
+	</div> <!-- END masthead -->
+	 
+	<div id="main_nav">
+		<ul class="clearfix">
+			<li><a href="http://www.jamati.com/">HOME</a></li>
+		<li><a href="http://www.jamati.com/online/?cat=3">Music</a></li><li><a href="http://www.jamati.com/online/?cat=4">Film</a></li><li><a href="http://www.jamati.com/online/?cat=5">Style</a></li><li><a href="http://www.jamati.com/online/?cat=116">Lifestyle</a></li><li><a href="http://www.jamati.com/online/?cat=6">Books</a></li><li><a href="http://www.jamati.com/online/?cat=7">Sports</a></li><li><a href="http://www.jamati.com/online/?cat=9">Columnists</a></li><li><a href="http://www.jamati.com/online/?cat=4553">Entourage</a></li><li><a href="http://www.jamati.com/online/?cat=8">Events</a></li>		</ul>
+	</div> <!-- END  main_nav -->
+	
+</div> <!-- END  header -->
+
+<div id="main_content_area" class="clearfix">
+	<div id="content" class="narrowcolumn">
+
+		<h2 class="center">Error 404 - Not Found</h2>
+
+	</div>
+
+	<div id="sidebar">
+		<ul>
+
+			<li>
+				<form method="get" id="searchform" action="http://jamati.com/online/">
+<div><input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form>
+			</li>
+
+			<!-- Author information is disabled per default. Uncomment and fill in your details if you want to use it.
+			<li><h2>Author</h2>
+			<p>A little something about you, the author. Nothing lengthy, just an overview.</p>
+			</li>
+			-->
+
+			<li>
+									</li>
+
+			<li class="pagenav"><h2>Pages</h2><ul><li class="page_item page-item-2"><a href="http://jamati.com/online/sample-page/">Sample Page</a></li>
+</ul></li>
+			<li><h2>Archives</h2>
+				<ul>
+					<li><a href='http://jamati.com/online/2014/11/'>November 2014</a></li>
+	<li><a href='http://jamati.com/online/2014/10/'>October 2014</a></li>
+	<li><a href='http://jamati.com/online/2007/10/'>October 2007</a></li>
+				</ul>
+			</li>
+
+			<li class="categories"><h2>Categories</h2><ul>	<li class="cat-item cat-item-9"><a href="http://jamati.com/online/category/events/" >Events</a> (1)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://jamati.com/online/category/music/" >Music</a> (3)
+<ul class='children'>
+	<li class="cat-item cat-item-10"><a href="http://jamati.com/online/category/music/african-hip-hop/" >African Hip Hop</a> (1)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://jamati.com/online/category/music/backstage-pass/" >Backstage Pass</a> (1)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://jamati.com/online/category/music/drumbeat/" >Drumbeat</a> (1)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://jamati.com/online/category/music/up-and-coming/" >Up and Coming</a> (1)
+</li>
+</ul>
+</li>
+</ul></li>
+			
+		</ul>
+	</div>
+
+
+</div> <!-- END  main_content_area -->
+	
+</div> <!-- END  pseudo_body -->
+
+<div id="footer_area">
+		
+		<div id="footer1" class="footer">
+			<p>
+						</p>
+		</div> <!-- END  footer1 -->
+		
+		<div id="footer2" class="footer">
+			<!--<div id="search_bar" class="in_footer">
+			  <form id="searchbox_015318329485934518079:mf5cjgrdlko" action="../../../../search.php">
+				<input type="hidden" name="cx" value="015318329485934518079:mf5cjgrdlko" />
+				<input type="hidden" name="cof" value="FORID:9" />
+				<div id="text_field">
+				  <input name="q" type="text" value="Keywords" />
+				</div>
+				<div id="go_button">
+				  <input type="submit" name="sa" value="Search" />
+				</div>
+			  </form>
+			</div>  END  search_bar -->
+			<p>
+			<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/jamaticpanel/public_html/online/wp-content/themes/JAMATI2008/footer.php</b> on line <b>38</b><br />
+			</p>
+		</div> <!-- END  footer2 -->
+		
+		<div id="footer3" class="footer">
+			<p>&copy; 2008 <a href="http://www.dimcorporation.com/" target="_blank">Diaspora Interactive Media Corp.</a> All rights reserved. Site design by <a href="http://www.johnathanandersendesign.com/">Johnathan Andersen Design</a>.</p>
+		</div> <!-- END  footer3 -->
+
+		
+	</div> <!-- END  footer_area -->
+
+
+<script type="text/javascript" src="../../../../js/input_classes.js"></script>
+
+<!-- Jamati Tracking -->
+  
+  	
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-2487937-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+	
+	  
+  <!-- END Jamati Tracking -->
+  
+  <!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-b4KZNjraefGNI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-b4KZNjraefGNI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-b4KZNjraefGNI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+</body>
+</html>

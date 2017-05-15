@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en-US" class="no-js ie6 oldie"><![endif]-->
+<!--[if IE 7]>	 <html lang="en-US" class="no-js ie7 oldie"><![endif]-->
+<!--[if IE 8]>	 <html lang="en-US" class="no-js ie8 oldie"><![endif]-->
+<!--[if IE 9]>	 <html lang="en-US" class="no-js ie9 oldie"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en-US" class=""> <!--<![endif]--> 
+
+	<head>
+		<title>Page not found &raquo; Correctional Association of New York</title>
+		
+			<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+			<meta name="description" content="A Force for &lt;span class=&quot;red&quot;&gt;Progressive Change&lt;/span&gt; in the Criminal Justice System Since 1844" />
+			<meta charset="UTF-8" />
+			
+			<!--  mobile stuff here -->
+				<meta name="viewport" content="width=1024" />
+			<!-- End mobile -->		
+		
+			
+			<link rel="shortcut icon" href="http://www.correctionalassociation.org/wp-content/themes/sink_correc/favicon.ico" />
+			<link rel="profile" href="http://gmpg.org/xfn/11" />
+			
+			<!-- Stylesheets -->
+			<link rel="stylesheet" type="text/css" href="http://www.correctionalassociation.org/wp-content/themes/sink_correc/style.css" media="screen" />
+			<link rel="stylesheet" type="text/css" href="http://www.correctionalassociation.org/wp-content/themes/sink_correc/fonts/stylesheet.css" media="screen" />
+		
+			<!-- INHOUSE OVERWRITES IF NECESSARY -->
+			<link rel="stylesheet" type="text/css" href="http://www.correctionalassociation.org/wp-content/themes/sink_correc/style-ca_inhouse.css" media="screen" />
+			<link rel="stylesheet" type="text/css" href="http://www.correctionalassociation.org/css/style-ca_inhouse.css" media="screen" />
+		
+						
+					
+			
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.2.5 - http://yoast.com/wordpress/seo/ -->
+<!-- / Yoast WordPress SEO plugin. -->
+
+
+			<script type="text/javascript">//<![CDATA[
+			// Google Analytics for WordPress by Yoast v4.2.8 | http://yoast.com/wordpress/google-analytics/
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-37412299-1']);
+							_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+			(function () {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+			//]]></script>
+			<link rel='stylesheet' id='tfg_style-css'  href='http://www.correctionalassociation.org/wp-content/plugins/twitter-facebook-google-plusone-share/tfg_style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dcjq-mega-menu-css'  href='http://www.correctionalassociation.org/wp-content/plugins/jquery-mega-menu/css/dcjq-mega-menu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://www.correctionalassociation.org/wp-content/plugins/taxonomy-images/style.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='podpress_frontend_styles-css'  href='http://www.correctionalassociation.org/wp-content/plugins/podpress/style/podpress.css' type='text/css' media='all' />
+<script type="text/javascript">
+//<![CDATA[
+var podpressL10 = {
+	openblogagain : 'back to:',
+	theblog : 'the blog',
+	close : 'close',
+	playbutton : 'Play &gt;'
+}
+//]]>
+</script>
+<script type="text/javascript" src="http://www.correctionalassociation.org/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js"></script>
+<script type="text/javascript">//<![CDATA[
+	var podPressPlayerFile = "1pixelout_player.swf";
+	var podPressPopupPlayerOpt = new Object();
+	podPressPopupPlayerOpt["bg"] = "E5E5E5";
+	podPressPopupPlayerOpt["text"] = "333333";
+	podPressPopupPlayerOpt["leftbg"] = "CCCCCC";
+	podPressPopupPlayerOpt["lefticon"] = "333333";
+	podPressPopupPlayerOpt["volslider"] = "666666";
+	podPressPopupPlayerOpt["voltrack"] = "FFFFFF";
+	podPressPopupPlayerOpt["rightbg"] = "B4B4B4";
+	podPressPopupPlayerOpt["rightbghover"] = "999999";
+	podPressPopupPlayerOpt["righticon"] = "333333";
+	podPressPopupPlayerOpt["righticonhover"] = "FFFFFF";
+	podPressPopupPlayerOpt["loader"] = "009900";
+	podPressPopupPlayerOpt["track"] = "FFFFFF";
+	podPressPopupPlayerOpt["border"] = "CCCCCC";
+	podPressPopupPlayerOpt["tracker"] = "DDDDDD";
+	podPressPopupPlayerOpt["skip"] = "666666";
+	podPressPopupPlayerOpt["slider"] = "666666";
+	podPressPopupPlayerOpt["initialvolume"] = "70";
+	podPressPopupPlayerOpt["buffer"] = "5";
+	podPressPopupPlayerOpt["checkpolicy"] = "no";
+	podPressPopupPlayerOpt["animation"] = "yes";
+	podPressPopupPlayerOpt["remaining"] = "no";
+	podpressAudioPlayer.setup("http://www.correctionalassociation.org/wp-content/plugins/podpress/players/1pixelout/" + podPressPlayerFile, {bg:"E5E5E5", text:"333333", leftbg:"CCCCCC", lefticon:"333333", volslider:"666666", voltrack:"FFFFFF", rightbg:"B4B4B4", rightbghover:"999999", righticon:"333333", righticonhover:"FFFFFF", loader:"009900", track:"FFFFFF", border:"CCCCCC", tracker:"DDDDDD", skip:"666666", slider:"666666", initialvolume:"70", buffer:"5", checkpolicy:"no", animation:"yes", remaining:"no",  pagebg:"FFFFFF", transparentpagebg:"yes", encode: "no"} );
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+var podPressBlogURL = "http://www.correctionalassociation.org/";
+var podPressBackendURL = "http://www.correctionalassociation.org/wp-content/plugins/podpress/";
+var podPressDefaultPreviewImage = "http://www.correctionalassociation.org/wp-content/plugins/podpress/images/vpreview_center.png";
+var podPressMP3PlayerWrapper = false;
+var podPress_cortado_signed = false;
+var podPressOverwriteTitleandArtist = false;
+var podPressHTML5 = true;
+var podPressHTML5_showplayersdirectly = false;
+var podPressText_PlayNow = "Play Now";
+var podPressText_HidePlayer = "Hide Player";
+//]]></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='http://www.correctionalassociation.org/wp-content/plugins/jquery-mega-menu/js/jquery.dcmegamenu.1.3.4.min.js'></script>
+<script type='text/javascript' src='http://www.correctionalassociation.org/wp-content/plugins/podpress/js/podpress.js'></script>
+<meta name="generator" content="WordPress 335" />
+        <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 12px;
+            color: #525252;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+	<link rel="stylesheet" href="http://www.correctionalassociation.org/wp-content/plugins/jquery-mega-menu/skin.php?widget_id=2&amp;skin=grey" type="text/css" media="screen"  />
+			
+						<!-- Extra javascripts -->
+			<script type="text/javascript" src="http://www.correctionalassociation.org/wp-content/themes/sink_correc/js/jquery.corner.js"></script>
+			<script type="text/javascript" src="http://www.correctionalassociation.org/wp-content/themes/sink_correc/js/jquery.cycle.all.min.js"></script>
+			<script type="text/javascript" src="http://www.correctionalassociation.org/wp-content/themes/sink_correc/js/social_ink.min.js"></script>
+			<script type="text/javascript" src="http://www.correctionalassociation.org/wp-content/themes/sink_correc/js/css_browser_selector.js"></script>
+			
+			
+			<!-- audio -->
+			<script type="text/javascript" src="http://www.correctionalassociation.org/wp-content/themes/sink_correc/js/audio-player.js"></script>
+			<script type="text/javascript">  
+						AudioPlayer.setup("http://www.correctionalassociation.org/wp-content/themes/sink_correc/includes/player.swf", {  
+							width: 290,
+							transparentpagebg: "yes"
+						}); 		
+			</script>		
+
+		<!--[if IE ]>
+			<link href="http://www.correctionalassociation.org/wp-content/themes/sink_correc/style-iefixes.css" rel="stylesheet" type="text/css" />
+		<![endif]-->					
+	</head>
+
+	<body class="error404">
+	
+		<div id="container">
+			<div class="topheader">
+				
+			</div>
+			
+			<div id="header">
+			
+				<div class="header_inner centering_box">
+	
+	<div class="logo">
+		<a href="http://www.correctionalassociation.org/"><img src="http://www.correctionalassociation.org/wp-content/themes/sink_correc/images/logo.png" alt="Page not found &raquo; Correctional Association of New York" /></a>
+	</div>
+	
+	<div class="slogan">
+		<h4>A Force for <span class="red">Progressive Change</span> in the Criminal Justice System Since 1844</h4>
+	</div>
+
+	<div class="topmenu menu_horizontal">
+			<ul id="menu-top-bar" class="menu"><li id="menu-item-458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-458"><a href="http://www.correctionalassociation.org/press-room-2" >Press Room</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://www.correctionalassociation.org/contact-us" >Contact Us</a></li>
+</ul>			<div class="search_container">
+
+	<form action="http://www.correctionalassociation.org" method="get">
+		<input type="submit" id="searchsubmit" value="search" />
+		<input value="" title="Search" name="s" class="search_input clearMeFocus"  />
+		
+	</form>
+	
+</div>	</div>			
+	
+	<div class="mainmenu">
+		<li id="dc_jqmegamenu_widget-2" class="widget ">		<div class="dcjq-mega-menu" id="dc_jqmegamenu_widget-2-item">
+		
+		<ul id="menu-main" class="menu"><li id="menu-item-812" class="dropdown toplevel menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a href="http://www.correctionalassociation.org/about-us/mission-history" >About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-984" class="midlevel nolink menu-item menu-item-type-post_type menu-item-object-page menu-item-984"><a href="http://www.correctionalassociation.org/about-us/mission-history" >About the CA</a>
+	<ul class="sub-menu">
+		<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.correctionalassociation.org/about-us/mission-history" >Who we are</a></li>
+		<li id="menu-item-1900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1900"><a href="http://www.correctionalassociation.org/about-us/history-organization" >Our History</a></li>
+		<li id="menu-item-985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-985"><a href="http://www.correctionalassociation.org/about-us/strategies-for-change" >Strategies for Change</a></li>
+		<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-986"><a href="http://www.correctionalassociation.org/about-us/our-impact" >Our Impact</a></li>
+		<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://www.correctionalassociation.org/about-us/financial-information" >Financial Information</a></li>
+	</ul>
+</li>
+	<li id="menu-item-105" class="nolink midlevel menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-105"><a href="http://www.correctionalassociation.org" >Our Projects</a>
+	<ul class="sub-menu">
+		<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="http://www.correctionalassociation.org/pp/about-the-juvenile-justice-project" >Juvenile Justice Project</a></li>
+		<li id="menu-item-1691" class="menu-item menu-item-type-post_type menu-item-object-project_pages menu-item-1691"><a href="http://www.correctionalassociation.org/pp/about-pvp" >Prison Visiting Project</a></li>
+		<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="http://www.correctionalassociation.org/pp/about-women-in-prison-project" >Women in Prison Project</a></li>
+	</ul>
+</li>
+	<li id="menu-item-987" class="nolink midlevel menu-item menu-item-type-post_type menu-item-object-page menu-item-987"><a href="http://www.correctionalassociation.org/about-us/staff" >People</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://www.correctionalassociation.org/about-us/board-directors" >Board of Directors</a></li>
+		<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.correctionalassociation.org/about-us/staff" >Staff</a></li>
+		<li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="http://www.correctionalassociation.org/changemakers" >CA Changemakers</a></li>
+		<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="http://www.correctionalassociation.org/about-us/careers" >Careers</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-988" class="nolink toplevel menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-988"><a href="http://www.correctionalassociation.org/issue/conditions-of-confinement" >Our Issues</a>
+<ul class="sub-menu">
+	<li id="menu-item-989" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-989"><a href="http://www.correctionalassociation.org/issue/families" >Families and Incarceration</a></li>
+	<li id="menu-item-990" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-990"><a href="http://www.correctionalassociation.org/issue/hiv-health" >HIV and Healthcare</a></li>
+	<li id="menu-item-991" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-991"><a href="http://www.correctionalassociation.org/issue/lgbtq" >LGBTQ Youth in the System</a></li>
+	<li id="menu-item-992" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-992"><a href="http://www.correctionalassociation.org/issue/mental-health" >Mental Healthcare and Incarceration</a></li>
+	<li id="menu-item-993" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-993"><a href="http://www.correctionalassociation.org/issue/prison-downsizing" >Prison Downsizing</a></li>
+	<li id="menu-item-997" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-997"><a href="http://www.correctionalassociation.org/issue/solitary-confinement" >Solitary Confinement</a></li>
+	<li id="menu-item-998" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-998"><a href="http://www.correctionalassociation.org/issue/substance-abuse" >Substance Abuse and Incarceration</a></li>
+	<li id="menu-item-999" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-999"><a href="http://www.correctionalassociation.org/issue/domestic-violence" >Survivors of Abuse and Incarceration</a></li>
+	<li id="menu-item-1000" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-1000"><a href="http://www.correctionalassociation.org/issue/women" >Women and the Criminal Justice System</a></li>
+	<li id="menu-item-1807" class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-1807"><a href="http://www.correctionalassociation.org/issue/youth-justice" >Youth Justice</a></li>
+</ul>
+</li>
+<li id="menu-item-81" class="toplevel dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-81"><a href="http://www.correctionalassociation.org/resources" >Resources</a></li>
+<li id="menu-item-1016" class="toplevel menu-item menu-item-type-post_type menu-item-object-page menu-item-1016"><a href="http://www.correctionalassociation.org/news-press" >News &#038; Press</a>
+<ul class="sub-menu">
+	<li id="menu-item-1002" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1002"><a href="http://www.correctionalassociation.org/category/news" >News</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="http://www.correctionalassociation.org/press_types/ca-in-the-press" >CA In the Press</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="http://www.correctionalassociation.org/press_types/press-release" >Press Releases</a></li>
+	<li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003"><a href="http://www.correctionalassociation.org/pressroom" >Press Room</a></li>
+</ul>
+</li>
+<li id="menu-item-95" class="toplevel menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://www.correctionalassociation.org/ways-to-get-involved" >Take Action</a>
+<ul class="sub-menu">
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://www.correctionalassociation.org/ways-to-get-involved" >Ways to Get Involved</a></li>
+	<li id="menu-item-103" class="nolink menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a href="http://www.correctionalassociation.org/our-coalitions" >Our Coalitions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="http://www.correctionalassociation.org/coalition/coalition-for-women-prisoners" >Coalition for Women Prisoners</a></li>
+		<li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111"><a href="http://www.correctionalassociation.org/coalition/drop-the-rock-coalition" >Drop the Rock Coalition</a></li>
+		<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a href="http://www.correctionalassociation.org/coalition/juvenile-justice-coalition" >Juvenile Justice Coalition</a></li>
+	</ul>
+</li>
+	<li id="menu-item-843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-843"><a href="http://www.correctionalassociation.org/ways-to-get-involved/leadership-and-advocacy-training" >Advocacy Training Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1852" class="menu-item menu-item-type-post_type menu-item-object-project_pages menu-item-1852"><a href="http://www.correctionalassociation.org/pp/reconnect" >ReConnect Training for Women</a></li>
+		<li id="menu-item-1861" class="menu-item menu-item-type-post_type menu-item-object-project_pages menu-item-1861"><a href="http://www.correctionalassociation.org/pp/leadership-training" >Safe Passages Training for LGBTQ Youth</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1642"><a href="http://www.correctionalassociation.org/actions" >Current Actions</a></li>
+</ul>
+</li>
+<li id="menu-item-2133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2133"><a href="http://www.correctionalassociation.org/donate" >Donate</a></li>
+</ul>		
+		</div>
+		</li>
+	</div>		
+	
+
+	
+	<div class="clearfix"></div>
+
+</div>	
+			</div>	<div id="page_404" class="onepage centering_box singlearticle"> 
+		<div class="page_header colheader"><h1>Page not found</h1></div>
+			<div class="content"> 
+				<h1>Sorry, we couldn't find that page <br />(404 error)</h1>		
+						
+		
+<div class="notfound_inner">
+	
+	<h2>Here are some ways we can help you find what you need:</h2>
+	<h3>Try a site search:</h3> 
+	<div class="search_container">
+
+	<form action="http://www.correctionalassociation.org" method="get">
+		<input type="submit" id="searchsubmit" value="search" />
+		<input value="" title="Search" name="s" class="search_input clearMeFocus"  />
+		
+	</form>
+	
+</div>	<div class="clearfix"></div>
+	<h3>Browse our main content areas:</h3>
+	<ul>
+		
+					
+			<li class="sitemap_column_header">All pages
+					<ul>
+												
+					<li class="page_item page-item-17"><a href="http://www.correctionalassociation.org/about-us">About Us</a>
+<ul class='children'>
+	<li class="page_item page-item-1683"><a href="http://www.correctionalassociation.org/about-us/board-directors">Board of Directors</a></li>
+	<li class="page_item page-item-40"><a href="http://www.correctionalassociation.org/about-us/careers">Careers</a></li>
+	<li class="page_item page-item-26"><a href="http://www.correctionalassociation.org/about-us/financial-information">Financial Information</a></li>
+	<li class="page_item page-item-1898"><a href="http://www.correctionalassociation.org/about-us/history-organization">History of the Organization</a></li>
+	<li class="page_item page-item-805"><a href="http://www.correctionalassociation.org/about-us/our-impact">Our Impact</a></li>
+	<li class="page_item page-item-23"><a href="http://www.correctionalassociation.org/about-us/staff">Staff</a></li>
+	<li class="page_item page-item-801"><a href="http://www.correctionalassociation.org/about-us/strategies-for-change">Strategies for Change</a></li>
+	<li class="page_item page-item-19"><a href="http://www.correctionalassociation.org/about-us/mission-history">Who We Are</a></li>
+</ul>
+</li>
+<li class="page_item page-item-66"><a href="http://www.correctionalassociation.org/contact-us">Contact Us</a></li>
+<li class="page_item page-item-2258"><a href="http://www.correctionalassociation.org/credits">Credits</a></li>
+<li class="page_item page-item-42"><a href="http://www.correctionalassociation.org/faq">FAQ</a></li>
+<li class="page_item page-item-1014"><a href="http://www.correctionalassociation.org/news-press">News &#038; Press</a></li>
+<li class="page_item page-item-2137"><a href="http://www.correctionalassociation.org/our-coalitions">Our Coalitions</a></li>
+<li class="page_item page-item-486"><a href="http://www.correctionalassociation.org/pressroom">Press Room</a></li>
+<li class="page_item page-item-46"><a href="http://www.correctionalassociation.org/privacy-policy">Privacy Policy</a></li>
+<li class="page_item page-item-4258"><a href="http://www.correctionalassociation.org/reproductive-injustice-report-sign-up">Reproductive Injustice Report Sign-up</a></li>
+<li class="page_item page-item-77"><a href="http://www.correctionalassociation.org/resources">Resources</a></li>
+<li class="page_item page-item-130"><a href="http://www.correctionalassociation.org/sitemap">Sitemap</a></li>
+<li class="page_item page-item-44"><a href="http://www.correctionalassociation.org/terms-of-use">Terms of Use</a></li>
+<li class="page_item page-item-32"><a href="http://www.correctionalassociation.org/ways-to-get-involved">Ways to Get Involved</a>
+<ul class='children'>
+	<li class="page_item page-item-34"><a href="http://www.correctionalassociation.org/ways-to-get-involved/action-alerts">Action Alerts</a></li>
+	<li class="page_item page-item-38"><a href="http://www.correctionalassociation.org/ways-to-get-involved/donate">Donate</a></li>
+	<li class="page_item page-item-36"><a href="http://www.correctionalassociation.org/ways-to-get-involved/email-signup">Email Signup</a></li>
+	<li class="page_item page-item-840"><a href="http://www.correctionalassociation.org/ways-to-get-involved/leadership-and-advocacy-training">Leadership and Advocacy Training</a>
+	<ul class='children'>
+		<li class="page_item page-item-1008"><a href="http://www.correctionalassociation.org/ways-to-get-involved/leadership-and-advocacy-training/reconnect-training-for-women">ReConnect Training for Women</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="page_item page-item-425"><a href="http://www.correctionalassociation.org/ca-resources/multimedia">Multimedia</a></li>
+<li class="page_item page-item-427"><a href="http://www.correctionalassociation.org/ca-resources/publications">Publications</a></li>
+					</ul>
+			</li>
+				
+		
+		
+				
+			<li class="not_foundresult tags">Browse CA Issues:
+				<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/issue/conditions-of-confinement' class='tag-link-13' title='194 topics' style='font-size: 10pt;'>Conditions of Confinement</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/families' class='tag-link-60' title='62 topics' style='font-size: 10pt;'>Families and Incarceration</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/hiv-health' class='tag-link-61' title='40 topics' style='font-size: 10pt;'>HIV and Healthcare in Prison</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/lgbtq' class='tag-link-64' title='24 topics' style='font-size: 10pt;'>LGBTQ Youth in the System</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/mental-health' class='tag-link-65' title='54 topics' style='font-size: 10pt;'>Mental Healthcare and Incarceration</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/prison-downsizing' class='tag-link-59' title='116 topics' style='font-size: 10pt;'>Prison Downsizing</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/prison-oversight' class='tag-link-66' title='136 topics' style='font-size: 10pt;'>Prison Oversight</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/raise-the-age-2' class='tag-link-97' title='35 topics' style='font-size: 10pt;'>Raise the Age for All Youth</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/reproductive-justice' class='tag-link-62' title='24 topics' style='font-size: 10pt;'>Reproductive Justice and Incarceration</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/sentencing-alternatives' class='tag-link-63' title='103 topics' style='font-size: 10pt;'>Sentencing Policy and Community Alternatives</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/solitary-confinement' class='tag-link-67' title='59 topics' style='font-size: 10pt;'>Solitary Confinement</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/substance-abuse' class='tag-link-69' title='27 topics' style='font-size: 10pt;'>Substance Abuse and Incarceration</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/domestic-violence' class='tag-link-56' title='65 topics' style='font-size: 10pt;'>Survivors of Abuse and Incarceration</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/women' class='tag-link-57' title='163 topics' style='font-size: 10pt;'>Women and the Criminal Justice System</a></li>
+	<li><a href='http://www.correctionalassociation.org/issue/youth-justice' class='tag-link-58' title='145 topics' style='font-size: 10pt;'>Youth Justice</a></li>
+</ul>
+			</li>		
+			<li class="not_foundresult tags">Browse CA Projects:
+				<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/projects/juvenile-justice-project' class='tag-link-24' title='174 topics' style='font-size: 10pt;'>Juvenile Justice Project</a></li>
+	<li><a href='http://www.correctionalassociation.org/projects/prison-visiting-project' class='tag-link-25' title='196 topics' style='font-size: 10pt;'>Prison Visiting Project</a></li>
+	<li><a href='http://www.correctionalassociation.org/projects/women-in-prison-project' class='tag-link-26' title='199 topics' style='font-size: 10pt;'>Women in Prison Project</a></li>
+</ul>
+			</li>
+			<li class="not_foundresult tags">Browse CA Coalitions:
+				<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/coalition/coalition-for-women-prisoners' class='tag-link-27' title='124 topics' style='font-size: 10pt;'>Coalition for Women Prisoners</a></li>
+	<li><a href='http://www.correctionalassociation.org/coalition/drop-the-rock-coalition' class='tag-link-28' title='89 topics' style='font-size: 10pt;'>Drop the Rock Coalition</a></li>
+	<li><a href='http://www.correctionalassociation.org/coalition/juvenile-justice-coalition' class='tag-link-29' title='96 topics' style='font-size: 10pt;'>Juvenile Justice Coalition</a></li>
+</ul>
+			</li>
+			
+			<li class="not_foundresult tags">Browse CA Campaigns:
+					<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/campaigns/domestic-violence-survivors-justice-act-campaign' class='tag-link-76' title='42 topics' style='font-size: 10pt;'>Domestic Violence Survivors Justice Act Campaign</a></li>
+	<li><a href='http://www.correctionalassociation.org/campaigns/raise-the-age' class='tag-link-80' title='46 topics' style='font-size: 10pt;'>Raise the Age</a></li>
+	<li><a href='http://www.correctionalassociation.org/campaigns/the-new-campaign' class='tag-link-93' title='2 topics' style='font-size: 10pt;'>The New Campaign</a></li>
+</ul>
+			</li>
+			
+				<li class="not_foundresult tags">Browse CA Topics:
+					<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/current_topics/2013-prison-closures' class='tag-link-90' title='10 topics' style='font-size: 10pt;'>2013 prison closures</a></li>
+	<li><a href='http://www.correctionalassociation.org/current_topics/aging-in-prison' class='tag-link-84' title='12 topics' style='font-size: 10pt;'>Aging in Prison</a></li>
+	<li><a href='http://www.correctionalassociation.org/current_topics/bring-back-the-buses' class='tag-link-85' title='3 topics' style='font-size: 10pt;'>Bring Back the Buses</a></li>
+	<li><a href='http://www.correctionalassociation.org/current_topics/attica' class='tag-link-70' title='16 topics' style='font-size: 10pt;'>Close Attica</a></li>
+	<li><a href='http://www.correctionalassociation.org/current_topics/close-to-home' class='tag-link-78' title='13 topics' style='font-size: 10pt;'>Close to Home</a></li>
+	<li><a href='http://www.correctionalassociation.org/current_topics/parole' class='tag-link-99' title='3 topics' style='font-size: 10pt;'>Parole</a></li>
+	<li><a href='http://www.correctionalassociation.org/current_topics/raise-the-age' class='tag-link-80' title='10 topics' style='font-size: 10pt;'>Raise the Age</a></li>
+</ul>
+				</li>
+			<li class="not_foundresult tags">Browse CA Publications by Type:
+				<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/publication/advocacy-tool' class='tag-link-34' title='7 topics' style='font-size: 10pt;'>Advocacy Tools</a></li>
+	<li><a href='http://www.correctionalassociation.org/publication/fact-sheets' class='tag-link-5' title='23 topics' style='font-size: 10pt;'>Fact Sheets</a></li>
+	<li><a href='http://www.correctionalassociation.org/publication/organizational-materials' class='tag-link-53' title='22 topics' style='font-size: 10pt;'>Organizational Materials</a></li>
+	<li><a href='http://www.correctionalassociation.org/publication/prison-monitoring-reports' class='tag-link-4' title='50 topics' style='font-size: 10pt;'>Prison Monitoring Reports</a></li>
+	<li><a href='http://www.correctionalassociation.org/publication/reports-research' class='tag-link-52' title='22 topics' style='font-size: 10pt;'>Reports &amp; Research</a></li>
+	<li><a href='http://www.correctionalassociation.org/publication/testimony' class='tag-link-36' title='19 topics' style='font-size: 10pt;'>Testimonies</a></li>
+</ul>
+			</li>
+			<li class="not_foundresult tags">Browse CA Multimedia by Type:
+				<ul class='wp-tag-cloud'>
+	<li><a href='http://www.correctionalassociation.org/multimedia/audio' class='tag-link-10' title='8 topics' style='font-size: 10pt;'>Audio</a></li>
+	<li><a href='http://www.correctionalassociation.org/multimedia/slideshow' class='tag-link-37' title='1 topic' style='font-size: 10pt;'>Slideshows</a></li>
+	<li><a href='http://www.correctionalassociation.org/multimedia/video' class='tag-link-8' title='22 topics' style='font-size: 10pt;'>Video</a></li>
+</ul>
+			</li>
+			<li class="not_foundresult tags">
+				<a href="http://www.correctionalassociation.org/category/news">Read our News Archive</a>
+			</li>
+			
+			<li class="not_foundresult tags">
+				<a href="http://www.correctionalassociation.org/press">Access our Press Room</a>
+			</li>
+			
+			<li class="not_foundresult tags">
+					<a href="http://www.correctionalassociation.org/resources">Explore our Resources</a>
+			</li>
+			
+			<li class="not_foundresult tags">
+					<a href="http://www.correctionalassociation.org/events">Find Upcoming Events</a>
+			</li>
+			
+			
+			
+			
+	</ul>
+	
+	
+</div>	
+			</div>	 
+		<div class="sidebar">
+
+	<div class="sidebar_inner">
+	
+		<div class="sidebar_module module" id="issues_module">
+		
+						
+			
+			<div class="module_title">
+				<h3>Our Issues</h3>
+			</div>
+			
+			<div class="module_content">
+					  			
+			
+				<ul>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under Raise the Age for All Youth " href="http://www.correctionalassociation.org/cmp/raise-the-age-home-page">Raise the Age for All Youth </a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under Solitary Confinement" href="http://www.correctionalassociation.org/issue/solitary-confinement">Solitary Confinement</a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under Survivors of Abuse and Incarceration" href="http://www.correctionalassociation.org/issue/domestic-violence">Survivors of Abuse and Incarceration</a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under LGBTQ Youth in the System" href="http://www.correctionalassociation.org/issue/lgbtq">LGBTQ Youth in the System</a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under Women and the Criminal Justice System" href="http://www.correctionalassociation.org/issue/women">Women and the Criminal Justice System</a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under Youth Justice" href="http://www.correctionalassociation.org/issue/youth-justice">Youth Justice</a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under HIV and Healthcare" href="http://www.correctionalassociation.org/issue/hiv-health">HIV and Healthcare</a>
+							</li>
+												<li class="cat-item cat-item-">
+								<a title="View all posts filed under Families and Incarceration" href="http://www.correctionalassociation.org/issue/families">Families and Incarceration</a>
+							</li>
+									</ul>
+				
+				
+
+				<div class="moreissues">
+					<ul>
+													<li class="cat-item cat-item-">
+								<a title="View all posts filed under Mental Healthcare and Incarceration" href="http://www.correctionalassociation.org/issue/mental-health">Mental Healthcare and Incarceration</a>
+							</li>
+													<li class="cat-item cat-item-">
+								<a title="View all posts filed under Substance Abuse and Incarceration" href="http://www.correctionalassociation.org/issue/substance-abuse">Substance Abuse and Incarceration</a>
+							</li>
+													<li class="cat-item cat-item-">
+								<a title="View all posts filed under Prison Downsizing" href="http://www.correctionalassociation.org/issue/prison-downsizing">Prison Downsizing</a>
+							</li>
+											</ul>				
+				
+				</div>
+					
+				<li id="moreissues_clicker"><a href="#" id="show_moreissues">Explore More CA Issues<span class="emphasized_more">+</span></a></li>
+				
+					  						
+				
+
+			</div>
+					</div>	
+		<div class="sidebar_module_bottom" id="issues_module_bottom"></div>
+		
+		<div class="sidebar_module module" id="actions_module">
+		
+			<div class="module_title">
+				<h3>Sign Up</h3>
+			</div>
+			
+			<div class="module_content">
+				<p class="serif">Updates delivered to your mailbox</p>
+					<form action="http://www.correctionalassociation.org/ways-to-get-involved/email-signup" method="post">
+						<input value="Your Email" title="Your Email" name="emailaddress" class="search_input clearMeFocus"  />
+						<input type="submit" id="email_signup" value="subscribe"/>
+					</form>
+			</div>
+			
+			<div class="module_title">
+				
+				<h3>Act</h3>
+			</div>
+			
+			<div class="module_content serif">
+			
+				<div class="pf-content"><p>Learn how you can <a href="http://www.correctionalassociation.org/ways-to-get-involved" >get involved</a>.</p>
+</div>			</div>
+				
+			<div class="module_title" id="action_donate_title">	
+				<h3>Donate</h3>
+			</div>
+			
+			<div class="module_content serif" id="action_donate_content">	
+				<div class="pf-content"><p>Support criminal justice reform by making a donation today. <a href="http://www.correctionalassociation.org/donate" >Learn more</a>.</p>
+</div>			
+				
+			</div>
+					
+			</div> <!-- end actions_module -->
+			
+		</div>
+		<div class="sidebar_module_bottom" id="actions_module_bottom"></div>
+		
+		<div class="sidebar_module module" id="socialmedia_module">
+		
+			<div class="module_title">
+				<h3>Stay Connected</h3>
+			</div>
+			
+			<div class="module_content">
+				<ul>
+					 <!--<li id="socialmedia_twitter"><a href="" title="Follow us on Twitter">Follow us on Twitter</a></li>-->
+					 <li id="socialmedia_fb"><a href="https://www.facebook.com/CorrectionalAssociation" title="Join us on Facebook">Join us on Facebook</a></li>
+					 <li id="socialmedia_rss"><a href="/feed" title="RSS Feed">RSS Feed</a></li>
+					<li id="socialmedia_youtube"><a href=" http://www.youtube.com/user/VideoCANY?feature=watch" title="Youtube">Youtube</a></li>
+				 </ul>
+			</div>
+			
+		</div>			
+		
+		<div class="sidebar_module module" id="socialmedia_module">
+
+			<div class="module_content">
+							</div>
+			
+		</div>	
+		<div class="sidebar_module module" id="fade_module">
+
+
+		</div>
+	</div>
+
+</div>
+			<div class="clearfix"></div>		
+	</div>
+		<div class="clearfix"></div>	
+		<div id="footer">
+			
+<div class="footer_inner centering_box">
+
+	<div class="footermenu menu_horizontal">
+			<ul id="menu-footer" class="menu"><li id="menu-item-129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-129"><a href="http://www.correctionalassociation.org/" >Home</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://www.correctionalassociation.org/sitemap" >Sitemap</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://www.correctionalassociation.org/contact-us" >Contact Us</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://www.correctionalassociation.org/about-us/careers" >Careers</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://www.correctionalassociation.org/ways-to-get-involved/donate" >Donate</a></li>
+<li id="menu-item-2261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2261"><a href="http://www.correctionalassociation.org/credits" >Credits</a></li>
+</ul>	</div>	
+	
+	<div class="footercredits sitecredits">
+		<p>&copy; The Correctional Association of New York<br />
+		2090 Adam Clayton Powell Blvd., Suite 200, <br />
+		New York, NY 10027<br />
+		t: 212.254.5700 <br />
+		f: 212.473.2807<br />
+		</p>
+		<p><a class="deprecated" href="http://www.correctionalassociation.org/terms-of-use">terms & conditions | </a><a href="http://www.correctionalassociation.org/privacy-policy">privacy policy</a>  </p>
+	</div>	
+	
+	<div class="clearfix"></div>
+	
+	<div class="footercredits sinkcredits">
+		<p><a href="http://social-ink.net">Site developed and designed by Social Ink</a></p>
+	</div>
+	
+
+	
+
+</div>		</div>
+			
+					<script type="text/javascript">
+				jQuery(document).ready(function($) {
+					jQuery('#dc_jqmegamenu_widget-2-item .menu').dcMegaMenu({
+						rowItems: 1,
+						subMenuWidth: '',
+						speed: 'fast',
+						effect: 'slide',
+						event: 'hover'
+											});
+				});
+			</script>
+		
+			      <script type="text/javascript">
+		
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfHideImages = '0';
+          var pfImageDisplayStyle = 'right';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+		  (function() {
+            var e = document.createElement('script'); e.type="text/javascript";
+		    if('https:' == document.location.protocol) {
+			  js='https://pf-cdn.printfriendly.com/ssl/main.js';
+		    }
+		    else{
+			  js='http://cdn.printfriendly.com/printfriendly.js';
+		    }
+            e.src = js;
+            document.getElementsByTagName('head')[0].appendChild(e);
+	  	  })();
+      </script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script>
+
+	</div> <!-- close the container div -->
+
+	</body>
+
+</html>

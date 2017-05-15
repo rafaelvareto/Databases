@@ -1,0 +1,318 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <title>404 Not Found &ndash; Play Cloths</title>
+    
+    <link rel="canonical" href="http://playcloths.com/apple-touch-icon-152x152-precomposed.png" />
+    
+    <link rel="shortcut icon" type="image/x-icon" href="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/favicon.png?5215">
+
+    <link href="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/styles.css?5215" rel="stylesheet" type="text/css"  media="all"  />
+    <link href="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/styles-dev.css?5215" rel="stylesheet" type="text/css"  media="all"  />
+    <link href="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jcarousel.connected-carousels.css?5215" rel="stylesheet" type="text/css"  media="all"  />
+    
+    
+    
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jquery-1.11.1.min.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jquery.flexslider-min.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/selectize.min.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/bg-stretcher.js?5215" type="text/javascript"></script>    
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jquery.jcarousel.min.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jcarousel.connected-carousels.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jquery.waitforimages.min.js?5215" type="text/javascript"></script>    
+	<script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jquery.ajaxchimp.min.js?5215" type="text/javascript"></script> 
+	<script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/jquery.cookie.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/inc.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0143/5772/t/11/assets/inc-dev.js?5215" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/shopify/api.jquery.js?640ee0a21b5ac1ced29dd76ffdccc893881a99c7" type="text/javascript"></script>
+    
+    
+    
+    
+    
+    <script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "playcloths.myshopify.com";
+      Shopify.theme = {"name":"Play Cloths Version 2","id":8524312,"theme_store_id":null,"role":"main"};
+
+//]]>
+</script>
+
+
+
+<script id="__st">
+//<![CDATA[
+var __st={"a":1435772,"offset":-18000,"reqid":"d1cb0bb1-ad1a-4672-8201-552192177e8e","pageurl":"playcloths.com/apple-touch-icon-152x152-precomposed.png","u":"70d80d812c98"};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script> 
+    
+    
+    
+    <script>
+      $(document).ready(function(){
+        
+         
+         
+          
+          }); 
+          
+    </script>
+    
+    
+  </head>
+  
+  <body class="template-404" id="404-not-found">
+    
+    <div class="wrapper">
+      
+      <header class="header js-sticky cf m-black">
+        <div class="inner">
+          <div class="pull-left">
+            <a href="/" class="logo">&nbsp;</a>
+          </div><!-- .logo -->
+          <div class="nav-area pull-right">
+            <nav id="nav" class="pull-left">
+              
+              <ul >
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li >
+                  
+                  <a href="/" title="">Home</a>
+                  
+                  
+                </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="has-children">
+                  
+                  
+                  <a href="/pages/shop" title="">Shop</a>
+                  
+                  
+                  <ul>
+                    
+                    <li>
+                      <a href="/collections/t-shirts">T-Shirts</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/knits">Knits</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/sweats">Sweats</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/bottoms">Bottoms</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/outerwear">Outerwear</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/shirts">Shirts</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/headwear">Headwear</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/accessories">Accessories</a>
+                    </li>
+                    
+                    <li>
+                      <a href="/collections/footwear">Footwear</a>
+                    </li>
+                    
+                  </ul>
+                  
+                  
+                  
+                  
+                  
+                </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li >
+                  
+                  <a href="/pages/look-book" title="">Collections</a>
+                  
+                  
+                </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li >
+                  
+                  <a href="http://blog.playcloths.com" title="">Blog</a>
+                  
+                  
+                </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li >
+                  
+                  <a href="/pages/about-us" title="">About Us</a>
+                  
+                  
+                </li>
+                
+                
+                
+                
+              </ul>
+            </nav><!-- .nav -->
+
+   			<div class="user pull-left">
+              
+              
+              <a href="/account/register" id="customer_register_link">Sign Up</a> / <a href="/account/login" id="customer_login_link">Sign In</a> 
+              
+              
+              <a class="search-ico" href="#"></a>
+            </div>
+            <a class="cart pull-right" href="/cart">
+              <span class="items">0</span>
+            </a>
+          </div><!-- .nav-area -->
+        </div><!-- .inner-->
+      </header><!-- .header-->
+      
+      <main class="content cf">
+  <div class="profile-inner">
+    <div class="profile-wrapper">
+      <div class="profile cf">
+        <div class="profile_body">
+          <div class="order_history">
+            <div class="order_history_inner full_page">
+              <div class="profile_content">
+                
+              </div><!-- .profile_content -->
+            </div><!-- .order_history_inner -->
+          </div>
+        </div><!-- .profile_body -->
+      </div><!-- .profile -->
+    </div><!-- .profile-wrapper -->
+  </div><!-- .profile-inner -->
+</main><!-- .content -->
+      
+      <footer class="footer cf">
+        <div class="inner">
+          
+          <ul id="bottom-nav" class="pull-left">
+            
+            <li><a href="/blogs/help" title="Help">Help</a></li>                                                                               
+            
+            <li><a href="/pages/returns" title="Returns">Returns</a></li>                                                                               
+            
+            <li><a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>                                                                               
+            
+          </ul><!-- #bottom-nav -->
+          
+          <div class="service pull-right">
+            <ul class="social pull-left">
+              <li><a class="tw" href="https://twitter.com/playcloths" target="_blank"></a></li>
+              <li><a class="fb" href="https://www.facebook.com/OfficialPlayCloths" target="_blank"></a></li>
+              <li><a class="inst" href="http://instagram.com/playcloths" target="_blank"></a></li>
+            </ul>
+            <form id="mailchimp-bottom" class="signup pull-right" method="POST" action="http://playcloths.us8.list-manage1.com/subscribe/post">
+              <input type="hidden" value="608f65fe5c3570d0f514129d7" name="u">
+              <input type="hidden" value="32a2d0d597" name="id">
+              <div class="control-group">
+                <label>SIGN UP</label>
+				<input id="emailbottom" type="email" placeholder="E-Mail" value="" name="EMAIL" autocorrect="off" autocapitalize="off">
+                <button type="submit">Submit</button>
+              </div>
+              <p class="sign-up-error"></p>
+            </form>
+          </div><!-- .service -->
+        </div><!-- .inner -->
+      </footer><!-- .footer -->
+      
+    </div><!-- .wrapper -->
+    
+    
+    
+    <div class="popup_overlay search-overlay">
+      <div class="popup_body">
+        <div class="popup_holder search_holder">
+          <div class="search_head">
+            <form class="search-form" action="/search" method="GET">
+              <div class="search-control">
+                <input id="search-input" name="q" type="text" placeholder="SEARCH STORE" name="search" class="search-input" />
+                <button type="submit">go</button>
+                <p class="search-caption">Click Anywaher To Close or Press Esc</p>
+              </div>
+            </form>
+          </div><!-- .newsletter_head -->
+        </div><!-- .popup_holder -->
+      </div><!-- .popup_body -->
+      <div class="close-modal-area"></div>
+    </div><!-- .popup_overlay -->
+        
+  </body>
+</html>

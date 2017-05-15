@@ -1,0 +1,380 @@
+ <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+	<head>
+		
+		<title>Animaatjes.nl - Plaatjes, Kleurplaten, Facebook Plaatjes, Avatars Wallpapers Achtergronden Spelletjes Glitter Plaatjes Animaties Gifplaatjes</title>
+		<meta name="description" content="Meer dan 600.000 plaatjes en bewegende animatie plaatjes. Gratis kleurplaten! Leuke profiel plaatjes, msn-plaatjes, avatars en mini plaatjes. Mooie desktop wallpapers en achtergronden. Bewegende Plaatjes en glitter plaatjes. Smileys en Emoticons. Facebook Plaatjes" />
+		<meta name="keywords" content="Plaatjes, Animatie Plaatjes, MSN Plaatjes, Achtergronden, Wallpapers, Afbeeldingen, Facebook Plaatjes, Krabbel Plaatjes, Kleurplaten, Gifplaatjes, Animaties, Mini Plaatjes, Glitter Plaatjes" />
+		<meta name="robot" content="index, follow" />
+
+		<base href="http://www.animaatjes.nl/" />
+		
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="http://www.animaatjes.nl/templates/animaatjes/css/stylesheet.css.php" />
+		<!--[if IE 8]><link type="text/css" rel="stylesheet" href="http://www.animaatjes.nl/templates/animaatjes/css/stylesheet_ie8.css"><![endif]--> 
+		<!--[if IE 7]><link type="text/css" rel="stylesheet" href="http://www.animaatjes.nl/templates/animaatjes/css/stylesheet_ie7.css"><![endif]-->
+		
+		<script type="text/javascript" src="http://www.animaatjes.nl/templates/animaatjes/js/javascripts.js.php"></script>
+
+		<link rel="shortcut icon" href="http://www.animaatjes.nl/templates/animaatjes/images/favicon.ico" />
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-12585336-1']);
+			_gaq.push(['_setDomainName', 'animaatjes.nl']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+	</head>
+
+	<body>
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/nl_NL/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+		
+	
+
+	<div id="Wrapper">
+		
+			<div id="Container">
+				
+				<div id="Header">
+					
+					<div id="HeaderLeft">
+							<div id="TopMenu"><ul><li><a href="/" class="active">Startpagina</a></li><li><a href="http://www.animaatjes.nl/plaatjes/">Plaatjes</a></li><li><a href="http://forum.animaatjes.nl">Forum</a></li><li><a href="http://www.animaatjes.nl/gastenboek/">Gastenboek</a></li><li><a href="http://www.animaatjes.nl/webshop/">Webshop</a></li><li id="Last"><a href="http://www.animaatjes.nl/registreren/">Registreren</a></li></ul></div>
+						<div id="Logo">
+							<a href="/"><img src="http://www.animaatjes.nl/templates/animaatjes/images/logo.png" border="0" alt="logo" /></a>
+						</div>
+						
+						<div id="Search">
+							
+	<form action="zoeken/" method="get" autocomplete="off">
+		<input type="text" name="q" value="Zoeken naar plaatjes.." onblur="fill();" onfocus="this.value=''" id="inputSearch" onkeyup="lookupsearch(this.value);" />
+		<div id="SearchCategories">
+			<a href="#" id="SearchCat" onclick="return false;">
+				<span class="SearchingName">Alle categorieën</span><i class="icon icon-searcharrow"></i>
+			</a>
+		</div>
+		<button type="submit">Zoeken</button>
+		
+		<div class="suggestionsBox" id="suggestions">
+			<div class="suggestionList" id="autoSuggestionsList"></div>
+		</div>
+		
+		<div class="searchBox" >
+			<div id="searchList">
+				<ul><li><input type="radio" name="c" onclick='searchItem(2607,"Plaatjes");' value="plaatjes" id="plaatjes" /><label for="plaatjes">Plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(4230,"Avatars");' value="avatars" id="avatars" /><label for="avatars">Avatars</label></li><li><input type="radio" name="c" onclick='searchItem(4631,"Kleurplaten");' value="kleurplaten" id="kleurplaten" /><label for="kleurplaten">Kleurplaten</label></li><li><input type="radio" name="c" onclick='searchItem(5152,"Naamanimaties");' value="naamanimaties" id="naamanimaties" /><label for="naamanimaties">Naamanimaties</label></li><li><input type="radio" name="c" onclick='searchItem(13496,"Facebook plaatjes");' value="facebook-plaatjes" id="facebook-plaatjes" /><label for="facebook-plaatjes">Facebook plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(7291,"Disney plaatjes");' value="disney-plaatjes" id="disney-plaatjes" /><label for="disney-plaatjes">Disney plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(7385,"Glitter plaatjes");' value="glitter-plaatjes" id="glitter-plaatjes" /><label for="glitter-plaatjes">Glitter plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(7662,"Achtergronden");' value="achtergronden" id="achtergronden" /><label for="achtergronden">Achtergronden</label></li><li><input type="radio" name="c" onclick='searchItem(1633,"Films en series");' value="films-en-series" id="films-en-series" /><label for="films-en-series">Films en series</label></li><li><input type="radio" name="c" onclick='searchItem(8303,"Mini plaatjes");' value="mini-plaatjes" id="mini-plaatjes" /><label for="mini-plaatjes">Mini plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(8455,"Wallpapers");' value="wallpapers" id="wallpapers" /><label for="wallpapers">Wallpapers</label></li><li><input type="radio" name="c" onclick='searchItem(8679,"Smileys");' value="smileys" id="smileys" /><label for="smileys">Smileys</label></li><li><input type="radio" name="c" onclick='searchItem(8918,"Alfabetten");' value="alfabetten" id="alfabetten" /><label for="alfabetten">Alfabetten</label></li><li><input type="radio" name="c" onclick='searchItem(1,"Anime");' value="anime" id="anime" /><label for="anime">Anime</label></li><li><input type="radio" name="c" onclick='searchItem(201,"Baby plaatjes");' value="baby-plaatjes" id="baby-plaatjes" /><label for="baby-plaatjes">Baby plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(246,"Beroepen plaatjes");' value="beroepen-plaatjes" id="beroepen-plaatjes" /><label for="beroepen-plaatjes">Beroepen plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(398,"Cliparts");' value="cliparts" id="cliparts" /><label for="cliparts">Cliparts</label></li><li><input type="radio" name="c" onclick='searchItem(1246,"Cursors");' value="cursors" id="cursors" /><label for="cursors">Cursors</label></li><li><input type="radio" name="c" onclick='searchItem(1424,"Dollz plaatjes");' value="dollz-plaatjes" id="dollz-plaatjes" /><label for="dollz-plaatjes">Dollz plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(1482,"Eten en drinken");' value="eten-en-drinken" id="eten-en-drinken" /><label for="eten-en-drinken">Eten en drinken</label></li><li><input type="radio" name="c" onclick='searchItem(11320,"Games");' value="games" id="games" /><label for="games">Games</label></li><li><input type="radio" name="c" onclick='searchItem(13862,"Gifs");' value="gifs" id="gifs" /><label for="gifs">Gifs</label></li><li><input type="radio" name="c" onclick='searchItem(1686,"Globes");' value="globes" id="globes" /><label for="globes">Globes</label></li><li><input type="radio" name="c" onclick='searchItem(1736,"Honden plaatjes");' value="honden-plaatjes" id="honden-plaatjes" /><label for="honden-plaatjes">Honden plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(1808,"Icon plaatjes");' value="icons-plaatjes" id="icons-plaatjes" /><label for="icons-plaatjes">Icon plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(12466,"Kleding plaatjes");' value="kleding-plaatjes" id="kleding-plaatjes" /><label for="kleding-plaatjes">Kleding plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2281,"Muziek plaatjes");' value="muziek-plaatjes" id="muziek-plaatjes" /><label for="muziek-plaatjes">Muziek plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2319,"Pasen plaatjes");' value="pasen-plaatjes" id="pasen-plaatjes" /><label for="pasen-plaatjes">Pasen plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2356,"Sport plaatjes");' value="sport-plaatjes" id="sport-plaatjes" /><label for="sport-plaatjes">Sport plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2479,"Tags");' value="tags" id="tags" /><label for="tags">Tags</label></li><li><input type="radio" name="c" onclick='searchItem(10988,"Tekst Plaatjes");' value="tekst-plaatjes" id="tekst-plaatjes" /><label for="tekst-plaatjes">Tekst Plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2483,"Twilight plaatjes");' value="twilight-plaatjes" id="twilight-plaatjes" /><label for="twilight-plaatjes">Twilight plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(11651,"Verjaardag plaatjes");' value="verjaardag-plaatjes" id="verjaardag-plaatjes" /><label for="verjaardag-plaatjes">Verjaardag plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2505,"Vissen plaatjes");' value="vissen-plaatjes" id="vissen-plaatjes" /><label for="vissen-plaatjes">Vissen plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(2532,"Vogel plaatjes");' value="vogel-plaatjes" id="vogel-plaatjes" /><label for="vogel-plaatjes">Vogel plaatjes</label></li><li><input type="radio" name="c" onclick='searchItem(11834,"Wenskaarten");' value="wenskaarten" id="wenskaarten" /><label for="wenskaarten">Wenskaarten</label></li><li><input type="radio" name="c" onclick='searchItem(8872,"Lijnen");' value="lijnen" id="lijnen" /><label for="lijnen">Lijnen</label></li><li><input type="radio" name="c" onclick='searchItem(10623,"Dieren");' value="dieren" id="dieren" /><label for="dieren">Dieren</label></li>	
+					<li><input type="radio" name="c" value="all" onclick="searchItem(0,'Alle categorieën');" id="all" checked="checked" /><label for="all">Alle categorie&euml;n</label></li>
+				</ul>
+			</div>
+		</div>
+	</form>
+						</div>
+						
+					</div>
+						
+					<div id="HeaderRight">
+						
+	<script type="text/javascript">
+		function ChangeToPassField() {
+			document.getElementById('pw').type="password";
+		}
+	</script>
+	<div id="Login">    
+		<form action="" method="post">
+			<div id="LoginLeft">
+				<input type="hidden" name="status" class="status" value="1" />
+				<span id="LoginText">Inloggen</span><span class="status"><a href="#" class="signin" onclick="return false;"><img src="templates/animaatjes/images/icons/status_1.png" border="0" class="statusImage" title="Status wijzigen" /></a></span>
+				<input type="text" value="Gebruikersnaam..." onfocus="this.value=''" name="username" />
+				<input id="password-clear" type="text" value="Wachtwoord..." autocomplete="off" />
+				<input id="password-password" type="password" name="password" value="" autocomplete="off" />
+			</div>
+			<div id="LoginRight">
+				<span id="LoginAccount"><a href="registreren/">Account aanmaken</a></span>
+				<span id="LoginStay"><input type="checkbox" name="stay" value="1" id="stay" CHECKED /> &nbsp;<label for="stay">Onthouden</label></span>
+				<button type="submit" name="login">Inloggen</button>
+			</div>
+		</form>
+	</div>
+	<div id="LoginStatus">
+		<a href="javascript:void(0);" onclick="setLoginstatus(this, 1); return false;" id="1"><img src="templates/animaatjes/images/icons/status_1.png" alt="Online" /> Online</a><br />
+		<a href="javascript:void(0);" onclick="setLoginstatus(this, 3); return false;" id="3"><img src="templates/animaatjes/images/icons/status_3.png" alt="Offline weergeven" /> Offline</a><br />
+		<a href="javascript:void(0);" onclick="setLoginstatus(this, 4); return false;" id="4"><img src="templates/animaatjes/images/icons/status_4.png" alt="Afwezig" /> Afwezig</a><br />
+	</div>
+					</div>
+				</div>
+					
+				<div id="Left">
+					<div class="Menu">
+						<div class="MenuTop"><span>Plaatjes menu</span></div><ul><li><a href="http://www.animaatjes.nl/plaatjes/" >Plaatjes</a></li><li><a href="http://www.animaatjes.nl/avatars/" >Avatars</a></li><li><a href="http://www.animaatjes.nl/kleurplaten/" >Kleurplaten</a></li><li><a href="http://www.animaatjes.nl/naamanimaties/" >Naamanimaties</a></li><li><a href="http://www.animaatjes.nl/facebook-plaatjes/" >Facebook plaatjes</a></li><li><a href="http://www.animaatjes.nl/disney-plaatjes/" >Disney plaatjes</a></li><li><a href="http://www.animaatjes.nl/glitter-plaatjes/" >Glitter plaatjes</a></li><li><a href="http://www.animaatjes.nl/achtergronden/" >Achtergronden</a></li><li><a href="http://www.animaatjes.nl/films-en-series/" >Films en series</a></li><li><a href="http://www.animaatjes.nl/mini-plaatjes/" >Mini plaatjes</a></li><li><a href="http://www.animaatjes.nl/wallpapers/" >Wallpapers</a></li><li><a href="http://www.animaatjes.nl/smileys/" >Smileys</a></li><li><a href="http://www.animaatjes.nl/alfabetten/" >Alfabetten</a></li><li><a href="#" id="showMore" onclick="return false;"><strong>Meer..</strong></a></li>
+		</ul><ul class="more"><li><a href="anime/" >Anime</a></li><li><a href="baby-plaatjes/" >Baby plaatjes</a></li><li><a href="beroepen-plaatjes/" >Beroepen plaatjes</a></li><li><a href="cliparts/" >Cliparts</a></li><li><a href="cursors/" >Cursors</a></li><li><a href="dollz-plaatjes/" >Dollz plaatjes</a></li><li><a href="eten-en-drinken/" >Eten en drinken</a></li><li><a href="games/" >Games</a></li><li><a href="gifs/" >Gifs</a></li><li><a href="globes/" >Globes</a></li><li><a href="honden-plaatjes/" >Honden plaatjes</a></li><li><a href="icons-plaatjes/" >Icon plaatjes</a></li><li><a href="kleding-plaatjes/" >Kleding plaatjes</a></li><li><a href="muziek-plaatjes/" >Muziek plaatjes</a></li><li><a href="pasen-plaatjes/" >Pasen plaatjes</a></li><li><a href="sport-plaatjes/" >Sport plaatjes</a></li><li><a href="tags/" >Tags</a></li><li><a href="tekst-plaatjes/" >Tekst Plaatjes</a></li><li><a href="twilight-plaatjes/" >Twilight plaatjes</a></li><li><a href="verjaardag-plaatjes/" >Verjaardag plaatjes</a></li><li><a href="vissen-plaatjes/" >Vissen plaatjes</a></li><li><a href="vogel-plaatjes/" >Vogel plaatjes</a></li><li><a href="wenskaarten/" >Wenskaarten</a></li><li><a href="lijnen/" >Lijnen</a></li><li><a href="dieren/" >Dieren</a></li></ul>
+		<ul><li><a href="alle-rubrieken/"><strong>Alle rubrieken</strong></a></li></ul></div>
+		
+		<div class="Menu">
+			<div class="MenuTopMaken"><span>Zelf plaatjes maken</span></div>
+			<ul>
+				<li><a href="http://www.animaatjes.nl/gezicht-in-foto-plaatsen/">Gezicht in foto</a></li>
+				<li><a href="http://www.animaatjes.nl/tekst-naam-generator/">Tekst generator</a></li>
+				<li><a href="http://www.animaatjes.nl/naamanimaties-maken/">Naamanimaties maken</a></li>
+			</ul>
+					</div>
+				</div>
+					
+				<div id="Right">
+					
+	<div class="ContentBlock">
+	<h1><i class="icon icon-book"></i>Nieuws</h1>
+		<div id="NewsItem">
+			<div id="NewsLeft">
+				<a href="http://animaatjes.animaatjes.nl">Animaatjes</a><br />
+				Beheerder<br /><br />
+				Toegevoegd op:<br />
+				24-06-2014
+			</div>
+			<div id="NewsRight">
+				<h2><a href="http://www.animaatjes.nl/nieuws/2014-06-24/upload-elk-plaatje-met-een-muisklik-naar-je-facebook-tijdlijn/">Upload elk plaatje met &eacute;&eacute;n muisklik naar je Facebook tijdlijn!</a></h2>
+				Nieuw op Animaatjes! Voortaan kun je elk plaatje op Animaatjes.nl met &eacute;&eacute;n druk op de knop uploaden naar je Facebook tijdlijn.<br />
+<br />
+Zoek naar een plaatje op Animaatjes.nl, bijvoorbeeld: welterusten, goedemorgen, slaap lekker, etc. Klik vervolgens op een plaatje dat je op je tijdlijn wil plaatsen. En klik daarna op de link: "Plaatje op je Facebook tijdlijn plaatsen".</div><div id="AllNews"><a href="nieuws/"><i>Bekijk alle nieuws berichten</i></a></div></div></div>
+		
+	<div class="AdBetween">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Animaatjes.nl - Homepage Leaderboard -->
+	<ins class="adsbygoogle"
+			style="display:inline-block;width:728px;height:90px"
+			data-ad-client="ca-pub-3976796711507603"
+			data-ad-slot="2311760591"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	</div>
+		<div id="HomeLeft">
+
+			<div id="Etalage">
+				<h1><i class="icon icon-folder"></i>Plaatjes tips</h1>
+<div id="slider">
+<ul><li>
+	<div class="Image">
+		<span></span>
+		<img src="http://www.animaatjes.nl/plaatjes/s/sinterklaas/90.gif" alt="Sinterklaas Plaatjes" border="0" />
+	</div>
+		<a href="http://sinterklaas.animaatjes.nl" class="First"><strong>Sinterklaas Plaatjes</strong></a>
+		<a href="http://www.animaatjes.nl/smileys/sinterklaas/">Sinterklaas Smileys</a><br />
+		<a href="http://www.animaatjes.nl/cliparts/sinterklaas/">Sinterklaas Cliparts</a><br />
+		<a href="http://www.animaatjes.nl/facebook-plaatjes/sinterklaas/">Sinterklaas Facebook Plaatjes</a><br />
+</li><li>
+	<div class="Image">
+		<span></span>
+		<img src="http://www.animaatjes.nl/plaatjes/s/sinterklaas-teksten/animaatjes-sinterklaas-teksten-08593.jpg" alt="Sinterklaas Tekst Plaatjes" border="0" />
+	</div>
+		<a href="http://www.animaatjes.nl/plaatjes/sinterklaas-teksten/" class="First"><strong>Sinterklaas Tekst Plaatjes</strong></a>
+		<a href="http://www.animaatjes.nl/plaatjes/sinterklaas/">Sinterklaas Plaatjes</a><br />
+		<a href="http://www.animaatjes.nl/kleurplaten/sinterklaas/">Sinterklaas Kleurplaten</a><br />
+		<a href="http://www.animaatjes.nl/mini-plaatjes/sinterklaas/">Sinterklaas Mini Plaatjes</a><br />
+</li>
+</ul>
+</div></div>
+				
+			<div class="lActive">
+				<h1><i class="icon icon-clock"></i>Laatst actief</h1>
+				<ul>
+						<li><a href="http://alauret.animaatjes.nl" ><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/nopic.png" alt="alauret" />
+							<span>Alauret</span></a><!--23:34-->
+						</li>
+						<li><a href="http://petraposthumus.animaatjes.nl" class="BG"><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/nopic.png" alt="petraposthumus" />
+							<span>Petraposthumus</span></a><!--23:33-->
+						</li>
+						<li><a href="http://anmaatje.animaatjes.nl" ><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/nopic.png" alt="anmaatje" />
+							<span>Anmaatje</span></a><!--23:32-->
+						</li>
+						<li><a href="http://conny3d.animaatjes.nl" class="BG"><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/conny3d.gif?7202744394389703680" alt="conny3d" />
+							<span>Conny3d</span></a><!--23:31-->
+						</li>
+						<li><a href="http://rina1961.animaatjes.nl" ><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/rina1961.gif?2511668907018345984" alt="rina1961" />
+							<span>Rina1961</span></a><!--23:17-->
+						</li>
+						<li><a href="http://trude.animaatjes.nl" class="BG"><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/trude.gif?1875280769901105792" alt="trude" />
+							<span>Trude</span></a><!--23:14-->
+						</li>
+						<li><a href="http://wkcuppie.animaatjes.nl" ><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/wkcuppie.jpg?5579221464001742848" alt="wkcuppie" />
+							<span>Wkcuppie</span></a><!--23:10-->
+						</li>
+						<li><a href="http://doekeltje.animaatjes.nl" class="BG"><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/doekeltje.jpg?6419831713764146176" alt="doekeltje" />
+							<span>Doekeltje</span></a><!--23:08-->
+						</li>	
+				</ul>
+			</div>
+
+			<div class="bUploaders">
+				<h1><i class="icon icon-bestup"></i>Beste uploaders</h1>
+				<ul>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/rina1961.gif?3298084269156872192" alt="rina1961" />
+							<a href="http://rina1961.animaatjes.nl" >Rina1961</a><span>1.428.610</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/ria.gif?2273994970032740608" alt="ria" />
+							<a href="http://ria.animaatjes.nl" class="BG">Ria</a><span>939.540</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/1demi0.gif?4497991322221225984" alt="1demi0" />
+							<a href="http://1demi0.animaatjes.nl" >1demi0</a><span>580.645</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/francisca02.pjpeg?5657479394453106688" alt="francisca02" />
+							<a href="http://francisca02.animaatjes.nl" class="BG">Francisca02</a><span>347.080</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/esmeci123.gif?4999642573627858432" alt="esmeci123" />
+							<a href="http://esmeci123.animaatjes.nl" >Esmeci123</a><span>164.235</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/keeke.gif?4558360201087839232" alt="keeke" />
+							<a href="http://keeke.animaatjes.nl" class="BG">Keeke</a><span>144.550</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/sophie.gif?7628148706773250048" alt="sophie" />
+							<a href="http://sophie.animaatjes.nl" >Sophie</a><span>142.555</span>
+						</li>
+						<li><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/deniseisdenaaam.pjpeg?1259015666974872704" alt="deniseisdenaaam" />
+							<a href="http://deniseisdenaaam.animaatjes.nl" class="BG">Deniseisdenaaam</a><span>88.820</span>
+						</li>
+				</ul>
+			</div>
+
+		</div> 
+
+		<div id="HomeRight">
+			<div id="TrendingTopics">
+				<h1><i class="icon icon-comment"></i>Actieve forum onderwerpen</h1>
+				<ul>
+						<li>
+							<a href="http://lisa1412.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/lisa1412.jpg?6321484472075131904" /></a>
+							<a href="http://forum.animaatjes.nl/onzin/verhaal/280/" class="tTitle">Verhaal</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/onzin/">Onzin</a></span>
+							<span class="tUser"><a href="http://hjyy.animaatjes.nl">Hjyy</a></span><br />
+							<span class="tAdded">24-11 19:04</span>
+						</li>
+						<li>
+							<a href="http://sophie.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/sophie.gif?1233758948808119488" /></a>
+							<a href="http://forum.animaatjes.nl/nieuws-actueel/feestdagen/321/" class="tTitle">Feestdagen</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/nieuws-actueel/">Nieuws en actualiteiten</a></span>
+							<span class="tUser"><font color="#969696">Geen reacties</font></span><br />
+							<span class="tAdded"></span>
+						</li>
+						<li>
+							<a href="http://catx.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/catx.jpg?7551588241643496448" /></a>
+							<a href="http://forum.animaatjes.nl/vragen/vraagjes/292/" class="tTitle">Vraagjes</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/vragen/">Profiel vragen</a></span>
+							<span class="tUser"><a href="http://sophie.animaatjes.nl">Sophie</a></span><br />
+							<span class="tAdded">24-11 15:18</span>
+						</li>
+						<li>
+							<a href="http://lisa1412.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/lisa1412.jpg?1256467918801569504" /></a>
+							<a href="http://forum.animaatjes.nl/muziek/leukste-filmpje-van-youtube-/312/" class="tTitle">Leukste filmpje van Youtube </a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/muziek/">Muziek</a></span>
+							<span class="tUser"><a href="http://sophie.animaatjes.nl">Sophie</a></span><br />
+							<span class="tAdded">24-11 15:16</span>
+						</li>
+						<li>
+							<a href="http://destef.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/destef.gif?1962059346612190592" /></a>
+							<a href="http://forum.animaatjes.nl/onzin/verhaal/320/" class="tTitle">Verhaal</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/onzin/">Onzin</a></span>
+							<span class="tUser"><a href="http://xleukexplaatjesx.animaatjes.nl">Xleukexplaatjesx</a></span><br />
+							<span class="tAdded">20-11 13:42</span>
+						</li>
+						<li>
+							<a href="http://animaato.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/animaato.gif?4274173741262572032" /></a>
+							<a href="http://forum.animaatjes.nl/onzin/verhaal-maken/319/" class="tTitle">Verhaal maken</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/onzin/">Onzin</a></span>
+							<span class="tUser"><a href="http://destef.animaatjes.nl">Destef</a></span><br />
+							<span class="tAdded">17-11 14:31</span>
+						</li>
+						<li>
+							<a href="http://g12.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/g12.jpg?2419070422197783296" /></a>
+							<a href="http://forum.animaatjes.nl/nieuws-actueel/hoe-oud-was-het-oudst-levende-mens-op-aarde/305/" class="tTitle">Hoe oud was het oudst levende mens op..</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/nieuws-actueel/">Nieuws en actualiteiten</a></span>
+							<span class="tUser"><a href="http://animaato.animaatjes.nl">Animaato</a></span><br />
+							<span class="tAdded">01-11 13:03</span>
+						</li>
+						<li>
+							<a href="http://g12.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/g12.jpg?1742919765977111424" /></a>
+							<a href="http://forum.animaatjes.nl/onzin/hoe-weet-ik-dat/303/" class="tTitle">Hoe weet ik dat</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/onzin/">Onzin</a></span>
+							<span class="tUser"><a href="http://muit.animaatjes.nl">Muit</a></span><br />
+							<span class="tAdded">31-10 17:07</span>
+						</li>
+						<li>
+							<a href="http://glittervriend.animaatjes.nl" class="tAvatar"><img src="http://www.animaatjes.nl/uploads/user_avatars/50x50/glittervriend.gif?2364249336225877760" /></a>
+							<a href="http://forum.animaatjes.nl/humor/leuken-grapjes/318/" class="tTitle">Leuken grapjes</a><br />
+							<span class="tCat"><a href="http://forum.animaatjes.nl/humor/">Humor</a></span>
+							<span class="tUser"><a href="http://katje555.animaatjes.nl">Katje555</a></span><br />
+							<span class="tAdded">26-10 09:14</span>
+						</li>
+				</ul>
+			</div>
+
+			<div id="oUsers">
+				<h1><i class="icon icon-user"></i>Leden online</h1><ul><li><a href="http://alauret.animaatjes.nl"><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/nopic.png" /><span class="Username">Alauret</span></a></li><li><a href="http://petraposthumus.animaatjes.nl"><img src="http://www.animaatjes.nl/uploads/user_avatars/25x25/nopic.png" /><span class="Username">Petraposthum..</span></a></li></ul>
+			</div>
+		</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="clearfix"></div>
+
+		<div class="Footer">
+			
+	<div class="Container">
+
+		<div class="collom collomFirst">
+			<a href="home/"><img src="templates/animaatjes/images/logo.png" border="0" alt="logo" /></a>
+		</div>
+		<div class="collom">
+			<strong>Social media</strong>
+			<ul>
+				<li>- <a href="http://www.facebook.com/animaatjes/" target="_blank">Facebook</a></li>
+				<li>- <a href="#">Nieuwsbrief</a></li>
+			</ul>
+
+		</div>
+		<div class="collom">
+			<strong>Statistieken</strong>
+			<ul>
+				<li>- 9.411 profielen</li>
+				<li>- 594.335 plaatjes</li>
+				<li>- 1.832 forum berichten</li>
+				<li>- 16.834 profiel berichten</li>
+				<li>- 374.008 plaatjes gemaakt</li> 
+			</ul>
+		</div>
+		<div class="collom"><strong>Partners</strong>
+				<ul>
+					<li>- <a href="linkpartners/">Alle partners</a></li>
+					<li>- <a href="contact/">Link hier?</a></li>
+					<li><br /></li>
+					<li><br /></li>
+					<li><br /></li>
+				</ul>
+		</div>
+		<div class="collom collomLast">
+			Copyright &copy; 2005/2014 Animaatjes.nl<br />
+
+			Alle rechten voorbehouden.
+			<ul>
+				<li>- <a href="adverteren/">Adverteren</a></li>
+				<li>- <a href="disclaimer/">Disclaimer</a></li>
+				<li>- <a href="contact/">Contact</a></li>
+			</ul>
+
+			<a href="http://www.animaatjes.de/" target="_blank"><i class="icon icon-landde"></i></a><a href="http://www.animaatjes.nl/"><i class="icon icon-landnl"></i></a><a href="http://www.picgifs.com/" target="_blank"><i class="icon icon-landus"></i></a><a href="http://www.gifs-animados.es/" target="_blank"><i class="icon icon-landes"></i></a><a href="http://www.gifsanimes.fr/" target="_blank"><i class="icon icon-landfr"></i></a>
+		</div></div>
+		</div>
+
+	</body>
+</html>

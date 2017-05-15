@@ -1,0 +1,297 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+<link href="/generic_style.css?date=241113" rel="stylesheet" type="text/css" media="all" />
+<link href="/mainstyle.css?date=241113" rel="stylesheet" type="text/css" media="all" />
+<link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" type="text/css" href="/css/twitter.css" />
+<link rel="stylesheet" type="text/css" href="/jScrollPane/jScrollPane.css" /> 
+<!-- <link href="css/dcmegamenu.css" rel="stylesheet" type="text/css" /> -->
+<link href="/css/red.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/css/jquery.treeview.css" /> 
+<link rel="stylesheet" href="/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+<link rel='stylesheet' media='screen and (max-width: 600px)' href='/mobilestyle.css?date=150314' />
+
+ 
+<title>Error404 - Media Lopek</title>
+<meta name="description" content="Sorry this page dies not exist." />
+<meta name="keywords" content="error,missing,404,moved,changed" /><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico" />
+
+</head><body>
+<div id="wrap">
+<div id="content">
+<div id="header">
+	<div id="tophead">
+		<div id="headleft">
+			<p class="logotext"><a href="/" title="">MediaLopek</a></p>
+		</div> <!-- close headleft -->
+	</div><!-- close tophead -->
+</div> <!-- Close header -->
+<nav id="mainnav" class="naver">
+<!--	<li><a href="/movies">Movies</a></li>
+	<li><a href="/tv">TV</a></li>
+	<li><a href="/people">People</a></li> -->
+	<a href="/" >Home</a>
+	<a href="/collection" >Collection</a>
+	<a href="/history" >Watch History</a>
+	<a href="/to-watch" >To Watch</a>
+	<a href="/images" >Images</a>
+		<a href="/cinema" >Cinema</a>
+		<a href="/login" class="mobileinline">Login</a>
+	</nav><!-- Close navigation -->
+<div id="statichead">
+	<form method="get" action="/searchresults.php" enctype="multipart/form-data" id="searchform" class="inline">
+	<label for="query" class="inline">Search:</label>
+	<input type="text" name="query" id="q" value="" class="width150 inline" tabindex="101" />
+	<select name="resulttype" id="resulttype" tabindex="102" class="inline nomarg">
+		<option value="all" selected="selected">All</option>
+		<option value="person" >Person</option>
+		<option value="movie">Movie</option>
+		<option value="tv">TV Series</option>
+		<option value="blu">BluRay</option>
+		<option value="dvd">DVD</option>
+		<option value="vhs">VHS</option>
+		<option value="upc">UPC</option>
+	</select>
+	<input type="submit" value="Search" id="search" tabindex="999" class="inline button nomarg"/>
+	</form>
+	<ul class="mininav">
+				<li><a href="/login">Login</a></li>
+			</ul>
+</div>
+
+<div id="sub-content">
+
+<h1>Error 404</h1>		
+
+</div> <!-- Close sub-content -->
+</div> <!-- Close content -->
+
+<div id="clearfooter"></div>
+
+</div> <!-- Close wrap -->
+
+
+<div id="footer">
+	<div id="narrowfooter">
+        <ul class="mininav">
+            <li><a href="/website_statistics.php">Website Statistics</a></li>
+            <li><a href="/viewing_statistics.php">Viewing Statistics</a></li>
+            <li><a href="/activities.php">Activities</a></li>
+        </ul>
+    </div>
+</div>    
+    <p id="back-top">
+		<a href="#top"><span></span>Back to Top</a>
+	</p>
+ <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script> 
+
+<script src="/js/jquery.easing.1.3.js"></script>
+
+<script type='text/javascript'>//<![CDATA[ 
+$(window).load(function(){
+	$('.popover').on({
+	    mousemove: function(e) {
+	        $(this).next('img').css({
+	            top: e.clientY - 140,
+	            left: e.clientX + 25
+	        });
+	    },
+	    mouseenter: function() {
+	        var big = $('<img />', {'class': 'big_img', src: this.src.replace("thumbnail","panel")});
+	        $(this).fadeIn().after(big);
+	    },
+	    mouseleave: function() {
+	        $('.big_img').remove();
+	    }
+	});
+});//]]>  
+
+</script>
+
+<script type="text/javascript" src="/js/jquery.fs.naver.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+		$("#mainnav.naver").naver({
+		animated: true
+		}).show("slow");
+  	});
+ 
+  function resetNaver(e, bp) {
+        $(".naver.reset").trigger("close.naver");
+      }
+</script>
+
+<script type="text/javascript" src="/js/responsive-nav.js"></script>
+<script type="text/javascript">
+var navigation = responsiveNav(".nav-collapse", {
+animate: true,        // Boolean: Use CSS3 transitions, true or false
+transition: 250,      // Integer: Speed of the transition, in milliseconds
+label: "Menu",        // String: Label for the navigation toggle
+insert: "before",      // String: Insert the toggle before or after the navigation
+customToggle: "",     // Selector: Specify the ID of a custom toggle
+openPos: "relative",  // String: Position of the opened nav, relative or static
+jsClass: "js",        // String: 'JS enabled' class which is added to <html> el
+init: function(){},   // Function: Init callback
+open: function(){},   // Function: Open callback
+close: function(){}   // Function: Close callback
+});
+</script>
+
+
+<script src="/js/jquery.lazyload.js?v=1.8.3" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+	  $(function() {
+		$("img").lazyload({
+			  effect : "fadeIn",
+			  threshold : 300
+		});
+	});
+</script>
+
+<script src="/js/jquery.treeview.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+	$(function() {
+		$(".tree").treeview({
+			collapsed: true,
+			animated: "medium",
+			control:"#sidetreecontrol",
+			persist: "location"
+		}).show("slow");
+	})
+</script> 
+
+<script type="text/javascript" src="/js/spinners/spinners.js"></script>
+
+
+<script src="/js/jquery.fancybox-1.3.4.js" type="text/javascript" charset="utf-8"></script>
+<script>
+$(window).load(function(){
+	$(".hoverhead").fancybox().hover(function() {
+	    $(this).click();
+	    $("#fancybox-overlay").remove(); //remove the overlay so you can close when hover off.
+	}, function() {
+	    $.fancybox.close();
+	});
+)};
+</script>
+
+<script src="/js/jquery.hashchange.min.js" type="text/javascript"></script>
+<script src="/js/jquery.easytabs.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+
+	$(function() {
+		$('#recordingtabs').easytabs();
+	});
+</script>
+
+
+<script type="text/javascript">
+	var width = $(".dvdthumb").outerWidth();
+	var numacross = Math.floor(width / 250);
+	var domwidth = Math.floor(width / numacross);
+	var panelwidth = domwidth - 20;
+	// alert(domwidth);
+
+	function appendStyle(styles) {
+		var css = document.createElement('style');
+		css.type = 'text/css';
+
+		if (css.styleSheet) css.styleSheet.cssText = styles;
+		else css.appendChild(document.createTextNode(styles));
+
+		document.getElementsByTagName("head")[0].appendChild(css);
+	}
+	
+	var styles = 'ul.dvdthumb li { width: ' + panelwidth + 'px; }';
+	window.onload = function() { appendStyle(styles) };
+</script>
+
+	
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 600);
+			return false;
+		});
+	});
+
+});
+</script>
+
+<!-- Twitter -->
+<!-- Tweets -->
+<script src="/js/twitterfeed.js" charset="utf-8"></script>
+<script>
+  var twitterprofile = "
+Notice: Undefined variable: twitter_id in /hsphere/local/home/argweb/media.lopek.com/subpages/scripts.php on line 242
+";
+  var screenname = "";
+</script>
+
+<!-- Follow -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- Tweet @ -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- End Twitter -->
+
+
+<!-- AddThis Smart Layers BEGIN -->
+<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53504e556b57e6bc"></script>
+<script type="text/javascript">
+  addthis.layers({
+    'theme' : 'transparent',
+    'share' : {
+      'position' : 'right',
+      'numPreferredServices' : 5
+    }
+    // , 
+    // 'follow' : {
+    //   'services' : [
+    //     {'service': 'facebook', 'id': 'Lopek274'},
+    //     {'service': 'twitter', 'id': 'lopek'},
+    //     {'service': 'google_follow', 'id': '+AndyGibsonDarlo'}
+    //   ]
+    // }   
+  });
+</script>
+<!-- AddThis Smart Layers END -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50151148-2', 'lopek.com');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
