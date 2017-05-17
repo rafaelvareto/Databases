@@ -1,0 +1,661 @@
+<!doctype html >
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Page not found | InSerbia News</title>
+<meta charset="UTF-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msvalidate.01" content="45130CA36DA1DB85107900C20A1B3B18"/>
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="600">
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok2v=1613a3a185/"},atok:"dbd8ff44e188dbe49ea52232e7d65e82",petok:"5508938aee94427355880652825efe6e747ca23f-1416870127-1800",zone:"inserbia.info",rocket:"0",apps:{"ga_key":{"ua":"UA-49522092-2","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok2v=919620257c/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="pingback" href="http://inserbia.info/today/xmlrpc.php"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="icon" type="image/png" href="http://inserbia.info/today/wp-content/uploads/2014/03/favicon.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://inserbia.info/today/wp-content/uploads/2014/03/76-logo.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://inserbia.info/today/wp-content/uploads/2014/03/120-logo.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://inserbia.info/today/wp-content/uploads/2014/03/152-logo.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://inserbia.info/today/wp-content/uploads/2014/03/114-logo.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://inserbia.info/today/wp-content/uploads/2014/03/144-logo.png"/>  
+<script language="JavaScript">
+				function addLink() {
+					var bodyElement = document.getElementsByTagName('body')[0];
+					var selection;
+					selection = window.getSelection();
+					var selectiontxt = selection.toString();
+										var pageLink = "<br /><br /> Read More at <a href='inserbia.info/today/wp-content/uploads/2013/05/Jim-Carrey.jpg'>inserbia.info/today/wp-content/uploads/2013/05/Jim-Carrey.jpg</a> © InSerbia News";
+					var copytext = selection + pageLink;
+										var attachDiv = document.createElement('div');
+					attachDiv.style.position='absolute';
+					attachDiv.style.left='-99999px';
+					bodyElement.appendChild(attachDiv);
+					attachDiv.innerHTML = copytext;
+					selection.selectAllChildren(attachDiv);
+					window.setTimeout(function() {
+						bodyElement.removeChild(attachDiv);
+					},0);
+				}
+				document.oncopy = addLink;
+			</script>
+<link rel="alternate" type="application/rss+xml" title="InSerbia News &raquo; Feed" href="http://inserbia.info/today/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="InSerbia News &raquo; Comments Feed" href="http://inserbia.info/today/comments/feed/"/>
+<link rel='stylesheet' id='g-font-custom-top_menu-css' href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow%3Aregular%2C700&#038;subset=cyrillic-ext%2Clatin%2Clatin-ext%2Ccyrillic&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='g-font-custom-big_slide_main-css' href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic&#038;subset=greek%2Ccyrillic-ext%2Clatin%2Cgreek-ext%2Clatin-ext%2Ccyrillic%2Cvietnamese&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='g-font-custom-big_slide_sec-css' href='http://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;subset=greek%2Ccyrillic-ext%2Clatin%2Cgreek-ext%2Clatin-ext%2Ccyrillic%2Cvietnamese&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='contact-form-7-css' href='http://inserbia.info/today/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all'/>
+<link rel='stylesheet' id='responsive-lightbox-swipebox-front-css' href='http://inserbia.info/today/wp-content/plugins/responsive-lightbox/assets/swipebox/source/swipebox.css?ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rs-plugin-settings-css' href='http://inserbia.info/today/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.0.1' type='text/css' media='all'/>
+<style type='text/css'>.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}</style>
+<link rel='stylesheet' id='wpcloudy-css' href='http://inserbia.info/today/wp-content/plugins/wp-cloudy/css/wpcloudy.min.css?ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-font-opensans-css' href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-font-ubuntu-css' href='http://fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Clatin-ext%2Ccyrillic&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-font-pt-sans-css' href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-font-oswald-css' href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='google-roboto-cond-css' href='http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='td-bootstrap-css' href='http://inserbia.info/today/wp-content/themes/Newspaper/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=3.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='td-theme-css' href='http://inserbia.info/today/wp-content/themes/Newspaper/style.css?ver=3.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://inserbia.info/today/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='mediaelementjs-styles-css' href='http://inserbia.info/today/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelementplayer.css?ver=4.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='soccer-info-front-css' href='http://inserbia.info/today/wp-content/plugins/soccer-info/css/soccer-info-front.css?ver=4.0.1' type='text/css' media='all'/>
+<script type='text/javascript' src='http://inserbia.info/today/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/fikraticker/js/jquery.innerfade.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/fikraticker/js/jquery.newsticker.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/responsive-lightbox/assets/swipebox/source/jquery.swipebox.min.js?ver=4.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","custom_events":"","activeGalleries":"0","animation":"1","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/responsive-lightbox/js/front.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.0.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.0.1'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelement-and-player.min.js?ver=2.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://inserbia.info/today/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://inserbia.info/today/wp-includes/wlwmanifest.xml"/>
+ 
+ 
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+ 
+<style>.block-title a,.block-title span,.td-tags a:hover,.td-scroll-up-visible,.td-scroll-up,.sf-menu ul .current-menu-item>a,.sf-menu ul a:hover,.sf-menu ul .sfHover>a,.sf-menu ul .td-not-mega>a:hover,.td-rating-bar-wrap div,.iosSlider .slide-meta-cat,.sf-menu ul .current-menu-ancestor>a,.td-404-sub-sub-title a,.widget_tag_cloud .tagcloud a:hover,.td-mobile-close a,ul.td-category a,.td_social .td_social_type .td_social_button a,.dropcap,.td-forum-category-title .td-forum-category-name,.td_display_err,.td_block_mega_menu .td-ajax-next-page:hover,.td_block_mega_menu .td_ajax-prev-page:hover,.post-via span{background-color:#800000;}.block-title,.sf-menu li a:hover,.sf-menu .sfHover a,.sf-menu .current-menu-ancestor a,.header-search-wrap .dropdown-menu,.sf-menu>.current-menu-item>a,.ui-tabs-nav,.woocommerce .product .woocommerce-tabs ul.tabs,.td-forum-list-head,.td-login-panel-title{border-color:#800000;}.widget_price_filter .ui-slider-handle{border-color:#800000!important;}.author-box-wrap .td-author-name a,blockquote p,.page-nav a:hover,.widget_pages .current_page_item a,.widget_calendar td a,.widget_categories .current-cat>a,.widget_pages .current_page_parent>a,.td_pull_quote p,.page-nav-post a:hover span,.td-forum-last-comment-content .td-forum-last-author,.td-topics-title-details a,.td-posted-in a{color:#800000;}.woocommerce .button,.woocommerce .form-submit #submit,.widget_price_filter .ui-slider-handle,.jetpack_subscription_widget input[type="submit"],.pp_woocommerce .pp_close,.pp_woocommerce .pp_expand,.pp_woocommerce .pp_contract,.pp_woocommerce .pp_arrow_previous,.pp_woocommerce .pp_arrow_next,.pp_woocommerce .pp_next:before,.pp_woocommerce .pp_previous:before,#bbpress-forums .button{background:#800000!important;}.woocommerce .woocommerce-message,.woocommerce .woocommerce-info,.bbp-template-notice,.td-reply-list-header{border-color:#800000!important;}.woocommerce .woocommerce-message:before,.woocommerce .woocommerce-info:before,.td-login-button{background-color:#800000!important;}.buddypress #buddypress div.dir-search input[type="submit"],.buddypress #buddypress .message-search input[type="submit"],.buddypress #buddypress .item-list-tabs ul li.selected a,.buddypress #buddypress .generic-button a,.buddypress #buddypress .submit input[type="submit"],.buddypress #buddypress .ac-reply-content input[type="submit"],.buddypress #buddypress .standard-form input[type="submit"],.buddypress #buddypress .standard-form .button-nav .current a,.buddypress #buddypress .standard-form .button,.buddypress #buddypress input[type="submit"],.buddypress #buddypress a.accept,.buddypress #buddypress #activate-page .standard-form input[type="submit"],.buddypress #buddypress .standard-form #group-create-body input[type="button"],.post-password-required input[type="submit"]{background:#800000!important;}.buddypress #buddypress .groups .item-meta,.bbp-forum-title:hover,.td_login_tab_focus,.block-mega-child-cats a.cur-sub-cat{color:#800000!important;}.page-nav .current,.page-nav-post span{background-color:#800000;border-color:#800000;}.wpb_btn-inverse,.ui-tabs-nav .ui-tabs-active a,.post .wpb_btn-danger,.form-submit input,.wpcf7-submit,.wpb_default,.woocommerce .product .woocommerce-tabs ul.tabs li.active,.woocommerce.widget_product_search input[type="submit"],.more-link-wrap,.td_read_more{background-color:#800000!important;}.header-search-wrap .dropdown-menu:before{border-color:transparent transparent #800000;}.td-mobile-content .current-menu-item>a,.td-mobile-content a:hover{color:#800000!important;}.category .entry-content,.tag .entry-content,.td_quote_box{border-color:#800000;}.td-timeline-block-title{background-color:#800000!important;}.td-timeline-wrapper-links{border-color:#800000!important;}.td-timline-h1-link span{background-color:#800000!important;}.td-sbig-title-wrap .td-sbig-title,.td-slide-item-sec .td-sbig-title-wrap,.td-mobile-post .td-sbig-title-wrap a{background-color:rgba(128,0,0,0.7);}::-moz-selection{background:#b23232;color:#fff;}::selection{background:#b23232;color:#fff;}.td-logo-rec-wrap,.td-full-logo{background-color:transparent!important;}a,.widget_recent_comments .recentcomments .url{color:#800000;}.cur-sub-cat{color:#800000!important;}a:hover,.widget_recent_comments .recentcomments .url:hover{color:#800000;}.sf-menu>li>a{font-family:PT Sans Narrow!important;}.sf-menu>li>a{color:#ffffff!important;}.sf-menu .sub-menu a{font-family:PT Sans Narrow;}.td-header-menu-wrap{font-family:PT Sans Narrow;}body{font-family:Roboto;}.td_normal_slide .td-sbig-title-wrap .td-sbig-title{font-family:PT Sans Narrow!important;}.td_block_slide_big .td-slide-item-main .td-sbig-title-wrap .td-sbig-title{font-family:Roboto Condensed!important;}.td_block_slide_big .td-slide-item-sec .td-sbig-title-wrap a,.td-mobile-post .td-sbig-title-wrap a{font-family:Roboto!important;}.block-title a,.block-title span,.block-title label{font-family:PT Sans Narrow!important;}.td_mod2 .entry-title a,.td_mod5 .entry-title a,.td_mod6 .entry-title a,.td_mod_search .entry-title a,.td_mod8 .entry-title a,.td_mod9 .entry-title a{font-family:PT Sans Narrow!important;}.td_mod3 .entry-title a,.td_mod4 .entry-title a,.td_mod_mega_menu .item-details a{font-family:PT Sans Narrow!important;}.post header h1,.td-page-title,.td-page-title span,.post header h1 a{font-family:Roboto Condensed!important;}.ui-tabs-nav a{font-family:Roboto Condensed;}.td-full-layout .td-footer-wrap,.td-boxed-layout .td-footer-wrap .span12{background:#800000 url('http://inserbia.info/today/wp-content/themes/Newspaper/images/footer/top-shadow.png') repeat-x top;}.td-footer-wrap,.td-footer-wrap a{color:#ffffff;}.td-footer-wrap .entry-title a,.td-footer-wrap .td_top_authors .td-authors-name a{color:#ffffff!important;}.td_top_authors .td_mod_wrap:hover{background-color:transparent!important;}.td-menu-header .td-sp,.sf-sub-indicator{background-image:url('http://inserbia.info/today/wp-content/themes/Newspaper/images/header/elements-menu.png');}@media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (-moz-min-device-pixel-ratio: 2),
+    only screen and (min-device-pixel-ratio: 2) {.td-menu-header .td-sp,.sf-sub-indicator{background-image:url('http://inserbia.info/today/wp-content/themes/Newspaper/images/header/elements-menu@2x.png');}}body{background-image:url('http://inserbia.info/today/wp-content/uploads/2014/11/background.png');}</style>
+ 
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="http://inserbia.info/today/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="http://inserbia.info/today/wp-content/themes/Newspaper";
+var tds_snap_menu="";
+var tds_header_style="";
+var tds_mobile_swipe="swipe";
+var td_search_url="http://inserbia.info/today/search/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="show";
+var tds_more_articles_on_post_time_to_wait="1";
+var tds_more_articles_on_post_pages_distance_from_top="0";
+var td_responsive="";
+</script>
+<link rel="stylesheet" id="custom-css-css" type="text/css" href="http://inserbia.info/today/?custom-css=1&#038;csblog=1&#038;cscache=6&#038;csrev=458"/>
+<script src="http://inserbia.info/tts.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-49522092-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body class="error404 td-boxed-layout td_responsive wpb-js-composer js-comp-ver-3.6.8 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="outer-wrap">
+<div id="inner-wrap">
+<div id="td-mobile-nav">
+ 
+<div class="td-mobile-close">
+<a href="#">CLOSE</a>
+<div class="td-nav-triangle"></div>
+</div>
+<div class="td-mobile-content">
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class=""><li id="menu-item-64617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first td-no-down-arrow td-not-mega menu-item-64617"><a href="#"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a>
+<ul class="sub-menu">
+<li id="menu-item-82303" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-82303"><a href="http://inserbia.info">Homepage</a></li>
+<li id="menu-item-82568" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-82568"><a href="http://inserbia.info/today/news-tip/">News Tip</a></li>
+<li id="menu-item-82304" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-82304"><a href="http://inserbia.info/today/?s=">Latest</a></li>
+<li id="menu-item-64618" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-64618"><a href="http://inserbia.info/today/timeline/">Archive</a></li>
+<li id="menu-item-82305" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-82305"><a href="http://inserbia.info/today/weather/">Weather</a></li>
+<li id="menu-item-84964" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-84964"><a href="http://inserbia.info/today/live/">Important Phone Numbers</a></li>
+<li id="menu-item-84965" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-84965"><a href="http://inserbia.info/today/category/embassies/">Embassies</a></li>
+</ul>
+</li>
+<li id="menu-item-70371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-not-mega menu-item-70371"><a href="http://inserbia.info/today/category/today-2/">Today</a>
+<ul class="sub-menu">
+<li id="menu-item-81647" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81647"><a href="http://inserbia.info/today/category/scitech-2/">Sci-Tech</a></li>
+<li id="menu-item-81646" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81646"><a href="http://inserbia.info/today/category/culture-entertainment-2/">Culture</a></li>
+<li id="menu-item-81645" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81645"><a href="http://inserbia.info/today/category/sport/">Sport</a></li>
+<li id="menu-item-83289" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-83289"><a href="http://inserbia.info/today/category/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-64203" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-64203"><a href="http://inserbia.info/today/category/leisure-2/">Interesting</a></li>
+<li id="menu-item-64432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-not-mega menu-item-64432"><a href="http://inserbia.info/today/category/tourism-2/">Tourism</a>
+<ul class="sub-menu">
+<li id="menu-item-76456" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-76456"><a href="http://inserbia.info/today/category/arrival-in-serbia/">Arrival in Serbia</a></li>
+<li id="menu-item-81643" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81643"><a href="http://inserbia.info/today/category/serbia/cities/">Cities in Serbia</a></li>
+<li id="menu-item-81644" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81644"><a href="http://inserbia.info/today/category/serbia/landscapes/">Landscapes</a></li>
+<li id="menu-item-81620" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81620"><a href="http://inserbia.info/today/category/serbia/national-parks/">National Parks</a></li>
+<li id="menu-item-81621" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81621"><a href="http://inserbia.info/today/category/serbia/natural-monuments/">Natural Monuments</a></li>
+<li id="menu-item-81622" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81622"><a href="http://inserbia.info/today/category/serbia/nature-parks/">Nature Parks</a></li>
+<li id="menu-item-81623" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81623"><a href="http://inserbia.info/today/category/serbia/nature-reserves/">Nature reserves</a></li>
+<li id="menu-item-81618" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81618"><a href="http://inserbia.info/today/category/serbia/caves/">Caves</a></li>
+<li id="menu-item-81625" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81625"><a href="http://inserbia.info/today/category/serbia/rivers-lakes/">Rivers &#038; Lakes</a></li>
+<li id="menu-item-81624" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81624"><a href="http://inserbia.info/today/category/serbia/ramsar-sites/">Ramsar Sites</a></li>
+</ul>
+</li>
+<li id="menu-item-82254" class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-82254"><a href="http://inserbia.info/today/category/multimedia/">Multimedia</a></li>
+</ul></div> </div>
+</div><div class="td-header-menu-wrap">
+<div class="container">
+<div class="row">
+<div class="span9">
+<div class="menu-top-container"><ul id="menu-top-menu" class="top-header-menu"><li id="menu-item-85430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-not-mega menu-item-85430"><a href="http://inserbia.info/today">InSerbia News</a></li>
+<li id="menu-item-83457" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-83457"><a href="http://inserbia.info/travel">Travel Planner</a></li>
+<li id="menu-item-83720" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-83720"><a href="http://inserbia.info/travel/hotels.html">Hotels</a></li>
+<li id="menu-item-83719" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-83719"><a href="http://flights.inserbia.info">Flight Tickets</a></li>
+<li id="menu-item-84953" class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-84953"><a href="http://inserbia.info/jobs">Jobs in Serbia</a></li>
+</ul></div>
+</div>
+<div class="span3">
+<div class="td_block_wrap td-social-wrap td-social-wrap-16"><div class="td_mod_wrap"><span class="td-social-icon-wrap"><a target="_blank" href="https://www.facebook.com/InSerbiaNews"><span class="td-social-s3-16 td-s-s-16-facebook"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://plus.google.com/+InserbiaInfo/posts"><span class="td-social-s3-16 td-s-s-16-googleplus"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="http://feeds.feedburner.com/InSerbiaNews"><span class="td-social-s3-16 td-s-s-16-rss"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="http://inserbia.tumblr.com"><span class="td-social-s3-16 td-s-s-16-tumblr"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="http://twitter.com/inserbianetwork"><span class="td-social-s3-16 td-s-s-16-twitter"></span></a></span></div></div> </div>
+</div>
+</div>
+</div>
+ 
+<div class="td-header-bg">
+<div class="container td-logo-rec-wrap">
+<div class="row">
+<div class="span4 header-logo-wrap" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+<a itemprop="url" href="http://inserbia.info/today">
+<img width="300" height="100" class="td-retina-data" data-retina="http://inserbia.info/today/wp-content/uploads/2014/10/inserbia-news-logo-600.png" src="http://inserbia.info/today/wp-content/uploads/2014/10/inserbia-news-logo-3001.png" alt="InSerbia News" title="InSerbia News"/>
+</a>
+<meta itemprop="name" content="InSerbia News">
+</div>
+<div class="span8 td-header-style-1">
+ 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1200 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-1305436994757978" data-ad-slot="3753250026"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+                    if ( td_screen_width >= 1019  && td_screen_width < 1200 ) {
+                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-1305436994757978" data-ad-slot="3753250026"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-1305436994757978" data-ad-slot="3753250026"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-1305436994757978" data-ad-slot="3753250026"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+ 
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="td-menu-placeholder">
+<div class="td-menu-background">
+<div class="container td-menu-wrap">
+<div class="row-fluid td-menu-header">
+<div class="span11">
+<div class="mobile-logo-wrap">
+<a itemprop="url" href="http://inserbia.info/today">
+<img width="300" class="td-retina-data" data-retina="http://inserbia.info/today/wp-content/uploads/2014/10/inserbia-news-logo-600.png" src="http://inserbia.info/today/wp-content/uploads/2014/10/inserbia-news-logo-3001.png" alt="InSerbia News" title="InSerbia News"/>
+</a>
+<meta itemprop="name" content="InSerbia News">
+</div>
+<div id="td-top-mobile-toggle">
+<ul class="sf-menu">
+<li>
+<a href="#">
+<span class="menu_icon td-sp td-sp-ico-menu"></span>
+</a>
+</li>
+</ul>
+</div>
+<div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-first td-no-down-arrow td-not-mega menu-item-64617"><a href="#"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-82303"><a href="http://inserbia.info">Homepage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-82568"><a href="http://inserbia.info/today/news-tip/">News Tip</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-not-mega menu-item-82304"><a href="http://inserbia.info/today/?s=">Latest</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-64618"><a href="http://inserbia.info/today/timeline/">Archive</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-82305"><a href="http://inserbia.info/today/weather/">Weather</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-84964"><a href="http://inserbia.info/today/live/">Important Phone Numbers</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-84965"><a href="http://inserbia.info/today/category/embassies/">Embassies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-not-mega td-mega-menu menu-item-70371"><a href="http://inserbia.info/today/category/today-2/">Today</a>
+<ul class="sub-menu">
+<li id="menu-item-0" class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_1_5473b8ed1b323 = new td_block();
+block_td_uid_1_5473b8ed1b323.id = "td_uid_1_5473b8ed1b323";
+block_td_uid_1_5473b8ed1b323.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"12529","show_child_cat":"5"}';
+block_td_uid_1_5473b8ed1b323.td_cur_cat = "12529";
+block_td_uid_1_5473b8ed1b323.td_column_number = "1";
+block_td_uid_1_5473b8ed1b323.block_type = "td_mega_menu";
+block_td_uid_1_5473b8ed1b323.post_count = "4";
+block_td_uid_1_5473b8ed1b323.found_posts = "17847";
+block_td_uid_1_5473b8ed1b323.max_num_pages = "4462";
+td_blocks.push(block_td_uid_1_5473b8ed1b323);
+</script><div class="td_block_wrap td_block_mega_menu"><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><div><a class="cur-sub-cat ajax-sub-cat-mega sub-cat-td_uid_1_5473b8ed1b323" id="sub-cat-td_uid_1_5473b8ed1b323-12529" data-cat_id="12529" data-td_block_id="td_uid_1_5473b8ed1b323" href="http://inserbia.info/today/category/today-2/">All</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_5473b8ed1b323" id="sub-cat-td_uid_1_5473b8ed1b323-91" data-cat_id="91" data-td_block_id="td_uid_1_5473b8ed1b323" href="http://inserbia.info/today/category/today-2/economy/">Business</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_5473b8ed1b323" id="sub-cat-td_uid_1_5473b8ed1b323-178" data-cat_id="178" data-td_block_id="td_uid_1_5473b8ed1b323" href="http://inserbia.info/today/category/today-2/authors-corner/">Op-Ed</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_5473b8ed1b323" id="sub-cat-td_uid_1_5473b8ed1b323-53" data-cat_id="53" data-td_block_id="td_uid_1_5473b8ed1b323" href="http://inserbia.info/today/category/today-2/politics/">Politics</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_5473b8ed1b323" id="sub-cat-td_uid_1_5473b8ed1b323-16" data-cat_id="16" data-td_block_id="td_uid_1_5473b8ed1b323" href="http://inserbia.info/today/category/today-2/society/">Society</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_1_5473b8ed1b323" id="sub-cat-td_uid_1_5473b8ed1b323-8" data-cat_id="8" data-td_block_id="td_uid_1_5473b8ed1b323" href="http://inserbia.info/today/category/today-2/world/">World</a></div></div></div><div id=td_uid_1_5473b8ed1b323 class="td_block_inner">
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/turkey-erdogan-says-women-not-equal-to-men/" rel="bookmark" title="Turkey: Erdogan Says Women Not Equal to Men"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/03/erdogan-650x4326.jpg?resize=326%2C235" alt="" title="Turkey: Erdogan Says Women Not Equal to Men"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/turkey-erdogan-says-women-not-equal-to-men/" rel="bookmark" title="Turkey: Erdogan Says Women Not Equal to Men">Turkey: Erdogan Says Women Not Equal to Men</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/us-police-in-ohio-fatally-shoot-12-year-old-holding-toy-gun/" rel="bookmark" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2013/04/denver-police.jpg?resize=326%2C235" alt="" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/us-police-in-ohio-fatally-shoot-12-year-old-holding-toy-gun/" rel="bookmark" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun">US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/germans-oppose-airstrikes-against-islamic-state-poll/" rel="bookmark" title="Germans Oppose Airstrikes Against Islamic State: Poll"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2014/08/ISIS-ISIL-IS-Islamic_State.jpg?resize=326%2C235" alt="" title="Germans Oppose Airstrikes Against Islamic State: Poll"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/germans-oppose-airstrikes-against-islamic-state-poll/" rel="bookmark" title="Germans Oppose Airstrikes Against Islamic State: Poll">Germans Oppose Airstrikes Against Islamic State: Poll</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/chuck-hagel-resigns/" rel="bookmark" title="Chuck Hagel Resigns"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2014/03/Hagel7.jpg?resize=326%2C235" alt="" title="Chuck Hagel Resigns"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/chuck-hagel-resigns/" rel="bookmark" title="Chuck Hagel Resigns">Chuck Hagel Resigns</a></h4> </div>
+</div>
+</div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_5473b8ed1b323" data-td_block_id="td_uid_1_5473b8ed1b323"></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_1_5473b8ed1b323" data-td_block_id="td_uid_1_5473b8ed1b323"></a></div><div class="clearfix"></div></div>  </div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81647"><a href="http://inserbia.info/today/category/scitech-2/">Sci-Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81646"><a href="http://inserbia.info/today/category/culture-entertainment-2/">Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81645"><a href="http://inserbia.info/today/category/sport/">Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-83289"><a href="http://inserbia.info/today/category/reviews/">Reviews</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega td-mega-menu menu-item-64203"><a href="http://inserbia.info/today/category/leisure-2/">Interesting</a>
+<ul class="sub-menu">
+<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_3_5473b8ed3223e = new td_block();
+block_td_uid_3_5473b8ed3223e.id = "td_uid_3_5473b8ed3223e";
+block_td_uid_3_5473b8ed3223e.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"12429","show_child_cat":"5"}';
+block_td_uid_3_5473b8ed3223e.td_cur_cat = "12429";
+block_td_uid_3_5473b8ed3223e.td_column_number = "1";
+block_td_uid_3_5473b8ed3223e.block_type = "td_mega_menu";
+block_td_uid_3_5473b8ed3223e.post_count = "4";
+block_td_uid_3_5473b8ed3223e.found_posts = "543";
+block_td_uid_3_5473b8ed3223e.max_num_pages = "136";
+td_blocks.push(block_td_uid_3_5473b8ed3223e);
+</script><div class="td_block_wrap td_block_mega_menu"><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><div><a class="cur-sub-cat ajax-sub-cat-mega sub-cat-td_uid_3_5473b8ed3223e" id="sub-cat-td_uid_3_5473b8ed3223e-12429" data-cat_id="12429" data-td_block_id="td_uid_3_5473b8ed3223e" href="http://inserbia.info/today/category/leisure-2/">All</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_3_5473b8ed3223e" id="sub-cat-td_uid_3_5473b8ed3223e-108" data-cat_id="108" data-td_block_id="td_uid_3_5473b8ed3223e" href="http://inserbia.info/today/category/leisure-2/free-time/">Interesting</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_3_5473b8ed3223e" id="sub-cat-td_uid_3_5473b8ed3223e-83" data-cat_id="83" data-td_block_id="td_uid_3_5473b8ed3223e" href="http://inserbia.info/today/category/leisure-2/lifestyle/">Lifestyle</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_3_5473b8ed3223e" id="sub-cat-td_uid_3_5473b8ed3223e-50" data-cat_id="50" data-td_block_id="td_uid_3_5473b8ed3223e" href="http://inserbia.info/today/category/leisure-2/fun/">Weird News</a></div></div></div><div id=td_uid_3_5473b8ed3223e class="td_block_inner">
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/walk-serbia/" rel="bookmark" title="Walk Serbia"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/09/InSerbia_Knjazevac-2-10.jpg?resize=326%2C235" alt="" title="Walk Serbia"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/walk-serbia/" rel="bookmark" title="Walk Serbia">Walk Serbia</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/turn-pots-into-room-heater/" rel="bookmark" title="Turn pots into room heater"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i0.wp.com/inserbia.info/today/wp-content/uploads/2014/11/topol-dom-metod-03.jpg?resize=326%2C235" alt="" title="Turn pots into room heater"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/turn-pots-into-room-heater/" rel="bookmark" title="Turn pots into room heater">Turn pots into room heater</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/gabriella-goat-sues-peppa-pig-makers/" rel="bookmark" title="‘Gabriella Goat’ sues &#8216;Peppa Pig&#8217; makers"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/11/peppa-pig.jpg?resize=326%2C235" alt="" title="‘Gabriella Goat’ sues &#8216;Peppa Pig&#8217; makers"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/gabriella-goat-sues-peppa-pig-makers/" rel="bookmark" title="‘Gabriella Goat’ sues &#8216;Peppa Pig&#8217; makers">‘Gabriella Goat’ sues &#8216;Peppa Pig&#8217; makers</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/us-president-john-kennedys-gift-to-tito-lays-abandoned/" rel="bookmark" title="US President John Kennedy&#8217;s Gift to Tito Lays Abandoned"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/11/titov-krajzler-trune-u-njivi-1415731574-589083.jpg?resize=326%2C235" alt="" title="US President John Kennedy&#8217;s Gift to Tito Lays Abandoned"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/us-president-john-kennedys-gift-to-tito-lays-abandoned/" rel="bookmark" title="US President John Kennedy&#8217;s Gift to Tito Lays Abandoned">US President John Kennedy&#8217;s Gift to Tito Lays Abandoned</a></h4> </div>
+</div>
+</div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_3_5473b8ed3223e" data-td_block_id="td_uid_3_5473b8ed3223e"></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_3_5473b8ed3223e" data-td_block_id="td_uid_3_5473b8ed3223e"></a></div><div class="clearfix"></div></div>  </div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-not-mega td-mega-menu menu-item-64432"><a href="http://inserbia.info/today/category/tourism-2/">Tourism</a>
+<ul class="sub-menu">
+<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_5_5473b8ed42d68 = new td_block();
+block_td_uid_5_5473b8ed42d68.id = "td_uid_5_5473b8ed42d68";
+block_td_uid_5_5473b8ed42d68.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"12431","show_child_cat":"5"}';
+block_td_uid_5_5473b8ed42d68.td_cur_cat = "12431";
+block_td_uid_5_5473b8ed42d68.td_column_number = "1";
+block_td_uid_5_5473b8ed42d68.block_type = "td_mega_menu";
+block_td_uid_5_5473b8ed42d68.post_count = "4";
+block_td_uid_5_5473b8ed42d68.found_posts = "34";
+block_td_uid_5_5473b8ed42d68.max_num_pages = "9";
+td_blocks.push(block_td_uid_5_5473b8ed42d68);
+</script><div class="td_block_wrap td_block_mega_menu"><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><div><a class="cur-sub-cat ajax-sub-cat-mega sub-cat-td_uid_5_5473b8ed42d68" id="sub-cat-td_uid_5_5473b8ed42d68-12431" data-cat_id="12431" data-td_block_id="td_uid_5_5473b8ed42d68" href="http://inserbia.info/today/category/tourism-2/">All</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_5_5473b8ed42d68" id="sub-cat-td_uid_5_5473b8ed42d68-2466" data-cat_id="2466" data-td_block_id="td_uid_5_5473b8ed42d68" href="http://inserbia.info/today/category/tourism-2/living-in-serbia/">Destination: Serbia!</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_5_5473b8ed42d68" id="sub-cat-td_uid_5_5473b8ed42d68-2628" data-cat_id="2628" data-td_block_id="td_uid_5_5473b8ed42d68" href="http://inserbia.info/today/category/tourism-2/other-interesting-places/">Interesting places</a></div></div></div><div id=td_uid_5_5473b8ed42d68 class="td_block_inner">
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/fruska-gora-danube-region-resource-centre-now-open/" rel="bookmark" title="Fruska Gora Danube Region Resource Centre Now Open"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/11/fruska-gora-tos.jpg?resize=326%2C235" alt="" title="Fruska Gora Danube Region Resource Centre Now Open"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/fruska-gora-danube-region-resource-centre-now-open/" rel="bookmark" title="Fruska Gora Danube Region Resource Centre Now Open">Fruska Gora Danube Region Resource Centre Now Open</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/10/lonely-planet-serbia-one-of-top-10-most-attractive-countries-to-visit-in-2015/" rel="bookmark" title="Lonely Planet: Serbia one of Top 10 most attractive countries to visit in 2015"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2014/09/InSerbia_Knjazevac-0285-2.jpg?resize=326%2C235" alt="" title="Lonely Planet: Serbia one of Top 10 most attractive countries to visit in 2015"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/10/lonely-planet-serbia-one-of-top-10-most-attractive-countries-to-visit-in-2015/" rel="bookmark" title="Lonely Planet: Serbia one of Top 10 most attractive countries to visit in 2015">Lonely Planet: Serbia one of Top 10 most attractive countries to visit in 2015</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/10/emma-in-serbia-a-true-taste-of-belgrade/" rel="bookmark" title="Emma in Serbia: A True Taste of Belgrade"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i0.wp.com/inserbia.info/today/wp-content/uploads/2014/10/emma-1.jpg?resize=326%2C235" alt="" title="Emma in Serbia: A True Taste of Belgrade"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/10/emma-in-serbia-a-true-taste-of-belgrade/" rel="bookmark" title="Emma in Serbia: A True Taste of Belgrade">Emma in Serbia: A True Taste of Belgrade</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/09/adac-belgrade-most-inexpensive-destination-in-europe/" rel="bookmark" title="ADAC: Belgrade most inexpensive destination in Europe"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/01/adac.jpg?resize=326%2C235" alt="" title="ADAC: Belgrade most inexpensive destination in Europe"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/09/adac-belgrade-most-inexpensive-destination-in-europe/" rel="bookmark" title="ADAC: Belgrade most inexpensive destination in Europe">ADAC: Belgrade most inexpensive destination in Europe</a></h4> </div>
+</div>
+</div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_5_5473b8ed42d68" data-td_block_id="td_uid_5_5473b8ed42d68"></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_5_5473b8ed42d68" data-td_block_id="td_uid_5_5473b8ed42d68"></a></div><div class="clearfix"></div></div>  </div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-76456"><a href="http://inserbia.info/today/category/arrival-in-serbia/">Arrival in Serbia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81643"><a href="http://inserbia.info/today/category/serbia/cities/">Cities in Serbia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81644"><a href="http://inserbia.info/today/category/serbia/landscapes/">Landscapes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81620"><a href="http://inserbia.info/today/category/serbia/national-parks/">National Parks</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81621"><a href="http://inserbia.info/today/category/serbia/natural-monuments/">Natural Monuments</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81622"><a href="http://inserbia.info/today/category/serbia/nature-parks/">Nature Parks</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81623"><a href="http://inserbia.info/today/category/serbia/nature-reserves/">Nature reserves</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81618"><a href="http://inserbia.info/today/category/serbia/caves/">Caves</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81625"><a href="http://inserbia.info/today/category/serbia/rivers-lakes/">Rivers &#038; Lakes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega menu-item-81624"><a href="http://inserbia.info/today/category/serbia/ramsar-sites/">Ramsar Sites</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-not-mega td-mega-menu menu-item-82254"><a href="http://inserbia.info/today/category/multimedia/">Multimedia</a>
+<ul class="sub-menu">
+<li class="menu-item-0"><div class="td-mega-grid"><script>var block_td_uid_7_5473b8ed4f368 = new td_block();
+block_td_uid_7_5473b8ed4f368.id = "td_uid_7_5473b8ed4f368";
+block_td_uid_7_5473b8ed4f368.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"13438","show_child_cat":"5"}';
+block_td_uid_7_5473b8ed4f368.td_cur_cat = "13438";
+block_td_uid_7_5473b8ed4f368.td_column_number = "1";
+block_td_uid_7_5473b8ed4f368.block_type = "td_mega_menu";
+block_td_uid_7_5473b8ed4f368.post_count = "4";
+block_td_uid_7_5473b8ed4f368.found_posts = "56";
+block_td_uid_7_5473b8ed4f368.max_num_pages = "14";
+td_blocks.push(block_td_uid_7_5473b8ed4f368);
+</script><div class="td_block_wrap td_block_mega_menu"><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><div><a class="cur-sub-cat ajax-sub-cat-mega sub-cat-td_uid_7_5473b8ed4f368" id="sub-cat-td_uid_7_5473b8ed4f368-13438" data-cat_id="13438" data-td_block_id="td_uid_7_5473b8ed4f368" href="http://inserbia.info/today/category/multimedia/">All</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_7_5473b8ed4f368" id="sub-cat-td_uid_7_5473b8ed4f368-12778" data-cat_id="12778" data-td_block_id="td_uid_7_5473b8ed4f368" href="http://inserbia.info/today/category/multimedia/movies-leisure-2/">Movies</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_7_5473b8ed4f368" id="sub-cat-td_uid_7_5473b8ed4f368-13429" data-cat_id="13429" data-td_block_id="td_uid_7_5473b8ed4f368" href="http://inserbia.info/today/category/multimedia/no-comment/">No Comment</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_7_5473b8ed4f368" id="sub-cat-td_uid_7_5473b8ed4f368-13430" data-cat_id="13430" data-td_block_id="td_uid_7_5473b8ed4f368" href="http://inserbia.info/today/category/multimedia/gallery/">Photo Gallery</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_7_5473b8ed4f368" id="sub-cat-td_uid_7_5473b8ed4f368-2997" data-cat_id="2997" data-td_block_id="td_uid_7_5473b8ed4f368" href="http://inserbia.info/today/category/multimedia/tv/">TV</a></div><div><a class="ajax-sub-cat-mega sub-cat-td_uid_7_5473b8ed4f368" id="sub-cat-td_uid_7_5473b8ed4f368-12572" data-cat_id="12572" data-td_block_id="td_uid_7_5473b8ed4f368" href="http://inserbia.info/today/category/multimedia/videos/">Video Gallery</a></div></div></div><div id=td_uid_7_5473b8ed4f368 class="td_block_inner">
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/seselj-vucic-nikolic-faking-loyalty-to-russia/" rel="bookmark" title="Seselj: Vucic, Nikolic faking loyalty to Russia"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2014/11/maxresdefault3.jpg?resize=326%2C235" alt="" title="Seselj: Vucic, Nikolic faking loyalty to Russia"/><img width="40" class="video-play-icon-big td-retina" src="http://inserbia.info/today/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/seselj-vucic-nikolic-faking-loyalty-to-russia/" rel="bookmark" title="Seselj: Vucic, Nikolic faking loyalty to Russia">Seselj: Vucic, Nikolic faking loyalty to Russia</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/ceska-televize-documentary-stolen-kosovo/" rel="bookmark" title="Česká televize documentary: Stolen Kosovo"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/11/hqdefault1.jpg?resize=326%2C235" alt="" title="Česká televize documentary: Stolen Kosovo"/><img width="40" class="video-play-icon-big td-retina" src="http://inserbia.info/today/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/ceska-televize-documentary-stolen-kosovo/" rel="bookmark" title="Česká televize documentary: Stolen Kosovo">Česká televize documentary: Stolen Kosovo</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/dw-investigating-the-organ-trade-in-kosovo/" rel="bookmark" title="DW: Investigating The Organ Trade in Kosovo"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i0.wp.com/inserbia.info/today/wp-content/uploads/2014/11/hqdefault.jpg?resize=326%2C235" alt="" title="DW: Investigating The Organ Trade in Kosovo"/><img width="40" class="video-play-icon-big td-retina" src="http://inserbia.info/today/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/dw-investigating-the-organ-trade-in-kosovo/" rel="bookmark" title="DW: Investigating The Organ Trade in Kosovo">DW: Investigating The Organ Trade in Kosovo</a></h4> </div>
+</div>
+<div class="td_mod_mega_menu">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/10/military-parade-in-belgrade-full-video/" rel="bookmark" title="Military Parade in Belgrade (Full video)"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/10/hqdefault4.jpg?resize=326%2C235" alt="" title="Military Parade in Belgrade (Full video)"/><img width="40" class="video-play-icon-big td-retina" src="http://inserbia.info/today/wp-content/themes/Newspaper/images/icons/ico-video-large.png" alt="video"/></a></div> <div class="item-details">
+<h4 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/10/military-parade-in-belgrade-full-video/" rel="bookmark" title="Military Parade in Belgrade (Full video)">Military Parade in Belgrade (Full video)</a></h4> </div>
+</div>
+</div><div class="td-next-prev-wrap"><a href="#" class="td_ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_7_5473b8ed4f368" data-td_block_id="td_uid_7_5473b8ed4f368"></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_7_5473b8ed4f368" data-td_block_id="td_uid_7_5473b8ed4f368"></a></div><div class="clearfix"></div></div>  </div></li>
+</ul>
+</li>
+</ul></div> </div>
+</div>
+<div class="span1" id="td-top-search">
+ 
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><span class="td-sp td-sp-ico-search"></span></a>
+<div class="dropdown-menu" aria-labelledby="search-button">
+<form role="search" method="get" class="td-search-form" action="http://inserbia.info/today/">
+<div class="td-head-form-search-wrap">
+<input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off"/><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search"/>
+</div>
+</form>
+<div id="td-aj-search"></div>
+</div>
+</div>
+</div>
+</div>
+</div>  
+</div>  
+</div>  
+</div>  <div class="container"><style>#news{float:left;margin-left:0;}#news li{list-style:none;margin-top:4px;display:block;}.news-ticker ul a{display:block;white-space:nowrap;color:#111;text-decoration:none!important;}.news-ticker ul a:hover{color:#333;text-decoration:none!important;}.news-ticker span{color:#FFFFFF;background-color:#333;display:block;float:left;padding:5px 10px 2px;font-family:Tahoma,arial,Georgia,serif;font-size:14pt;font-weight:bold;margin-right:10px;-moz-box-shadow:0px 1px 3px 0 #b5b5b5;-webkit-box-shadow:0px 1px 3px 0 #B5B5B5;height:32px;}.news-ticker{background:#FFF;border-radius:1px;-moz-border-radius:1px;-webkit-border-radius:1px;box-shadow:0px 1px 3px 0 #B5B5B5;-moz-box-shadow:0px 1px 3px 0 #b5b5b5;-webkit-box-shadow:0px 1px 3px 0 #B5B5B5;width:100%;height:32px;margin:-5px auto 25px;overflow:hidden;position:relative;}</style>
+<div class="news-ticker">
+<span>Latest</span>
+<ul id="news">
+<li><a href="http://inserbia.info/today/2014/11/turkey-erdogan-says-women-not-equal-to-men/" title="Turkey: Erdogan Says Women Not Equal to Men">Turkey: Erdogan Says Women Not Equal to Men</a></li>
+<li><a href="http://inserbia.info/today/2014/11/us-police-in-ohio-fatally-shoot-12-year-old-holding-toy-gun/" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun">US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun</a></li>
+<li><a href="http://inserbia.info/today/2014/11/germans-oppose-airstrikes-against-islamic-state-poll/" title="Germans Oppose Airstrikes Against Islamic State: Poll">Germans Oppose Airstrikes Against Islamic State: Poll</a></li>
+<li><a href="http://inserbia.info/today/2014/11/chuck-hagel-resigns/" title="Chuck Hagel Resigns">Chuck Hagel Resigns</a></li>
+<li><a href="http://inserbia.info/today/2014/11/serbia-platinum-wolf-2015-military-exercise-underway/" title="Serbia: Platinum Wolf 2015 military exercise underway">Serbia: Platinum Wolf 2015 military exercise underway</a></li>
+<li><a href="http://inserbia.info/today/2014/11/miscevic-serbia-understands-obligations-in-eu-integration-process/" title="Miscevic: Serbia understands obligations in EU integration process">Miscevic: Serbia understands obligations in EU integration process</a></li>
+<li><a href="http://inserbia.info/today/2014/11/eu-calls-on-serbia-to-join-sanctions-against-russia-rude-and-caddish/" title="&#8220;EU calls on Serbia to join sanctions against Russia rude and caddish&#8221;">&#8220;EU calls on Serbia to join sanctions against Russia rude and caddish&#8221;</a></li>
+<li><a href="http://inserbia.info/today/2014/11/germany-considers-india-a-world-power/" title="Germany Considers India A World Power">Germany Considers India A World Power</a></li>
+<li><a href="http://inserbia.info/today/2014/11/red-star-belgrade-says-goodbye-to-its-fan-marko-ivkovic/" title="Red Star Belgrade says goodbye to its fan Marko Ivkovic">Red Star Belgrade says goodbye to its fan Marko Ivkovic</a></li>
+<li><a href="http://inserbia.info/today/2014/11/special-court-for-war-crimes-in-kosovo-to-be-in-holland/" title="Special court for war crimes in Kosovo to be in Holland">Special court for war crimes in Kosovo to be in Holland</a></li>
+</ul>
+<script type="text/javascript">
+			jQuery(document).ready(function(){
+												
+				createTicker(); 
+								
+											});
+		</script>
+</div>
+</div>
+<div class="subber"><div class="container">
+<span class="update_time">Last update: November 24, 2014 @ 7:06 pm CEST</span><div class="menu-subheader-menu-container"><ul id="menu-subheader-menu" class="menu"><li id="menu-item-81615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-not-mega menu-item-81615"><a href="http://inserbia.info/today/weather/">Weather</a></li>
+<li id="menu-item-81616" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-81616"><a href="http://inserbia.info/today/serbia-dinar-rsd-exchange-rate/">FX</a></li>
+<li id="menu-item-81614" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-81614"><a href="http://inserbia.info/today/belex-belgrade-stock-exchange/">Belex</a></li>
+<li id="menu-item-84103" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-84103"><a href="http://inserbia.info/today/superliga/">SuperLiga</a></li>
+<li id="menu-item-81617" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-81617"><a href="http://inserbia.info/today/air-traffic-and-flight-schedule/">BEG AERO</a></li>
+</ul></div></div></div>
+<div class="container td-page-wrap">
+<div class="row">
+<div class="span12">
+<div class="td-grid-wrap">
+<div class="container-fluid">
+<div class="row-fluid ">
+<div class="span12 column_container">
+<div class="td-404-title">
+404 Error - page not found </div>
+<div class="td-404-sub-title">
+We're sorry, but the page you are looking for doesn't exist. </div>
+<div class="td-404-sub-sub-title">
+You can go to the <a href="http://inserbia.info/today">homepage</a>
+</div>
+<h4 class="block-title"><span>OUR LATEST POSTS</span></h4>
+<div class="wpb_row row-fluid">
+<div class="span4">
+<div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/turkey-erdogan-says-women-not-equal-to-men/" rel="bookmark" title="Turkey: Erdogan Says Women Not Equal to Men"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/03/erdogan-650x4326.jpg?resize=100%2C65" alt="" title="Turkey: Erdogan Says Women Not Equal to Men"/></a></div> <div class="item-details">
+<h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/turkey-erdogan-says-women-not-equal-to-men/" rel="bookmark" title="Turkey: Erdogan Says Women Not Equal to Men">Turkey: Erdogan Says Women Not Equal to Men</a></h3> <div class="meta-info">
+<time itemprop="dateCreated" class="entry-date updated" datetime="2014-11-24T19:06:17+00:00">Nov 24, 2014</time><meta itemprop="interactionCount" content="UserComments:1"/> </div>
+</div>
+</div>
+</div>  
+<div class="span4">
+<div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/us-police-in-ohio-fatally-shoot-12-year-old-holding-toy-gun/" rel="bookmark" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2013/04/denver-police.jpg?resize=100%2C65" alt="" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun"/></a></div> <div class="item-details">
+<h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/us-police-in-ohio-fatally-shoot-12-year-old-holding-toy-gun/" rel="bookmark" title="US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun">US: Police in Ohio Fatally Shoot 12-year-old Holding Toy Gun</a></h3> <div class="meta-info">
+<time itemprop="dateCreated" class="entry-date updated" datetime="2014-11-24T18:54:46+00:00">Nov 24, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/> </div>
+</div>
+</div>
+</div>  
+<div class="span4">
+<div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/germans-oppose-airstrikes-against-islamic-state-poll/" rel="bookmark" title="Germans Oppose Airstrikes Against Islamic State: Poll"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2014/08/ISIS-ISIL-IS-Islamic_State.jpg?resize=100%2C65" alt="" title="Germans Oppose Airstrikes Against Islamic State: Poll"/></a></div> <div class="item-details">
+<h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/germans-oppose-airstrikes-against-islamic-state-poll/" rel="bookmark" title="Germans Oppose Airstrikes Against Islamic State: Poll">Germans Oppose Airstrikes Against Islamic State: Poll</a></h3> <div class="meta-info">
+<time itemprop="dateCreated" class="entry-date updated" datetime="2014-11-24T18:17:06+00:00">Nov 24, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/> </div>
+</div>
+</div>
+</div>  </div> 
+<div class="wpb_row row-fluid">
+<div class="span4">
+<div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/filip-filipovic-worlds-best-water-polo-player/" rel="bookmark" title="Filip Filipovic world&#8217;s best water polo player"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2014/11/Filip-Filipovic.jpg?resize=100%2C65" alt="" title="Filip Filipovic world&#8217;s best water polo player"/></a></div> <div class="item-details">
+<h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/filip-filipovic-worlds-best-water-polo-player/" rel="bookmark" title="Filip Filipovic world&#8217;s best water polo player">Filip Filipovic world&#8217;s best water polo player</a></h3> <div class="meta-info">
+<time itemprop="dateCreated" class="entry-date updated" datetime="2014-11-24T17:06:03+00:00">Nov 24, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/> </div>
+</div>
+</div>
+</div>  
+<div class="span4">
+<div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/chuck-hagel-resigns/" rel="bookmark" title="Chuck Hagel Resigns"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i2.wp.com/inserbia.info/today/wp-content/uploads/2014/03/Hagel7.jpg?resize=100%2C65" alt="" title="Chuck Hagel Resigns"/></a></div> <div class="item-details">
+<h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/chuck-hagel-resigns/" rel="bookmark" title="Chuck Hagel Resigns">Chuck Hagel Resigns</a></h3> <div class="meta-info">
+<time itemprop="dateCreated" class="entry-date updated" datetime="2014-11-24T17:03:24+00:00">Nov 24, 2014</time><meta itemprop="interactionCount" content="UserComments:0"/> </div>
+</div>
+</div>
+</div>  
+<div class="span4">
+<div class="td_mod3 td_mod_wrap " itemscope itemtype="http://schema.org/Article">
+<div class="thumb-wrap"><a href="http://inserbia.info/today/2014/11/serbia-platinum-wolf-2015-military-exercise-underway/" rel="bookmark" title="Serbia: Platinum Wolf 2015 military exercise underway"><img width="" height="" itemprop="image" class="entry-thumb" src="http://i1.wp.com/inserbia.info/today/wp-content/uploads/2013/10/serbian-army-2-650x432.jpg?resize=100%2C65" alt="" title="Serbia: Platinum Wolf 2015 military exercise underway"/></a></div> <div class="item-details">
+<h3 itemprop="name" class="entry-title"><a itemprop="url" href="http://inserbia.info/today/2014/11/serbia-platinum-wolf-2015-military-exercise-underway/" rel="bookmark" title="Serbia: Platinum Wolf 2015 military exercise underway">Serbia: Platinum Wolf 2015 military exercise underway</a></h3> <div class="meta-info">
+<time itemprop="dateCreated" class="entry-date updated" datetime="2014-11-24T17:02:21+00:00">Nov 24, 2014</time><meta itemprop="interactionCount" content="UserComments:1"/> </div>
+</div>
+</div>
+</div>  </div>  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-footer-wrap">
+<div class="container">
+<div class="row">
+<div class="span12">
+<div class="td-grid-wrap">
+<div class="container-fluid">
+<div class="wpb_row row-fluid ">
+<div class="span4 wpb_column column_container">
+<div class="footer-logo-wrap"><img class="td-retina-data" src="http://inserbia.info/today/wp-content/uploads/2014/10/inserbia-network-foundation-300.png" data-retina="http://inserbia.info/today/wp-content/uploads/2014/10/inserbia-network-foundation-600.png" alt=""/></div><div class="footer-text-wrap">InSerbia is independent, non-profit organization maintained by volunteers only. InSerbia News provides latest news from Serbia, Balkans, Europe and World. Business, Politics, Sport, Entertainment, Weather, Tourist and Service information.</div><div class="footer-text-wrap">Since March 1st 2013</div><div class="footer-email-wrap">Contact us: <a href="mailto:info@inserbia.info">info@inserbia.info</a></div><div class="td_block_wrap td-social-wrap td-social-wrap-32"><div class="td_mod_wrap"><span class="td-social-icon-wrap"><a target="_blank" href="https://www.facebook.com/pages/In-Serbia/621125411237284"><span class="td-social-s3-32 td-s-s-32-facebook"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://plus.google.com/+InserbiaInfo/posts"><span class="td-social-s3-32 td-s-s-32-googleplus"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="http://feeds.feedburner.com/InSerbiaNews"><span class="td-social-s3-32 td-s-s-32-rss"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="inserbia.tumblr.com"><span class="td-social-s3-32 td-s-s-32-tumblr"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="https://twitter.com/InSerbiaNetwork"><span class="td-social-s3-32 td-s-s-32-twitter"></span></a></span><span class="td-social-icon-wrap"><a target="_blank" href="http://www.youtube.com/user/inserbianet"><span class="td-social-s3-32 td-s-s-32-youtube"></span></a></span></div></div> </div>
+<div class="span4 wpb_column column_container">
+<aside class="widget widget_text"><div class="block-title"><span>InSerbia Network</span></div> <div class="textwidget"><ul>
+<li><a href="http://inserbia.info">Homepage</a></li>
+<li><a href="http://inserbia.info/today/timeline/">Archive</a></li>
+<li><a href="http://inserbia.info/search/" target="_blank">Search</a></li>
+<li><a href="http://inserbia.info/today/news-tip/">News Tip</a></li>
+<li><a href="http://inserbia.info/today/weather/">Weather</a></li>
+<li><a href="http://travel.inserbia.info">Travel Planner</a></li>
+<li><a href="http://flights.inserbia.info">Flight Tickets</a></li>
+<li><a href="http://inserbia.info/travel/hotels.html">Hotels in Serbia</a></li>
+<li><a href="http://inserbia.info/jobs">Jobs in Serbia</a></li>
+</ul></div>
+</aside> </div>
+<div class="span4 wpb_column column_container">
+<aside class="widget widget_text"><div class="block-title"><span>Subscribe</span></div> <div class="textwidget"><ul>
+<li><a href="http://inserbia.info/news/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> All Feeds</a></li>
+<li><a href="http://feeds.feedburner.com/InSerbiaNews" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> Feedburner Feeds</a></li>
+<li><a href="http://inserbia.info/today/category/news/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> News</a></li>
+<li><a href="http://inserbia.info/today/category/sport/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> Sport</a></li>
+<li><a href="http://inserbia.info/today/category/scitech-2/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> Sci-Tech</a></li>
+<li><a href="http://inserbia.info/today/category/culture-entertainment-2/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> Culture</a></li>
+<li><a href="http://inserbia.info/today/category/leisure-2/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> Free Time</a></li>
+<li><a href="http://inserbia.info/today/category/tourism-2/feed/" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/rss.png" width="16px" height="16px"/> Tourism</a></li>
+<li><a href="http://feedburner.google.com/fb/a/mailverify?uri=InSerbiaNews" target="_blank"><img alt="" src="http://inserbia.info/today/wp-content/uploads/2014/03/email.png" width="16px" height="16px"/> Subscribe to e-mail notifications</a></li>
+</ul></div>
+</aside> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>  
+<div class="td-sub-footer-wrap">
+<div class="container ">
+<div class="row">
+<div class="span12">
+<div class="td-grid-wrap">
+<div class="container-fluid">
+<div class="row-fluid ">
+<div class="span4 td-sub-footer-copy">
+&copy; Independent Nonprofit Organization<br/>InSerbia Network Foundation. All Rights Reserved. </div>
+<div class="span8 td-sub-footer-menu">
+<div class="menu-footer-container"><ul id="menu-footer" class=""><li id="menu-item-64343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-not-mega menu-item-64343"><a href="http://inserbia.info/today/about-us/">About us / Contact us</a></li>
+<li id="menu-item-82753" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-82753"><a href="http://inserbia.info/today/saradnja/">Advertising</a></li>
+<li id="menu-item-84966" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-84966"><a href="http://inserbia.info/today/sponsorship/">Sponsorship</a></li>
+<li id="menu-item-84159" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-84159"><a href="http://inserbia.info/today/partners/">Partners</a></li>
+<li id="menu-item-64368" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-64368"><a href="http://inserbia.info/today/content-trademarks/">Content</a></li>
+<li id="menu-item-64369" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-64369"><a href="http://inserbia.info/today/privacy-policy/">Privacy</a></li>
+<li id="menu-item-64370" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-64370"><a href="http://inserbia.info/today/terms-conditions/">Terms</a></li>
+<li id="menu-item-64366" class="menu-item menu-item-type-post_type menu-item-object-page td-not-mega menu-item-64366"><a href="http://inserbia.info/today/network-search/">Help</a></li>
+</ul></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+</div>
+ 
+<a href="https://plus.google.com/+InserbiaInfo" rel="publisher" style="display:none;">Google+</a>
+<div class="td-sp td-scroll-up"></div>
+ 
+ 
+ 
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/inserbia.info\/today\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/themes/Newspaper/js/external.js?ver=3.5'></script>
+<script type='text/javascript' src='http://inserbia.info/today/wp-content/themes/Newspaper/js/site.js?ver=3.5'></script>
+ 
+<script>
+    
+</script>
+<script src="http://stats.wp.com/e-201448.js" type="text/javascript"></script>
+<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'64734594',post:'0',tz:'1'});
+	var load_cmc = function(){linktracker_init(64734594,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script> <script>
+     var time = new Date().getTime();
+     $(document.body).bind("mousemove keypress", function(e) {
+         time = new Date().getTime();
+     });
+
+     function refresh() {
+         if(new Date().getTime() - time >= 60000) 
+             window.location.reload(true);
+         else 
+             setTimeout(refresh, 10000);
+     }
+
+     setTimeout(refresh, 10000);
+</script>
+</body>
+</html>

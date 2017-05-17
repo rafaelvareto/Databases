@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en-US"  class="fullwidth"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Page not found | SeaChange | Oceana</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link rel="shortcut icon" href="http://seachangesummerparty.org/wordpress/wp-content/uploads/2014/03/favicon.ico" />
+    <meta name="google-site-verification" content="kshYa0oMPmCPkO2JlFx0w0j3k_W4gphTA3AxOwJqjho" />
+    <style>
+
+/* Customs colours for the site
+ *
+ * Include colours and backgrounds
+ *
+ * */
+
+
+a, .dropdown-menu li > a:hover, .wallnav i,  div.rating:after, .social a:hover {
+	color:#FF6633;
+}
+
+body{
+	color:#333333;
+}
+a:hover, .wallnav i:hover, .social a{
+	color:#CC0000;
+}
+
+.cart-notification span.item-name, .woocommerce div.product p.price, .price span.amount{
+	color:#FF6633 !important;
+}
+
+.gallery-item a img{
+	border-color:#FF6633;
+}
+.ls-wp-container .ls-nav-prev, .ls-wp-container .ls-nav-next,  a.ui-accordion-header-active, .block_accordion_wrapper .ui-state-hover{
+	background-color:#FF6633;
+}
+.portfolio .row .span8 .plove a:hover, .span3 .plove a:hover, .icons-block i:hover,
+ .similar-projects ul li h3, footer ul li a:hover,
+ .member h3, .member span, .member:hover > .member-social a, .main-colour,
+  .dropdown-menu li > a:focus, .dropdown-submenu:hover > a,  .pagination ul > li > a:hover, .pagination ul > li > a:focus,
+  .comment-body .comment-author,  .navigation a:hover{
+    color:#FF6633;
+}
+.tagcloud a:hover, .progress-striped .bar ,  .bgpattern:hover > .icon, .progress-striped .bar, .member:hover > .bline, .pbg, .pbg:hover, .pimage:hover > .pbg, ul.social-media li a:hover, .navigation a ,
+ .nav-tabs > li > a:hover, .nav-tabs > li > a:focus , .pagination ul > .active > a, .pagination ul > .active > span, .list_carousel a.prev:hover, .list_carousel a.next:hover, .pricetable .pricetable-col.featured .pt-price, .block_toggle .open, .pricetable .pricetable-featured .pt-price, .modal-header, .modal-body .reg-btn, #LoginWithAjax_SubmitButton .reg-btn, .footer_widget h3{
+    background-color:#FF6633;
+}
+.navbar-inverse .brand,
+.navbar-inverse .nav > li > a,
+.navbar-inverse .nav > li > a  > span{
+	color:#3b456b}
+.navbar-inverse .nav > li > a  > span{
+	text-shadow:0 28px 0 #FF6633;
+}
+.caret{
+	border-color:#3b456b;
+}
+.navbar-inverse .nav > li > a:hover .caret, .navbar .nav li.current_page_item a .caret, .navbar .nav li.current-menu-parent a .caret, .navbar .nav li.active a .caret{
+	border-top-color:#FF6633;
+	border-bottom-color:#FF6633;
+}
+.navbar-inverse{
+	background-color:#ffffff;
+	}
+.new_navbar{
+	background-color:#ffffff !important;
+}
+
+.button-medium, .button-small, .button-big, button[type="submit"], input[type="submit"], .block_tabs .nav-tabs li a, .accordion-heading, .splitter li a, .nav-tabs a, .isotopeMenu > li > a{
+	background-color:transparent;
+	border:2px solid #666666;
+	color:#666666;
+}
+
+.isotopeMenu > li > a{
+color:#666666 !important;
+}
+
+footer{
+	background-color:#232323;
+}
+
+.button-medium:hover, .button-small:hover, .button-big:hover, .blog-date span.date, .blog-date-noimg span.date, input[type="submit"]:hover ,button[type="submit"]:hover, .pricetable .pricetable-col.featured .pt-top, .pricetable .pricetable-featured .pt-top, .block_tabs .nav-tabs li.ui-state-active a, .nav-tabs > li > a:hover, .nav-tabs > li.active > a, .nav-tabs .ui-state-active a, .nav-tabs > li > a:focus,  a.ui-accordion-header-active, .block_accordion_wrapper .ui-state-hover, .block_toggle .open, .splitter li[class*="selected"] > a, .splitter li a:hover, .nav-tabs a:hover, .nav-tabs > li.active > a, .isotopeMenu > li > a:hover, .accordion-heading:hover{
+	border:2px solid #CC0000;
+	background-color:transparent;
+	color:#CC0000;
+}
+
+.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a {
+	border:2px solid #666666 !important;
+	background-color:transparent  !important;
+	color:#666666  !important;
+}
+
+
+.woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page #content input.button:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce table.cart td.actions .button.checkout-button {
+	border:2px solid #CC0000 !important;
+	background-color:transparent  !important;
+	color:#CC0000  !important;
+}
+
+.woocommerce-page .product-wrap a.button, .woocommerce-page .product-wrap a.button:hover{
+	background-color:#ffffff !important;
+}
+
+.woocommerce span.onsale, .woocommerce-page span.onsale, .woocommerce-message, .woocommerce-error, .woocommerce-info, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range{
+	background:#FF6633 !important;
+}
+
+.woocommerce .product-wrap .add_to_cart_button.added, .woocommerce .product-wrap .add_to_cart_button.added:hover {
+	border:2px solid #CC0000 !important;
+	background-color:#CC0000 !important;
+}
+
+
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus,
+.gallery-item a img:hover{
+border-color:#FF6633;
+
+}
+
+.block h3:first-child, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form legend, .bbp-topic-title h3, .bbp-topics-front ul.super-sticky i.icon-comment,
+.bbp-topics ul.super-sticky i.icon-comment, .block .charblock h2,
+.bbp-topics ul.sticky i.icon-comment,
+.bbp-forum-content ul.sticky i.icon-comment, .highlight h2,
+.modal-header h3, h3.widget-title, .footer_widget h3, .widget h3, .header-colour, .block-page_header_block .block-title h2{
+	color:#666666;
+}
+.title_wrapper h1{
+	color:#ffffff;
+}
+body .normal-page, body .portfolio, body .blog{
+	background-color:#ffffff;
+}
+
+
+.block-divider, .block h3:first-child:after, .widget h3:first-child:after, .widget-title:after {
+	background-color:#dddddd}
+.blog-ind .blog-info, .blog-info, .widget ul li, .navbar-inverse, .social-top a{
+	border-color:#dddddd}
+/* Backgrounds */
+
+
+html{
+	background:url() no-repeat center bottom #ffffff;
+}
+
+body{
+    	background:url(http://seachangesummerparty.org/wordpress/wp-content/uploads/2014/03/scsp_top_bg_FF6633.jpg) no-repeat center top;
+}
+</style>
+
+<link rel='stylesheet' id='pb-view-css-css'  href='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/pagebuilder/assets/css/pb-view.css?ver=1416870515' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/css/bbpress.css?ver=2.5.3-5249' type='text/css' media='screen' />
+<link rel='stylesheet' id='layerslider_css-css'  href='http://seachangesummerparty.org/wordpress/wp-content/plugins/layerslider/css/layerslider.css?ver=4.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.1.6' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Lato:400,700&subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='atticus_mytheme_style-style-css'  href='http://seachangesummerparty.org/wordpress/wp-content/themes/seachange/style.css?ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C400italic%2C600italic%2C700italic&#038;ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style1-css'  href='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/css/jquery.fancybox.css?ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style2-css'  href='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/chat/wp-wall.css?ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='pricetable1-css'  href='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/pricetable/css/pricetable.css?ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='font1-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%7CCabin%3A400%2C700%7CAtomic+Age%3A400&#038;subset=latin&#038;ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='font2-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C400italic%2C600italic%2C700italic&#038;ver=20130401#038;ver=20130401' type='text/css' media='all' />
+<link rel='stylesheet' id='isotopegallery_css-css'  href='http://seachangesummerparty.org/wordpress/wp-content/plugins/sk_isotope_gallery/css/isotopegallery.css?ver=3.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.0'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/layerslider/js/jquery-easing-1.3.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/layerslider/js/jquerytransit.js?ver=0.9.9'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/layerslider/js/layerslider.transitions.js?ver=4.6.0'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/sk_isotope_gallery/com/riaextended/js/tween/CSSPlugin.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/sk_isotope_gallery/com/riaextended/js/tween/easing/EasePack.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/sk_isotope_gallery/com/riaextended/js/tween/TweenMax.min.js?ver=3.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var GALLERY_DTA_FRONT = {"IMAGES_URL":"http:\/\/seachangesummerparty.org\/wordpress\/wp-content\/plugins\/sk_isotope_gallery\/images","LOOK_AND_FEEL":"7b7b7b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/sk_isotope_gallery/js/rx_isotope_gallery.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/sk_isotope_gallery/js/external/jquery.isotope.min.js?ver=3.8.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://seachangesummerparty.org/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://seachangesummerparty.org/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.1" />
+<meta name="generator" content="WooCommerce 2.1.6" />
+    <link rel="stylesheet" href="http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/widgets/latest_twitter/latest_twitter_widget.css" />    <style type='text/css' media='screen'>
+	body{ font-family:"Lato", arial, sans-serif;}
+	.navbar{ font-family:"Lato", arial, sans-serif;}
+	h1{ font-family:"Lato", arial, sans-serif;}
+	h2{ font-family:"Lato", arial, sans-serif;}
+	h3{ font-family:"Lato", arial, sans-serif;}
+	h4{ font-family:"Lato", arial, sans-serif;}
+	h5{ font-family:"Lato", arial, sans-serif;}
+	h6{ font-family:"Lato", arial, sans-serif;}
+	blockquote{ font-family:"Lato", arial, sans-serif;}
+	p{ font-family:"Lato", arial, sans-serif;}
+	li{ font-family:"Lato", arial, sans-serif;}
+</style>
+<!-- fonts delivered by Wordpress Google Fonts, a plugin by Adrian3.com --></head>
+
+
+<body class="error404">
+  <!-- NAVBAR ================================================== -->
+         <div class="navbar navbar-inverse ">
+          <div class="navbar-inner container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            <div class="logo">
+                                      <a class="brand" href="http://seachangesummerparty.org"> <img src="http://seachangesummerparty.org/wordpress/wp-content/uploads/2014/03/seachange_logo1.png" alt="logo"  /> </a>
+                             </div>
+
+
+
+            <div class="nav-collapse collapse">
+
+
+                <div class="menu-main-container"><ul  class="nav"><li id="menu-item-1375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1375"><a href="http://seachangesummerparty.org/"><span>Home</span></a></li>
+<li id="menu-item-1401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1401"><a href="http://seachangesummerparty.org/the-event/"><span>The Event</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a href="http://seachangesummerparty.org/the-event/committees/"><span>Committees</span></a></li>
+	<li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a href="http://seachangesummerparty.org/the-event/venue/"><span>Venue</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1399"><a href="http://seachangesummerparty.org/our-impact/"><span>Our Impact</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2840"><a href="http://seachangesummerparty.org/2014-press/"><span>2014 Press</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400"><a href="http://seachangesummerparty.org/special-guests/"><span>Special Guests</span></a></li>
+<li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1433"><a href="http://seachangesummerparty.org/gallery/"><span>Sea Change Gallery</span></a></li>
+<li id="menu-item-1393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1393"><a href="http://seachangesummerparty.org/auction/"><span>Auction</span></a></li>
+<li id="menu-item-1879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1879"><a href="http://seachangesummerparty.org/partners/"><span>Partners</span></a></li>
+</ul></div><!-- HIDING SOCIAL TOP NAV
+           <div class="social-top">
+              <a class="rss" target="_blank" href="http://feeds.feedburner.com/OceanaNorthAmericaBlogTheBeacon"><span>RSS</span></a>                                     <a class="linked-in" target="_blank" href="https://www.linkedin.com/groups?gid=4097179"><span>linked-in</span></a>             <a class="google-plus" target="_blank" href="https://plus.google.com/b/102497782213614092700/+OceanaOrgInternational/posts?cfem=1"><span>google-plus</span></a>             <a class="twitter" target="_blank" href="https://twitter.com/oceana"><span>twitter</span></a>             <a class="facebook" target="_blank" href="https://www.facebook.com/oceana"><span>facebook</span></a>            </div>
+-->
+                <div class="clear"></div>
+            </div><!--/.nav-collapse -->
+            <div class="clear"></div>
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+        <div class="spacing "></div>
+        
+<div id="main_wrapper">
+
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+<div class="title_wrapper ">
+      <div class="container">
+
+        
+
+        <div class="span12">
+            <h1>Fermentum sit amet congue sit amet</h1>
+            <!--<div class="span6"></div>
+            <div class="breadcrumbs"><strong> atticus_breadcrumbs(); ?></strong></div>-->
+        </div>
+       </div></div>
+
+    <div class=" normal-page">   	 <div class="container">         <div class="row">
+            <div class="span12">
+               <div class="four0four">
+                    <p class="huge"> OOPS! 404 <i class="icon-file"></i></p>
+                    Page not found, sorry :(
+               </div>
+            </div>
+       </div>		 </div>  <!-- /container -->    </div> <!-- /container -->
+</div> <!-- End of container -->
+
+    <footer class="">
+      <div class="container">      <div class="span12">
+			<div class="logo_footer">
+			<div id="footer-motto">
+			<h2>Every Child Deserves a Healthy Ocean</h2></div>
+				 					 <a class="brand" href="http://seachangesummerparty.org"> <img src="http://seachangesummerparty.org/wordpress/wp-content/uploads/2014/03/oceana_logoWHITE-300px.png" alt="logo"  /> </a>
+				 			</div>
+			<div class="copyright">
+				<br  clear="all" />
+<div id="footer-bottom">© Oceana, Inc.</div>			</div>
+			<div class="social">
+				 <a data-original-title="Rss" data-toggle="tooltip" class="rss" target="_blank" href="http://feeds.feedburner.com/OceanaNorthAmericaBlogTheBeacon"><i class="fa fa-rss"></i></a>												 <a data-original-title="Linked in" data-toggle="tooltip" class="linked-in" target="_blank" href="https://www.linkedin.com/groups?gid=4097179"><i class="fa fa-linkedin"></i></a>				 <a data-original-title="Google plus" data-toggle="tooltip" class="google-plus" target="_blank" href="https://plus.google.com/b/102497782213614092700/+OceanaOrgInternational/posts?cfem=1"><i class="fa fa-google-plus"></i></a>				 <a data-original-title="Twitter" data-toggle="tooltip" class="twitter" target="_blank" href="https://twitter.com/oceana"><i class="fa fa-twitter"></i></a>				 <a data-original-title="Facebook" data-toggle="tooltip" class="facebook" target="_blank" href="https://www.facebook.com/oceana"><i class="fa fa-facebook"></i></a>            </div>
+      </div>
+
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-253939-13', 'seachangesummerparty.org');
+  ga('send', 'pageview');
+
+</script><script>
+/*global jQuery:false */
+var forumtitle = jQuery('.bbpress .title_wrapper h1');
+var newforumtitle = "Page not found  ";
+forumtitle.text(newforumtitle);
+</script>
+
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/pagebuilder/assets/js/pb-view.js?ver=1416870515'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.3-5249'></script>
+<script type='text/javascript' src='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/seachangesummerparty.org\/wordpress\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wordpress\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//seachangesummerparty.org/wordpress/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var heartLove = {"ajaxurl":"http:\/\/seachangesummerparty.org\/wordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/functions/heart/love/js/heart-love.js?ver=1.0'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/bootstrap-transition.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/bootstrap-tooltip.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/bootstrap-button.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/bootstrap-carousel.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/bootstrap-collapse.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/theme.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/easing.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/jquery.fancybox.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/jquery.ui.totop.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/jquery.validate.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/jquery-ui-1.10.3.custom.min.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/jquery.carouFredSel-6.2.1-packed.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/appear.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/parallax.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/imagescale.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/global.js?ver=3.8.1'></script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPWallSettings = {"refreshtime":"0","expand_box":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seachangesummerparty.org/wordpress/wp-content/themes/atticus/js/wp-wall.js?ver=3.8.1'></script>
+
+</footer></div>
+</body></html>

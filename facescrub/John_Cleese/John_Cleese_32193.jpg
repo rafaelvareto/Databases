@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Oops!</title>
+	<link rel="shortcut icon" href="http://www.itu.dk/sysadm/error/favicon.ico" type="image/x-icon" />
+	<link rel="bookmark icon" href="http://www.itu.dk/sysadm/error/favicon.ico" type="image/x-icon" />
+
+	<link rel="stylesheet" href="http://www.itu.dk/sysadm/error/style.css" type="text/css" media="screen" />
+</head>
+<body>
+	<div id="main" class="main campaignsite">
+		<div id="logo">
+			<a title="Frontpage - IT University of Copenhagen" href="http://www.itu.dk/en/">
+				<img src="http://www.itu.dk/sysadm/error/itu_logo_en.gif" alt="Frontpage - IT University of Copenhagen" width="37" height="306" />
+			</a>
+		</div>      
+ 		
+ 		<div id="mainBoxes" class="clearfix">
+			<div class="section none grid2">
+ 		      	<div>
+					<div style="height:600px;" height="600px">&nbsp;</div>
+				</div>
+			</div>
+			
+			<div class="section none grid7">
+				<div>
+				<p>
+					&nbsp;
+				</p>
+					<h1>We'll be back shortly.</h1>
+					<p>
+						We're currently down for maintenance or the server isn't available right now.
+					</p>
+					<p>
+						It's entirely possible we have forgotten to feed the beasts who live in our server closet.
+						<br />
+						If that's the case, we're probably busy fighting a mutiny. Wish us luck.
+					</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				<p>
+					&nbsp;
+				</p>
+				</div>
+			</div>
+			
+			<div class="section none grid3">
+ 		      	<div>
+				<p>
+					&nbsp;
+				</p>
+					<div><img src="http://www.itu.dk/sysadm/error/tb_sign2.png" alt="" /></div>
+				</div>
+			</div>
+			
+			<div class="section none grid10">
+				<div>
+					<img src="http://www.itu.dk/sysadm/error/tbservers.png" alt="The server beasts have run amok! Animal control have been dispatched, and the problem should be in hand shortly." />
+				</div>
+			</div>
+		</div>
+	</div>
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://theoatmeal.com/comics/state_web_summer"><span property="dct:title">Tumbeasts</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://theoatmeal.com">Matthew Inman</a>) / <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></div>
+	<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-1275388-4']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+</body>
+</html>

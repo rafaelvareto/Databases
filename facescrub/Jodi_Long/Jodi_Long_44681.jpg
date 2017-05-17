@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6 "><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie7 "> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8 "> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9 "><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="no-js "> <!--<![endif]-->
+  <head id="Head1">
+<meta name="viewport" content="width=device-width" />
+<link href="http://lapressclub.org/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/styles/newgadgets.css" rel="stylesheet" type="text/css" /><link href="http://lapressclub.org/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/styles/print.css" rel="stylesheet" type="text/css" /><link href="http://lapressclub.org/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/styles/shared.css" rel="stylesheet" type="text/css" /><link href="http://lapressclub.org/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/styles/theme.less" rel="stylesheet" type="text/css" /><link href="http://lapressclub.org/resources/theme/user.css?t=635506643280000000" rel="stylesheet" type="text/css" /><script type="text/javascript" language="javascript" id="idJavaScriptEnvironment">
+var bonaPage_BuildVer='5.1.5';
+var bonaPage_AdminBackendUrl = '/admin/';
+var bonaPage_StatRes='http://f.wildapricot.org/WebUI/';
+var bonaPage_InternalPageType = { isUndefinedPage : false,isWebPage : false,isAdminPage : false,isDialogPage : false,isSystemPage : false,isErrorPage : false,isError404Page : true };
+var bonaPage_PageView = { isAnonymousView : true,isMemberView : false,isAdminView : false };
+var javaScriptErrorsHandling = {logErrors:true, hideErrorMessages:true, errorHandlerUrl:'/JSLogger/LogJavaScriptException.ashx' };
+var WidgetMode = 0;
+var bonaPage_ThemeVer='7c24b5196355066432800000000'; var bonaPage_ThemeId = 'simple_transparent_classic.v3.0'; var bonaPage_ThemeVersion = '3.0';
+var bonaPage_id='18015'; version_id='';
+try { if (window.name != 'contentarea' && parent && parent.BonaPage) parent.BonaPage.implementBonaPage(window); } catch (err) { }
+document.write('<style type="text/css"> .WaHideIfJSEnabled, .HideIfJSEnabled { display: none; } </style>');</script>
+<script type="text/javascript" language="javascript" src="http://f.wildapricot.org/WebUI/scripts/shared/bonapagetop/bonapagetop-compiled.js?5.1.5" id="idBonaPageTop"></script><script type="text/javascript" language="javascript" src="http://lapressclub.wildapricot.org/04ab7b7a/CheckHttpsAuthentication.aspx" id="idCheckHttpsAuthentication"></script><script type="text/javascript" language="javascript" src="http://f.wildapricot.org/WebUI/General.js?5.1.5" id=""></script><script type="text/javascript" language="javascript" src="http://lapressclub.org/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/scripts/combined.js" id=""></script><title>LA Press Club - Page not found (404)</title>
+<script>
+    $(document).ready(function() {
+        // We can't hide links from people who are logged in, so we need to
+        // do this so they don't see two Entry links.
+        // If they're logged in, see if there's a member entry link.
+        // If so, hide the non-member link.
+        if ($('.loginBoxProfileLink').length) {
+            var memberLinks = $.grep($('.menuInner .item a'), function(el) {
+                return $(el).attr('href').match('entry-member') !== null
+            })
+
+            if (memberLinks.length) {
+                $('.menuInner .item a').each(function(index) {
+                    var el = $(this)
+                    if (el.attr('href').match('entry-non-member') !== null) {
+                        el.hide()
+                    }
+                })
+            }
+        } else {
+            // Wild Apricot handles this case on the server.
+        }
+
+
+        // Hide the date for year 9999 posts
+        // This is our fake "sticky" posts.
+        $('.postedOn').each(function(i) {
+            var el = $(this)
+            if (el.text().match('9999') !== null) {
+                el.hide()
+            }
+        })
+    })
+</script>
+</head>
+  <body id="PAGEID_18015" class="publicContentView LayoutMain">
+<div class="mLayout layoutMain state1" id="mLayout">
+
+ <!-- header zone -->
+		<div class="zoneHeader1">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idHeaderContentHolder" data-componentId="Header" class="WaPlaceHolder WaPlaceHolderHeader" style=""><div style="padding-top:10px;padding-bottom:0px;"><div id="id_c7aMMQ6" data-componentId="c7aMMQ6" class="WaLayoutContainerOnly" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style="height:70px;"><tr data-componentId="c7aMMQ6_row" class="WaLayoutRow"><td id="id_EfPyMA9" data-componentId="EfPyMA9" class="WaLayoutItem" style="width:6%;"><div id="id_ERKNgCm" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="ERKNgCm" style=""><div style=""><div id="id_yXYL4el" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="yXYL4el" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p><a href="http://www.lapressclub.org"><img src="/Resources/Pictures/logo.png" title="" alt="" width="80" height="79" border="0"></a><br></p></div>
+</div></div></div></td><td style="" data-componentId="EfPyMA9_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_OTWZe2i" data-componentId="OTWZe2i" class="WaLayoutItem" style="width:47%;"><div id="id_gKI5ReF" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="gKI5ReF" style=""><div style=""><div id="id_8fYRpVd" class="WaGadgetFirst WaGadgetContent  gadgetStyleNone" style="margin-bottom:-15px;" data-componentId="8fYRpVd" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-top:0px;padding-left:10px;" data-editableArea="0" data-areaHeight="auto">
+<h3><a style="color:#5B5B5B" href="http://www.lapressclub.org">Los Angeles Press Club</a></h3>
+</div>
+</div><div id="id_OftzTFV" class="WaGadgetLast WaGadgetContent  gadgetStyleNone" style="margin-top:10px;margin-bottom:-10px;height:20px;" data-componentId="OftzTFV" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-left:10px;" data-editableArea="0" data-areaHeight="auto">
+<p><font style="font-size: 14px;">Encouraging serious journalism in Southern California</font></p>
+</div>
+<script type="text/javascript">new WaContentGadgetResizer({ id: 'id_OftzTFV' });</script>
+</div></div></div></td><td style="" data-componentId="OTWZe2i_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_wJ1IVTf" data-componentId="wJ1IVTf" class="WaLayoutItem" style="width:11%;"><div id="id_28rPCdZ" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="28rPCdZ" style=""><div style=""><div id="id_aehYnUZ" class="WaGadgetOnly WaGadgetSocialProfile  gadgetStyleNone" style="margin-top:10px;margin-left:10px;" data-componentId="aehYnUZ" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationHorizontal">
+
+<li>
+				<a href="https://www.facebook.com/LAPC1913" title="Facebook" target="_blank"><img height="30" witdh="30" src="/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/Gadgets/SocialProfile/Images/icon-facebook.png" /></a>
+			</li>
+<li>
+				<a href="https://twitter.com/lapressclub" title="Twitter" target="_blank"><img height="30" witdh="30" src="/BuiltTheme/simple_transparent_classic.v3.0/7c24b519/Gadgets/SocialProfile/Images/icon-twitter.png" /></a>
+			</li>
+</ul>
+
+</div>
+</div></div></div></td><td style="" data-componentId="wJ1IVTf_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_HQweIlV" data-componentId="HQweIlV" class="WaLayoutItem" style="width:36%;"><div id="id_vlTrRkE" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="vlTrRkE" style=""><div style=""><div id="id_Jxy6Pfr" class="WaGadgetOnly WaGadgetLoginButton  gadgetStyleNone" style="margin-top:10px;" data-componentId="Jxy6Pfr" ><div class="loginBoxLinkContainer">
+            <a class="loginBoxLinkButton" href="http://lapressclub.org/Sys/Login">Login</a>
+        </div>
+
+    </div></div></div></td></tr></table> </div></div>
+</div></div>
+			</div>
+		</div>
+		<div class="zoneHeader2">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="id_Header1" data-componentId="Header1" class="WaPlaceHolder WaPlaceHolderHeader1" style=""><div style="padding-top:0px;"><div id="id_HMOrNIs" class="WaGadgetOnly WaGadgetMenuHorizontal  menuStyle001" style="" data-componentId="HMOrNIs" ><div class="menuInner">
+	<ul class="firstLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/" title="Home"><span>Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://lapressclub.org/join" title="Join"><span>Join</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Reciprocal-Press-Clubs" title="Reciprocal Press Clubs"><span>Reciprocal Press Clubs</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Services" title="Services"><span>Services</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://lapressclub.org/events" title="Events"><span>Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Past-Member-Events" title="Past Member Events"><span>Past Member Events</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://lapressclub.org/SoCal-Award" title="SoCal Awards"><span>SoCal Awards</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Presidents-Award" title="Presidents Award"><span>Presidents Award</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Pearl-Award" title="Daniel Pearl Award"><span>Daniel Pearl Award</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Quinn-Award" title="Quinn Award"><span>Quinn Award</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Public-Service-Award" title="Public Service Award"><span>Public Service Award</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Winners-&amp;-Pictures-SoCal" title="Winners &amp; Pictures SoCal"><span>Winners &amp; Pictures SoCal</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://lapressclub.org/NAEJ-Awards" title="NAEJ Awards"><span>NAEJ Awards</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Visionary-Award" title="Visionary Award"><span>Visionary Award</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Luminary-Award" title="Luminary Award"><span>Luminary Award</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/Winners-&amp;-Pictures-NAEJ" title="Winners &amp; Pictures NAEJ"><span>Winners &amp; Pictures NAEJ</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/news" title="News"><span>News</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/about" title="About"><span>About</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://lapressclub.org/page-7742" title="Contact"><span>Contact</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+
+<script type="text/javascript">
+	jq$(function()
+	{
+		var gadgetHorMenu = jq$('#id_HMOrNIs'),
+			gadgetHorMenuContainer = gadgetHorMenu.find('.menuInner'),
+			firstLevelMenu = gadgetHorMenu.find('ul.firstLevel'),
+			holderInitialMenu = firstLevelMenu.children(),
+			outsideItems = null,
+			phantomElement = '<li class="phantom"><div class="item"><a href="#"><span>&#x2261;</span></a><ul class="secondLevel"></ul></div></li>',
+			placeHolder = gadgetHorMenu.parents('.WaLayoutPlaceHolder'),
+			placeHolderId = placeHolder && placeHolder.attr('data-componentId');
+
+		function resizeMenu()
+		{
+			var i,
+				len,
+				fitMenuWidth = 0,
+				menuItemPhantomWidth = 80;
+
+			firstLevelMenu.html( holderInitialMenu).removeClass('adapted').css({ width: 'auto' }); // restore initial menu
+
+			//console.log(firstLevelMenu.width(), gadgetHorMenuContainer.width());
+
+
+			if( firstLevelMenu.width() > gadgetHorMenuContainer.width() ) // if menu oversize
+			{
+				menuItemPhantomWidth = firstLevelMenu.addClass('adapted').append( phantomElement).children('.phantom').width();
+
+				for( i = 0, len = holderInitialMenu.size(); i <= len; i++ )
+				{
+					fitMenuWidth += jq$( holderInitialMenu.get(i) ).width();
+
+					if( fitMenuWidth + menuItemPhantomWidth > gadgetHorMenuContainer.width() )
+					{
+						outsideItems = firstLevelMenu.children(':gt('+(i-1)+'):not(.phantom)').remove();
+						firstLevelMenu.find('.phantom > .item > ul').append( outsideItems);
+						break;
+					}
+				}
+				gadgetHorMenu.find('.phantom > .item > a').click(function(){ return false; });
+			}
+
+			firstLevelMenu.css( 'width', '' ); // restore initial menu width
+			firstLevelMenu.children().removeClass('last-child').eq(-1).addClass('last-child'); // add last-child mark
+		}
+
+		resizeMenu();
+
+		jq$(window).resize(function()
+		{
+			resizeMenu();
+		});
+
+		function onLayoutColumnResized(sender, args)
+		{
+			args = args || {};
+
+			if (placeHolderId && (placeHolderId == args.leftColPlaceHolderId || placeHolderId == args.rightColPlaceHolderId))
+			{
+				resizeMenu();
+			}
+		}
+
+		BonaPage.addPageStateHandler(BonaPage.PAGE_PARSED, function() { WA.Gadgets.LayoutColumnResized.addHandler(onLayoutColumnResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_UNLOADED, function() { WA.Gadgets.LayoutColumnResized.removeHandler(onLayoutColumnResized); });
+
+
+		var supportTouch = !!(('ontouchstart' in window) || (window.DocumentTouch && document instanceof DocumentTouch) || (navigator.msPointerEnabled && navigator.msMaxTouchPoints));
+
+		if( supportTouch )
+		{
+			jq$('#id_HMOrNIs').find('.menuInner li.dir > .item > a').on( 'click', function(event)
+			{
+				if( !this.touchCounter )
+					this.touchCounter = 0;
+
+				if( this.touchCounter >= 1 )
+				{
+					this.touchCounter = 0;
+					return true;
+				}
+				this.touchCounter++;
+				event.preventDefault();
+			});
+
+			jq$('#id_HMOrNIs').find('.menuInner li.dir > .item > a').on( 'mouseout', function(event)
+			{
+				if( !this.touchCounter )
+					this.touchCounter = 0;
+				this.touchCounter = 0;
+			});
+		}
+
+
+	});
+</script></div></div>
+</div></div>
+			</div>
+		</div>
+		<div class="zoneHeader3">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+		<div class="zoneHeader4">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+		<!-- /header zone -->
+
+<!-- content zone -->
+	<div class="zoneContent">
+		<div class="container_12">
+			<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idPrimaryContentBlock1Content" data-componentId="Content" class="WaPlaceHolder WaPlaceHolderContent" style="background-color:transparent;"><div style=""><div id="id_D8mJmJs" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="margin-bottom:0px;" data-componentId="D8mJmJs" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<h2>Page not found (error 404)</h2>Sorry, but the page you are trying to access either does not exist or is not available.<br/><br/><div><a href="/">Home</a>&nbsp;&nbsp;<a href="javascript:history.back()">Back</a> </div></div>
+</div></div>
+</div></div>
+		</div>
+	</div>
+	<!-- /content zone -->
+
+<!-- footer zone -->
+		<div class="zoneFooter1">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+		<div class="zoneFooter2">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+		<div class="zoneFooter3">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="id_Footer2" data-componentId="Footer2" class="WaPlaceHolder WaPlaceHolderFooter2" style=""><div style=""><div id="id_zM6eEvQ" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="zM6eEvQ" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p align="right" class="contStyleNarrowLineHeight"><span style=""><font style="font-size: 12px;">Copyright © 2014 Los Angeles Press Club - All Rights Reserved<br></font></span></p><p align="right" class="contStyleNarrowLineHeight"><span style=""><font style="font-size: 12px;">"Los Angeles Press Club" is a 501(c)(3) non-profit organization. 4773 Hollywood Boulevard, Los Angeles, CA&nbsp;90027</font></span><br></p>
+</div>
+</div></div>
+</div></div>
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idFooterPoweredByContainer">
+	<span id="idFooterPoweredByWA">
+Powered by <a href="http://www.wildapricot.com">Wild Apricot</a> Membership Software</span>
+</div>
+</div>
+			</div>
+		</div>
+		<!-- /footer zone -->
+
+</div></body>
+</html>
+<script type="text/javascript">if (window.BonaPage && BonaPage.setPageState) { BonaPage.setPageState(BonaPage.PAGE_PARSED); }</script>

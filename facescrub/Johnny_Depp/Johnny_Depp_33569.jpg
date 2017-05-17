@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+
+		<meta charset="UTF-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="robots" content="noindex, nofollow" />
+
+		<title>Page Not Found | Digital Trends</title>
+
+		<style>
+			/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+			html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+			/* general stuff
+			------------------------------------------ */
+			body {
+				min-width: 510px;
+				background: #fff;
+				font-family: Helvetica, Arial, sans-serif;
+				font-size: 14px;
+				-webkit-font-smoothing: antialiased;
+			}
+
+			a {
+				text-decoration: none;
+				color: #0095da;
+			}
+
+			#top-bar, #page {
+				clear: both;
+				overflow: hidden;
+				text-align: center;
+			}
+
+			.bb-wrap {
+				max-width: 970px;
+				margin: 0 auto;
+				padding: 0 54px;
+				text-align: left;
+			}
+
+			/* images
+			------------------------------------------ */
+			#top-bar .dt,
+			#top-bar .logo,
+			#scene .cloud.left,
+			#scene .cloud.right,
+			#scene .message,
+			#scene .message span,
+			#dan,
+			#ian {
+				background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAckAAAKaCAMAAABiE1KHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAYBQTFRF4ODgAL7owsLCALLk9fX1AMDpAJbaAMTrMDAwkJCQ8PDwANnycXFx+fn5tLS0ANXwAOH1AM3u/f39ANDvYmJii4uLwMDAAKbgenp63d3dAJXaODg4np6eampqyMjIDw8PUFBQ7e3tAZzcAJjbCAgIAJrc5eXlANzzAOb2WVlZ2dnZ0NDQALjmAKHera2tAK/jqKiopaWlCaLeAajhISEhAMrtALTlAJ7dAMjsALrn1dXVPDw8AKziLCwsoKCgGRkZvr6+ALbmVVVV8/PzhoaGsrKylJSUdnZ2RkZGAN/0SUlJmJiYAOT26urqAOj3uLi4NjY2x8fH/MTYxOT0TExM/+a0sbGxT09PGzJNgb3KFypBQY+fhXFDcWA5EhYY/gACdUwko6OjQkJCw7CJYkAex7OM1sGXxpxtNSMC1QACRC0C2cSZN3qHL2hzLEBFAKvigICAQEBAAKPfAKrhANPwsLCw+/z9AJ/d09PTAOT1ALDkALzoAMfsAAAA////////arZICAAAAIB0Uk5T/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wA4BUtnAAARyElEQVR42uzd/2PTxB/H8YnzYze2iXN0IIyBTkSmMHSAohsTEFBR0A8ykbGxOUFAUUT4ANrkX/+8c5der5e06Uba5cvz9UOXtpcsu0eTy13SrM9PSq05fufRpe3Zkuf3VKLT9ismCXO92Zz/vP32O2+d/OCDv8Yf/XH05RPvf/LPK6+8+vHx19/4+7Xt29/9cseOS4cOXXq2w6+qXN47NKsXOFmtntFTD+f7nozunv9UP5uojvifVq2clhfnqtWr4UqNVavNf9uYXXjCHwl+LBwZuKrqxFrSiPqd1Z16Lim2V37otxZmdl6cChd3eufhJ97u8+Fa+n0lk/yfQH70x2fPA8mXXnn1349ff/2NAFIknx369luxbPyS0ZllJel5Q8HP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);
+			}
+
+			#scene {
+				background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRFsbGxxMTEWaFbOwAAAAJ0Uk5T/wDltzBKAAAAmklEQVR42uyYyw6AIAwE6///tPHsi8L2wHY4eCC6k5BSYeLQjYi4z0Q/wNsnj+nX0wvwu2LZdDNARboT4Pulpe1tAahLtwHUpbsCtMMbIClfA8Bcl28FWEkf+ctaAoTpo910N8D0ZUbZTTcHpDZ5T0CqXgFw8MIX4YvwRfgifBG+CF+ELwKAL8IX4YvwRfgifBG+CECzc9EpwABzbiF55xQtdwAAAABJRU5ErkJggg==);
+			}
+
+			#scene .container .blocks {
+				background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAxQTFRF/MTYPLz8////AAAAM//OfgAAAI5JREFUeNrslcEOgDAIQ3H8/z976FY3dA4PEBPtwQSyl0A3UFS1lIKvR5ICPNI3AaenPJMAoLKtCVkTIjM0HQmgvuVphglArUykxk3HADQNTUcC/S3yhfUXbJIJAIOZm9TQdCSAQm/ctPl44GyccZPL92LNxACch5mb0wEKA965vZcrtXc8Afh/uw7tAgwAayIUJnVEPcYAAAAASUVORK5CYII=);
+			}
+
+			/* top bar
+			------------------------------------------ */
+			#top-bar {
+				height: 54px;
+				background: #000;
+			}
+
+			#top-bar a {
+				display: block;
+				width: 100%;
+				height: 100%;
+				text-indent: -9999em;
+				overflow: hidden;
+			}
+
+			#top-bar .dt {
+				float: left;
+				width: 54px;
+				height: 54px;
+				position: relative;
+				left: -54px;
+				background-position: -219px 0;
+				background-repeat: no-repeat;
+			}
+
+
+			#top-bar .logo {
+				float: left;
+				width: 178px;
+				height: 16px;
+				position: relative;
+				margin-top: 18px;
+				left: -33px; /* 54 - 21 */
+				background-position: -274px 0;
+				background-repeat: no-repeat;
+			}
+
+			/* Air Man blocks with Ring Man clouds if you're wondering
+			---------------------------------------------------------- */
+			#scene {
+				width: 100%;
+				height: 354px;
+				position: relative;
+				background-color: #c4c4c4;
+				background-repeat: repeat;
+				overflow: hidden;
+			}
+
+			#scene .cloud {
+				pointer-events: none;
+			}
+
+			#scene .cloud.left {
+				width: 306px;
+				height: 207px;
+				background-position: 0 -270px;
+				background-repeat: no-repeat;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				z-index: 2;
+			}
+			#scene .cloud.right {
+				width: 457px;
+				height: 188px;
+				background-position: 0 -478px;
+				background-repeat: no-repeat;
+				position: absolute;
+				top: 0;
+				right: 0;
+				z-index: 3;
+			}
+
+			#scene .message {
+				width: 189px;
+				height: 123px;
+				background-position: 0 -146px;
+				background-repeat: no-repeat;
+				position: absolute;
+				top: 129px;
+				left: 50%;
+				margin-left: -91px;
+			}
+			#scene .message span {
+				display: block;
+				width: 75px;
+				height: 21px;
+				margin: 48px 0 0 54px;
+				background-position: -143px 0;
+				background-repeat: no-repeat;
+				text-indent: -9999em;
+				overflow: hidden;
+			}
+
+			#scene .container {
+				position: relative;
+				float: left;
+				width: 50%;
+				height: 100%;
+			}
+
+			/* fix blinking in IE9 */
+			body.ie #scene .container.right {
+				float: right;
+				width: 49.9%;
+			}
+
+			#scene .container .blocks {
+				height: 48px;
+				background-position: 0 0;
+				background-repeat: repeat-x;
+			}
+
+			/* thank you IE9 for not respecting top margins on .blocks so have to use parent padding instead */
+			#scene .container.left {
+				height: 180px; /* 354 - 174 */
+				padding-top: 174px;
+			}
+			#scene .container.right {
+				height: 108px; /* 354 - 246 */
+				padding-top: 246px;
+			}
+
+			#ian a, #dan a {
+				display: block;
+				height: 100%;
+				width: 100%;
+			}
+
+			#scene .container.left .blocks {
+				background-position: top right;
+				margin: 0 161px 0 0;
+			}
+
+			#dan {
+				width: 78px;
+				height: 96px;
+				background-position: 0 0;
+				background-repeat: no-repeat;
+				position: absolute;
+				top: 48px;
+				right: 162px;
+
+				animation:			danblink 4.8s step-end 2s infinite;
+				-webkit-animation:	danblink 4.8s step-end 2s infinite;
+				-moz-animation:		danblink 4.8s step-end 2s infinite;
+				-o-animation:		danblink 4.8s step-end 2s infinite;
+			}
+			@keyframes danblink {
+				0% { background-position: -190px -146px; }
+				3% { background-position: 0 0; }
+			}
+			@-webkit-keyframes danblink {
+				0% { background-position: -190px -146px; }
+				3% { background-position: 0 0; }
+			}
+			@-moz-keyframes danblink {
+				0% { background-position: -190px -146px; }
+				3% { background-position: 0 0; }
+			}
+			@-o-keyframes danblink {
+				0% { background-position: -190px -146px; }
+				3% { background-position: 0 0; }
+			}
+
+			#scene .container.right .blocks {
+				background-position: top left;
+				margin: 0 0 0 160px;
+			}
+
+			#ian {
+				width: 63px;
+				height: 75px;
+				background-position: -79px 0;
+				background-repeat: no-repeat;
+				position: absolute;
+				top: 171px;
+				left: 175px;
+
+				animation:			ianblink 4s step-end 1s infinite;
+				-webkit-animation:	ianblink 4s step-end 1s infinite;
+				-moz-animation:		ianblink 4s step-end 1s infinite;
+				-o-animation:		ianblink 4s step-end 1s infinite;
+			}
+			@keyframes ianblink {
+				0% { background-position: -269px -146px; }
+				3% { background-position: -79px 0; }
+			}
+			@-webkit-keyframes ianblink {
+				0% { background-position: -269px -146px; }
+				3% { background-position: -79px 0; }
+			}
+			@-moz-keyframes ianblink {
+				0% { background-position: -269px -146px; }
+				3% { background-position: -79px 0; }
+			}
+			@-o-keyframes ianblink {
+				0% { background-position: -269px -146px; }
+				3% { background-position: -79px 0; }
+			}
+
+			/* some text
+			------------------------------------------ */
+			#page h1 {
+				margin: 60px 0 20px 0;
+				font-size: 24px;
+				color: #282828;
+			}
+
+			#page p {
+				margin: 0 100px 20px 0;
+				color: #aaa;
+				font-size: 14px;
+				line-height: 18px;
+			}
+
+			#page p a:hover {
+				text-decoration: underline;
+			}
+
+			/* search box
+			------------------------------------------ */
+			#search {
+				position: relative;
+				width: 127px;
+				height: 26px;
+				height
+				margin-bottom: 20px;
+			}
+
+			#search .search {
+				overflow: hidden;
+				width: 100px;
+				height: 24px;
+				padding: 0 20px 0 5px;
+				border: 1px solid #d0d0d0;
+				background: none;
+				font-family: Helvetica, Arial, sans-serif;
+				font-size: 14px;
+				line-height: 24px;
+				font-weight: normal;
+				-webkit-font-smoothing: antialiased;
+				color: #0095da;
+			}
+			#search .search::-webkit-input-placeholder { color: #0095da; }
+			#search .search:-moz-placeholder { color: #0095da; }
+			#search .search::-moz-placeholder { color: #0095da; }
+			#search .search:-ms-input-placeholder { color: #0095da; }
+
+			#search .button {
+				width: 13px;
+				height: 12px;
+				position: absolute;
+				top: 7px;
+				right: 5px;
+				cursor: pointer;
+			}
+		</style>
+
+	</head>
+
+<!--[if lt IE 7]> <body class="ie6 ie"> <![endif]-->
+<!--[if IE 7]>    <body class="ie7 ie"> <![endif]-->
+<!--[if IE 8]>    <body class="ie8 ie"> <![endif]-->
+<!--[if IE 9]>    <body class="ie9 ie"> <![endif]-->
+<!--[if gt IE 9]><!-->
+	<body>
+<!--<![endif]-->
+
+		<div id="main-wrap" class="dt-site-skin-wrap">
+			<div id="top-bar">
+				<div class="bb-wrap">
+					<div class="dt"><a href="http://www.digitaltrends.com">DT</a></div>
+					<div class="logo"><a href="http://www.digitaltrends.com">Digital Trends</a></div>
+				</div>
+			</div>
+
+			<div id="scene">
+				<div class="cloud left"></div>
+				<div class="cloud right"></div>
+				<div class="message"><span>404</span></div>
+				<div class="container left">
+					<div id="dan">
+						<a href="http://www.digitaltrends.com/about/corporate-management/#dan-gaul"></a>
+					</div>
+					<div class="blocks"></div>
+				</div>
+				<div class="container right">
+					<div id="ian">
+						<a href="http://www.digitaltrends.com/about/corporate-management/#ian-bell"></a>
+					</div>
+					<div class="blocks"></div>
+				</div>
+			</div>
+
+			<div id="page">
+				<div class="bb-wrap">
+					<h1>Sorry we couldn't find that page.</h1>
+					<p>From here you can either check out the <a href="http://www.digitaltrends.com/">front page</a>,
+					or try <strong>searching</strong> for what you were trying to find.</p>
+
+					<form id="search" method="get" action="http://www.digitaltrends.com/">
+						<input type="text" class="search" name="s" placeholder="Search DT" />
+						<input type="image" class="button" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAMAAACOacfrAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIRQTFRFx8fHysrK4ODg/Pz85eXl3d3dxcXF5ubm9/f3zs7Ow8PDxMTEwMDA8fHx2NjY/f39yMjI0dHRzc3N0tLSy8vL1dXV29vb9vb28/Pz0NDQ5+fn6+vr/v7+9fX19PT05OTk4+Pj6Ojo3Nzc39/f8vLy6enpxsbG7e3t+Pj4v7+/vb29////Nw1owQAAACx0Uk5T/////////////////////////////////////////////////////////wDH1gmMAAAAeklEQVR42hyO1xLCMBADFZNeSKHX0MHS//8fZ+ttZ/ZmD7Idq7peu4UEqV8xLikDLckhe1aGPbQnR5OUkQXk2JbhWANHmIgI2jCBtmzOkQ6coBOZBug8H2bl9G73uzf0F2j21vItg4KCzKcQx9t+eeFzVZfevqH5F2AAH6ETBO7gn+MAAAAASUVORK5CYII=" alt="Search" width="13" height="12" />
+					</form>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>

@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+    <!-- data-info:v:2.0.5444.9975;a:a944932e-cfb4-4fab-8953-ee440f7db1b0;cn:75;az:{did:1f802c514e1c42e385b028b15ac20ce4, rid: 75, sn: westus-hp, dt: 2014-12-02T08:05:55.4169411Z, bt: 2014-11-27T13:33:01.7665094Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:,vk:homepage,n:,l:en-us,ck:};xd:AA3iOMG;ovc:f;fxd:t;xdpub:2014-12-03 01:23:19Z;xdmap:2014-12-03 01:26:33Z;axd:;f:prexboxtrmt4,muidflt9cf -->
+    
+    
+    
+
+        <title>msn</title>
+    <meta name="description" content="The new MSN, Your customizable collection of the best in news, sports, entertainment, money, weather, travel, health, and lifestyle, combined with Outlook, Facebook, Twitter, Skype, and more."/>
+    
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+    
+<link rel="stylesheet" href="//static-hp-wus.s-msn.com/en-us/homepage/_sc/css/a948ecb3-/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/5a-1f1792-d4363036/2c-456a38-28fba29e/81-318707-efec7734/62-f71ef8-74baf5b2/20-1a95fe-bdfd55f0/f2-ff0684-2182c5e1/weather-css-3f-bc2b1074ad8f00550fd4291cb33ce0-68ddb2ab/weather-css-65-6341176d2157b6b321f0d5b7797e91-68498d79/weather-css-1a-e6ce1e6c42564a024337fa40b2500b-c5d34d99/5f-8d77eb-987bda9d/finance-css-63-65d1249c8f9a85400199170ce53559-99dccfc1/health-css-cc-6f1a79dbf4ab1f25e2e969f1b81bab-68ddb2ab?ver=2.0.5444.9975&amp;fdhead=prexboxtrmt4,muidflt9cf" media="all" />
+
+    
+    
+            <script type="text/javascript"  src="//ads1.msads.net/library/dapmsn.js"></script>
+
+</head>
+
+<body class="startpage sp center-content start">
+    
+    
+    <div class="head">
+        <div>
+<div id="topnav">
+        <ul class="verticalsnav">
+                    <li  class="current">
+                        <a href="/en-us">Home</a>
+                    </li>
+                    <li >
+                        <a href="/en-us/news">News</a>
+                    </li>
+                    <li >
+                        <a href="/en-us/weather">Weather</a>
+                    </li>
+                    <li >
+                        <a href="/en-us/entertainment">Entertainment</a>
+                    </li>
+                    <li >
+                        <a href="/en-us/sports">Sports</a>
+                    </li>
+                    <li >
+                        <a href="/en-us/money">Money</a>
+                    </li>
+
+                <li class="more">
+                    <a href="#nav">More ></a>
+                    <ul>
+        <li >
+            <a href="/en-us/lifestyle">Lifestyle</a>
+        </li>
+        <li >
+            <a href="/en-us/health">Health &amp; Fitness</a>
+        </li>
+        <li >
+            <a href="/en-us/foodanddrink">Food &amp; Drink</a>
+        </li>
+        <li >
+            <a href="/en-us/travel">Travel</a>
+        </li>
+        <li >
+            <a href="/en-us/autos">Autos</a>
+        </li>
+        <li >
+            <a href="/en-us/video">Video</a>
+        </li>
+                    </ul>
+                </li>
+        </ul>
+</div>
+
+                    <div id="header-common">
+            <div class="header">
+                <div class="header-logo">
+                            <a class="logo" href="/en-us">
+            
+
+
+<img alt="" height="20" width="20" src="//static-hp-wus.s-msn.com/sc/6d/b23cf2.gif" />
+        </a>
+            <a class="vertical" href="/en-us">msn</a>
+
+                </div>
+                <div id="header-links">
+                        <a href="http://www.outlook.com/">Outlook.com</a>
+                        <span>|</span>
+                        <a href="/en-us/settings/markettoggle"><img alt="en-us" src="//static-hp-wus.s-msn.com/sc/6a/a62410.gif" /></a>
+
+                    <a class="navigation" href="#nav">
+                        <img  alt="go to navigation" width="27" height="20" src="//static-hp-wus.s-msn.com/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+            
+
+<div id="header-search">
+    <form action="http://www.bing.com/search?scope=web&amp;mkt=en-US" method="get" id="srchfrm">
+        <div class="searchbox">
+            <input type="text" id="q" name="q" value="" />
+            <input type="hidden" name="form" value="PRUSDL" />
+                <input type="hidden" name="mkt" value="en-us" />
+            <input type="hidden" name="refig" value="a944932ecfb44fab8953ee440f7db1b0">
+            <input type="submit" class="text" value="web search" title="web search"/>
+                <div id="sw_as"> </div>
+        </div>
+    </form>
+        <script type="text/javascript">
+            //<![CDATA[
+            var srchInput = document.getElementById("q");
+            function sj_be(el, evt, mth) {
+                if (el.addEventListener) {
+                    el.addEventListener(evt, mth, false);
+                }
+                else if (el.attachEvent) {
+                    el.attachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = mth;
+                }
+            }
+
+            function sj_ue(el, evt, mth) {
+                if (el.removeEventListener) {
+                    el.removeEventListener(evt, mth, false);
+                }
+                else if (el.detachEvent) {
+                    el.detachEvent("on" + evt, mth);
+                }
+                else {
+                    el["on" + evt] = null;
+                }
+            }
+
+            function loadScript(url, callback) {
+                var script = document.createElement("script")
+                script.type = "text/javascript";
+
+                if (script.readyState) {
+                    script.onreadystatechange = function () {
+                        if (script.readyState == "loaded" || script.readyState == "complete") {
+                            script.onreadystatechange = null;
+                            callback();
+                        }
+                    };
+                }
+                else {
+                    script.onload = function () {
+                        callback();
+                    };
+                }
+
+                script.src = url;
+                document.getElementsByTagName("head")[0].appendChild(script);
+            }
+
+            function initAS() {
+                loadScript("http://www.bing.com/s/as/1436447/en.js", function () {
+                    var config = { u: 'http://api.bing.com/qsonhs.aspx?form=MSN005', tPN: 'Popular Now', f: 'srchfrm', i: 'q', r: 'AutoSugShared', o: 's+a+p+hs+', h: 1, k: 0, m: 8, d: 100, ol: 1, eHS: 1, spr: 0 };
+                    if (typeof window.sa_autosuggest != "undefined") {
+                        window["sa_inst"] = new window.sa_autosuggest(config);
+                        window["sa_inst"].init("sa_inst");
+                    }
+                });
+                sj_ue(srchInput, 'click', initAS);
+            }
+
+            if (srchInput) {
+                sj_be(srchInput, 'click', initAS);
+            }
+            //]]>
+        </script>
+</div>
+
+        </div>
+        
+        
+            <div class="upgradebrowser">
+                You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+            </div>
+        
+
+
+    </div>
+    <div id="maincontent">
+        
+        <div id="main"  data-region="main">
+            
+ 
+
+        <div class="today">
+
+
+    <div class="weatodaytile"  data-module-id="startpage|todayDownlevel|Section|DownlevelMiniWeather|WeatherTodayTileModule" >
+        <a  href="/en-us/weather/today/us/Seattle,Washington,United-States/we-city-47.662,-122.281" data-loc="lat=47.66&amp;long=-122.28&amp;c=Seattle&amp;st=Washington&amp;cn=United%20States&amp;iso=US&amp;type=1">
+            <div class="weatileleft">
+                <img class="skycond" src="http://img.s-msn.com/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+                     
+                     data-src="{&quot;default&quot;:&quot;http://img.s-msn.com/tenant/amp/entityid/BB8MNzQ.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+                     alt="Clear" title="Clear" data-icon="28" />
+
+                <div><span class="currentcond">36&#176;</span><span class="tempunit">F</span></div>
+            </div>
+            <div class="weatileright">
+                <span class="weacity">Seattle, Washington</span>
+                <span class="skytext">Today, Clear</span>
+                <span class="tempavghigh">High 41&#176;</span>
+                <span class="tempavglow">Low 27&#176;</span>
+            </div>
+        </a>
+
+
+
+<a id="edithome" href="#" data-degreetype="F" 
+     data-home="Search for Location / City" title="Edit Settings">Edit Settings</a>
+
+<div class="weapopup">
+    <div class="weatherdropdown weatherpopupbg"></div>
+    <div class="weatherdropdown weatherpopupcontent">
+        <a class="close"  role="button" href="#" title="Close">Close</a>
+        
+<div class="weaaddlocation">
+
+    <form  action="/en-us/weather/search" data-action="/en-us/weather/ajax/places/search/" method="get" >
+        <p>Set Default Location</p>
+        <input name="q" accesskey="L" autocomplete="off" type="search"
+               value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;en-us&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/en-us/weather/today&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;dataset&quot;:&quot;w8weather&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:47.6615,&quot;lon&quot;:-122.281}'
+               placeholder="Search for Location / City" data-seemoretext="Press &lt;Enter&gt; to see more" />
+        <button title="Search" type="submit" class="searchbtn" value="search" role="button">Search</button>
+        <div class="nolocerr" data-message="No search results for &#39;{0}&#39;"></div>
+        <div class="errmsg">An unexpected error occurred, please try again.</div>
+    </form>
+</div>
+
+        
+<div>
+    <p>Display Temperature In</p>
+    <form class="setdegree"  action="/en-us/weather/ajax/places/savedegree/" method="get">
+        <div>
+            <button name="weaDegreeType" id="fahrenheit" value="F"
+                    class="selected">
+                <div class="dot"></div>
+            </button>
+            <label for="fahrenheit">Fahrenheit</label>
+        </div>
+        <div>
+            <button name="weaDegreeType" id="celsius" value="C"
+                    class="">
+                <div class="dot"></div>
+            </button>
+            <label for="celsius">Celsius</label>
+        </div>
+    </form>
+</div>
+        <button  class="donebutton disabled" disabled="disabled" title="Done">Done</button>
+    </div>
+</div>    </div>
+    <div  class="stripecontent popularnow"  data-module-id="startpage|todayDownlevel|Section|popularNowModule|popularNow"  data-aop="popularnowmodule">
+        <section >
+            
+            <header>
+<h3>Popular Now</h3>            </header>
+                    <ul>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=lady+gaga+howard+stern&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Lady Gaga raped?
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=jerry+hall+slams+plastic+surgery&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Jagger&#39;s ex lashes out
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=50+cent+account+frozen&amp;go=Submit&amp;qs=bs&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    50 Cent going broke?
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=rihanna+british+fashion+awards&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Rihanna spills out of dress
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=haylie+duff+pregnant&amp;go=Submit&amp;qs=bs&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Duff expecting a baby
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=kourtney+kardashian+pregnant&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Kourtney poses nude
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=kate+gosselin+drama&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Kate Gosselin &#39;drama&#39;
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=taylor+swift+jessica+hart&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Taylor got model booted?
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=xzibit+dui&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Rapper married, arrested
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=stamos+amy+poehler&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Stamos&#39; secret &#39;date&#39;
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=+Noe+Iniguez+jail&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    &#39;Revenge porn&#39; draws jail
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=rosario+dawson+adopts&amp;go=Submit&amp;qs=bs&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Star actress adopts
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=bobby+keys&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Stones musician dies
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=jada+pinkett+smith+mom+bikini&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Jada&#39;s mom, 61, rocks bikini
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=eric+beasley+florida+deerfield&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Teacher sex scandal
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=madonna+tried+everything+interview+magazine&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Singer, 56, poses topless
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=%27cake+boss%27+admits+driving+while+impaired+in+nyc&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    &#39;Cake Boss&#39; comes clean
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=burger+king+yumbo&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    &#39;80s sandwich returns?
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=mclaren+p1+crash&amp;go=Submit&amp;qs=bs&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Man crashes $1.2M car
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=american+mother+killed+in+abu+dhabi+mall&amp;go=Submit&amp;qs=bs&amp;form=prhps1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Mom killed at mall
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                                <li  >
+            <a href="http://www.bing.com/search?q=heidi+klum+too+old+bikini&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Model too old for bikini?
+                </h3>
+            </a>
+    </li>
+
+        <li  >
+            <a href="http://www.bing.com/search?q=luke+bryan+cancels+cmt&amp;form=PRHPS1&amp;mkt=en-us&amp;refig=a944932ecfb44fab8953ee440f7db1b0">
+                
+                <h3>
+                    Tragedy for country star
+                </h3>
+            </a>
+    </li>
+                    </ul>
+                </li>
+        </ul>
+
+            
+        </section>
+    </div>
+
+
+        </div>
+        <div class="stripe first">
+<h2>Today</h2>    <a href="/en-us/news/us/2-children-adult-killed-in-tenn-school-bus-crash/ar-BBgfxD2">
+<img alt="new caption" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBgfBi0.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1061&amp;y=615" title="AP Photo/Knoxville News Sentinel, Michael Patrick" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/news/us/2-children-adult-killed-in-tenn-school-bus-crash/ar-BBgfxD2">
+        
+2 school buses collide, 3 dead    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/news/crime/officer-who-shot-boy-had-no-choice-cops-dad-says/ar-BBgenUV">
+        
+Officer who shot boy had no choice, cop&#39;s dad says    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/entertainment/celebrity/celebrity-siblings/ss-BB9emoB">
+        
+Famous family ties: See who their siblings are    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/music/celebrity/lady-gaga-i-was-raped-as-a-teen/ar-BBgfwOF">
+        
+Lady Gaga: I was raped as a teen    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/travel/adventuretravel/killer-climbs-the-10-deadliest-mountains-in-the-world/ss-BBeVIZ3">
+        
+10 deadliest mountains in the world    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/news" >News</a></h2>    <a href="/en-us/news/world/questions-raised-over-queen%e2%80%99s-ancestry-after-dna-test-on-richard-iii%e2%80%99s-cousins/ar-BBgePqi">
+<img alt="new caption" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBgfc2Y.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=556&amp;y=930" title="Society Of Antiquities Of London via University of Leicester, FILE/AP Photo" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/news/world/questions-raised-over-queen%e2%80%99s-ancestry-after-dna-test-on-richard-iii%e2%80%99s-cousins/ar-BBgePqi">
+        
+Queen’s ancestry questioned after DNA test on Richard III’s cousins    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/news/us/riot-probe-targets-browns-stepfather/vi-BBgg45I">
+        
+Riot probe targets Brown&#39;s stepfather    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/news/us/us-designates-35-hospitals-as-ebola-treatment-centers/ar-BBgfmoc">
+        
+U.S. designates 35 hospitals as Ebola treatment centers    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/news/politics/house-approves-bill-to-stop-nazi-benefit-payments/ar-BBgf1lq">
+        
+House approves bill to stop Nazi benefit payments    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/news/us/fewer-hospital-mistakes-mean-50000-lives-and-dollar12-billion-saved/ar-BBgfrn7">
+        
+Fewer hospital mistakes mean 50,000 lives and $12 billion saved    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+    <div  class="ad"  id="rectangle1_homepage_080b8c56-9cbb-4cdf-aaf7-717b177eef0e">
+        <div>
+            <div  id="rectangle1_homepage_container_080b8c56-9cbb-4cdf-aaf7-717b177eef0e">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap() 
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "ad-small";
+                            var postEvaluationAdMediumClassname = "ad-medium";
+                            var postEvaluationAdLargeClassname = "ad-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+                                
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+                                
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                }, 
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    } 
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+            
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1 
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+                                    
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+                                    
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension) 
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold) 
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+                                
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=MSNUSEN11&amp;PVGUID=a944932ecfb44fab8953ee440f7db1b0&amp;PROVIDERID=7HD66FC", 300, 250, "rectangle1_homepage_container_080b8c56-9cbb-4cdf-aaf7-717b177eef0e");
+                    </script>
+            </div>
+                    <a href="http://go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+        <div class="stripe">
+<h2><a href="/en-us/entertainment" >Entertainment</a></h2>    <a href="/en-us/entertainment/celebrity/celebrity-news-for-dec-2-2014/ss-BBgfjTc">
+<img alt="new caption" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBgf71W.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=872&amp;y=138" title="Wonderwall" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/entertainment/celebrity/celebrity-news-for-dec-2-2014/ss-BBgfjTc">
+        
+Cameron Diaz talks timing, love and Miss Hannigan, plus more celeb news    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/entertainment/celebrity/trend-report-stars-wearing-chokers/ss-BBgd0mV">
+        
+Trend report: Stars wearing chokers    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/music/celebrity/pharrell-on-ferguson-jury-everyone-is-heartbroken/ar-BBgfwUY">
+        
+Pharrell on Ferguson jury: Everyone is heartbroken    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/music/celebrity/luke-bryan-cancels-his-cmt-artist-of-the-year-appearance-after-brother-in-law-dies-at-age-46/ar-BBgfJBp">
+        
+Luke Bryan Cancels Appearance After Brother-in-Law Dies    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/movies/celebrity/eva-mendes-discusses-the-struggle-of-being-a-new-mom-and-considers-hiring-a-nanny-in-the-future/ar-BBgeD88">
+        
+Eva Mendes Discusses the &quot;Struggle&quot; of Being a New Mom    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/sports" >Sports</a></h2>    <a href="/en-us/sports/ncaafb/hokes-michigan-timeline/ss-BBgfrRa">
+<img alt="A look at the highs and lows of Brady Hoke&#39;s four-year coaching career at the University of Michigan." height="194" src="//img.s-msn.com/tenant/amp/entityid/BBgfzTn.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Rick Osentoski-USA TODAY Sports" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/sports/ncaafb/hokes-michigan-timeline/ss-BBgfrRa">
+        
+Hoke&#39;s Michigan timeline    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/sports/nfl/ray-rice-speaks-to-today-show/vi-BBgeX2B">
+        
+Ray Rice Speaks to &#39;Today Show&#39;    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/sports/ncaafb/is-jim-harbaugh-michigans-man/vi-BBggrUb">
+        
+Is Jim Harbaugh Michigan&#39;s Man?    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/sports/mlb/canseco-tries-to-impress-shania-twain/ar-BBgfmox">
+        
+Canseco Tries to Impress Shania Twain    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/sports/nfl/rex-ryan-era-ending-with-a-whimper/ar-BBgdU0S">
+        
+Rex Ryan Era Ending with a Whimper    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/money" >Money</a></h2>    <a href="/en-us/money/insurance/drop-in-hospital-error-rate-saves-dollar12b-since-2010/ar-BBgfrBY">
+<img alt="In this Friday, Jan. 24, 2014 photo, a bed sits empty in an operating room at Grady Memorial Hospital, in Atlanta. In two years, federal payments to hospitals treating a large share of the nation’s poor will begin to evaporate under the premise that more people than ever will have some form of insurance under the federal health care law. The problem is that many states have refused to expand Medicaid, leaving public safety net hospitals there in a potentially precarious financial situation and elected officials facing growing pressure to find a fiscal fix. And in an election year, Democrats are using the decision by Republican governors not to expand Medicaid as a major campaign issue and arguing the hospital situation could have been avoided. (AP Photo/David Goldman)" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBggxkR.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1396&amp;y=901" title="David Goldman/AP Photo" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/money/insurance/drop-in-hospital-error-rate-saves-dollar12b-since-2010/ar-BBgfrBY">
+        
+Drop in Hospital Error Rate Saves $12B Since 2010    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/money/realestate/dodgy-home-appraisals-make-a-comeback/ar-BBgfGAH">
+        
+Dodgy Home Appraisals Make a Comeback    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/money/inside-the-ticker/rolling-along-rv-industry-maintains-momentum/ar-BBgfcmV">
+        
+Rolling along: RV industry maintains momentum    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/money/markets/stocks-bounce-as-hindenburg-omen-strikes/ar-BBgfG78">
+        
+Stocks Bounce as ‘Hindenburg Omen’ Strikes    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/money/markets/cramer-remix-the-best-stocks-to-own-now/ar-BBgghpO">
+        
+Jim Cramer: The best stocks to own now    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/lifestyle" >Lifestyle</a></h2>    <a href="/en-us/lifestyle/healthy-happy-kids/26-parenting-tasks-that-truly-suck/ar-BBe5Cao">
+<img alt="Little kid crying" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBfH13K.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1092&amp;y=611" title="Jade and Bertrand Maitre/Getty Images" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/lifestyle/healthy-happy-kids/26-parenting-tasks-that-truly-suck/ar-BBe5Cao">
+        
+26 Parenting Tasks That Truly Suck    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/lifestyle/giftsforthehome/100plus-gifts-the-woman-in-your-life-will-fall-head-over-heels-for/ss-BBfRCld">
+        
+100+ Gifts the Woman in Your Life Will Fall Head Over Heels For    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/lifestyle/beauty/the-10-best-sparkly-nail-polishes-for-holiday/ss-AA7sOZO">
+        
+The 10 Best Sparkly Nail Polishes for Holiday    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/lifestyle/holiday-cleaning/30-ways-to-freshen-every-room/ss-AA3cDIy">
+        
+30 Ways to Freshen Every Room    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/lifestyle/gifts-for-kids/great-gifts-for-kids-under-dollar50/ss-BBcdCBb">
+        
+Great Gifts for Kids Under $50    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/health" >Health &amp; Fitness</a></h2>    <a href="/en-us/health/wellness/9-myths-about-staying-fit-in-winter/ss-BBgfANr">
+<img alt="new caption" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBgfyHO.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=961&amp;y=791" title="Portra Images/Getty Images" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/health/wellness/9-myths-about-staying-fit-in-winter/ss-BBgfANr">
+        
+9 myths about staying fit in winter    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/health/medical/mammograms-for-40-somethings-supported-by-new-study/ar-BBgfqwv">
+        
+Mammograms for 40-Somethings Supported by New Study    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/health/wellness/5-tips-to-sleep-better-%e2%80%94-when-you-worry-about-not-sleeping/ar-BBgefOX">
+        
+5 Tips to Sleep Better — When You Worry About Not Sleeping    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/health/wellness/10-tips-for-getting-your-workout-routine-back-on-track/ss-BBgdbny">
+        
+10 Tips for Getting Your Workout Routine Back on Track    </a>
+
+                        </li>
+                        <li >
+                                <a href="http://healthguides.healthgrades.com/stepping-up-your-diabetes-management/the-best-exercises-for-type-2-diabetes?did=t2_hpspot">
+        
+From Healthgrades: The Best Exercises for Diabetes    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/foodanddrink" >Food &amp; Drink</a></h2>    <a href="/en-us/foodanddrink/cookingschool/holiday-gift-guide-12-tabletop-and-serveware-ideas/ss-BBfHy7u">
+<img alt="Holiday Gift Guide: 12 Tabletop &amp; Serveware Ideas" height="194" src="//img.s-msn.com//tenant/amp/entityid/BBgcGSO/_h194_w300_m6_utrue_otrue_lfalse.jpg" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/foodanddrink/cookingschool/holiday-gift-guide-12-tabletop-and-serveware-ideas/ss-BBfHy7u">
+        
+Holiday Gift Guide: 12 Tabletop &amp; Serveware Ideas    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/foodanddrink/foodnews/the-50-best-things-to-eat-right-now/ss-BBfCh8p">
+        
+The 50 Best Things To Eat Right Now    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/foodanddrink/foodnews/did-you-know-11-fun-food-facts-that-will-surprise-you/ss-BBfsFAa">
+        
+Did You Know?  11 Fun Food Facts That Will Surprise You    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/foodanddrink/foodnews/10-simply-sweet-santa-treats-to-make-this-christmas/ss-BBf3Cpx">
+        
+10 Simply Sweet Santa Treats to Make This Christmas    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/foodanddrink/cookingschool/13-snowmen-sweets-guaranteed-to-melt-your-heart/ss-BBf3JIj">
+        
+13 Snowmen Sweets Guaranteed to Melt Your Heart    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/travel" >Travel</a></h2>    <a href="/en-us/travel/article/intriguing-lost-cities-around-the-world/ss-BBdYMR9">
+<img alt="new caption" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBdJ0iY.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1286&amp;y=566" title="Vernon Fowler/Getty Images" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/travel/article/intriguing-lost-cities-around-the-world/ss-BBdYMR9">
+        
+Intriguing lost cities around the world    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/travel/holiday-travel/the-10-best-holiday-shopping-destinations-in-the-world-and-where-to-stay/ar-BBgfjI1">
+        
+The 10 best holiday shopping destinations in the world    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/travel/adventuretravel/rachel-and-andrea-how2travelers-5-unreal-bucket-list-adventures/vi-AA7AweZ">
+        
+5 Unreal Bucket List Adventures    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/travel/adventuretravel/visit-the-moon-on-earth-at-chile%e2%80%99s-valle-de-la-luna/ss-BBgd6Mh">
+        
+Visit the Moon on Earth at Chile’s Valle de la Luna    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/travel/article/trip-tips-in-search-of-lost-time-in-high-speed-tokyo/ar-BBgcoa2">
+        
+In search of lost time in high-speed Tokyo    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/autos" >Autos</a></h2>    <a href="/en-us/autos/autossuvs/great-300-hp-cars-and-suvs-around-dollar40000/ss-BBbJcBN">
+<img alt="new caption" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBbJf9C.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="2015 Ford Flex" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/autos/autossuvs/great-300-hp-cars-and-suvs-around-dollar40000/ss-BBbJcBN">
+        
+Great 300-HP Cars and SUVs Around $40,000    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/autos/car-tech/goodyear-testing-new-tech-that-automatically-inflates-tires/ar-BBgd0Em">
+        
+Goodyear Testing New Tech that Automatically Inflates Tires    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/autos/autosfuturecars/bmw-x6-fighting-mercedes-gle-coup%c3%a9-prototype-shows-lots-of-skin/ar-BBgcXtJ">
+        
+BMW X6-Fighting Mercedes GLE Coup&#233; Prototype Shows Lots of Skin    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/autos/autosbdc/these-9-cars-were-manual-only-until-recently/ss-BBbxfs6">
+        
+These 9 Cars Were Manual Only, Until Recently    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/autos/autosrecalls/gm-recalls-316000-vehicles-because-of-malfunctioning-headlights/ar-BBgdays">
+        
+GM recalls 316,000 vehicles because of malfunctioning headlights    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+        <div class="stripe">
+<h2><a href="/en-us/video" >Video</a></h2>    <a href="/en-us/video/science/recipient-of-double-arm-transplant-happy-to-hug/vi-BBfPGkF">
+<img alt="Recipient of Double Arm Transplant Happy to Hug" height="194" src="//img.s-msn.com/tenant/amp/entityid/BBfPLln.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="The Associated Press" width="300" />        
+    </a>
+                <ul>
+                        <li  class="first">
+                                <a href="/en-us/video/science/recipient-of-double-arm-transplant-happy-to-hug/vi-BBfPGkF">
+        
+Recipient of Double Arm Transplant Happy to Hug    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/video/holiday/ho-ho-who-its-the-best-on-screen-santas/vi-BBfeMfJ">
+        
+Ho Ho Who? It&#39;s the Best On-Screen Santas    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/video/animals/dog-helps-owner-bring-groceries-into-the-house/vi-BBfZCDO">
+        
+Dog helps owner bring groceries into the house    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/video/holiday/crumbs-christmas-hacks-personalizing-presents-with-photos/vi-BBgePIp">
+        
+Crumbs Christmas Hacks: Personalizing Presents with Photos    </a>
+
+                        </li>
+                        <li >
+                                <a href="/en-us/video/science/japanese-wireless-carrier-promotes-lte-speeds-with-wacky-shrimp-frying-cannon/vi-BBgd61Q">
+        
+Japanese Wireless Carrier Promotes LTE Speeds With Wacky Shrimp-Frying Cannon    </a>
+
+                        </li>
+                </ul>
+
+        </div>
+
+            
+        </div>
+        <div id="aside"  data-region="aside">
+            
+        </div>
+<div id="nav">
+        <ul class="verticalsnav">
+                <li  class="current">
+                    <a href="/en-us">Home</a>
+                </li>
+                <li >
+                    <a href="/en-us/news">News</a>
+                </li>
+                <li >
+                    <a href="/en-us/weather">Weather</a>
+                </li>
+                <li >
+                    <a href="/en-us/entertainment">Entertainment</a>
+                </li>
+                <li >
+                    <a href="/en-us/sports">Sports</a>
+                </li>
+                <li >
+                    <a href="/en-us/money">Money</a>
+                </li>
+                <li >
+                    <a href="/en-us/lifestyle">Lifestyle</a>
+                </li>
+                <li >
+                    <a href="/en-us/health">Health &amp; Fitness</a>
+                </li>
+                <li >
+                    <a href="/en-us/foodanddrink">Food &amp; Drink</a>
+                </li>
+                <li >
+                    <a href="/en-us/travel">Travel</a>
+                </li>
+                <li >
+                    <a href="/en-us/autos">Autos</a>
+                </li>
+                <li >
+                    <a href="/en-us/video">Video</a>
+                </li>
+        </ul>
+</div>
+    </div>
+    <div id="foot">
+        <div>            <a href="http://www.microsoft.com/en-us/default.aspx">&#169; 2014 Microsoft</a>
+            <a href="http://go.microsoft.com/fwlink/?LinkId=248688">Privacy</a>
+            <a href="http://windows.microsoft.com/en-US/windows-live/microsoft-service-agreement">Legal</a>
+            <a href="http://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+            <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+            <a href="http://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+            <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+            <a href="http://newsletters.msn.com/">Newsletter</a>
+</div>
+    </div>
+        <div>
+        <img src="http://c.msn.com/c.gif?udc=true&amp;rid=a944932ecfb44fab8953ee440f7db1b0&amp;rnd=635531668783094198&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252F&amp;di=340&amp;lng=en-us&amp;cv.product=prime&amp;d.dg1=&amp;d.dg2=&amp;d.dg3=&amp;d.dg4=&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;d.b=Unknown&amp;d.bv=0.0&amp;d.p=Unknown&amp;d.pv=Unknown%20Unknown" alt="image beacon" width="1" height="1" /><img src="http://otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=340&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252F&amp;pageid=startpage&amp;mkt=en-us&amp;pn=startpage&amp;mv=15&amp;pp=False&amp;cv.product=prime&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=635531668783094198&amp;rf=&amp;rid=a944932ecfb44fab8953ee440f7db1b0&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dg1=&amp;d.dg2=&amp;d.dg3=&amp;d.g4=&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;d.b=Unknown&amp;d.bv=0.0&amp;d.p=Unknown&amp;d.pv=Unknown%20Unknown" alt="image beacon" width="1" height="1" />
+    </div>
+
+    
+    
+</body>
+    <!--MSNAvailToken--></html>

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html class="no-js" >
+<head id="head"><title>
+	Page Not Found
+</title><meta charset="UTF-8" /> 
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Bootstrap311" type="text/css" rel="stylesheet"/> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<!-- Optimized mobile viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="/Pages/Page-Not-Found">
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=Bootstrap311Override" type="text/css" rel="stylesheet"/>
+
+<!-- Optimizely -->
+<script src="//cdn.optimizely.com/js/812211305.js"></script>   
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/> 
+<link href="/favicon.ico" type="image/x-icon" rel="icon"/> 
+<script id="comscore_api" type="text/javascript" src="/CMSScripts/comscore/cs.js"></script>
+<link rel="stylesheet" type="text/css" href="/CMSPages/GetCSS.aspx?stylesheetname=common" /> 
+<link href="/CMSServices/GetCSS.ashx?id=2042" type="text/css" rel="stylesheet" />
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+    _uacct = "UA-31221-5";
+    urchinTracker();
+</script>
+
+</head>
+<body class="LTR ENUS ContentBody" >
+    <form method="post" action="/Pages/Page-Not-Found.aspx" id="form" class="form-horizontal">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="" />
+
+</div>
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script src="/ScriptResource.axd?d=6HHQVl4QVad3QqUF3KfmHkJ0ciuFVZAZ1jhLVe3cKIXHl4G9spvvDTCFLFr9gY1VY9sHjNU2LN-JXcJ1721GiGzYDW1eYBxY7LEBzf9gjeyXPJX-G5631KrObU3YBBeDLfrvyg2&amp;t=53a20297" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+</div>
+    <div id="CMSHeaderDiv">
+	<!-- -->
+</div>
+     
+<script type="text/javascript">
+var Config = {
+  DocumentID: "",
+  PromoCode: '',
+  Services: {
+      PromotionService: "/CMSServices/PromotionService.ashx",
+      AddressStandardization: "/CMSServices/AddressStandardization.ashx",
+      CustomerService: "/CMSServices/CustomerService.ashx"
+  },
+  Resources: {
+      Templates: "/CMSTemplates"
+  },
+  ShowNotifications: false,
+  StandardizeAddress: false
+};
+
+var NMWOSAnalytics = {
+  HTMLLoadStartTime: (new Date()).getTime(),
+  HTMLLoadEndTime: null,
+  ScriptLoadStartTime: null,
+  ScriptLoadEndTime: null
+};
+</script>
+<div id="p_lt_LoadingProgress" style="display:none;">
+	
+<div class="progress-status"><span class="progress-status-content">Loading...</span></div>
+
+</div>
+<noscript>
+    <div class="alert alert-error">
+        <h4 class="alert-heading"><span class="glyphicon glyphicon-warning-sign"></span> Warning!</h4>
+        This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.
+    </div>
+</noscript>
+   
+<div id="environment-alert" class="alert alert-danger hidden-xs hidden-sm" style="display:none;">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <h4> STAGING </h4>
+</div>
+
+<div id="system-alert" class="alert alert-danger" style="display:none;">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <h5 class="alert-heading"><span class="glyphicon glyphicon-warning-sign"></span> Service Error!</h5>
+    An error has ocurred please retry the previous action, if the problem persists please
+    contact the administrator.
+</div>
+
+<div id="system-cookies-alert" class="alert alert-danger" style="display:none;">
+    <h5 class="alert-heading"><span class="glyphicon glyphicon-warning-sign"></span> Warning!</h5>
+     This page uses Cookies. Your browser either doesn't support Cookies or you have disabled them. To see this page as it is meant to appear please enable Cookies on your browser.
+</div>
+        
+<input type="hidden" name="p$lt$zoneContent$NMOSGetMarketingTrackingInformation$DocketNumber" id="p_lt_zoneContent_NMOSGetMarketingTrackingInformation_DocketNumber" value="EOLMMHZH" />
+ 
+<div class="container">
+    <div style="width:978px;margin:0 auto;"><img alt="" src="/NMWOS/media/Images/efefef_bg_box978_top.jpg" style="width: 978px; height: 50px;" /></div>
+
+    <div align="center"><img alt="Newsmax" border="0" height="100" src="/NMWOS/media/Images/nm_850.gif" width="850" /></div>
+<div align="center" style="width: 700px; padding-top:50px; padding-bottom:30px; line-height: normal; color: #000000; margin: 0 auto">
+<div style="font-family: Georgia, 'Times New Roman', Times, Serif;
+            font-size: 18px; text-align: left">
+<p align="center" style="font-size:30px; line-height:34px"><strong>Whoops &ndash; We Can&rsquo;t Find This Page.</strong></p>
+<p style="padding-top:10px">Our apologies, we are unable to provide access to this web page at this time.</p>
+<p>If you would like to place an order, you can contact our customer service support team by <a href="http://www.newsmax.com/contact/customerservicecontact/" target="_blank">clicking here</a>.</p>
+<p>You can also call our toll free customer service support line at <b>1-800-485-4350</b>.</p>
+<p style="padding-top:20px"><b><u>Hours of Operations: </u></b></p>
+<p>Monday-Friday: 8:30am - 8:00pm EST.<br />
+Saturday: 8:30am - 4:00pm EST.<br />
+Sunday: Closed</p>
+<p><br />
+For the latest news <a href="http://www.newsmax.com">Click Here</a> to go to <a href="http://www.newsmax.com">Newsmax.com</a>.</p>
+</div>
+</div>
+<br />
+
+    <div style="width:978px;margin:0 auto;"><img alt="" src="/NMWOS/media/Images/efefef_bg_box978_btm.jpg" style="width: 978px; height: 50px;" /></div>
+<!-- Begin comScore Inline Tag - Function and No Script Tag - 1.1111.15 --><script type="text/javascript">
+        // <![CDATA[
+        function udm_(a) { var b = "comScore=", c = document, d = c.cookie, e = "", f = "indexOf", g = "substring", h = "length", i = 2048, j, k = "&ns_", l = "&", m, n, o, p, q = window, r = q.encodeURIComponent || escape; if (d[f](b) + 1) for (o = 0, n = d.split(";"), p = n[h]; o < p; o++) m = n[o][f](b), m + 1 && (e = l + unescape(n[o][g](m + b[h]))); a += k + "_t=" + +(new Date) + k + "c=" + (c.characterSet || c.defaultCharset || "") + "&c8=" + r(c.title) + e + "&c7=" + r(c.URL) + "&c9=" + r(c.referrer), a[h] > i && a[f](l) > 0 && (j = a[g](0, i - 8).lastIndexOf(l), a = (a[g](0, j) + k + "cut=" + r(a[g](j + 1)))[g](0, i)), c.images ? (m = new Image, q.ns_p || (ns_p = m), m.src = a) : c.write("<", "p", "><", 'img src="', a, '" height="1" width="1" alt="*"', "><", "/p", ">") }
+        udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=9248945&ns_site=w3&name=nmxstore.404');
+        // ]]>
+    </script><noscript><p><img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9248945&amp;ns_site=w3&amp;name=nmxstore.404" height="1" width="1" alt="*" /></p></noscript><!-- End comScore Inline Tag -->
+</div>
+
+<!-- Scripts -->
+<script type="text/javascript">
+    NMWOSAnalytics.ScriptLoadStartTime = (new Date()).getTime();
+</script>
+
+<script type="text/javascript" src="https://cdn.w3.newsmax.com/CMSScripts/app/framework_BFFFBC668587A189A69DD81ACCCA381A.js"></script>
+<script type="text/javascript" src="https://cdn.w3.newsmax.com/CMSScripts/app/app_13769F6E1946DFE72569430B9BCA0CE4.js"></script>
+
+
+<!-- Cookies -->
+<script type="text/javascript">
+$(function() {
+    if( !$.cookies.test() )
+    {
+        $('#system-cookies-alert').show();
+        $(".container :input").prop("disabled", true);
+    }	
+    
+    if(window.location.hostname.indexOf("stage") >= 0) {
+        $('#environment-alert').show();
+    }
+    
+    // Performance Counter
+    var endTime = (new Date()).getTime();
+    NMWOSAnalytics.ScriptLoadEndTime = endTime - NMWOSAnalytics.ScriptLoadStartTime;
+    NMWOSAnalytics.HTMLLoadEndTime = endTime - NMWOSAnalytics.HTMLLoadStartTime;
+    
+    // AdRoll
+    adroll_adv_id = "UAWRCFWOKBDTZIDT3NBWO3";
+    adroll_pix_id = "M3L7LMD5SZDYLCK2N7XKBT";
+    (function () {
+    var oldonload = window.onload;
+    window.onload = function(){
+    __adroll_loaded=true;
+    var scr = document.createElement("script");
+    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+    scr.setAttribute('async', 'true');
+    scr.type = "text/javascript";
+    scr.src = host + "/j/roundtrip.js";
+    ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+    if(oldonload){oldonload()}};
+    }());
+
+});
+</script>
+
+<!-- Begin comScore Inline Tag - Function and No Script Tag - 1.1111.15 --> 
+<script type="text/javascript">
+    // <![CDATA[
+    function udm_(a) { var b = "comScore=", c = document, d = c.cookie, e = "", f = "indexOf", g = "substring", h = "length", i = 2048, j, k = "&ns_", l = "&", m, n, o, p, q = window, r = q.encodeURIComponent || escape; if (d[f](b) + 1) for (o = 0, n = d.split(";"), p = n[h]; o < p; o++) m = n[o][f](b), m + 1 && (e = l + unescape(n[o][g](m + b[h]))); a += k + "_t=" + +(new Date) + k + "c=" + (c.characterSet || c.defaultCharset || "") + "&c8=" + r(c.title) + e + "&c7=" + r(c.URL) + "&c9=" + r(c.referrer), a[h] > i && a[f](l) > 0 && (j = a[g](0, i - 8).lastIndexOf(l), a = (a[g](0, j) + k + "cut=" + r(a[g](j + 1)))[g](0, i)), c.images ? (m = new Image, q.ns_p || (ns_p = m), m.src = a) : c.write("<", "p", "><", 'img src="', a, '" height="1" width="1" alt="*"', "><", "/p", ">") }
+    $(function() {
+        udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=9248945&ns_site=w3&name=nmxstore.page_not_found.general.pages.page_not_found_2042&category=page-not-found&sub_category=general&content_type=pages&content_alias=pages.page-not-found&content_title=page_not_found&content_id=2042&docket_number=eolmmhzh&ns_full_loading_time=828.7431&ns_html_loading_time=' + NMWOSAnalytics.HTMLLoadEndTime + '&ns_script_time=' + NMWOSAnalytics.ScriptLoadEndTime);
+    });
+    // ]]>
+</script>
+<noscript><p><img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9248945&ns_site=w3&name=nmxstore.page_not_found.general.pages.page_not_found_2042&category=page-not-found&sub_category=general&content_type=pages&content_alias=pages.page-not-found&content_title=page_not_found&content_id=2042&docket_number=eolmmhzh" height="1" width="1" alt="*"></p></noscript> 
+<!-- End comScore Inline Tag -->
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwODg0MzQ2Ng9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWAgIHD2QWAmYPZBYCZg8VA/EBJm5zX3NpdGU9dzMmbmFtZT1ubXhzdG9yZS5wYWdlX25vdF9mb3VuZC5nZW5lcmFsLnBhZ2VzLnBhZ2Vfbm90X2ZvdW5kXzIwNDImY2F0ZWdvcnk9cGFnZS1ub3QtZm91bmQmc3ViX2NhdGVnb3J5PWdlbmVyYWwmY29udGVudF90eXBlPXBhZ2VzJmNvbnRlbnRfYWxpYXM9cGFnZXMucGFnZS1ub3QtZm91bmQmY29udGVudF90aXRsZT1wYWdlX25vdF9mb3VuZCZjb250ZW50X2lkPTIwNDImZG9ja2V0X251bWJlcj1lb2xtbWh6aAg4MjguNzQzMfEBJm5zX3NpdGU9dzMmbmFtZT1ubXhzdG9yZS5wYWdlX25vdF9mb3VuZC5nZW5lcmFsLnBhZ2VzLnBhZ2Vfbm90X2ZvdW5kXzIwNDImY2F0ZWdvcnk9cGFnZS1ub3QtZm91bmQmc3ViX2NhdGVnb3J5PWdlbmVyYWwmY29udGVudF90eXBlPXBhZ2VzJmNvbnRlbnRfYWxpYXM9cGFnZXMucGFnZS1ub3QtZm91bmQmY29udGVudF90aXRsZT1wYWdlX25vdF9mb3VuZCZjb250ZW50X2lkPTIwNDImZG9ja2V0X251bWJlcj1lb2xtbWh6aGRkI15aDqzjh9mr4g//QD+Fpd10Q7A=" />
+    <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
+</body>
+</html>
