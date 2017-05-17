@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+  <title>Squarespace - No Such Account</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  <script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/common-3f8caabecf7f81b8fed781cdebb30b39-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/common-80f571195ef4d2d39e9365619a64700a-min.css"/>
+  <script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/dialog-f8fd100a225e287465f9a2e4e6723495-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/dialog-3aa353dc0ac8992256671d29344cf512-min.css"/>
+  <script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/system-page-2023eb8c3f8641040c3229a9a0bde159-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/system-page-4ebdf1821e74b637c12f5ee615af95ec-min.css"/>
+
+</head>
+<body class="squarespace-config squarespace-system-page">
+
+  <div class="minimal-logo">&nbsp;</div>
+
+  <script>
+
+    Static =  { };
+    Static.CONTEXT = {"removed":true};
+
+    Y = YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+
+      var message;
+
+      if (Static.CONTEXT.removed) {
+
+        message = '<div class="bigtext"><div class="title">Account Removed</div><div class="description">This account has been removed by the owner.</div></div>';
+
+      } else {
+
+        message = '<div class="bigtext"><div class="title">No Such Account</div><div class="description">The account you requested does not exist.</div></div>';
+
+      }
+
+      LB = new Y.Squarespace.Lightbox({
+        disableNormalClose: true,
+        clickAnywhereToExit: false,
+        content: message,
+        margin: 100,
+        height: 90
+      });
+
+      LB.show();
+
+    });
+
+  </script>
+
+</body>
+</html>

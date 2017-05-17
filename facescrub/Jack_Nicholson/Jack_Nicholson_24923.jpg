@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Page not found | Wentrup Gallery</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="dLGM3FhNM1mK58A7miRW5x5J3HH-WPqbbMbCmgirYFo" />
+  
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Wentrup Gallery" />
+<meta property="og:site_name" content="Wentrup Gallery" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="stylesheet" href="http://www.wentrupgallery.com/assets/css/main.min.css?ver=89371463eef8187fcf7fca2cb31d6256">
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script>window.jQuery || document.write('<script src="http://www.wentrupgallery.com/assets/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+<script type='text/javascript' src='http://www.wentrupgallery.com/assets/js/vendor/modernizr-2.6.2.min.js'></script>
+<script type="text/javascript">var ajaxurl = 'http://www.wentrupgallery.com/wp-admin/admin-ajax.php';</script>  <!--[if lt IE 9]>
+      <script src="http://www.wentrupgallery.com/assets/js/vendor/respond.min.js"></script>
+  <![endif]-->
+  <link rel="alternate" type="application/rss+xml" title="Wentrup Gallery Feed" href="http://www.wentrupgallery.com/feed/">
+</head>
+<body class="error404">
+
+  <!--[if lt IE 7]><div class="alert">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+  <header class="navbar navbar-default navbar-static-top" role="banner">
+  <div class="banner container">
+    <a class="brand pull-right" href="http://www.wentrupgallery.com/">Wentrup Gallery</a>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <nav class="collapse navbar-collapse" role="navigation">
+      <ul id="menu-primary-navigation" class="nav navbar-nav"><li class="menu-artists"><a href="http://www.wentrupgallery.com/artists/">Artists</a></li>
+<li class="menu-exhibitions"><a href="/exhibitions/current">Exhibitions</a></li>
+<li class="menu-publications"><a href="/publications">Publications</a></li>
+<li class="menu-news"><a href="/news">News</a></li>
+<li class="menu-gallery"><a href="http://www.wentrupgallery.com/gallery/">Gallery</a></li>
+</ul>    </nav>
+  </div>
+</header>
+
+  <div class="wrap container" role="document">
+    <div class="content row">
+      <div class="main col-sm-12" role="main">
+        <div class="page-header hidden">
+  <h1>
+    Not Found  </h1>
+</div>
+
+<div class="alert">
+  Sorry, but the page you were trying to view does not exist.</div>
+
+<p>It looks like this was the result of either:</p>
+<ul>
+  <li>a mistyped address</li>
+  <li>an out-of-date link</li>
+</ul>
+
+<form role="search" method="get" class="search-form form-inline" action="http://www.wentrupgallery.com/">
+  <div class="input-group">
+    <input type="search" value="" name="s" class="search-field form-control" placeholder="Search Wentrup Gallery">
+    <label class="hide">Search for:</label>
+    <span class="input-group-btn">
+      <button type="submit" class="search-submit btn btn-default">Search</button>
+    </span>
+  </div>
+</form>
+      </div><!-- /.main -->
+          </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+  <script type='text/javascript' src='http://www.wentrupgallery.com/assets/js/scripts.min.js?ver=ec8af3ef697ae76b0747f32eb2fa5f35'></script>
+
+</body>
+</html>

@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Style.com: The Online Home of Fashion: News, Runway Shows, Trends, Fashion Models, Designers, Shopping, Beauty, and Entertainment</title>
+
+		<meta name="robots" content="NOODP"/>
+		<meta name="description" content="Style.com: Up-to-the-minute coverage of the world of fashion. Comprehensive runway reviews, images, videos, beauty, and more"/>
+		<meta name="keywords" content="Fashion, Fashion Shows, Fashion News, Street Style, Models, Runway, Trends, Fashion Designers, Shopping, Beauty, Culture"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		
+<meta name="google-site-verification" content="74vTtNNf75vVuzloNiZ9WXzUHp-r1EAewTuJiL5gOGI" />
+<link rel="canonical" href="http://www.style.com" />
+
+		<meta property="og:site_name" content="style.com"/>
+		<meta property="og:title" content=""/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="http://www.style.com"/>
+		<meta property="og:description" content=""/>
+		<meta property="fb:app_id" content="136982913160429" />
+		<link rel="stylesheet" href="/assets/css/global.css"/>
+		
+                
+		<script type='text/javascript' src='/assets/js/top.min.js'></script>
+		<script type='text/javascript'>
+		//<!--
+			var StyleApp = {};
+		//-->
+		</script>
+		<script type="text/javascript">
+		//<!--
+		    	CN.dart.init({
+    		adUnits: {
+    			unit1: device.mobile() ? 'style.mobile.dart' : 'style.dart',
+    			unit2: 'homepage',
+    			unit3: '',
+    			unit4: ''
+    		},
+    		kws:["homepage", "",],
+    		contentType: "homepage",
+    		charmap : {' ' : '+', '-' : '_'}
+    	});
+//-->
+		</script>
+			</head>
+	<body class="is-home has-top-poster">
+		<figure class="top-ad sidebar-navigation__pushed">
+		    <div id="header728x90_frame" class="displayAd displayAd728x90Js" data-cb-ad-id="header728x90_frame"></div>
+		    <div id="header300x50_frame" class="displayAd displayAd300x50Js" data-cb-ad-id="header300x50_frame"></div>
+		    <script type="text/javascript">
+		        //<!--
+		        if (device.mobile())
+		        {
+		            CN.dart.call('header', {sz:'300x50', kws:[]});
+		        }
+		        else
+		        {
+		            CN.dart.call('header', {sz:'728x90', kws:['header'], collapse: true});
+		        }
+		        //-->
+		    </script>
+		</figure>
+
+		<div class="sidebar-navigation" data-behavior="sidebar_navigation">
+		    <ul class="sidebar-navigation__top-nav">
+		            <li class=""><a href="/news">News</a></li>
+		            <li class=""><a href="/trends">Trends</a></li>
+		            <li class=""><a href="/street">Street</a></li>
+		            <li class=""><a href="/beauty">Beauty</a></li>
+		            <li class=""><a href="/culture">Culture</a></li>
+		            <li class=""><a href="/fashion-shows">Fashion Shows</a></li>
+		    </ul>
+		    <ul class="sidebar-navigation__transversal-sections">
+		        <li><a href="/shop">Shop</a></li>
+		        <li><a href="/magazine/issue-06-fall-2014">Magazine</a></li>
+		        <li><a href="http://video.style.com">Video</a></li>
+		        <li><a href="/newsletter">Newsletter</a></li>
+		    </ul>
+		    <ul class="sidebar-navigation__transversal-tools">
+		        <li><a href="https://www.facebook.com/style" class="icon-facebook-white">Facebook</a></li>
+		        <li><a href="https://twitter.com/styledotcom" class="icon-twitter-white">Twitter</a></li>
+		        <li><a href="https://plus.google.com/+styledotcom/posts" class="icon-google-plus-white">Google+</a></li>
+		        <li><a href="http://www.pinterest.com/styledotcom" class="icon-pinterest-white">Pinterest</a></li>
+		        <li><a href="http://instagram.com/styledotcom" class="icon-instagram-white">Instagram</a></li>
+		        <li><a href="http://officialstyledotcom.tumblr.com" class="icon-tumblr-white">Tumblr</a></li>
+		    </ul>
+		</div>
+
+		<nav class="transversal-nav" role="navigation">
+		    <ul class="transversal-nav__sections">
+		        <li><a href="/shop">Shop</a></li>
+		        <li><a href="/magazine">Magazine</a></li>
+		        <li><a href="http://video.style.com">Video</a></li>
+		    </ul>
+		    <ul class="transversal-nav__tools">
+		        <li><a href="https://www.facebook.com/style" target="_blank" class="icon-facebook-white">Facebook</a></li>
+		        <li><a href="https://twitter.com/styledotcom" target="_blank" class="icon-twitter-white">Twitter</a></li>
+		        <li><a href="https://plus.google.com/+styledotcom/posts" target="_blank" class="icon-google-plus-white">Google+</a></li>
+		        <li><a href="http://www.pinterest.com/styledotcom" target="_blank" class="icon-pinterest-white">Pinterest</a></li>
+		        <li><a href="http://instagram.com/styledotcom" target="_blank" class="icon-instagram-white">Instagram</a></li>
+		        <li><a href="http://officialstyledotcom.tumblr.com" target="_blank" class="icon-tumblr-white">Tumblr</a></li>
+		        <li class="transversal-nav__newsletter"><a href="/newsletter">Newsletter</a></li>
+		    </ul>
+		</nav>
+
+		
+		
+		    <nav class="top-nav sidebar-navigation__pushed" role="navigation primary" data-behavior="sticky_header">
+		        <div class="global-search">
+		            <form class="global-search__form" action="" data-behavior="submit_search">
+		                <div class="global-search__form__item search-box">
+		                    <div class="search-box__inner">
+		                        <input value="" placeholder="Search" name="term" />
+		                        <button type="submit">Search</button>
+		                    </div>
+		                </div>
+		                <div class="global-search__form__item global-search__form__item--close">
+		                    <button type="reset" class="close-btn icon-close-search" data-behavior="toggle" data-toggle=".global-search">Close</button>
+		                </div>
+		            </form>
+		        </div>
+		        <ul>
+		            <li class="top-nav__hamburger" data-sidebar-navigation-toggle>
+		                <span class="icon-hamburger"></span>
+		            </li>
+		            <li class="top-nav__search">
+		                <button class="icon-search" data-behavior="toggle" data-toggle=".global-search">Search</button>
+		            </li>
+		            <li class="top-nav__logo">
+		                <a href="/">
+		                    <span class="icon-logo-style">Style</span>
+		                </a>
+		            </li>
+		            <li class=""><a href="/news">News</a></li>
+		            <li class=""><a href="/trends">Trends</a></li>
+		            <li class=""><a href="/street">Street</a></li>
+		            <li class=""><a href="/beauty">Beauty</a></li>
+		            <li class=""><a href="/culture">Culture</a></li>
+		            <li class=""><a href="/fashion-shows">Fashion Shows</a></li>
+		        </ul>
+		    </nav>
+
+		
+
+		<div class="fashion-shows-sub" data-behavior="fashion_shows_dropdown">
+		    <ul>
+		        <li><a href="/fashion-shows/pre-fall-2015">Pre-Fall 2015</a></li>
+		        <li><a href="/fashion-shows/spring-2015-ready-to-wear">Spring 2015 Ready-to-Wear</a></li>
+		        <li><a href="/fashion-shows/fall-2014-couture">Fall 2014 Couture</a></li>
+		        <li><a href="/fashion-shows/spring-2015-menswear">Spring 2015 Menswear</a></li>
+		        <li><a href="/fashion-shows/resort-2015">Resort 2015</a></li>
+		        <li><a href="/fashion-shows/fall-2014-ready-to-wear">Fall 2014 Ready-to-Wear</a></li>
+		    </ul>
+		</div>
+
+		    <div class="home-hero sidebar-navigation__pushed home-hero--season">
+        <div class="home-hero__poster">
+            <a href="/fashion-shows/pre-fall-2015/chanel">
+            <div class="home-hero__poster-inner" data-behavior="homepage_poster_fit">
+               <img srcset="http://media.style.com/image/slideshows/hp_primary/2014/12/1600/660/120214-chanel-primary-5.jpg 1600w, http://media.style.com/image/slideshows/hp_primary/2014/12/640/160/120214-chanel-primary-5.jpg 640w" sizes="(min-width:980px) 1600px, (max-width:640px) 320px" alt="">
+            </div>
+            </a>
+        </div>
+
+        <div class="home-hero__caption">
+            <div class="grid-container">
+                <div class="grid-row">
+                    <a href="/fashion-shows/pre-fall-2015/chanel">
+                        <hgroup class="home-hero-caption">
+                            <h1>Who’s the Schloss?</h1>
+                            <h2>Karl Lagerfeld Takes Chanel’s Métiers d’Art Collection to Austria</h2>
+                        </hgroup>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="home-hero__feature-holder">
+
+            <div class="grid-container">
+                <div class="grid-row">
+
+                    <div class="home-hero__feature" data-upcoming-box-wide>
+                        <div class="upcoming upcoming--dark titled-scroller titled-scroller--dark" data-behavior="upcoming_box">
+                            <div class="titled-scroller__header upcoming__header">
+                                <h3>Pre-Fall 2015</h3>
+                                <!--
+                                <a href="/fashion-shows/pre-fall-2015/calendar" class="upcoming__header__action">
+                                    <span class="icon-fashion-show-cal"></span>
+                                </a>
+                                -->
+                            </div>
+                            <div class="titled-scroller__main upcoming__main">
+                                <ul class="upcoming-list">
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/mcq-alexander-mcqueen" >McQ Alexander McQueen</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/tomas-maier" >Tomas Maier</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/rodebjer" >Rodebjer</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/sonia-by-sonia-rykiel" >Sonia by Sonia Rykiel</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/chanel" >Chanel</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/fendi" >Fendi</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/tory-burch" >Tory Burch</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/just-cavalli" >Just Cavalli</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/mm6-maison-martin-margiela" >MM6 Maison Martin Margiela</a></div>
+                                    </li>
+                                    <li class="upcoming-list-item has-tag">
+                                        <div class="upcoming-list-item__label"><a href="/fashion-shows/pre-fall-2015/burberry-prorsum" >Burberry Prorsum</a></div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="titled-scroller__footer upcoming__footer">
+                                <a href="/fashion-shows/pre-fall-2015">Browse All Shows</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    
+    </div>
+    
+		
+				<div class="sidebar-navigation__pushed">
+				<section class="home ad-switch">
+    <div class="grid-container">
+        <div class="grid-row">
+            <section class="story-col-unit" data-behavior="sticky_sidebar_ad">
+                <div class="story-col-unit__column-large story-col-unit__pull-left">
+
+
+
+                    <div class="home-intro home-intro--season">
+                        <div class="home-intro__feature">
+
+                            <div data-upcoming-box-tablet-mobile></div>
+
+                        </div>
+                        <div class="home-intro__gutter"></div>
+                        <div class="home-intro__tablet-ad home-intro__ad">
+                            <div class="ad-w300-in-home-intro" data-ad-key="tabletAd" data-ad-min="640" data-ad-max="979">
+                                <div id="tabletAd300x250_frame" data-cb-id="tabletAd300x250_frame" class="displayAd displayAd300x250Js"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="featured-story-unit featured-story-unit--season">
+                        <div class="featured-story-unit__inner">
+                            <article class="featured-story-unit__item">
+                                <div class="featured-story-item">
+                                    <a href="/culture/parties/2014/british-fashion-awards-red-carpet">
+                                        <img src="http://media.style.com/image/slideshows/culture/parties/2014/12/british-fashion-awards-red-carpet-120114/380/255/O-british-fashion-awards-red-carpet-120114.jpg" alt="Placehold" class="featured-story-item__image" />
+                                        <div class="featured-story-item__caption">
+                                            <b>British Fashion’s Big Night Out</b>
+                                        </div>
+                                    </a>
+                                </div>
+                            </article><article class="featured-story-unit__item">
+                                <div class="featured-story-item">
+                                    <a href="/fashion-shows/pre-fall-2015/tomas-maier">
+                                        <img src="http://media.style.com/image/slideshows/trends/fashion/2014/article/380/255/O-tomas-maier-pre-fall.jpg" alt="Placehold" class="featured-story-item__image" />
+                                        <div class="featured-story-item__caption">
+                                            Just In: <b>Tomas Maier Pre-Fall 2015</b>
+                                        </div>
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+
+                            <article class="poster-story-item">
+                                <div class="poster-story-item__image-wrapper">
+                                    <a href="/trends/fashion/2014/victorias-secret-fashion-show-2014-runway">
+                                        <img src="http://media.style.com/image/slideshows/trends/fashion/2014/12-december/victorias-secret-fashion-show/800/530/O-VS.jpg" alt="placeholder">
+                                    </a>
+                                </div>
+
+                                <div class="poster-story-item__inner">
+                                    <h3 class="poster-story-item__title"><a href="/trends/fashion/2014/victorias-secret-fashion-show-2014-runway">On the Runway at the 2014 Victoria&rsquo;s Secret Fashion Show</a></h3>
+                                    <ul class="poster-story-item__meta">
+                                            <li class="poster-story-item__author">
+                                                <a href="/contributors/style.com">
+                                                        <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                        <span>style.com</span>
+                                                </a>
+                                            </li>
+                                        <li class="story-item__category poster-story-item__category"><a href="/trends/fashion">Fashion</a></li>
+                                        <li class="story-item__published"><i class="icon-clock"></i> 1 hour</li>
+                                        
+                                    </ul>
+                                </div>
+                            </article> <!-- / .poster-story-item -->
+                                                    <div class="story-item__ad ad-w300-in-story-col">
+                                <div class="ad-w300-in-story-col__inner">
+                                    <div data-ad-key="rightrailTop" data-ad-min="0" data-ad-max="768"></div>
+                                </div>
+                            </div>
+                                                    <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/culture/entertainment/2014/tilda-swinton-is-gqs-woman-of-the-year">
+                                        <img src="http://media.style.com/image/slideshows/culture/entertainment/daily-news-roundup/12-2/380/255/tilda-swinton-gq%5B1%5D.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/culture/entertainment/2014/tilda-swinton-is-gqs-woman-of-the-year"><b>Tilda Swinton Is GQ&rsquo;s Woman of the Year, </b>and More News You Missed Today</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/lorenzo-mcclellan">
+                                                    <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                    <span>Lorenzo McClellan</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/culture/entertainment">Entertainment</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 3 hours</li>
+                                    
+                                </ul>
+                            </article> <!-- / .story-item -->
+                                                    <article class="poster-story-item">
+                                <div class="poster-story-item__image-wrapper">
+                                    <a href="/trends/industry/2014/peter-marino-dirk-standen-interview">
+                                        <img src="http://media.style.com/image/slideshows/trends/industry/2014/12/peter-marino-interview-future-shopping-/800/530/O-peter-marino-interview-future-shopping.jpg" alt="placeholder">
+                                    </a>
+                                </div>
+
+                                <div class="poster-story-item__inner">
+                                    <h3 class="poster-story-item__title"><a href="/trends/industry/2014/peter-marino-dirk-standen-interview">Fashion&rsquo;s Go-To Architect on the Downfall of Department Stores and the Problem With Marketers</a></h3>
+                                    <ul class="poster-story-item__meta">
+                                            <li class="poster-story-item__author">
+                                                <a href="/contributors/dirk-standen">
+                                                        <img src="http://media.style.com/image/defaultimages/contributors/20/20/dirks-contributor-pic.jpg" alt="">
+                                                        <span>Dirk Standen</span>
+                                                </a>
+                                            </li>
+                                        <li class="story-item__category poster-story-item__category"><a href="/trends/industry">Industry</a></li>
+                                        <li class="story-item__published"><i class="icon-clock"></i> 4 hours</li>
+                                        <li class="highlight story-item__shares"><i class="icon-shares"></i> 57 shares</li>
+                                    </ul>
+                                </div>
+                            </article> <!-- / .poster-story-item -->
+                                                    <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/trends/accessories/2014/chanel-headphones-star-wars">
+                                        <img src="http://media.style.com/image/slideshows/trends/accessories/2014/chanel-hairphones/380/255/chanel.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/trends/accessories/2014/chanel-headphones-star-wars">Chanel&#39;s Novel Take On Headphones Channels &quot;Star Wars&quot;</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/liza-darwin">
+                                                    <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                    <span>Liza Darwin</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/trends/accessories">Accessories</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 5 hours</li>
+                                    
+                                </ul>
+                            </article> <!-- / .story-item -->
+                                                    <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/trends/fashion/2014/kendall-jenner-emma-watson-jumpsuits">
+                                        <img src="http://media.style.com/image/slideshows/editors/steff-yotka/2014/12-december/kendall-emma-jumpsuit/380/255/O-459794690.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/trends/fashion/2014/kendall-jenner-emma-watson-jumpsuits">Shop It Right Now: Kendall Jenner and Emma Watson&rsquo;s Winter-White Jumpsuits</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/steff-yotka">
+                                                    <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                    <span>Steff Yotka</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/trends/fashion">Fashion</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 5 hours</li>
+                                    
+                                </ul>
+                            </article> <!-- / .story-item -->
+                                            <article class="story-item polar-item">
+                        <div style="display: none">
+                            <div id="PolarAdDiv380x255_frame" data-cb-ad-id="PolarAdDiv380x255_frame"></div>
+                        </div>
+                        <div id="polar-ad"></div>
+                        <script type="text/javascript">
+                            CN.dart.call('PolarAdDiv', {sz:'380x255', kws:[]});
+                        </script>
+                    </article>
+                </div> <!-- / .story-col-unit__column-large.story-col-unit__pull-left -->
+
+                <div class="story-col-unit__gutter">&nbsp;</div>
+                <div class="story-col-unit__column-small story-col-unit__pull-left" data-sticky-container data-upcoming-box-desktop>
+                    <div class="ad-w300-in-column" data-sticky>
+                        <div class="ad-w300-in-column__inner">
+                            <div data-ad-key="rightrailTop" data-ad-min="980">
+                                <div id="rightrailTop300x250_frame" data-cb-id="rightrailTop300x250_frame" class="displayAd displayAd300x250Js"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- / .story-col-unit__column-small.story-col-unit__pull-left -->
+
+            </section> <!-- / .story-col-unit -->
+
+            <div id="middleColumnTop1220x855_frame" class="displayAd displayAd1220x855Js" data-cb-ad-id="middleColumnTop1220x855_frame"></div>
+            <script type="text/javascript">
+                //<!--
+                CN.dart.call('middleColumnTop', {sz:'1220x855', kws:["puzzle"], collapse: true});
+                //-->
+            </script>
+
+                <section class="story-strip  ">
+                    <header class="story-strip__headline">
+                            <h3 class="story-strip__title">Editors&#39; Picks</h3>
+                    </header>
+
+                    <div data-behavior="carousel_respond">
+                            <article class="story-strip__item">
+                                <a href="/trends/fashion/2014/victorias-secret-fashion-show-2014-runway">
+                                    <div class="story-strip__item__image-wrapper">
+                                        <img src="http://media.style.com/image/slideshows/trends/fashion/2014/12-december/victorias-secret-fashion-show/275/185/O-VS.jpg" alt="">
+                                        <span class="story-strip__item__category"><em>Fashion</em></span>
+                                    </div>
+                                    <h4 class="story-strip__item__title">On the Runway at the 2014 Victoria&rsquo;s Secret Fashion Show</h4>
+                                </a>
+                                <ul class="story-strip__item__meta">
+                                    <li>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                                            <path fill="#aeb0b2" d="M20 5v11h-9.8l-.6.6-1.6 1.6v-2.2h-4v-11h16m2-2h-20v15h4v5l5-5h11v-15z"/>
+                                        </svg>
+                                        <a style="display:inline;" href="http://www.style.com/trends/fashion/2014/victorias-secret-fashion-show-2014-runway#disqus_thread"></a>
+                                    </li>
+                                </ul>
+                            </article> <!-- / .story-strip__item -->
+                            <article class="story-strip__item">
+                                <a href="/trends/industry/2014/peter-marino-dirk-standen-interview">
+                                    <div class="story-strip__item__image-wrapper">
+                                        <img src="http://media.style.com/image/slideshows/trends/industry/2014/12/peter-marino-interview-future-shopping-/275/185/O-peter-marino-interview-future-shopping.jpg" alt="">
+                                        <span class="story-strip__item__category"><em>Industry</em></span>
+                                    </div>
+                                    <h4 class="story-strip__item__title">Fashion&rsquo;s Go-To Architect on the Downfall of Department Stores and the Problem With Marketers</h4>
+                                </a>
+                                <ul class="story-strip__item__meta">
+                                        <li class="share-popular">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="23" height="14">
+                                                <path fill="#202020" d="M14 0l9 6.5-9 6.5v-4s-6.229-1.173-14 5c0 0 3.029-9.521 14-9.603v-4.397z"/>
+                                            </svg>
+                                            57
+                                        </li>
+                                    <li>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                                            <path fill="#aeb0b2" d="M20 5v11h-9.8l-.6.6-1.6 1.6v-2.2h-4v-11h16m2-2h-20v15h4v5l5-5h11v-15z"/>
+                                        </svg>
+                                        <a style="display:inline;" href="http://www.style.com/trends/industry/2014/peter-marino-dirk-standen-interview#disqus_thread"></a>
+                                    </li>
+                                </ul>
+                            </article> <!-- / .story-strip__item -->
+                            <article class="story-strip__item">
+                                <a href="/trends/fashion/2014/chanel-pre-fall-2015-atmosphere">
+                                    <div class="story-strip__item__image-wrapper">
+                                        <img src="http://media.style.com/image/slideshows/trends/fashion/2014/12-december/chanel-pre-fall-2015-atmosphere/275/185/O-100214-chanel-atmosphere.jpg" alt="">
+                                        <span class="story-strip__item__category"><em>Fashion</em></span>
+                                    </div>
+                                    <h4 class="story-strip__item__title">Slideshow: The Atmosphere at Chanel&rsquo;s M&eacute;tiers d&rsquo;Art Show</h4>
+                                </a>
+                                <ul class="story-strip__item__meta">
+                                        <li class="">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="23" height="14">
+                                                <path fill="#202020" d="M14 0l9 6.5-9 6.5v-4s-6.229-1.173-14 5c0 0 3.029-9.521 14-9.603v-4.397z"/>
+                                            </svg>
+                                            10
+                                        </li>
+                                    <li>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                                            <path fill="#aeb0b2" d="M20 5v11h-9.8l-.6.6-1.6 1.6v-2.2h-4v-11h16m2-2h-20v15h4v5l5-5h11v-15z"/>
+                                        </svg>
+                                        <a style="display:inline;" href="http://www.style.com/trends/fashion/2014/chanel-pre-fall-2015-atmosphere#disqus_thread"></a>
+                                    </li>
+                                </ul>
+                            </article> <!-- / .story-strip__item -->
+                            <article class="story-strip__item">
+                                <a href="/trends/fashion/2014/best-fashion-moments-2014">
+                                    <div class="story-strip__item__image-wrapper">
+                                        <img src="http://media.style.com/image/slideshows/trends/fashion/2014/11-november/best-fashion-moments-2014/275/185/O-Year-in-Fashion-4.jpg" alt="">
+                                        <span class="story-strip__item__category"><em>Fashion</em></span>
+                                    </div>
+                                    <h4 class="story-strip__item__title">2014: The Year in Fashion</h4>
+                                </a>
+                                <ul class="story-strip__item__meta">
+                                        <li class="share-popular">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="23" height="14">
+                                                <path fill="#202020" d="M14 0l9 6.5-9 6.5v-4s-6.229-1.173-14 5c0 0 3.029-9.521 14-9.603v-4.397z"/>
+                                            </svg>
+                                            72
+                                        </li>
+                                    <li>
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                                            <path fill="#aeb0b2" d="M20 5v11h-9.8l-.6.6-1.6 1.6v-2.2h-4v-11h16m2-2h-20v15h4v5l5-5h11v-15z"/>
+                                        </svg>
+                                        <a style="display:inline;" href="http://www.style.com/trends/fashion/2014/best-fashion-moments-2014#disqus_thread"></a>
+                                    </li>
+                                </ul>
+                            </article> <!-- / .story-strip__item -->
+                        </div>
+                </section>
+            <div id="middleColumnBottom1440x830_frame" class="displayAd displayAd1440x830Js" data-cb-ad-id="middleColumnBottom1440x830_frame"></div>
+            <script type="text/javascript">
+                //<!--
+                CN.dart.call('middleColumnBottom', {sz:'1440x830', kws:["window"], collapse: true});
+                //-->
+            </script>
+
+            <section class="story-col-unit" data-behavior="sticky_sidebar_ad">
+                <div class="story-col-unit__column-small story-col-unit__pull-left" data-sticky-container>
+                    <div class="ad-w300-in-column" data-sticky>
+                        <div class="ad-w300-in-column__inner">
+                            <div data-ad-key="leftrailBottom" data-ad-min="640">
+                                <div id="leftrailBottom300x250_frame" data-cb-id="leftrailBottom300x250_frame" class="displayAd displayAd300x250Js"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- / .story-col-unit__column-small.story-col-unit__pull-left -->
+                <div class="story-col-unit__gutter">&nbsp;</div>
+
+                <div class="story-col-unit__column-large story-col-unit__pull-right">
+
+                            <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/beauty/hair/2014/chanel-pre-fall-2015-hair">
+                                        <img src="http://media.style.com/image/slideshows/beauty/hair/2014/chanel-salzburg/380/255/O-Instagram-bow-2.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/beauty/hair/2014/chanel-pre-fall-2015-hair">&ldquo;Braidphones&rdquo; and Empress Hair: The Beauty Look at Chanel&rsquo;s M&eacute;tiers d&rsquo;Art Show</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/emily-farra">
+                                                    <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                    <span>Emily Farra</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/beauty/hair">Hair</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 5 hours</li>
+                                    
+                                </ul>
+                            </article> <!-- / .story-item -->
+                                                    <div class="story-item__ad ad-w300-in-story-col">
+                                <div class="ad-w300-in-story-col__inner">
+                                    <div data-ad-key="leftrailBottom" data-ad-min="0" data-ad-max="768"></div>
+                                </div>
+                            </div>
+                                                    <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/trends/mens/2014/engineered-garments-spring-15-video">
+                                        <img src="http://media.style.com/image/slideshows/trends/mens/engineered-garments-spring-15-video/380/255/engineered-garments-spring-2015-video.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/trends/mens/2014/engineered-garments-spring-15-video">Watch: Engineered Garments Goes on Safari for Spring &rsquo;15</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/noah-johnson">
+                                                    <img src="http://media.style.com/image/defaultimages/contributors/20/20/Noah-Johnson-by-Benedict-Brink.jpg" alt="">
+                                                    <span>Noah Johnson</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/trends/mens">Men&#39;s</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 5 hours</li>
+                                    <li class="highlight story-item__shares"><i class="icon-shares"></i> 21 shares</li>
+                                </ul>
+                            </article> <!-- / .story-item -->
+                                                    <article class="poster-story-item">
+                                <div class="poster-story-item__image-wrapper">
+                                    <a href="/trends/fashion/2014/chanel-pre-fall-2015-atmosphere">
+                                        <img src="http://media.style.com/image/slideshows/trends/fashion/2014/12-december/chanel-pre-fall-2015-atmosphere/800/530/O-100214-chanel-atmosphere.jpg" alt="placeholder">
+                                    </a>
+                                </div>
+
+                                <div class="poster-story-item__inner">
+                                    <h3 class="poster-story-item__title"><a href="/trends/fashion/2014/chanel-pre-fall-2015-atmosphere">Slideshow: The Atmosphere at Chanel&rsquo;s M&eacute;tiers d&rsquo;Art Show</a></h3>
+                                    <ul class="poster-story-item__meta">
+                                            <li class="poster-story-item__author">
+                                                <a href="/contributors/style.com">
+                                                        <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                        <span>style.com</span>
+                                                </a>
+                                            </li>
+                                        <li class="story-item__category poster-story-item__category"><a href="/trends/fashion">Fashion</a></li>
+                                        <li class="story-item__published"><i class="icon-clock"></i> 5 hours</li>
+                                        <li class=" story-item__shares"><i class="icon-shares"></i> 10 shares</li>
+                                    </ul>
+                                </div>
+                            </article> <!-- / .poster-story-item -->
+                                                    <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/culture/parties/2014/chanel-salzburg-prefall-party-120214">
+                                            <div class="slideshow-icon">
+                                                <svg height="24" width="24" xmlns="http://www.w3.org/2000/svg" id="slideshow-icon__mobile-center">
+                                                    <path d="M21 10v9h-12v-9h12m2-2h-16v13h16v-13z" fill="#fff"></path>
+                                                    <polygon points="6,14 4,14 4,5 16,5 16,7 18,7 18,3 2,3 2,16 6,16" fill="#fff"></polygon>
+                                                </svg>
+                                            </div>
+                                        <img src="http://media.style.com/image/slideshows/culture/parties/2014/12/chanel-salzburg-prefall-party-120214/380/255/O-chanel-salzburg-prefall-party-120214.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/culture/parties/2014/chanel-salzburg-prefall-party-120214">When in Salzburg: A Preshow Feast for Chanel&rsquo;s M&eacute;tiers d&rsquo;Art Guests</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/tim-blanks">
+                                                    <img src="http://media.style.com/image/defaultimages/contributors/freelancers/20/20/tim-blanks-Unknown.jpeg" alt="">
+                                                    <span>Tim Blanks</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/culture/parties">Parties</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 6 hours</li>
+                                    
+                                </ul>
+                            </article> <!-- / .story-item -->
+                                                    <article class="story-item ">
+                        
+                                
+                                <div class="story-item__image-wrapper">
+                                    <a href="/culture/parties/2014/gucci-kris-knight-art-basel-miami-party-120214">
+                                            <div class="slideshow-icon">
+                                                <svg height="24" width="24" xmlns="http://www.w3.org/2000/svg" id="slideshow-icon__mobile-center">
+                                                    <path d="M21 10v9h-12v-9h12m2-2h-16v13h16v-13z" fill="#fff"></path>
+                                                    <polygon points="6,14 4,14 4,5 16,5 16,7 18,7 18,3 2,3 2,16 6,16" fill="#fff"></polygon>
+                                                </svg>
+                                            </div>
+                                        <img src="http://media.style.com/image/slideshows/culture/parties/2014/12/gucci-kris-knight-art-basel-miami-party-120214/380/255/O-gucci-kris-knight-art-basel-miami-party-120214.jpg" alt="">
+                                    </a>
+                                </div>
+                                <h3 class="story-item__title"><a href="/culture/parties/2014/gucci-kris-knight-art-basel-miami-party-120214">Gucci&rsquo;s Frida Giannini and Kris Knight Kick Off a Week of Parties at Art Basel in Miami Beach</a></h3>
+                                <ul class="story-item__meta">
+                                        <li class="story-item__author">
+                                            <a href="/contributors/ann-binlot">
+                                                    <img src="http://media.style.com/image/defaultimages/20/20/style-logo-square.png" alt="">
+                                                    <span>Ann Binlot</span>
+                                            </a>
+                                        </li>
+                                    <li class="story-item__category"><a href="/culture/parties">Parties</a></li>
+                                    <li class="story-item__published"><i class="icon-clock"></i> 6 hours</li>
+                                    
+                                </ul>
+                            </article> <!-- / .story-item -->
+                        
+                    <div class="story-col-unit__load-more">
+                        <a href="#" class="btn-block btn-load-more" data-page-uri="/api/feedItem/page" data-next-page-number="2" data-media-server="http://media.style.com">Load More</a>
+                        <ul class="story-col-unit__load-more__loader">
+                            <li class="offset-1">s</li>
+                            <li class="offset-2">t</li>
+                            <li class="offset-3">y</li>
+                            <li class="offset-4">l</li>
+                            <li class="offset-5">e</li>
+                        </ul>
+                    </div>
+
+                </div> <!--  .story-col-unit__column-large.story-col-unit__pull-right -->
+            </section> <!-- / .story-col-unit -->
+
+
+        </div> <!-- / .grid-row -->
+    </div> <!-- / .grid-container -->
+</section> <!-- / .home -->
+
+			<div id="fb-root"></div>
+			        <div class="newsletter-signup">
+            <div class="grid-container">
+                <div class="grid-row">
+                    
+                        <div class="newsletter-signup__title">BE IN THE KNOW</div>
+                        <div class="newsletter-signup__desc">Get the latest fashion news, trends, street-style snaps, runway coverage, party reports, and more from Style.com—straight to your inbox!</div>
+                        <form class="newsletter-signup__form">
+                            <input type="email" class="newsletter-textbox__input" placeholder="E-mail address" name="email" required>
+                            <div class="newsletter-signup__submit">
+                                <button class="newsletter-signup__button" type="button">Sign Up</button>
+                            </div>
+                            <div class="options">
+                                <div class="error">
+                                    <span class="errorMsgEmail"><img src="http://media.style.com/image/ts/images/global/14/14/error_icon.gif" /> &nbsp; ERROR: Please enter a valid E-mail address.</span>
+                                    <span class="errorMsgSub"><img src="http://media.style.com/image/ts/images/global/14/14/error_icon.gif" /> &nbsp; ERROR: Please select a newsletter preference.</span>
+                                </div>
+                                <div class="result"></div>
+                                <div class="checkbox">
+                                    <input name="newsletter" value="15168" checked="checked" type="checkbox" id="style-weekly-news-checkbox">
+                                    <label for="style-weekly-news-checkbox" class="field-checkbox">
+                                        <b>Style.com Daily</b>
+                                        <span>Get the latest from Style.com—straight to your inbox!</span>
+                                    </label>
+                                </div>
+                                <div class="checkbox">
+                                    <input name="newsletter" value="34" checked="checked" type="checkbox" id="shop-the-looks-checkbox">
+                                    <label for="shop-the-looks-checkbox">
+                                        <b>Style.com Shop</b>
+                                        <span>Receive weekly updates on best sellers, great finds, and the trends to shop for now.</span>
+                                    </label>
+                                </div>
+                                <p>
+                                    I understand and agree that registration on or use of this site constitutes agreement to our <a href="http://www.condenast.com/privacy-policy">User Agreement</a> and <a href="http://www.condenast.com/privacy-policy#privacypolicy">Privacy Policy</a>.
+                                </p>
+                            </div>
+                        </form>
+                </div>
+            </div>
+        </div>
+
+
+        
+			<footer class="footer">
+			    <div class="grid-container">
+			        <div class="grid-row">
+
+			            <div class="footer__grouped">
+
+			                <figure class="footer__current-issue">
+			                    <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=STE&cds_page_id=174104">
+			                        <img src="/assets/images/style-print-issue-07_600x600.jpg" alt="print issue" nopin="nopin">
+			                    </a>
+			                </figure>
+
+			                <div class="footer__nav">
+
+			                    <nav class="footer__meta-nav">
+			                        <ul>
+			                            <li><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=STE">Subscriptions</a></li>
+			                            <li><a href="/contactus">Contact Us</a></li>
+			                            <li><a href="/newsletter">Newsletters</a></li>
+			                            <li><a href="http://www.condenast.com/fairchild/ffm-press/in-the-news">Press Center</a></li>
+			                        </ul>
+			                        <ul>
+			                            <li><a href="http://www.condenast.com/brands/style/media-kit">Advertising</a></li>
+			                            <li><a href="http://condenast.com/reprints-permissions">Reprints</a></li>
+			                            <li><a href="http://www.condenast.com/careers">Careers</a></li>
+			                        </ul>
+			                    </nav>
+
+			                    <nav class="footer__social-nav">
+			                        <ul>
+			                            <li><a href="https://www.facebook.com/style" target="_blank"><span class="icon-facebook-footer"></span>Facebook</a></li>
+			                            <li><a href="https://twitter.com/styledotcom" target="_blank"><span class="icon-twitter-footer"></span>Twitter</a></li>
+			                            <li><a href="https://plus.google.com/+styledotcom/posts" target="_blank"><span class="icon-google-plus-footer"></span>Google+</a></li>
+			                            <li><a href="http://www.pinterest.com/styledotcom" target="_blank"><span class="icon-pinterest-footer"></span>Pinterest</a></li>
+			                        </ul>
+			                        <ul>
+			                            <li><a href="http://instagram.com/styledotcom" target="_blank"><span class="icon-instagram-footer"></span>Instagram</a></li>
+			                            <li><a href="http://officialstyledotcom.tumblr.com" target="_blank"><span class="icon-tumblr-footer"></span>Tumblr</a></li>
+			                        </ul>
+			                    </nav>
+
+
+			                    <div class="footer__signature">
+			                        <div class="footer__left">© 2014 Condé Nast. All rights reserved.</div>
+			                        <div class="footer__right">Site by <a href="http://www.area17.com/?utm_source=style.com&utm_medium=referral&utm_campaign=footer-credit">AREA17</a></div>
+			                    </div>
+
+			                    <div class="footer__tos">
+			                        USE OF THIS SITE CONSTITUTES ACCEPTANCE OF OUR <a href="http://www.condenast.com/privacy-policy">USER AGREEMENT</a> (EFFECTIVE 1/2/2014) AND <a href="http://www.condenast.com/privacy-policy#privacypolicy">PRIVACY POLICY</a> (EFFECTIVE 1/2/2014). <a href="http://www.condenast.com/privacy-policy#privacypolicy-california">YOUR CALIFORNIA PRIVACY RIGHTS</a>.  THE MATERIAL ON THIS SITE MAY NOT BE REPRODUCED, DISTRIBUTED, TRANSMITTED, CACHED OR OTHERWISE USED, EXCEPT WITH THE PRIOR WRITTEN PERMISSION OF CONDÉ NAST. <a href="http://www.condenast.com/privacy-policy#privacypolicy-optout">AD CHOICES</a>
+			                    </div>
+
+			                </div>
+
+			            </div>
+
+			        </div>
+			    </div>
+			</footer>
+			<div id="parsely-root" style="display: none">
+			  <div id="parsely-cfg" data-parsely-site="style.com"></div>
+			</div>
+			<script type='text/javascript' src='/assets/js/bottom.min.js'></script>
+			<script type="text/javascript" class="omniture_block">
+    CN.stats.omniture.init();
+
+    CN.stats.omniture.setStatus( CN.site.httpStatusCode );
+
+    /*
+    //Set based on responsive size.
+    CN.stats.omniture.setMobileView( ( CN.isMobile ) ? 'Mobile' : 'Non-Mobile' );
+
+    if ( CN.cookie.get('amg_user_partner') != '' ) {
+        CN.stats.omniture.setCustomProp( "52", CN.cookie.get('amg_user_partner') );
+    }
+    // keep
+    CN.stats.omniture.setContentType( "homepage" );
+
+    if ( CN.stats.omniture.setReferrer !== undefined && document.referrer.match( CN.site.tld ) ) {
+        var referrer = document.referrer;
+        referrer=referrer.split("?")[0];
+        CN.stats.omniture.setReferrer( referrer );
+    }
+
+    if ( CN.stats.omniture.setKeywords !== undefined ) {
+        CN.stats.omniture.setKeywords( "staging" );
+    }
+    */
+    var repo = {"zone1":"homepage","zone2":"","keywords":[""],"type":"homepage","meta":{"title":"Style.com: The Online Home of Fashion: News, Runway Shows, Trends, Fashion Models, Designers, Shopping, Beauty, and Entertainment","description":"Style.com: Up-to-the-minute coverage of the world of fashion. Comprehensive runway reviews, images, videos, beauty, and more","keywords":"Fashion, Fashion Shows, Fashion News, Street Style, Models, Runway, Trends, Fashion Designers, Shopping, Beauty, Culture"}}, canonicalURL = window.location.pathname.split('/');
+    CN.stats.omniture.setContentType(repo.type);
+    if( repo.zone1 === 'fashion-shows;' ) {
+        CN.stats.omniture.setCustomProp('20', repo.zone2);
+        if( repo.template != 'seasons-landing' ) {
+            CN.stats.omniture.setCustomProp('21', repo.brand);
+        } else {
+            CN.stats.omniture.setCustomProp('21', null);
+        };
+    } else {
+        CN.stats.omniture.setCustomProp('20', null);
+        CN.stats.omniture.setCustomProp('21', null);
+    };
+
+    if( repo.template === 'fashionshows-slideshows' ) {
+
+        var url,
+            host = window.location.origin,
+            keywords = [],
+            lastKeyword = repo.keywords.length - 1;
+
+        if( isNaN(canonicalURL[canonicalURL.length - 1]) === false ) {
+            for( var i = 0; i < lastKeyword; i++ ) {
+                keywords[i] = repo.keywords[i];
+            };
+            CN.stats.omniture.setCustomProp("32", "slide" + canonicalURL[canonicalURL.length - 1]);
+        } else {
+            keywords = repo.keywords;
+            CN.stats.omniture.setCustomProp("32", "slide1");
+        };
+        keywords = keywords.join('/');
+        url = host + '/' + keywords;
+
+        CN.stats.omniture.setPageName(url);
+        CN.stats.omniture.setCustomProp('6', "fashion-shows");
+        CN.stats.omniture.setCustomProp('7', repo.zone2);
+        CN.stats.omniture.setCustomProp('60', repo.slideshowLength);
+        CN.stats.omniture.setCustomProp('20', repo.zone2);
+        CN.stats.omniture.setCustomProp('21', repo.brand);
+    }
+
+    if( repo.template === 'slideshows' ) {
+        var url,
+            host = window.location.origin,
+            keywords = [],
+            lastKeyword = repo.keywords.length - 1;
+
+        if( isNaN(canonicalURL[canonicalURL.length - 1]) === false ) {
+            CN.stats.omniture.setCustomProp("32", "slide" + canonicalURL[canonicalURL.length - 1]);
+        } else {
+            CN.stats.omniture.setCustomProp("32", "slide1");
+        };
+        for( var i = 0; i < lastKeyword; i++ ) {
+            keywords[i] = repo.keywords[i];
+        };
+        keywords = keywords.join('/');
+        url = host + '/' + keywords;
+        console.log(url);
+        CN.stats.omniture.setPageName(url);
+        CN.stats.omniture.setCustomProp('6', repo.zone1);
+        CN.stats.omniture.setCustomProp('7', repo.zone2);
+        CN.stats.omniture.setCustomProp('60', repo.slideshowLength);
+    }
+
+    if( repo.template != 'slideshows' && repo.template != 'fashionshows-slideshows' ) {
+        CN.stats.omniture.setCustomProp('60', null);
+        CN.stats.omniture.setCustomProp("32", null);
+    }
+
+    // Run page tracking (also calls .init() again )
+    CN.stats.omniture.doPageTracking();
+</script>
+<noscript>
+    <a href="http://www.omniture.com" title="Web Analytics">
+        <img src="http://condenast.112.2o7.net/b/ss/conde-style/1/H.15.1--NS/0" height="1" width="1" border="0" alt="" />
+    </a>
+</noscript>
+    <script>
+
+        // assign the handler
+        // story-col-unit__load-more
+        jQuery(function(){
+
+
+            jQuery('a.btn-load-more').on('click', function(evt){
+                evt.preventDefault();
+                evt.stopPropagation();
+                var $this = jQuery(this);
+                var $container = $this.parents('.story-col-unit__load-more:first');
+                $container.addClass('is-loading');
+                var pageNumber = $this.data('next-page-number');
+                var pageURI = '/api/feedItem/page/' + pageNumber + '/size/10/homepage';
+
+                jQuery.ajax({
+                    type: 'GET',
+                    url: pageURI,
+                    traditional: false
+                })
+                .done(function(data){
+
+                    var $addlFeedItems = jQuery(data);
+                    var nextPageNumber = parseInt($addlFeedItems.data('next-page-number'), 10);
+                    $container
+                        .before($addlFeedItems.html())
+                        .slideDown('fast')
+                        .parent().imagesLoaded().always(function() {
+                            jQuery(window).trigger('reload_sticky_sidebar_ads');
+                        });
+                    if (nextPageNumber !== undefined && nextPageNumber !== -1) {
+                        $this.data('next-page-number', nextPageNumber);
+                    } else {
+                        $container.hide(); // no more pages to load
+                    }
+                })
+                .fail(function(data){
+                    $container.before('<article class="story-item error"><p>Unable to load additional items at this time. Please try again shortly.</p></article>')
+                })
+                .always(function(){
+                    $container.removeClass('is-loading');
+                });
+            });
+
+        });
+    </script>
+    <script>
+        register_responsive_ad('tabletAd', function() {
+            CN.dart.call('tabletAd', {sz:'300x250', kws:["top"], collapse: true});
+        });
+
+        register_responsive_ad('rightrailTop', function() {
+            CN.dart.call('rightrailTop', {sz:'300x250', kws:["top"], collapse: true});
+        });
+
+        register_responsive_ad('leftrailBottom', function() {
+            CN.dart.call('leftrailBottom', {sz:'300x250', kws:["bottom"], collapse: true});
+        });
+    </script>
+
+		</div>
+	</body>
+</html>

@@ -1,0 +1,462 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Page not found - Baltimore magazine</title>
+	<link rel="home" href="http://www.baltimoremagazine.net/" />
+
+    <link rel="stylesheet" href="http://www.baltimoremagazine.net/design/css/foundation.css" />
+    <script src="http://www.baltimoremagazine.net/design/js/vendor/modernizr.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/ugr0rum.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53f61e7214b9c994"></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	var mapLeader = googletag.sizeMapping().
+		addSize([320, 400], [300, 250]).
+		addSize([640, 200], [468, 60]).
+		addSize([1200, 200], [728, 90]).
+		build();
+
+
+	window.LeaderSlot1= googletag.defineSlot('/1187805/2014-Leaderboard', [0,0], 'div-gpt-ad-1395601882880-0').
+		defineSizeMapping(mapLeader).
+		addService(googletag.pubads());
+
+	var mapRectangle = googletag.sizeMapping().
+		addSize([320, 400], [300, 250]).
+		addSize([640, 200], [180, 150]).
+		addSize([1020, 200], [300, 250]).
+		build();
+
+	window.RectangleSlot1= googletag.defineSlot('/1187805/2014-MediumRectangle', [0,0], 'div-gpt-ad-1395601882880-1').
+		defineSizeMapping(mapRectangle).
+		addService(googletag.pubads());
+			
+	window.RectangleSlot2= googletag.defineSlot('/1187805/2014-MR-Secondary', [0,0], 'div-gpt-ad-1395601882880-2').
+		defineSizeMapping(mapRectangle).
+		addService(googletag.pubads());
+	googletag.enableServices();
+
+});
+
+	var resizeTimer;
+
+	function resizer() {
+		googletag.pubads().refresh([window.LeaderSlot]);
+		googletag.pubads().refresh([window.RectangleSlot1]);
+		googletag.pubads().refresh([window.RectangleSlot2]);				
+	}
+	
+	window.addEventListener("resize", function(){ 
+		clearTimeout(resizeTimer);
+		resizeTimer = setTimeout(resizer, 500);
+	});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6567699-1', 'baltimoremagazine.net');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+</head>
+
+<body>
+
+
+<header class="basoco"> 
+	<div class="row">
+		<div class="small-6 medium-3 large-4 columns text-center">
+			<a href="http://www.baltimoremagazine.net/"><img src="http://www.baltimoremagazine.net/design/img/Baltimore_BW.png" class="bmag-logo" /></a>
+		</div>
+		<div class="large-7 columns show-for-large-up hide-for-print">
+
+			<div class="thin weiss">
+			<h4><span class="nav-line">
+				<a class="nav-link" href="http://www.baltimoremagazine.net/this-month">Magazine&nbsp;</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/fooddrink">Food & Drink</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/events">&nbsp;Events&nbsp;</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/community">Community&nbsp;</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/promotions">Promotions</a> 
+				<a class="nav-link" href="http://bride.baltimoremagazine.net">Bride</a>
+			</span></h4>
+			<h6>
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/bestof">Best of Baltimore</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/artsentertainment">Arts & Entertainment</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/health">Health</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/homegarden">Home & Garden</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/travel">Travel</a> 
+				<a class="nav-link" href="http://www.baltimoremagazine.net/section/styleshopping">Shopping & Fashion</a></h6>
+			</div>
+		</div>
+
+
+		<div class="small-2 small-offset-2 medium-1 medium-offset-7 hide-for-large columns text-right">
+			<a href="#" data-dropdown="drop1"><img src="http://www.baltimoremagazine.net/design/img/menu.png" /></a>
+		</div>
+
+		<div class="small-2 medium-1 columns text-right">
+			<a href="http://www.baltimoremagazine.net/search" data-dropdown="drop2" class="search-nav"><img src="http://www.baltimoremagazine.net/design/img/search.png" /></a>
+		</div>
+		
+		
+				<ul id="drop1" class="tiny content f-dropdown clan uppers hide-for-print" data-dropdown-content>
+				  <li><a href="http://www.baltimoremagazine.net/this-month">Magazine</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/fooddrink">Food & Drink</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/events">Events</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/community">Community</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/promotions">Promotions</a></li>
+				  <li><a href="http://bride.baltimoremagazine.net">Baltimore Bride</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/bestof">Best of Baltimore</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/artsentertainment">Arts & Entertainment</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/health">Health</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/homegarden">Home & Garden</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/travel">Travel</a></li>
+				  <li><a href="http://www.baltimoremagazine.net/section/styleshopping">Shopping & Fashion</a></li>
+				</ul>
+				<div id="drop2" data-dropdown-content class="medium f-dropdown content hide-for-print">
+
+ <form action="http://www.baltimoremagazine.net/search">
+<div class="row">
+<div class="large-12 small-12 columns">
+ <div class="row collapse">
+        <div class="small-9 columns">
+          <input type="text" value="" id="autocomplete-menu" name="q">
+        </div>
+        <div class="small-3 columns end">
+          <button type="submit" class="button large uppers postfix">SEARCH</button>
+        </div>
+</div>
+</div>
+</div>
+</form>
+
+</div>
+	</div>
+</header>
+   
+   <div class="row main-page"> 
+   <div class="medium-8 columns content">
+	<h1>Page not found</h1>
+
+	<p>Sorry! We just migrated to a new site and we're working to get everything right. You can <a href="http://www.baltimoremagazine.net/search">search for what you're looking for</a> or <a href="http://www.baltimoremagazine.net/">return to the home page.</a></p>
+
+</div>	
+	
+   
+   		<div class="medium-4 columns hide-for-print">
+			<h3 class="clan uppers triangle">Magazine</h3>
+			<div class="row">
+				<div class="small-5 columns">
+				<p>
+				
+								
+				
+
+	
+
+   <a href="http://www.baltimoremagazine.net/issue/november-2014"><img src="http://98329bfccf2a7356f7c4-b113946b17b55222ad1df26d6703a42e.r50.cf2.rackcdn.com/_300xAUTO_crop_center-center/-NOV-14-Cover.jpg" /></a>
+    
+
+								
+				</p>
+				</div>
+				<div class="small-7 columns clan">
+				
+								            <h5 class=" uppers thin mag-links"><a href="https://ssl.palmcoastd.com/13201/apps/ORDOPTION1LANDING_MDFOODBANK?ikey=I4LMDF">Subscribe</a></h5>
+			        			            <h5 class=" uppers thin mag-links"><a href="http://bmag.co/giftsub14">Give a Gift</a></h5>
+			        			            <h5 class=" uppers thin mag-links"><a href="https://ssl.palmcoastd.com/13201/apps/LOGINSSO">Manage Subscription</a></h5>
+			        			            <h5 class=" uppers thin mag-links"><a href="/this-month">Table of Contents</a></h5>
+			        			      
+			      			      
+			      
+				</div>
+			</div>
+
+			<hr />
+						
+			<h3 class="clan uppers triangle">Most Recent</h3>
+			<ol class="clan popular-list">
+
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/24/top-doctors-2014">Top Doctors 2014</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/24/mnf-super-superdome-return-for-ravens">MNF: Super Superdome Return for Ravens?</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/23/the-theory-of-everything">The Theory of Everything</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/21/no-cakewalk">No Cakewalk</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/21/waterfront-partnership-ice-rink-in-inner-harbor-opens-today">Waterfront Partnership Ice Rink in Inner Harbor Opens Today</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/21/the-hunger-games-mockingjay-part-1">The Hunger Games: Mockingjay Part 1</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/21/straight-no-chaser-comes-to-the-meyerhoff">Straight No Chaser Comes to the Meyerhoff</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/20/six-perfect-spaces-for-holiday-parties">Six Perfect Spaces for Holiday Parties </a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/20/duclaw-brewing-expands-its-operations">DuClaw Brewing Expands its Operations</a></li>
+		        		            <li><a href="http://www.baltimoremagazine.net/2014/11/20/turkey-tips">Turkey Tips</a></li>
+		        		    </ol>
+	
+				
+			<hr />
+
+<div id="div-gpt-ad-1395601882880-1" class="advertisement text-center">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395601882880-1'); });
+</script>
+</div>
+	
+			<hr />
+
+
+<!--
+<div class="addthis_recommended_vertical"></div>
+-->
+				
+	<!--		
+			<h3 class="clan uppers black triangle">What To Do</h3>
+			<div class="row sidebar-event-feature">
+				<a href="http://events.baltimoremagazine.net/event/baltimore_restaurant_week_8051#.U8ftz_ldVd0"><div class="small-6 columns event-thumb">
+					<p>  <img src="http://98329bfccf2a7356f7c4-b113946b17b55222ad1df26d6703a42e.r50.cf2.rackcdn.com/_200x150_crop_center-center/Best-of-Baltimore-After-Party-2.png" alt=""></p>
+				</div>
+				<div class="small-6 columns event-details">
+					<h6 class="uppers clan accent">Featured Event</h6>
+					<h5 class="unit">Best of Baltimore After Hours Party</h5>
+					<span class="clan"><b>August 14</b> Check out the Best of Baltimore After Hours Party at Bond Street Social!</span>
+				</div></a>
+			</div>	
+			<div class="row sidebar-event-navigation">
+				
+				<div class="small-4 columns">
+					<a href="http://events.baltimoremagazine.net/calendar/day" ><div class="black"><h5 class="white text-center uppers">Today</h5></div></a>
+				</div>
+				<div class="small-4 columns text-center ">
+					<a href="http://events.baltimoremagazine.net/calendar/week" ><div class="black"><h5 class="white text-center uppers">This Week</h5></div></a>
+				</div>				
+				<div class="small-4 columns text-right ">
+					<a href="http://events.baltimoremagazine.net/" ><div class="black"><h5 class="white text-center uppers">This Month</h5></div></a>
+				</div>
+						
+			</div>	
+			<hr />
+	-->		
+			<div class="sidebar-social text-center">
+			<h2 class="clan uppers thin">Connect with us</h2>
+
+
+<a href="http://www.facebook.com/baltimoremagazine" target="_blank"><img src="http://www.baltimoremagazine.net/design/img/social/Facebook_teal60.png"></a>
+<a href="http://www.twitter.com/baltimoremag" target="_blank"><img src="http://www.baltimoremagazine.net/design/img/social/Twitter_teal60.png"></a>
+<a href="http://www.pinterest.com/baltimoremag" target="_blank"><img src="http://www.baltimoremagazine.net/design/img/social/Pinterest_teal60.png"></a>
+<a href="http://instagram.com/baltmag" target="_blank"><img src="http://www.baltimoremagazine.net/design/img/social/Instagram_teal60.png"></a>
+<a href="https://www.youtube.com/channel/UCy7c83WpeSgSzHGMIRqoPyQ" target="_blank"><img src="http://www.baltimoremagazine.net/design/img/social/YouTube_teal60.png"></a>
+
+			</div>
+			<hr />
+			<!--<a href="http://www.baltimoremagazine.net/orioles"><img src="http://98329bfccf2a7356f7c4-b113946b17b55222ad1df26d6703a42e.r50.cf2.rackcdn.com/orioles_600.jpg" alt="Orioles-Palooza - Our ongoing coverage of the 2014 Baltimore Orioles season, including our Stud of the Week. Sponsored by Marriott Baltimore Waterfront." />
+			</a>
+			-->
+			<p><a href="http://www.baltimoremagazine.net/ravens"><img src="http://98329bfccf2a7356f7c4-b113946b17b55222ad1df26d6703a42e.r50.cf2.rackcdn.com/ravensWatch_sidebar_2.jpg" alt="Ravens Watch - Our ongoing coverage of the 2014 Baltimore Ravens season." />
+			</a></p>
+			
+			<hr />
+			
+			<a name="newsletters"></a>
+			<h3 class="clan uppers triangle">Newsletters</h3>
+			<div id="mc_embed_signup clan">
+<form action="http://baltimoremagazine.us1.list-manage.com/subscribe/post?u=5565aa08796b5b342fa9d81b6&amp;id=88a38976ac" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate clan" target="_blank" novalidate>
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" placeholder="Your Email Address" class="required email" id="mce-EMAIL">
+</div>
+
+<div class="mc-field-group input-group row">
+	<div class="small-6 columns">
+		<ul class="no-bullet">
+			<li><input type="checkbox" value="134217728" name="group[97][134217728]" id="mce-group[97]-97-0" checked><label for="mce-group[97]-97-0" >
+			<b><a href="http://eepurl.com/PWYvj" title="See an example of a Bride newsletter." target="_blank">Bride</a></b></label></li>
+			<li><input type="checkbox" value="268435456" name="group[97][268435456]" id="mce-group[97]-97-1" checked><label for="mce-group[97]-97-1" >
+			<b><a href="http://eepurl.com/0dy0H"  title="See an example of a Datebook newsletter."target="_blank">Datebook</a></b></label></li>
+			<li><input type="checkbox" value="17179869184" name="group[97][17179869184]" id="mce-group[97]-97-2" checked><label for="mce-group[97]-97-2" >
+			<b><a href="http://eepurl.com/0Fov9"  title="See an example of an Events newsletter."target="_blank">Events</a></b></label></li>
+			<li><input type="checkbox" value="536870912" name="group[97][536870912]" id="mce-group[97]-97-3" checked><label for="mce-group[97]-97-3" >
+			<b><a href="http://eepurl.com/SB2yn" title="See an example of a Home &amp; Garden newsletter." target="_blank">Home &amp; Garden</a></b></label></li>
+		</ul>
+	</div>
+	<div class="small-6 columns">
+		<ul class="no-bullet">
+			<li><input type="checkbox" value="1073741824" name="group[97][1073741824]" id="mce-group[97]-97-4" checked><label for="mce-group[97]-97-4" >
+			<b><a href="http://eepurl.com/Wjktb" title="See an example of a Monthly Dish newsletter." target="_blank">Monthly Dish</a></b></label></li>
+			<li><input type="checkbox" value="2147483648" name="group[97][2147483648]" id="mce-group[97]-97-5" checked><label for="mce-group[97]-97-5" >
+			<b><a href="http://eepurl.com/U-Sbr" title="See an example of a Sneak Peek newsletter." target="_blank">Sneak Peek</a></b></label></li>
+			<li><input type="checkbox" value="8589934592" name="group[97][8589934592]" id="mce-group[97]-97-6" checked><label for="mce-group[97]-97-6" >
+			<b><a href="http://eepurl.com/ZZcy9" title="See an example of a Special Offers newsletter." target="_blank">Special Offers</a></b></label></li>
+			<li><input type="checkbox" value="4294967296" name="group[97][4294967296]" id="mce-group[97]-97-7" checked><label for="mce-group[97]-97-7" >
+			<b><a href="http://eepurl.com/SMgy9"  title="See an example of a Travel newsletter."target="_blank">Travel</a></b></label></li>
+		</ul>
+	</div>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5565aa08796b5b342fa9d81b6_88a38976ac" value=""></div>
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small uppers"></div>
+</form>
+</div>
+
+			<!--<hr />
+						
+			<h3 class="clan uppers triangle">Deals of the Month</h3>
+			<ul class="clan promo-list no-bullet">
+				<a href="/deals-of-the-month"><li><span class="promo-lead">FX Studios: $10 Reward Card With Purchase of $100 Gift Card</span> Visit FX Studios online or in person to receive an additional reward with purchase of a gift card.</li></a>
+				<a href="/deals-of-the-month"><li><span class="promo-lead">Maryland Local Deals</span> Buy Local, Shop Local, Support Local Business. Save with Free Coupons.</li></a>	
+				<a href="/deals-of-the-month"><li><span class="promo-lead">Octavia of Cross Keys</span> Get $50 Off Your Purchase of $150 or more.</li></a>
+			</ul>-->
+
+			<hr />
+					
+			<h3 class="clan uppers triangle">Promotions</h3>
+			<ul class="clan promo-list no-bullet">
+								<a href="http://www.baltimoremagazine.net/promotions/help-end-hunger"><li><span class="promo-lead">Help End Hunger</span> Subscribe before December 31 and we’ll donate 50 percent of the proceeds to Maryland Food Bank.</li></a>	
+								<a href="http://www.baltimoremagazine.net/promotions/top-singles-2015"><li><span class="promo-lead">Top Singles 2015</span> Submit a nomination for that very eligible single in your circle!</li></a>	
+								<a href="http://www.baltimoremagazine.net/promotions/best-nurses-2015"><li><span class="promo-lead">Best Nurses 2015</span> Nominate a registered nurse who has gone above and beyond the call of duty.</li></a>	
+								<a href="http://www.baltimoremagazine.net/promotions/lucky-draw"><li><span class="promo-lead">Lucky Draw: Red Door Spa</span> In this month’s Lucky Draw, enter to win an Orange Pomegranate Revitalizing Body Treatment at Red Door Spa. Ends 11/25.</li></a>	
+							</ul>
+
+			<hr />
+			
+			<h3 class="clan uppers triangle">Party Pics</h3>
+			<ul class="clan promo-list no-bullet">
+								<a href="http://www.baltimoremagazine.net/marketing/baltimore-magazines-best-of-baltimore-party"><li><span class="promo-lead">Baltimore magazine&#039;s Best of Baltimore Party</li></a>	
+								<a href="http://www.baltimoremagazine.net/marketing/baltimore-magazines-women-in-business-cocktail-reception-2014"><li><span class="promo-lead">Baltimore Magazine’s Women in Business Cocktail Reception</li></a>	
+							</ul>
+
+			<hr />
+			
+
+				<div id="div-gpt-ad-1395601882880-2" class="advertisement text-center">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395601882880-2'); });
+</script>
+</div>
+				
+				
+			<hr />
+			<div class="sidebar-special-sections">
+			<h3 class="clan uppers triangle">Special Sections</h3>
+						            <h5 class="special-links clan uppers"><a href="http://www.baltimoremagazine.net/2014/9/1/medical-profiles-2014-1">Doctors</a></h5>
+			        			            <h5 class="special-links clan uppers"><a href="/2013/6/top-dentists-2013">Dentists</a></h5>
+			        			            <h5 class="special-links clan uppers"><a href="/2014/4/women-in-business-profiles">Women In Business</a></h5>
+			        			            <h5 class="special-links clan uppers"><a href="/2014/10/3/2014-open-house-schedule">School Open Houses</a></h5>
+			        			</div>
+
+<!--
+<hr />
+
+					<h3 class="clan uppers triangle">Related Stories</h3>
+		<ul class="small-block-grid-2">	
+		</ul>
+-->
+			
+		</div> 
+         
+   </div>
+
+<footer class="basoco hide-for-print">
+   <div class="row black">
+   		<div class="large-6 columns">
+   						 				 				   	 <img src="http://98329bfccf2a7356f7c4-b113946b17b55222ad1df26d6703a42e.r50.cf2.rackcdn.com/_300xAUTO_crop_center-center/-NOV-14-Cover.jpg" class="footer-cover hide-for-small" width="140">     						
+   						
+   		</div>
+   		
+   </div>
+   <div class="row black">
+   		<div class="large-8 columns">
+	   		<div class="row">
+	   			<div class="medium-3 columns">
+		   			<h4 class="accent uppers">Sections</h4>
+		   			
+						<a href="http://www.baltimoremagazine.net/section/fooddrink"><h5 class="thin uppers white">Food & Drink</h5></a>
+						<a href="http://www.baltimoremagazine.net/section/community"><h5 class="thin uppers white">Community</h5></a>
+						<a href="http://www.baltimoremagazine.net/section/bestof"><h5 class="thin uppers white">Best of Baltimore</h5></a>
+						<a href="http://www.baltimoremagazine.net/section/artsentertainment"><h5 class="thin uppers white">Arts & Entertainment</h5></a>
+						<a href="http://www.baltimoremagazine.net/section/travel"><h5 class="thin uppers white">Travel</h5></a>
+						<a href="http://www.baltimoremagazine.net/section/homegarden"><h5 class="thin uppers white">Home & Garden</h5></a>
+						<a href="http://www.baltimoremagazine.net/section/styleshopping"><h5 class="thin uppers white">Style & Shopping</h5></a>
+	   			</div>
+	   			<div class="medium-3 columns">
+		   			<h4 class="accent uppers">Magazine</h4>
+						<a href="http://www.baltimoremagazine.net/this-month"><h5 class="thin uppers white">This Month</h5></a>
+						<a href="http://www.baltimoremagazine.net/archives"><h5 class="thin uppers white">Archives</h5></a>
+						<a href="http://bmag.co/suboffer14"><h5 class="thin uppers white">Subscribe</h5></a>
+						<a href="http://bmag.co/giftsub14"><h5 class="thin uppers white">Give A Gift</h5></a>
+						<a href="https://ssl.palmcoastd.com/13201/apps/LOGINSSO"><h5 class="thin uppers white">Manage Subscription</h5></a>
+						
+	   			</div>
+	   			<div class="medium-3 columns">
+		   			<h4 class="accent uppers">Our Brand</h4>
+						<a href="http://www.baltimoremagazine.net/this-month"><h5 class="thin uppers white">Baltimore magazine</h5></a>
+						<a href="http://bride.baltimoremagazine.net"><h5 class="thin uppers white">Baltimore Bride</h5></a>
+						<a href="http://www.baltimoremagazine.net/"><h5 class="thin uppers white">Baltimoremagazine.net</h5></a>
+						<a href="http://www.baltimoremagazine.net/dpd"><h5 class="thin uppers white" >Design & Print Division</h5></a>
+	   			</div>
+	   			<div class="medium-3 columns">
+		   			<h4 class="accent uppers">Information</h4>
+						<a href="http://www.baltimoremagazine.net/about/about-baltimore-magazine"><h5 class="thin uppers white">About Us</h5></a>
+						<a href="http://www.baltimoremagazine.net/about/contact"><h5 class="thin uppers white">Contact Us</h5></a>
+						<a href="http://www.baltimoremagazine.net/about/jobs"><h5 class="thin uppers white">Careers</h5></a>
+						<a href="http://www.baltimoremagazine.net/about/advertise"><h5 class="thin uppers white">Advertise With Us</h5></a>
+						<a href="http://www.baltimoremagazine.net/about/terms"><h5 class="thin uppers white">Terms of Use</h5></a>
+						<a href="http://www.baltimoremagazine.net/about/privacy"><h5 class="thin uppers white">Privacy Policy</h5></a>
+	   			</div>
+	   		</div>
+	   		
+   		</div>
+   		
+   		<div class="large-4 medium-12 columns text-center">
+   		<h1><a href="http://www.baltimoremagazine.net/"><img src="http://www.baltimoremagazine.net/design/img/Baltimore_BW.png" width="250"></a></h1>
+   		<h5 class="white thin">1000 Lancaster Street, Suite 400<br />
+   			Baltimore, MD 21202<br />
+   			410-752-4200</h4>
+   			<h5 class="white thin">&copy; 2014 Rosebud Entertainment</h4>
+   		</div>
+   </div>
+</footer>
+    
+    <script src="http://www.baltimoremagazine.net/design/js/vendor/jquery.js"></script>
+    <script src="http://www.baltimoremagazine.net/design/js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+      $( ".search-nav" ).click(function() {
+	  $( "#autocomplete-menu" ).focus();});
+    </script>
+    <script src="http://www.baltimoremagazine.net/design/js/vendor/jquery.autocomplete.js"></script>
+    <script src="http://www.baltimoremagazine.net/design/js/vendor/search-auto.js"></script> 
+
+
+<!--WISEPOPS CODE-->
+    <script type="text/javascript">
+(function() {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;
+s.src = document.location.protocol + '//wisepops.com/default/index/get-loader?user_id=8071';
+var s2 = document.getElementsByTagName('script')[0];s2.parentNode.insertBefore(s, s2);})();
+    </script>   
+       
+  </body>
+</html>

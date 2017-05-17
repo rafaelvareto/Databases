@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Page Not Found - Channels Television</title>
+	
+<link rel="shortcut icon" href="http://www.channelstv.com/wp-content/themes/child-theme/images/favicon.ico" type="image/x-icon">	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+
+<meta name="google-site-verification" content="6JVFjvtKtlBAOBeZjx02KYOCAJqmYfH--9_EmfNIsw8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Channels Television" />
+<meta property="og:site_name" content="Channels Television" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Channels Television &raquo; Feed" href="http://www.channelstv.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Channels Television &raquo; Comments Feed" href="http://www.channelstv.com/comments/feed/" />
+<link rel='stylesheet' id='tubepress-css'  href='http://www.channelstv.com/wp-content/plugins/tubepress/src/main/web/css/tubepress.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.prettyphoto-css'  href='http://www.channelstv.com/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='video-lightbox-css'  href='http://www.channelstv.com/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.channelstv.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.3.6&#038;ver=3.9.3' type='text/css' media='all' />
+<style type='text/css'>
+.avada_huge_white_text{
+			position: absolute; 
+			color: #ffffff; 
+			font-size: 130px; 
+			line-height: 45px; 
+			font-family: museoslab500regular;
+            text-shadow: 0px 2px 5px rgba(0, 0, 0, 1);
+		}
+
+.avada_huge_black_text{
+			position: absolute; 
+			color: #000000; 
+			font-size: 130px; 
+			line-height: 45px; 
+			font-family: museoslab500regular;
+		}
+
+.avada_big_black_text{
+			position: absolute; 
+			color: #333333; 
+			font-size: 42px; 
+			line-height: 45px; 
+			font-family: museoslab500regular;
+		}
+
+.avada_big_white_text{
+			position: absolute; 
+			color: #fff; 
+			font-size: 42px; 
+			line-height: 45px; 
+			font-family: museoslab500regular;
+		}
+
+.avada_big_black_text_center{
+			position: absolute; 
+			color: #333333; 
+			font-size: 38px; 
+			line-height: 45px; 
+			font-family: museoslab500regular;
+                        text-align: center;
+		}
+
+
+.avada_med_green_text{
+			position: absolute; 
+			color: #A0CE4E; 
+			font-size: 24px; 
+			line-height: 24px; 
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+		}
+
+
+.avada_small_gray_text{
+			position: absolute; 
+			color: #747474; 
+			font-size: 13px; 			
+            line-height: 20px; 
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+		}
+
+.avada_small_white_text{
+			position: absolute; 
+			color: #fff; 
+			font-size: 13px; 			
+            line-height: 20px; 
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+    		text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+  			font-weight: 700; 
+
+		}
+
+
+.avada_block_black{
+			position: absolute; 
+			color: #A0CE4E; 
+			text-shadow: none; 
+			font-size: 22px; 
+			line-height: 34px; 
+			padding: 0px 10px; 
+			padding-top: 1px;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#000;	
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+	}
+
+.avada_block_green{
+			position: absolute; 
+			color: #000; 
+			text-shadow: none; 
+			font-size: 22px; 
+			line-height: 34px; 
+			padding: 0px 10px; 
+			padding-top: 1px;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#A0CE4E;	
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+	}
+
+.avada_block_white{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-size: 22px; 
+			line-height: 34px; 
+			padding: 0px 10px; 
+			padding-top: 1px;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:#000;	
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+	}
+
+
+.avada_block_white_trans{
+			position: absolute; 
+			color: #fff; 
+			text-shadow: none; 
+			font-size: 22px; 
+			line-height: 34px; 
+			padding: 0px 10px; 
+			padding-top: 1px;
+			margin: 0px; 
+			border-width: 0px; 
+			border-style: none; 
+			background-color:rgba(0, 0, 0, 0.6);    		
+			font-family: PTSansRegular, Arial, Helvetica, sans-serif;
+	}
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+</style>
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://www.channelstv.com/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.3.6&#038;ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap_css-css'  href='http://www.channelstv.com/wp-content/themes/child-theme/css/bootstrap.min.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style_css-css'  href='http://www.channelstv.com/wp-content/themes/child-theme/css/styles.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='main_css-css'  href='http://www.channelstv.com/wp-content/themes/child-theme/style.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://www.channelstv.com/wp-content/themes/Avada/framework/plugins/LayerSlider//static/css/layerslider.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-flexslider-css'  href='http://www.channelstv.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/flexslider.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-common-css'  href='http://www.channelstv.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/style.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.channelstv.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/plugins/tubepress/src/main/web/js/tubepress.js?ver=3.9.3'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.6&#038;ver=3.9.3'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.6&#038;ver=3.9.3'></script>
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js?ver=3.9.3#pubid=ra-53da69401abd3698'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/themes/Avada/framework/plugins/LayerSlider//static/js/layerslider.kreaturamedia.jquery.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/themes/Avada/framework/plugins/LayerSlider//static/js/greensock.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.channelstv.com/wp-content/themes/Avada/framework/plugins/LayerSlider//static/js/layerslider.transitions.js?ver=5.1.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.channelstv.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.channelstv.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.3" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"rrH8k1a0CM00UH", domain:"channelstv.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=rrH8k1a0CM00UH" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<script type="text/javascript">var TubePressJsConfig = {"urls":{"base":"http:\/\/www.channelstv.com\/wp-content\/plugins\/tubepress","usr":"http:\/\/www.channelstv.com\/wp-content\/tubepress-content"}};</script>
+
+			<link rel="stylesheet" type="text/css" href="http://www.channelstv.com/index.php?ak_action=aktt_css&v=2.4" />
+			<script type="text/javascript" src="http://www.channelstv.com/index.php?ak_action=aktt_js&v=2.4"></script>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29412270-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+	
+	<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+	      var js, fjs = d.getElementsByTagName(s)[0];
+	      if (d.getElementById(id)) return;
+	      js = d.createElement(s); js.id = id;
+	      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+	      fjs.parentNode.insertBefore(js, fjs);
+	    }(document, 'script', 'facebook-jssdk'));</script>
+	
+	
+    <nav class="navbar-wrapper navbar-default navbar-fixed-top" role="navigation">
+    	<div class="container-fluid">
+        	<div class="navbar-header">
+            	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                	<span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            	<a class="navbar-brand" href="http://www.channelstv.com"><img src="http://www.channelstv.com/wp-content/themes/child-theme/images/channelstv-new-logo.png" class="img-responsive" /></a>
+            	<p class="station-theme-xs visible-xs">NIGERIA'S 9-TIME TV STATION OF THE YEAR</p>
+            </div><!--End of navabr-header div -->
+            
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+            	<div class="collapse navbar-collapse">
+                	<ul class="nav navbar-nav">
+                      <li class="active"><a class="text-uppercase" href="http://www.channelstv.com">Home</a></li>
+                      <li class="dropdown">
+                		<a href="#" class="hidden-sm dropdown-toggle text-uppercase" data-toggle="dropdown">Sections<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+						 <li><a class="text-uppercase" href="http://www.channelstv.com/category/africa/">Africa</a></li>
+						 <li><a class="text-uppercase" href="http://www.channelstv.com/category/business/">Business</a></li>
+						  <li><a class="text-uppercase" href="http://www.channelstv.com/category/entertainment/">Entertainment</a></li>
+                          <li><a class="text-uppercase" href="http://www.channelstv.com/category/local/">Local</a></li>
+                          <li><a class="text-uppercase" href="http://www.channelstv.com/category/politics/">Politics</a></li>
+						  <li><a class="text-uppercase" href="http://www.channelstv.com/category/sports/">Sports</a></li>
+						   <li><a class="text-uppercase" href="http://www.channelstv.com/category/world-news/">World News</a></li>
+                        </ul>
+              		  </li>
+                      <li><a class="text-uppercase" href="http://www.channelstv.com/programmes/">Programs</a></li>
+                      <li><a class="text-uppercase livetv" href="http://www.channelstv.com/live/">Live TV</a></li>
+                      
+            		</ul><!--End of nav navbar-collapse ul -->
+            		
+            
+					<!--<form method="get" action="http://www.channelstv.com" class="navbar-form navbar-right" role="search">
+                      <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search ..." autocomplete="off" name="s">
+                      </div>
+                      <button type="submit" class="btn btn-default">Submit</button>
+            		</form>-->
+                    
+            
+                    <ul class="nav navbar-nav social-networks navbar-right hidden-sm">
+                      <li class="facebook"><a href="https://www.facebook.com/channelsforum">Facebook</a></li>
+                      <li class="twitter"><a href="https://twitter.com/channelstv">Twitter</a></li>
+                      <li class="plus"><a href="https://plus.google.com/+ChannelsTelevision/posts">Google Plus</a></li>
+                      <li class="rss"><a href="http://www.channelstv.com/feed/">RSS</a></li>
+                      
+                    </ul><!--End of navbar-nav navbar-right ul -->
+                    
+                    <ul class="nav navbar-nav navbar-right">
+                      <li class="station-theme hidden-xs hidden-md">NIGERIA'S 9-TIME TV STATION OF THE YEAR</li>
+                    </ul><!--End of navbar-nav navbar-right ul -->
+                    
+                    <ul class="nav navbar-nav navbar-right">
+                      <li class="search"><a>SEARCH</a></li>
+                    </ul><!--End of navbar-nav navbar-right ul -->
+              
+                </div><!--End of navbar-collapse div -->
+            </div><!-- End of collapse div -->
+            
+        </div><!-- End of container -->
+        
+    </nav>
+    
+    
+    
+    <div class="navbar-bgcolor"></div>	<div id="content" class="full-width">
+		<span class="vcard" style="display: none;"><span class="fn"></span></span>
+		<span class="updated" style="display: none;"></span>
+		<div id="post-404page" class="post">
+			<div class="post-content">
+				<div class="title">
+					<h2 class="entry-title">Oops, This Page Could Not Be Found!</h2><div class="title-sep-container"><div class="title-sep"></div></div>
+				</div>
+				<div class="error_page">
+					<div class="one_third">
+						<div class="error-image"></div>
+					</div>
+					<div class="one_third useful_links">
+						<h3>Here are some useful links:</h3>
+
+						
+						<style type='text/css'>
+							.post-content #checklist-1 li:before{color: !important;}
+							.rtl .post-content #checklist-1 li:after{color: !important;}
+						</style>
+						<div class="list-icon circle-yes list-icon-arrow"><ul><li class="page_item page-item-109913"><a href="http://www.channelstv.com/bookclub/">A Gefty/Channels BookClub Partnership</a></li><li class="page_item page-item-10"><a href="http://www.channelstv.com/aboutus/">About Us</a></li><li class="page_item page-item-12066"><a href="http://www.channelstv.com/adeola-olumeyancompany-secretary/">Adeola Olumeyan,Company Secretary</a></li><li class="page_item page-item-57"><a href="http://www.channelstv.com/advertising/">Advertising</a></li><li class="page_item page-item-12428"><a href="http://www.channelstv.com/amarachi-ubani/">Amarachi Ubani</a></li><li class="page_item page-item-111829"><a href="http://www.channelstv.com/avada-template-backup/">avada template backup</a></li><li class="page_item page-item-111355"><a href="http://www.channelstv.com/avada-new/">avada-new</a></li><li class="page_item page-item-16038"><a href="http://www.channelstv.com/bashir-adigun-region-editor-north/">Bashir Adigun, Region Editor North</a></li><li class="page_item page-item-60024"><a href="http://www.channelstv.com/bola-frazer/">Bola Frazer</a></li><li class="page_item page-item-108234"><a href="http://www.channelstv.com/bringbackourgirls/">BringBackOurGirls</a></li><li class="page_item page-item-114766"><a href="http://www.channelstv.com/bukola-joe-oketunmbi/">BUKOLA JOE- OKETUNMBI</a></li><li class="page_item page-item-111515"><a href="http://www.channelstv.com/category/">Category</a></li><li class="page_item page-item-94558"><a href="http://www.channelstv.com/channels-tv-2013-end-of-year-party/">Channels TV 2013 End Of Year Party</a></li><li class="page_item page-item-58460"><a href="http://www.channelstv.com/charles-khalifa-erukaa/">Charles Khalifa Erukaa</a></li><li class="page_item page-item-11954"><a href="http://www.channelstv.com/chimezie-obi-iwuagwu/">Chimezie Obi-Iwuagwu</a></li><li class="page_item page-item-20075"><a href="http://www.channelstv.com/chukwuma-onuekwusi/">Chukwuma Onuekwusi</a></li><li class="page_item page-item-74844"><a href="http://www.channelstv.com/confirmation/">confirmation</a></li><li class="page_item page-item-12"><a href="http://www.channelstv.com/contactus/">Contact Us</a></li><li class="page_item page-item-58323"><a href="http://www.channelstv.com/custom-home/">custom home</a></li><li class="page_item page-item-16072"><a href="http://www.channelstv.com/doris-okenwa/">Doris Okenwa</a></li><li class="page_item page-item-12622"><a href="http://www.channelstv.com/evbuomwan-irene/">Evbuomwan Irene</a></li><li class="page_item page-item-11064"><a href="http://www.channelstv.com/olusola-toyin-momohexecutive-director/">Executive Vice-Chairman</a></li><li class="page_item page-item-18576"><a href="http://www.channelstv.com/gloria-ume-ezeoke/">Gloria Ume-Ezeoke</a></li><li class="page_item page-item-121487"><a href="http://www.channelstv.com/health-matters/">Health Matters</a></li><li class="page_item page-item-94861"><a href="http://www.channelstv.com/highlights-of-2014-countdown-in-nigeria/">Highlights Of 2014 Countdown In Nigeria</a></li><li class="page_item page-item-20065"><a href="http://www.channelstv.com/ijeoma-onyeator/">Ijeoma Onyeator</a></li><li class="page_item page-item-12176"><a href="http://www.channelstv.com/joe-ighile/">Joe Ighile</a></li><li class="page_item page-item-12500"><a href="http://www.channelstv.com/joke-rogers/">Joke Rogers</a></li><li class="page_item page-item-11087"><a href="http://www.channelstv.com/joe-esenwa-controller-news/">Joseph Esenwa, Controller News</a></li><li class="page_item page-item-11232"><a href="http://www.channelstv.com/kayode-akintemi-gm-operations/">Kayode Akintemi, GM Operations</a></li><li class="page_item page-item-12609"><a href="http://www.channelstv.com/kehinde-olalafe/">Kehinde Olalafe</a></li><li class="page_item page-item-11948"><a href="http://www.channelstv.com/kelvin-obeten/">Kelvin Obeten</a></li><li class="page_item page-item-11865"><a href="http://www.channelstv.com/lanre-lasisi/">Lanre Lasisi</a></li><li class="page_item page-item-8"><a href="http://www.channelstv.com/live/">Live</a></li><li class="page_item page-item-12629"><a href="http://www.channelstv.com/louis-eke-news-editor/">Louis Eke; News Editor</a></li><li class="page_item page-item-11963"><a href="http://www.channelstv.com/mary-alale-yusuf/">Mary Alale-Yusuf</a></li><li class="page_item page-item-11545"><a href="http://www.channelstv.com/maryanne-udesnr-hr-manager/">Maryanne Ude, HR Manager</a></li><li class="page_item page-item-14 page_item_has_children"><a href="http://www.channelstv.com/meet-the-team/">Meet The Team</a></li><li class="page_item page-item-27059"><a href="http://www.channelstv.com/melinda-akinlami/">Melinda Akinlami</a></li><li class="page_item page-item-91557"><a href="http://www.channelstv.com/ministers-of-sports-bolaji-abdullahi-visits-channels-television/">Minister Of Sports, Bolaji Abdullahi, Visits Channels Television</a></li><li class="page_item page-item-24001"><a href="http://www.channelstv.com/photo-gallery/">Nigeria Governors&#8217; Forum Retreat</a></li><li class="page_item page-item-18607"><a href="http://www.channelstv.com/nneamaka-okafor/">Nneamaka Okafor</a></li><li class="page_item page-item-12400"><a href="http://www.channelstv.com/ogechukwu-osih/">Ogechukwu Osih</a></li><li class="page_item page-item-16012"><a href="http://www.channelstv.com/olaiya-olusola-olalekan/">Olaiya Olusola Olalekan; Station Mgr. Abuja</a></li><li class="page_item page-item-54183"><a href="http://www.channelstv.com/olu-philips/">Olu Phillips</a></li><li class="page_item page-item-18592"><a href="http://www.channelstv.com/omelogo-nnadi/">Omelogo Nnadi</a></li><li class="page_item page-item-119661"><a href="http://www.channelstv.com/osun-governorship-election-captured-pictures/">Osun Governorship Election Captured In Pictures</a></li><li class="page_item page-item-11276"><a href="http://www.channelstv.com/patrick-obuseh-station-manager/">Patrick Obuseh, Station Mgr./Multimedia Systems</a></li><li class="page_item page-item-16060"><a href="http://www.channelstv.com/paul-uzodinma-nwachukwu/">Paul Uzodinma Nwachukwu</a></li><li class="page_item page-item-112081 page_item_has_children"><a href="http://www.channelstv.com/programmes/">Programmes</a></li><li class="page_item page-item-1625"><a href="http://www.channelstv.com/programs/">Programs</a></li><li class="page_item page-item-11069"><a href="http://www.channelstv.com/steve-judo-g-m-special-duties/">Steve Judo&#8230;G.M. Special Duties</a></li><li class="page_item page-item-18299"><a href="http://www.channelstv.com/sulai-aledeh/">Sulaiman Aledeh</a></li><li class="page_item page-item-63045"><a href="http://www.channelstv.com/testhome/">TestHome</a></li><li class="page_item page-item-79560"><a href="http://www.channelstv.com/thesummit/">The 19th Nigerian Economic Summit</a></li><li class="page_item page-item-11058"><a href="http://www.channelstv.com/john-momoh/">The Chairman/CEO</a></li><li class="page_item page-item-106980"><a href="http://www.channelstv.com/the-channels-kids-cup/">The Channels National Kids Cup</a></li><li class="page_item page-item-106903"><a href="http://www.channelstv.com/wef/">The World Economic Forum &#8211; Africa</a></li><li class="page_item page-item-12417"><a href="http://www.channelstv.com/toyin-ibitoye/">Toyin ibitoye</a></li><li class="page_item page-item-12189"><a href="http://www.channelstv.com/tunji-fagbeminews-editor/">Tunji Fagbemi,News Editor</a></li><li class="page_item page-item-91891"><a href="http://www.channelstv.com/linda-thomas-greenfield-visit/">U.S Assistant Secretary of State, African Affairs, Linda Thomas-Greenfield’s Visit To Channels TV</a></li><li class="page_item page-item-6"><a href="http://www.channelstv.com/video/">Videos</a></li><li class="page_item page-item-48880"><a href="http://www.channelstv.com/weather/">Weather</a></li><li class="page_item page-item-108167"><a href="http://www.channelstv.com/wefa/">World Economic Forum on Africa in Pictures</a></li><li class="page_item page-item-11881"><a href="http://www.channelstv.com/yomi-otaigbe/">Yomi Otaigbe</a></li></ul></div>
+					</div>
+					<div class="one_third last">
+						<h3>Search Our Website</a></h3>
+						<p>Can't find what you need? Take a moment and do a search below!</p>
+						<div class="search-page-search-form">
+							<form class="seach-form" id="searchform" role="search" method="get" action="http://www.channelstv.com/">
+								<input type="text" value="" name="s" id="s" placeholder="Search ..."/>
+								<input type="submit" id="searchsubmit" value="&#xf002;" />
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  
+    
+    
+    	<div class="foot navbar-fixed-bottom container-fluid">
+        
+        	<div class="row">
+            	<div class="col-xs-12">
+                    <ul class="nav-bar nav-bar-sm nav-bar-alt">
+                        <li><a href="http://www.channelstv.com/aboutus/">About us</a></li>
+                        <li><a href="http://www.channelstv.com/meet-the-team/">Meet The Team</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="http://www.channelstv.com/advertising/">Advertise</a></li>
+                        <li><a href="http://www.channelstv.com/programmes/">Programmes</a></li>
+                        <li><a href="http://www.channelstv.com/programmes">Videos</a></li>
+                        <li><a href="http://www.channelstv.com/live/">Live TV</a></li>
+                        <li><a href="#">Downloads</a></li>
+                    	<li class="legal">© 2014 Channels Television Incorporated</li>
+                    </ul>
+                </div>
+            	<!--<div class="col-md-4">&copy Channels Television. 2014</div>
+                <div class="col-md-4">
+                	<ul class="nav nav-pills">
+                    	<li><a href="#">About Us</a></li>
+                        <li><a href="#">Live</a></li>
+                        <li><a href="#">Contact us</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                	<h3 class="text-right">Vacation Rentals</h3>
+                </div>-->
+            </div><!--End of div class row of footer -->
+            
+        </div>
+    
+    
+    <script src="http://www.channelstv.com/wp-content/themes/child-theme/js/bootstrap.min.js"></script>
+	<script src="http://www.channelstv.com/wp-content/themes/child-theme/js/overlay-share.js"></script>
+	<script src="http://www.channelstv.com/wp-content/themes/child-theme/js/search.js"></script>  
+   
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"4ce05eae6e","applicationID":"3199118","transactionName":"NQYBbERTXUEHWxcICgxMIltCW1xcSQxTVQ==","queueTime":0,"applicationTime":362,"atts":"GUECGgxJTk8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script></body>
+</html>

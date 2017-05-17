@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>404 Not Found | Urban Splatter</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.urbansplatter.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.urbansplatter.com/wp-content/themes/esplanade/scripts/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+<!-- /SEO Ultimate -->
+
+<link rel="alternate" type="application/rss+xml" title="Urban Splatter &raquo; Feed" href="http://www.urbansplatter.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Urban Splatter &raquo; Comments Feed" href="http://www.urbansplatter.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.urbansplatter.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='esplanade-web-font-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,italic,bold,bolditalic&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='esplanade-css'  href='http://www.urbansplatter.com/wp-content/themes/esplanade/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sand-css'  href='http://www.urbansplatter.com/wp-content/themes/esplanade/styles/sand.css' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://www.urbansplatter.com/wp-content/themes/esplanade/styles/colorbox.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-content/themes/esplanade/scripts/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-content/themes/esplanade/scripts/fitvids.js'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-content/themes/esplanade/scripts/audio-player.js'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-content/themes/esplanade/scripts/colorbox.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.urbansplatter.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.urbansplatter.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.1" />
+<script>
+/* <![CDATA[ */
+	jQuery(document).ready(function($) {
+		$('.nav-toggle').click(function() {
+			$('#access div ul:first-child').slideToggle(250);
+			return false;
+		});
+		if( ($(window).width() > 640) || ($(document).width() > 640) ) {
+							$('#access li').mouseenter(function() {
+					$(this).children('ul').css('display', 'none').stop(true, true).slideToggle(250).css('display', 'block').children('ul').css('display', 'none');
+				});
+				$('#access li').mouseleave(function() {
+					$(this).children('ul').stop(true, true).fadeOut(250).css('display', 'block');
+				})
+					} else {
+			$('#access li').each(function() {
+				if($(this).children('ul').length)
+					$(this).append('<span class="drop-down-toggle"><span class="drop-down-arrow"></span></span>');
+			});
+			$('.drop-down-toggle').click(function() {
+				$(this).parent().children('ul').slideToggle(250);
+			});
+		}
+				$(".entry-attachment, .entry-content").fitVids({ customSelector: "iframe, object, embed"});
+	});
+	jQuery(window).load(function() {
+					jQuery('.entry-content a[href$=".jpg"],.entry-content a[href$=".jpeg"],.entry-content a[href$=".png"],.entry-content a[href$=".gif"],a.colorbox').colorbox();
+			});
+	AudioPlayer.setup("http://www.urbansplatter.com/wp-content/themes/esplanade/audio-player/player.swf", {  
+		width: 320  
+	});
+/* ]]> */
+</script>
+<style type="text/css">
+																																					#header-image {
+padding: 0;
+)
+</style>
+<!-- All in one Favicon 4.3 --><link rel="icon" href="http://www.urbansplatter.com/wp-content/uploads/2013/11/Untitled-11.png" type="image/png"/>
+<style type="text/css">
+	#site-title,
+	#site-description {
+		position:absolute !important;
+		clip:rect(1px 1px 1px 1px); /* IE6, IE7 */
+		clip:rect(1px, 1px, 1px, 1px);
+	}
+	#header-image {
+		margin:1.76% 0;
+	}
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #a59a73; background-image: url('http://www.urbansplatter.com/wp-content/uploads/2012/07/Chicago-Downtown-email.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+</head>
+
+<body class="error404 custom-background">
+	<div id="wrapper">
+		<header id="header">
+			<div id="site-title"><a href="http://www.urbansplatter.com/" rel="home">Urban Splatter</a></div>
+							<div id="site-description">Bringing Architecture to You</div>
+									<div class="clear"></div>
+							<a href="http://www.urbansplatter.com/" rel="home">
+					<img id="header-image" src="http://www.urbansplatter.com/wp-content/uploads/2012/12/Official-12-32-121.jpg" alt="Urban Splatter" width="1082" height="280" />
+				</a>
+						<nav id="access">
+				<a class="nav-toggle" href="#">Navigation</a>
+				<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-2171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2171"><a href="http://www.urbansplatter.com/">Home</a></li>
+<li id="menu-item-2182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2182"><a href="http://www.urbansplatter.com/category/architecture/">Architecture</a>
+<ul class="sub-menu">
+	<li id="menu-item-2185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2185"><a href="http://www.urbansplatter.com/category/renovations/">Renovations</a></li>
+	<li id="menu-item-2184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2184"><a href="http://www.urbansplatter.com/category/historic/">Historic</a></li>
+	<li id="menu-item-2183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2183"><a href="http://www.urbansplatter.com/category/celebrity-homes/">Celebrity Homes</a></li>
+	<li id="menu-item-2186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2186"><a href="http://www.urbansplatter.com/category/contemporary-buildings/">Contemporary Buildings</a></li>
+	<li id="menu-item-2189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2189"><a href="http://www.urbansplatter.com/category/architecture-terms/">Architecture Terms</a></li>
+</ul>
+</li>
+<li id="menu-item-2190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2190"><a href="http://www.urbansplatter.com/category/civil-engineering/">Engineering</a>
+<ul class="sub-menu">
+	<li id="menu-item-2177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2177"><a href="http://www.urbansplatter.com/category/buildings/">Buildings</a></li>
+	<li id="menu-item-4323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4323"><a href="http://www.urbansplatter.com/category/structures/">Structures</a></li>
+	<li id="menu-item-2187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2187"><a href="http://www.urbansplatter.com/category/sky-scrapers/">Sky Scrapers</a></li>
+	<li id="menu-item-2195" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2195"><a href="http://www.urbansplatter.com/category/transportation/">Transportation</a></li>
+</ul>
+</li>
+<li id="menu-item-2180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2180"><a href="http://www.urbansplatter.com/category/travel/">Travel</a>
+<ul class="sub-menu">
+	<li id="menu-item-2179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2179"><a href="http://www.urbansplatter.com/category/top-10/">Top 10</a></li>
+	<li id="menu-item-4320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4320"><a href="http://www.urbansplatter.com/category/geography/">Geography</a></li>
+	<li id="menu-item-4322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4322"><a href="http://www.urbansplatter.com/category/maps/">Maps</a></li>
+</ul>
+</li>
+<li id="menu-item-2181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2181"><a href="http://www.urbansplatter.com/category/city/">Urban</a>
+<ul class="sub-menu">
+	<li id="menu-item-4324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4324"><a href="http://www.urbansplatter.com/category/urban-planning/">Urban Planning</a></li>
+</ul>
+</li>
+<li id="menu-item-2176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2176"><a href="http://www.urbansplatter.com/category/art-2/">Design</a>
+<ul class="sub-menu">
+	<li id="menu-item-2191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2191"><a href="http://www.urbansplatter.com/category/concept/">Concept</a></li>
+	<li id="menu-item-4321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4321"><a href="http://www.urbansplatter.com/category/interior-design/">Interior Design</a></li>
+	<li id="menu-item-2192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2192"><a href="http://www.urbansplatter.com/category/do-it-yourself/">Do it Yourself</a></li>
+	<li id="menu-item-2178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2178"><a href="http://www.urbansplatter.com/category/furniture/">Furniture</a></li>
+	<li id="menu-item-2188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2188"><a href="http://www.urbansplatter.com/category/aquariums/">Aquariums</a></li>
+</ul>
+</li>
+<li id="menu-item-2194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2194"><a href="http://www.urbansplatter.com/category/products/">Products</a></li>
+<li id="menu-item-2174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2174"><a href="http://www.urbansplatter.com/contact/">Contact</a></li>
+</ul></div>				<form role="search" method="get" id="searchform" action="http://www.urbansplatter.com//" >
+	<input type="text" value="" placeholder="Search this website&#8230;" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+</form>				<div class="clear"></div>
+			</nav><!-- #access -->
+		</header><!-- #header -->	<div id="container">
+				<section id="content">
+			<div class="entry">
+									<div id="location">
+							<div id="breadcrumbs">
+	<span class="prefix-text">You are here:</span>
+	<a href="http://www.urbansplatter.com/" rel="home">Home</a>
+	 &rsaquo; Page not found	</div>
+					</div><!-- #location -->
+									<article class="post hentry" id="post-0">
+		<h2 class="entry-title">Content not found</h2>
+		<div class="entry-content">
+			The content you are looking for could not be found.</p>
+							Use the information below or try to seach to find what you're looking for:</p>
+								<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.urbansplatter.com/avril-levignes-l-a-house/">Avril Lavigne&#8217;s L.A. House</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/images-denvers-skyline-night-day/">Images of Denver&#8217;s Skyline at Night and Day</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/coolest-architecture-firm-selgas-cano-architecture-office/">Coolest Architecture Firm Selgas Cano</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/history-architecture-flatiron-building-new-york/">The History and Architecture of the Flatiron Building (New York)</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/trends-american-architecture/">The Old and New Trends in American Architecture</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/protected-intersections-bicycles-change-cities/">Protected Intersections for Bicycles May Change Cities</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/urban-splatters-top-pinterest-images/">Urban Splatter&#8217;s Top Pinterest Images</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/robert-redfords-architecturally-stunning-house-california/">Robert Redford&#8217;s Architecturally Stunning House in California</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/urban-algae-farm-eats-highway-air-pollution/">This Urban Algae Farm Eats Up Highway Air Pollution</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/choose-architecture-career/">Who Should Choose The Architecture Career</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/matt-leblancs-house-pacific-palisades/">Matt Leblanc&#8217;s House in Pacific Palisades</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/mobys-house-hollywood-hills/">Moby&#8217;s House in Hollywood Hills</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/top-10-fastest-growing-cities-america-architecture-population/">Top 10 Fastest Growing Cities in America (Architecture and Population)</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/bradley-coopers-house-venice-beach-california/">Bradley Cooper&#8217;s House in Venice Beach, California</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/hulk-hogans-expansive-house-florida/">Hulk Hogan&#8217;s Expansive House in Florida</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/sally-fields-house-malibu/">Sally Field&#8217;s House in Malibu</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/chelsea-handlers-house-los-angeles-rental-house/">Chelsea Handler&#8217;s House Los Angeles Rental House</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/matt-damons-house-miami/">Matt Damon&#8217;s House in Miami</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/harrison-fords-mega-mansion-house-la/">Harrison Ford&#8217;s Mega Mansion House in LA</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/history-architecture-bank-america-tower/">The History and Architecture of the Bank of America Tower</a>
+						</li>
+				</ul>
+		</aside><!-- .widget -->		</div><!-- .entry-content -->
+	</article><!-- .post -->
+			</div><!-- .entry -->
+		</section><!-- #content -->
+					<div id="sidebar">
+		<div id="sidebar-top" class="widget-area" role="complementary">
+		<aside id="text-4" class="widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9156647681038221";
+/* TS3 Houses side */
+google_ad_slot = "5758879329";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</aside><!-- .widget --><aside id="text-13" class="widget widget_text"><h3 class="widget-title">&#8220;Like&#8221; us on Facebook</h3>			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FUrbanSplatter&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
+<center><a href="https://twitter.com/UrbanSplatter" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @UrbanSplatter</a></center>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></center></div>
+		</aside><!-- .widget -->		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.urbansplatter.com/avril-levignes-l-a-house/">Avril Lavigne&#8217;s L.A. House</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/images-denvers-skyline-night-day/">Images of Denver&#8217;s Skyline at Night and Day</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/coolest-architecture-firm-selgas-cano-architecture-office/">Coolest Architecture Firm Selgas Cano</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/history-architecture-flatiron-building-new-york/">The History and Architecture of the Flatiron Building (New York)</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/trends-american-architecture/">The Old and New Trends in American Architecture</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/protected-intersections-bicycles-change-cities/">Protected Intersections for Bicycles May Change Cities</a>
+						</li>
+					<li>
+				<a href="http://www.urbansplatter.com/urban-splatters-top-pinterest-images/">Urban Splatter&#8217;s Top Pinterest Images</a>
+						</li>
+				</ul>
+		</aside><!-- .widget --><aside id="text-20" class="widget widget_text"><h3 class="widget-title">Subscribe to Urban Splatter&#8217;s Emails</h3>			<div class="textwidget"><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=UrbanSplatter', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="UrbanSplatter" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p></form></div>
+		</aside><!-- .widget --><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="91">Apartments</option>
+	<option class="level-0" value="38">Aquariums</option>
+	<option class="level-0" value="162">arch daily</option>
+	<option class="level-0" value="15">Architecture</option>
+	<option class="level-0" value="3">Architecture Terms</option>
+	<option class="level-0" value="49">Art</option>
+	<option class="level-0" value="35">Buildings</option>
+	<option class="level-0" value="88">Celebrity Homes</option>
+	<option class="level-0" value="36">City</option>
+	<option class="level-0" value="136">Civil Engineering</option>
+	<option class="level-0" value="58">Concept</option>
+	<option class="level-0" value="11">Contemporary Buildings</option>
+	<option class="level-0" value="189">Cool</option>
+	<option class="level-0" value="69">Do it Yourself</option>
+	<option class="level-0" value="416">Environment</option>
+	<option class="level-0" value="52">Furniture</option>
+	<option class="level-0" value="184">Geography</option>
+	<option class="level-0" value="83">Historic</option>
+	<option class="level-0" value="72">House</option>
+	<option class="level-0" value="253">Interesting</option>
+	<option class="level-0" value="208">Interior Design</option>
+	<option class="level-0" value="187">Maps</option>
+	<option class="level-0" value="160">Media</option>
+	<option class="level-0" value="25">Photoshop</option>
+	<option class="level-0" value="203">Pictures</option>
+	<option class="level-0" value="21">Products</option>
+	<option class="level-0" value="30">Renovations</option>
+	<option class="level-0" value="145">Site News</option>
+	<option class="level-0" value="46">Sky Scrapers</option>
+	<option class="level-0" value="261">Structures</option>
+	<option class="level-0" value="174">Top 10</option>
+	<option class="level-0" value="137">Transportation</option>
+	<option class="level-0" value="163">Travel</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="194">Urban Planning</option>
+	<option class="level-0" value="185">Videos</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://www.urbansplatter.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</aside><!-- .widget --><aside id="text-14" class="widget widget_text"><h3 class="widget-title">Social Media                                                                                                                                                         </h3>			<div class="textwidget"><p style="text-align:center;"><a href="http://www.facebook.com/UrbanSplatter" target="_blank"><img class="alignnone" src="http://www.urbansplatter.com/wp-content/uploads/2012/12/facebook-100x100.png" alt="" width="135" /></a><a href="https://twitter.com/UrbanSplatter" target="_blank"><img class="alignnone" src="http://www.urbansplatter.com/wp-content/uploads/2012/12/twitter-100x100.png" alt="" width="135" /><br />
+<a href="http://instagram.com/urbansplatter" target="_blank"><img class="alignnone" src="http://www.urbansplatter.com/wp-content/uploads/2014/08/instagram-100x100.png" alt="" width="135" /></a><a href="http://pinterest.com/urbansplatter/" target="_blank"><img class="alignnone" src="http://www.urbansplatter.com/wp-content/uploads/2012/12/pinterest-100x100.png" alt="" width="135" /></a></p>
+<p></a</p>
+</div>
+		</aside><!-- .widget --><aside id="text-7" class="widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9156647681038221";
+/* TS3 Houses side */
+google_ad_slot = "5758879329";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</aside><!-- .widget --><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href='http://www.urbansplatter.com/tag/abandoned/' class='tag-link-102' title='14 topics' style='font-size: 13.4193548387pt;'>abandoned</a>
+<a href='http://www.urbansplatter.com/tag/aquarium/' class='tag-link-18' title='9 topics' style='font-size: 11.3870967742pt;'>Aquarium</a>
+<a href='http://www.urbansplatter.com/tag/architecture-terms-2/' class='tag-link-4' title='10 topics' style='font-size: 11.8387096774pt;'>architecture terms</a>
+<a href='http://www.urbansplatter.com/tag/art/' class='tag-link-27' title='28 topics' style='font-size: 16.5806451613pt;'>art</a>
+<a href='http://www.urbansplatter.com/tag/bridge/' class='tag-link-85' title='7 topics' style='font-size: 10.2580645161pt;'>bridge</a>
+<a href='http://www.urbansplatter.com/tag/california/' class='tag-link-95' title='34 topics' style='font-size: 17.4838709677pt;'>California</a>
+<a href='http://www.urbansplatter.com/tag/cantilever/' class='tag-link-10' title='15 topics' style='font-size: 13.6451612903pt;'>cantilever</a>
+<a href='http://www.urbansplatter.com/tag/celebrity-homes/' class='tag-link-88' title='45 topics' style='font-size: 18.8387096774pt;'>Celebrity Homes</a>
+<a href='http://www.urbansplatter.com/tag/chicago/' class='tag-link-12' title='35 topics' style='font-size: 17.7096774194pt;'>Chicago</a>
+<a href='http://www.urbansplatter.com/tag/china/' class='tag-link-55' title='11 topics' style='font-size: 12.2903225806pt;'>China</a>
+<a href='http://www.urbansplatter.com/tag/city-2/' class='tag-link-138' title='5 topics' style='font-size: 8.90322580645pt;'>city</a>
+<a href='http://www.urbansplatter.com/tag/condominiums/' class='tag-link-14' title='7 topics' style='font-size: 10.2580645161pt;'>Condominiums</a>
+<a href='http://www.urbansplatter.com/tag/contemporary/' class='tag-link-7' title='47 topics' style='font-size: 19.064516129pt;'>contemporary</a>
+<a href='http://www.urbansplatter.com/tag/designer-furniture/' class='tag-link-53' title='17 topics' style='font-size: 14.3225806452pt;'>designer furniture</a>
+<a href='http://www.urbansplatter.com/tag/drawing/' class='tag-link-28' title='6 topics' style='font-size: 9.6935483871pt;'>drawing</a>
+<a href='http://www.urbansplatter.com/tag/enviroment/' class='tag-link-42' title='40 topics' style='font-size: 18.2741935484pt;'>enviroment</a>
+<a href='http://www.urbansplatter.com/tag/farm-house/' class='tag-link-33' title='5 topics' style='font-size: 8.90322580645pt;'>farm house</a>
+<a href='http://www.urbansplatter.com/tag/france/' class='tag-link-37' title='6 topics' style='font-size: 9.6935483871pt;'>france</a>
+<a href='http://www.urbansplatter.com/tag/garden/' class='tag-link-43' title='9 topics' style='font-size: 11.3870967742pt;'>garden</a>
+<a href='http://www.urbansplatter.com/tag/germany/' class='tag-link-17' title='8 topics' style='font-size: 10.8225806452pt;'>Germany</a>
+<a href='http://www.urbansplatter.com/tag/high-rise/' class='tag-link-13' title='31 topics' style='font-size: 17.1451612903pt;'>High Rise</a>
+<a href='http://www.urbansplatter.com/tag/hipster/' class='tag-link-45' title='15 topics' style='font-size: 13.6451612903pt;'>hipster</a>
+<a href='http://www.urbansplatter.com/tag/historic/' class='tag-link-83' title='38 topics' style='font-size: 18.0483870968pt;'>Historic</a>
+<a href='http://www.urbansplatter.com/tag/hollywood-hills/' class='tag-link-266' title='5 topics' style='font-size: 8.90322580645pt;'>Hollywood Hills</a>
+<a href='http://www.urbansplatter.com/tag/hotel/' class='tag-link-16' title='8 topics' style='font-size: 10.8225806452pt;'>Hotel</a>
+<a href='http://www.urbansplatter.com/tag/house/' class='tag-link-72' title='24 topics' style='font-size: 15.9032258065pt;'>House</a>
+<a href='http://www.urbansplatter.com/tag/innovation/' class='tag-link-19' title='70 topics' style='font-size: 20.9838709677pt;'>innovation</a>
+<a href='http://www.urbansplatter.com/tag/japan/' class='tag-link-34' title='7 topics' style='font-size: 10.2580645161pt;'>Japan</a>
+<a href='http://www.urbansplatter.com/tag/london/' class='tag-link-151' title='6 topics' style='font-size: 9.6935483871pt;'>London</a>
+<a href='http://www.urbansplatter.com/tag/los-angeles/' class='tag-link-171' title='16 topics' style='font-size: 13.9838709677pt;'>Los Angeles</a>
+<a href='http://www.urbansplatter.com/tag/malibu/' class='tag-link-257' title='11 topics' style='font-size: 12.2903225806pt;'>malibu</a>
+<a href='http://www.urbansplatter.com/tag/miami/' class='tag-link-219' title='5 topics' style='font-size: 8.90322580645pt;'>Miami</a>
+<a href='http://www.urbansplatter.com/tag/modern/' class='tag-link-9' title='51 topics' style='font-size: 19.5161290323pt;'>modern</a>
+<a href='http://www.urbansplatter.com/tag/new-york/' class='tag-link-31' title='28 topics' style='font-size: 16.5806451613pt;'>New York</a>
+<a href='http://www.urbansplatter.com/tag/park/' class='tag-link-44' title='6 topics' style='font-size: 9.6935483871pt;'>park</a>
+<a href='http://www.urbansplatter.com/tag/pool/' class='tag-link-57' title='5 topics' style='font-size: 8.90322580645pt;'>Pool</a>
+<a href='http://www.urbansplatter.com/tag/products-2/' class='tag-link-22' title='23 topics' style='font-size: 15.6774193548pt;'>products</a>
+<a href='http://www.urbansplatter.com/tag/recycle/' class='tag-link-41' title='11 topics' style='font-size: 12.2903225806pt;'>recycle</a>
+<a href='http://www.urbansplatter.com/tag/renovating/' class='tag-link-32' title='34 topics' style='font-size: 17.4838709677pt;'>Renovating</a>
+<a href='http://www.urbansplatter.com/tag/resort/' class='tag-link-73' title='7 topics' style='font-size: 10.2580645161pt;'>resort</a>
+<a href='http://www.urbansplatter.com/tag/shocking/' class='tag-link-82' title='55 topics' style='font-size: 19.8548387097pt;'>shocking</a>
+<a href='http://www.urbansplatter.com/tag/sourced/' class='tag-link-153' title='16 topics' style='font-size: 13.9838709677pt;'>sourced</a>
+<a href='http://www.urbansplatter.com/tag/spain/' class='tag-link-92' title='4 topics' style='font-size: 8pt;'>Spain</a>
+<a href='http://www.urbansplatter.com/tag/technology/' class='tag-link-29' title='41 topics' style='font-size: 18.3870967742pt;'>technology</a>
+<a href='http://www.urbansplatter.com/tag/usa/' class='tag-link-40' title='86 topics' style='font-size: 22pt;'>USA</a></div>
+</aside><!-- .widget --><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://www.urbansplatter.com/2014/11/'> November 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/10/'> October 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/09/'> September 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/08/'> August 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/07/'> July 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/06/'> June 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/05/'> May 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/04/'> April 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/03/'> March 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/02/'> February 2014 </option>
+	<option value='http://www.urbansplatter.com/2014/01/'> January 2014 </option>
+	<option value='http://www.urbansplatter.com/2013/12/'> December 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/11/'> November 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/10/'> October 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/09/'> September 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/08/'> August 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/07/'> July 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/06/'> June 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/05/'> May 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/04/'> April 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/03/'> March 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/02/'> February 2013 </option>
+	<option value='http://www.urbansplatter.com/2013/01/'> January 2013 </option>
+	<option value='http://www.urbansplatter.com/2012/12/'> December 2012 </option>
+	<option value='http://www.urbansplatter.com/2012/11/'> November 2012 </option>
+	<option value='http://www.urbansplatter.com/2012/10/'> October 2012 </option>
+	<option value='http://www.urbansplatter.com/2012/09/'> September 2012 </option>
+	<option value='http://www.urbansplatter.com/2012/08/'> August 2012 </option>
+	<option value='http://www.urbansplatter.com/2012/07/'> July 2012 </option>
+ </select>
+</aside><!-- .widget -->		<div class="clear"></div>
+	</div><!-- #sidebar-top -->
+			</div><!-- #sidebar -->			</div><!-- #container -->
+		<div id="footer">
+				<div id="footer-area" class="widget-area" role="complementary">
+		<aside id="text-8" class="widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9156647681038221";
+/* mobile */
+google_ad_slot = "8146298491";
+google_ad_width = 320;
+google_ad_height = 50;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</aside><!-- .widget --><aside id="text-17" class="widget widget_text">			<div class="textwidget">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script></div>
+		</aside><!-- .widget --><aside id="text-19" class="widget widget_text"><h3 class="widget-title">Site Details</h3>			<div class="textwidget"><a href="http://www.urbansplatter.com/aboutus/">About Us</a>
+<a href="http://www.urbansplatter.com/blogroll/">Blogroll/ Affiliates</a>
+<a href="http://www.urbansplatter.com/disclaimers/">Disclaimer</a></div>
+		</aside><!-- .widget --><aside id="text-15" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33243449-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+		</aside><!-- .widget -->		<div class="clear"></div>
+	</div><!-- #footer-area -->
+			<div id="copyright">
+				<p class="copyright">© 2014 Urban Splatter</p>
+								<div class="clear"></div>
+			</div><!-- #copyright -->
+		</div><!-- #footer -->
+	</div><!-- #wrapper -->
+<div id="su-footer-links" style="text-align: center;"></div><script type='text/javascript' src='//assets.pinterest.com/js/pinit.js' async data-pin-hover='true' data-pin-shape='rectangle' data-pin-color='gray' data-pin-lang='eng'></script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.urbansplatter.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.urbansplatter.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2'></script>
+</body>
+</html>

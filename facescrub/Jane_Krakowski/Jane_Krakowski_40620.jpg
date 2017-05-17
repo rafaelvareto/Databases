@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>Page not found | smart ladies love stuff</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://smartladieslovestuff.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://smartladieslovestuff.com/wp-content/themes/yoko/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="smart ladies love stuff &raquo; Feed" href="http://smartladieslovestuff.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="smart ladies love stuff &raquo; Comments Feed" href="http://smartladieslovestuff.com/comments/feed" />
+<link rel='stylesheet' id='yoko-fonts-css'  href='//fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700%7CDroid+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='yoko-style-css'  href='http://smartladieslovestuff.com/wp-content/themes/yoko/style.css?ver=2013-10-21' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://smartladieslovestuff.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all' />
+<!-- This site uses the Yoast Google Analytics plugin v5.1.4 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-34479346-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<script type='text/javascript' src='http://smartladieslovestuff.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://smartladieslovestuff.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://smartladieslovestuff.com/wp-includes/js/json2.min.js?ver=2011-02-23'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var live_blogging = {"ajaxurl":"http:\/\/smartladieslovestuff.com\/wp-admin\/admin-ajax.php","update_effect":"bottom"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://smartladieslovestuff.com/wp-content/plugins/live-blogging/live-blogging.min.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://smartladieslovestuff.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://smartladieslovestuff.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+
+<style type="text/css">
+a {color: #adb226!important;}
+#content .single-entry-header h1.entry-title {color: #adb226!important;}
+input#submit:hover {background-color: #adb226!important;}
+#content .page-entry-header h1.entry-title {color: #adb226!important;}
+.searchsubmit:hover {background-color: #adb226!important;}
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cdccc9; }
+</style>
+</head>
+
+<body class="error404 custom-background">
+<div id="page" class="clearfix">
+	<header id="branding">
+		<nav id="mainnav" class="clearfix">
+			<div class="menu"><ul><li ><a href="http://smartladieslovestuff.com/">Home</a></li><li class="page_item page-item-35"><a href="http://smartladieslovestuff.com/about-us">About Us</a></li><li class="page_item page-item-10889"><a href="http://smartladieslovestuff.com/commenting-policy">Commenting Policy</a></li></ul></div>
+		</nav><!-- end mainnav -->
+
+		
+		<hgroup id="site-title">
+					<a href="http://smartladieslovestuff.com/" class="logo"><img src="http://smartladieslovestuff.com/wp-content/uploads/2014/07/tildalogo.png" alt="smart ladies love stuff" /></a>
+				</hgroup><!-- end site-title -->
+
+        					<div class="clear"></div>
+
+		<nav id="subnav">
+					</nav><!-- end subnav -->
+</header><!-- end header -->
+<div id="wrap">
+<div id="main">
+
+	<div id="content">
+		<article id="page">
+			<header class="page-entry-header">
+				<h1 class="entry-title">Not Found</h1>
+			</header><!-- end page-entry-header -->
+		
+			<div class="single-entry-content">
+				<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+				<form role="search" method="get" class="searchform" action="http://smartladieslovestuff.com" >
+    <div>
+    <input type="text" class="search-input" value="" name="s" id="s" />
+    <input type="submit" class="searchsubmit" value="Search" />
+    </div>
+    </form>			</div>
+		
+			<script type="text/javascript">
+				// focus on search field after it has loaded
+				document.getElementById('s') && document.getElementById('s').focus();
+			</script>
+		</article>
+	</div><!-- end content -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="searchform" action="http://smartladieslovestuff.com" >
+    <div>
+    <input type="text" class="search-input" value="" name="s" id="s" />
+    <input type="submit" class="searchsubmit" value="Search" />
+    </div>
+    </form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://smartladieslovestuff.com/uncategorized/smart-ladies-love-dumb-tv-x-factor-uk-recap-live-show-eight">Smart ladies love dumb TV, X Factor UK recap, live show eight</a>
+						</li>
+					<li>
+				<a href="http://smartladieslovestuff.com/movies-2/movie-trailer-monday/smart-ladies-love-movies-this-week-in-trailers-december-1-2014">Smart ladies love movies, this week in trailers, December 1, 2014</a>
+						</li>
+					<li>
+				<a href="http://smartladieslovestuff.com/music-2/radmusic/smart-ladies-love-rad-music-melissas-november-playlist">Smart ladies love rad music, Melissa&#8217;s November playlist</a>
+						</li>
+					<li>
+				<a href="http://smartladieslovestuff.com/television/dumbtv/smart-ladies-love-dumb-tv-x-factor-uk-recap-live-show-seven">Smart ladies love dumb TV, X Factor UK recap, live show seven</a>
+						</li>
+					<li>
+				<a href="http://smartladieslovestuff.com/fashion/smart-ladies-love-fashion-american-music-awards-best-and-worst-dressed">Smart ladies love fashion, American Music Awards Best and Worst Dressed</a>
+						</li>
+				</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="3318">2014 People&#8217;s Choice Awards</option>
+	<option class="level-0" value="983">Award Shows</option>
+	<option class="level-0" value="747">Christmas Music</option>
+	<option class="level-0" value="4388">Comics</option>
+	<option class="level-0" value="815">Dumb Movies</option>
+	<option class="level-0" value="4">Dumb TV</option>
+	<option class="level-0" value="253">Emmys 2012</option>
+	<option class="level-0" value="2291">Emmys 2013</option>
+	<option class="level-0" value="4501">Emmys 2014</option>
+	<option class="level-0" value="1479">Eurovision 2013</option>
+	<option class="level-0" value="3628">Eurovision 2014</option>
+	<option class="level-0" value="249">Fall TV 2012</option>
+	<option class="level-0" value="2656">Fall TV 2013</option>
+	<option class="level-0" value="538">Fashion</option>
+	<option class="level-0" value="2628">Film Festivals</option>
+	<option class="level-0" value="877">Golden Globes 2013</option>
+	<option class="level-0" value="3313">Golden Globes 2014</option>
+	<option class="level-0" value="2892">Lists</option>
+	<option class="level-0" value="64">Live Blogs</option>
+	<option class="level-0" value="190">Love to Ask</option>
+	<option class="level-0" value="1095">Movie Trailer Monday</option>
+	<option class="level-0" value="4420">Movie Trailer Thursday</option>
+	<option class="level-0" value="440">Movies</option>
+	<option class="level-0" value="155">Music</option>
+	<option class="level-0" value="900">Nerd Movies</option>
+	<option class="level-0" value="33">Pop Music</option>
+	<option class="level-0" value="156">Rad Music</option>
+	<option class="level-0" value="2316">Royals</option>
+	<option class="level-0" value="198">Smart Dame of the Week</option>
+	<option class="level-0" value="9">Stuff We Love</option>
+	<option class="level-0" value="146">Stuff We Love to Hate</option>
+	<option class="level-0" value="221">Television</option>
+	<option class="level-0" value="984">The Academy Awards 2013</option>
+	<option class="level-0" value="3382">The Academy Awards 2014</option>
+	<option class="level-0" value="985">The Grammys 2013</option>
+	<option class="level-0" value="3456">The Grammys 2014</option>
+	<option class="level-0" value="1">Uncategorized</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://smartladieslovestuff.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</aside><aside id="social_links-2" class="widget widget_social_links"><h3 class="widget-title">Social Media</h3><ul><li class="widget_sociallinks"><a href="https://twitter.com/smartladieslove" class="twitter" target="_blank">smartladieslove</a></li><li class="widget_sociallinks"><a href="http://www.facebook.com/SmartLadiesLoveStuff" class="facebook" target="_blank">Smart Ladies Love Stuff</a></li></ul></aside><aside id="rss_links-2" class="widget widget_rss_links"><h3 class="widget-title">RSS Feeds</h3><ul><li><a href="http://smartladieslovestuff.com/feed" title="Subscribe to Posts">RSS - Posts</a></li><li><a href="http://smartladieslovestuff.com/comments/feed" title="Subscribe to Comments">RSS - Comments</a></li></ul>
+</aside><aside id="linkcat-2" class="widget widget_links"><h3 class="widget-title">Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.burymeinleaves.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.burymeinleaves.com/', 'Bury Me in Leaves']);"  target="_blank">Bury Me in Leaves</a></li>
+<li><a href="http://fakefakeeyes.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://fakefakeeyes.wordpress.com/', 'Fake Fake Eyes']);"  target="_blank">Fake Fake Eyes</a></li>
+<li><a href="http://filmbrosis.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://filmbrosis.wordpress.com/', 'FILMBROSIS']);" >FILMBROSIS</a></li>
+<li><a href="http://www.logicfuzzy.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.logicfuzzy.com/', 'Fuzzy Logic']);"  target="_blank">Fuzzy Logic</a></li>
+<li><a href="http://icouldgoonandon.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://icouldgoonandon.blogspot.com/', 'I Could Go on and On']);"  target="_blank">I Could Go on and On</a></li>
+<li><a href="http://www.ladychirpsalot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.ladychirpsalot.com/', 'lady chirps a lot']);" >lady chirps a lot</a></li>
+<li><a href="http://www.littlegreenlove.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.littlegreenlove.com/', 'Little Green Love']);"  target="_blank">Little Green Love</a></li>
+<li><a href="http://rivercityreading.blogspot.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://rivercityreading.blogspot.com/', 'River City Reading']);" >River City Reading</a></li>
+<li><a href="http://rvaplaylist.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://rvaplaylist.com/', 'RVAPlaylist']);"  target="_blank">RVAPlaylist</a></li>
+<li><a href="http://soundsofrva.org/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://soundsofrva.org/', 'SoundsofRVA']);"  target="_blank">SoundsofRVA</a></li>
+<li><a href="http://www.thebookladysblog.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.thebookladysblog.com/', 'The Book Lady&#039;s Blog']);"  target="_blank">The Book Lady&#039;s Blog</a></li>
+<li><a href="http://thecheatsmovement.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://thecheatsmovement.com/', 'The Cheats Movement']);"  target="_blank">The Cheats Movement</a></li>
+<li><a href="http://yepindeed.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://yepindeed.com/', 'yepindeed']);"  target="_blank">yepindeed</a></li>
+
+	</ul>
+</aside>
+		</div><!-- #secondary .widget-area -->
+</div><!-- end main -->
+
+		<div id="tertiary" class="widget-area" role="complementary">
+						
+				</div><!-- end tertiary .widget-area -->
+</div><!-- end wrap -->
+
+	<footer id="colophon" class="clearfix">
+		<p>Proudly powered by <a href="http://wordpress.org/">WordPress</a><span class="sep"> | </span>Theme: Yoko by <a href="http://www.elmastudio.de/en/themes/">Elmastudio</a></p>
+		<a href="#page" class="top">Top</a>
+	</footer><!-- end colophon -->
+	
+</div><!-- end page -->
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201449'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Decaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://smartladieslovestuff.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://smartladieslovestuff.com/wp-content/themes/yoko/js/smoothscroll.js?ver=1.4'></script>
+
+	<script src="http://stats.wp.com/e-201449.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'37777346',post:'0',tz:'-5'});
+	var load_cmc = function(){linktracker_init(37777346,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>

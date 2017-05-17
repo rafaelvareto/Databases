@@ -1,0 +1,606 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<script>
+    (function () { var a = document.domain.split('.'); document.domain = a.slice(Math.max(0, a.length - 2), a.length).join('.'); })();
+    var $Timer = new function () { var a = [], h = {}; this.Epoch = new Date(); this.data = a; this.Start = function (s) { a.push(h[s] = [s, new Date()]) }; this.Stop = function (s) { if (h[s]) h[s][2] = new Date() } }
+    $Timer.Start("Page");
+    $Timer.Start("Html");
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" enableviewstate="false">
+
+<script>    $Timer.Start("HeadSection");</script>
+<head id="ctl00_btvMasterHead"><script>$Timer.Start('CSS http://web.buddytv.com/brh.aspx?id=coreStylesheets&v=18&bv=111914b');</script><link href="http://web.buddytv.com/brh.aspx?id=coreStylesheets&amp;v=18&amp;bv=111914b" type="text/css" rel="stylesheet" /><script>$Timer.Stop('CSS http://web.buddytv.com/brh.aspx?id=coreStylesheets&v=18&bv=111914b');</script><script>$Timer.Start('CSS /homepage/hp-style.css');</script><link href="http://web.buddytv.com/homepage/hp-style.css?v=111914b" type="text/css" rel="stylesheet" /><script>$Timer.Stop('CSS /homepage/hp-style.css');</script><title>
+	BuddyTV - 404 Error
+</title>
+<script>    $Timer.Start("http://feeds.feedburner.com/buddytv/slyn");</script>
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/buddytv/slyn" />    
+<script>    $Timer.Stop("http://feeds.feedburner.com/buddytv/slyn");</script>
+    <script>        $Timer.Start("CommonHeader");</script>
+    
+<script>
+    if (!window['$Timer'])
+    {
+        function F(){}
+        window['$Timer'] = {Start:F,Stop:F};
+    }
+    $Timer.Start('DynamicScriptUrl');
+</script>
+<script src="http://web.buddytv.com/script/dynamicconfiginfo.aspx?scv=2&v=111914b"></script>
+<script>$Timer.Stop('DynamicScriptUrl');$Timer.Start('coreScripts');</script>
+<script type="text/javascript" src="http://web.buddytv.com/brh.aspx?id=coreScripts&v=47&bv=111914b"></script>
+<script type="text/javascript">
+  Btv.Url.SetUseCDNUrls(true);
+</script>
+<script>$Timer.Stop('coreScripts');</script>
+
+    <script>
+        $Timer.Stop("CommonHeader");
+        $Timer.Start("TemplateIncludeControl");
+    </script>
+    <script>
+Btv.Templating.Register([]);
+</script>
+<script src="http://web.buddytv.com/csth.aspx?sid=MasterPage&tv=4&v=102,101,102,103,103,1,1,1,103,103,103,103,103,101,101,101&bv=111914b"></script>
+
+    <script>
+        $Timer.Stop("TemplateIncludeControl");
+    </script>
+         
+    </script>
+    <!--9cf70ad2-c07f-4437-9b66-4aa2ecf668b8-111111111-->
+   
+
+    <script type="text/javascript">
+        $Timer.Start("ie6CssFix");
+    </script>   
+<!--[if IE 9]>
+<link href="http://web.buddytv.com/css/ie-eight-fix.css?v=111914b" type="text/css" rel="stylesheet" />
+<![endif]-->
+     
+<!--[if IE 8]>
+<link href="http://web.buddytv.com/css/ie-eight-fix.css?v=111914b" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+<!--[if IE 7]>
+ <link href="http://web.buddytv.com/css/ie-all-fix.css?v=111914b" type="text/css" rel="stylesheet" />
+ <![endif]-->
+
+<!--[if IE 6]>
+<link href="http://web.buddytv.com/css/ie-all-fix.css?v=111914b" type="text/css" rel="stylesheet" /><link href="http://web.buddytv.com/css/ie-all.css?v=111914b" type="text/css" rel="stylesheet" />
+<![endif]-->
+    <script>
+        $Timer.Stop("ie6CssFix");
+        $Timer.Start("AjaxStubs");
+    </script>
+    <script type="text/javascript" src="http://web.buddytv.com/ajaxpro/Btv.UserQueries,BtvWebLib.ashx?typeVersion=111914b&amp;v=111914b"></script><script type="text/javascript" src="http://web.buddytv.com/ajaxpro/Btv.CommonCstQueries,BtvWebLib.ashx?typeVersion=111914b&amp;v=111914b"></script><script type="text/javascript" src="http://web.buddytv.com/ajaxpro/Btv.CommonAjax,BtvWebLib.ashx?typeVersion=111914b&amp;v=111914b"></script><script type="text/javascript" src="http://web.buddytv.com/ajaxpro/Btv.Web.SplitExperience.DataQueries,BtvWebLib.ashx?typeVersion=111914b&amp;v=111914b"></script>
+    <script>
+        $Timer.Stop("AjaxStubs");
+        Btv.Ajax.Ready();
+    </script>
+<meta name="google-site-verification" content="PtBOLz8hV2aauFoOV5CdBpa1YgoHmtLPOQ8yB9J4QBU" /><meta name="google-site-verification" content="l3GkwqPukukURF4-elyCrHv9eVXJhbRS7CnQA-lIQlw" /><script type="text/javascript" src="http://web.buddytv.com/script/featuredcontent.js?v=111914b"></script><meta name="keywords" content="" /><meta name="title" content="" /><link rel="canonical" href="http://www.buddytv.com/404.aspx" /></head>
+<script>    $Timer.Stop("HeadSection");</script>
+
+<script>    $Timer.Start("BodySection");</script>
+<body id="ctl00_MasterPageBodyTag" class="root-body "><div class="wallpaper-ad">
+
+
+
+
+
+<iframe id="yui-history-iframe" src="http://web.buddytv.com/images/1x1.gif" style="position:absolute; top:0; left:0; width:1px; height:1px; visibility:hidden;"></iframe>
+
+<script>    $Timer.Start("AjaxProStubs");</script>
+<script>    $Timer.Stop("AjaxProStubs");</script>
+    <script type="text/javascript">
+        var _BtvCurrentUserID = -1;
+        Btv.BtvContext = {};
+        Btv.Cookie.SetInitialContext(Btv.BtvContext);
+    </script>
+<form name="aspnetForm" method="post" action="/404.aspx?404;http://www.buddytv.com:80/articles/Image/weeds/oscarbluth.jpg" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk0Nzk5NjkzMA9kFgJmD2QWCAIBD2QWDAIMD2QWAmYPFgIeBFRleHQFNTwhLS05Y2Y3MGFkMi1jMDdmLTQ0MzctOWI2Ni00YWEyZWNmNjY4YjgtMTExMTExMTExLS0+ZAIPDxYCHwAFZjxsaW5rIGhyZWY9Imh0dHA6Ly93ZWIuYnVkZHl0di5jb20vY3NzL2llLWVpZ2h0LWZpeC5jc3M/dj0xMTE5MTRiIiB0eXBlPSJ0ZXh0L2NzcyIgcmVsPSJzdHlsZXNoZWV0IiAvPmQCEQ8WAh8ABWY8bGluayBocmVmPSJodHRwOi8vd2ViLmJ1ZGR5dHYuY29tL2Nzcy9pZS1laWdodC1maXguY3NzP3Y9MTExOTE0YiIgdHlwZT0idGV4dC9jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz5kAhMPFgIfAAVkPGxpbmsgaHJlZj0iaHR0cDovL3dlYi5idWRkeXR2LmNvbS9jc3MvaWUtYWxsLWZpeC5jc3M/dj0xMTE5MTRiIiB0eXBlPSJ0ZXh0L2NzcyIgcmVsPSJzdHlsZXNoZWV0IiAvPmQCFQ8WAh8ABWQ8bGluayBocmVmPSJodHRwOi8vd2ViLmJ1ZGR5dHYuY29tL2Nzcy9pZS1hbGwtZml4LmNzcz92PTExMTkxNGIiIHR5cGU9InRleHQvY3NzIiByZWw9InN0eWxlc2hlZXQiIC8+ZAIWDxYCHwAFYDxsaW5rIGhyZWY9Imh0dHA6Ly93ZWIuYnVkZHl0di5jb20vY3NzL2llLWFsbC5jc3M/dj0xMTE5MTRiIiB0eXBlPSJ0ZXh0L2NzcyIgcmVsPSJzdHlsZXNoZWV0IiAvPmQCAw8WAh4FY2xhc3MFCnJvb3QtYm9keSAWCAIBDw8WAh4HVmlzaWJsZWhkZAIDDxYCHwAFAi0xZAIFDxYCHwAFAnt9ZAIHDxYCHgZhY3Rpb24FSy80MDQuYXNweD80MDQ7aHR0cDovL3d3dy5idWRkeXR2LmNvbTo4MC9hcnRpY2xlcy9JbWFnZS93ZWVkcy9vc2NhcmJsdXRoLmpwZxYEZg8WAh8AZWQCAw9kFgQCCQ9kFgICAQ8WAh8ABcADPCEtLSAxNjB4NjAwIElGcmFtZSAtLT48aWZyYW1lIGlkPSI1MTVkOWZmNDg0YmIzIiBuYW1lPSI1MTVkOWZmNDg0YmIzIiBzcmM9Imh0dHA6Ly9veC1kLmJ1ZGR5dHYuY29tL3cvMS4wL2Fmcj9hdWlkPTI5MTM2MSZjYj1JTlNFUlRfUkFORE9NX05VTUJFUl9IRVJFIiBmcmFtZUJvcmRlcj0iMCIgZnJhbWVTcGFjaW5nPSIwIiBzY3JvbGxpbmc9Im5vIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjYwMCI+PGEgaHJlZj0iaHR0cDovL294LWQuYnVkZHl0di5jb20vdy8xLjAvcmM/Y3M9NTE1ZDlmZjQ4NGJiMyZjYj1JTlNFUlRfUkFORE9NX05VTUJFUl9IRVJFIiA+PGltZyBzcmM9Imh0dHA6Ly9veC1kLmJ1ZGR5dHYuY29tL3cvMS4wL2FpP2F1aWQ9MjkxMzYxJmNzPTUxNWQ5ZmY0ODRiYjMmY2I9SU5TRVJUX1JBTkRPTV9OVU1CRVJfSEVSRSIgYm9yZGVyPSIwIiBhbHQ9IiI+PC9hPjwvaWZyYW1lPmQCCw9kFgICAQ8PFgIfAAW+AzwhLS0gNzI4eDkwIElGcmFtZSAtLT48aWZyYW1lIGlkPSI1MTVkOWZmYjM2YjgxIiBuYW1lPSI1MTVkOWZmYjM2YjgxIiBzcmM9Imh0dHA6Ly9veC1kLmJ1ZGR5dHYuY29tL3cvMS4wL2Fmcj9hdWlkPTI5MTM2OSZjYj1JTlNFUlRfUkFORE9NX05VTUJFUl9IRVJFIiBmcmFtZUJvcmRlcj0iMCIgZnJhbWVTcGFjaW5nPSIwIiBzY3JvbGxpbmc9Im5vIiB3aWR0aD0iNzI4IiBoZWlnaHQ9IjkwIj48YSBocmVmPSJodHRwOi8vb3gtZC5idWRkeXR2LmNvbS93LzEuMC9yYz9jcz01MTVkOWZmYjM2YjgxJmNiPUlOU0VSVF9SQU5ET01fTlVNQkVSX0hFUkUiID48aW1nIHNyYz0iaHR0cDovL294LWQuYnVkZHl0di5jb20vdy8xLjAvYWk/YXVpZD0yOTEzNjkmY3M9NTE1ZDlmZmIzNmI4MSZjYj1JTlNFUlRfUkFORE9NX05VTUJFUl9IRVJFIiBib3JkZXI9IjAiIGFsdD0iIj48L2E+PC9pZnJhbWU+ZGQCBw9kFgQCAQ8WAh8ABfECDQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQogICAgJFRpbWVyLlN0YXJ0KCJHb29nbGUgQW5hbHl0aWNzIFNlY3Rpb24iKTsNCiAgICB2YXIgZ2FKc0hvc3QgPSAoKCJodHRwczoiID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sKSA/ICJodHRwczovL3NzbC4iIDogImh0dHA6Ly93d3cuIik7DQogICAgJFRpbWVyLlN0YXJ0KCJHb29nbGUgQW5hbHl0aWNzIEpTIGZpbGUiKTsNCiAgICBkb2N1bWVudC53cml0ZSh1bmVzY2FwZSgiJTNDc2NyaXB0IHNyYz0nIiArIGdhSnNIb3N0ICsgImdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnJTNFJTNDL3NjcmlwdCUzRSIpKTsNCjwvc2NyaXB0Pg0KZAICDxYCHwAF9QMNCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCiAgICAkVGltZXIuU3RhcnQoIkdvb2dsZSBBbmFseXRpY3MgU2VjdGlvbiIpOw0KICAgIChmdW5jdGlvbiAoaSwgcywgbywgZywgciwgYSwgbSkgew0KICAgICAgICBpWydHb29nbGVBbmFseXRpY3NPYmplY3QnXSA9IHI7IGlbcl0gPSBpW3JdIHx8IGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgIChpW3JdLnEgPSBpW3JdLnEgfHwgW10pLnB1c2goYXJndW1lbnRzKQ0KICAgICAgICB9LCBpW3JdLmwgPSAxICogbmV3IERhdGUoKTsgYSA9IHMuY3JlYXRlRWxlbWVudChvKSwNCiAgICAgICAgbSA9IHMuZ2V0RWxlbWVudHNCeVRhZ05hbWUobylbMF07IGEuYXN5bmMgPSAxOyBhLnNyYyA9IGc7IG0ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSwgbSkNCiAgICB9KSh3aW5kb3csIGRvY3VtZW50LCAnc2NyaXB0JywgJy8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tL2FuYWx5dGljcy5qcycsICdnYScpOw0KPC9zY3JpcHQ+DQpkAgsPFgIfAGVkZGeNAe2ghC+4b2Z0a75Eh5CNAsxT" />
+
+    <script type="text/javascript">
+        $Timer.Start("FormScriptBlock");
+        YAHOO.Btv.RuntimeHead.Init();
+        $Timer.Stop("FormScriptBlock");
+    </script>
+    <input id="btvstatefield" type="hidden" value="" />
+    <input id="yui-history-field" type="hidden" />
+
+    <div id="interstitial" style="display:none;">
+        
+    </div>
+    <div id="mobileInterstitial" style="display:none;">
+        <script type="text/ecmascript">
+            {
+                if (BrowserDetect.mobile || BrowserDetect.OS == 'Android')
+                    document.write("");
+            }
+        </script>
+        
+    </div>
+    <div id = "main_wrapper" style="display:block" >  <!-- This is to used to hide the main body in order to show interstitial-->
+        
+        
+        
+        
+                <div id="body_wrapper_id" class="body_wrapper"  >
+                    
+<div class="global-header" id="btvGlobalHeader">
+<div class="header-expand">
+<h2><a class="logo_link" href="/"><span>BuddyTV</a></span></h2>
+<ul>
+<li class="tvshows-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link header-home" href="/">Home</a></div>
+</li>
+<li id="headerTvShows" class="tvshows-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link" href="/tvshows.aspx">Shows</a></div>
+</li>
+<li id="ctl00_ctl04_headerMovies" class="movies-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link" href="/movies.aspx">Movies</a></div>
+</li>
+<li id="headerListings">
+<div class="header-nav-wrap"><a class="header-nav-link" href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=buddytv">Listings</a></div>
+</li>
+<li id="headerActors" class="actors-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link" href="/actors.aspx">Actors</a></div>
+</li>
+<li id="headerNews" class="news-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link header-arrow" href="/news.aspx">News</a></div>
+<div id="headerNewsFlyout" class="global-flyout-border" style="display:none;"></div>
+</li>
+<li id="headerPhotos" class="photos-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link header-arrow">Photos</a></div>
+<div id="headerPhotosFlyout" class="global-flyout-border" style="display:none;"></div>
+</li>
+<li id="headerFunGames" class="photos-flyout">
+<div class="header-nav-wrap"><a class="header-nav-link header-arrow" href="/games.aspx">Games</a></div>
+<div id="headerFunGamesFlyout" class="global-flyout-border" style="display:none;"></div>
+</li>
+<li id="headerAppLink" class="applink">
+<div class="header-nav-wrap"><a class="header-nav-link header-applink" href="https://itunes.apple.com/us/app/buddytv-guide-tv-discovery/id449938021?mt=8">BuddyTV App</a></div>
+</li>
+</ul>
+<div id="loggedInUserContainer" class="global-header-profile" style="visibility:hidden;">
+<div style="display:block;">
+<a id="userLink3" class="profile-information-img"><img id="userImage2" src="http://web.buddytv.com/images/1x1.gif" /></a>
+<a id="userLink4" class="global-header-profile-name"></a>
+<div id='userHeaderFlyoutRegion' class="global-header-profile-flyout-border">
+<div class="global-header-profile-flyout">
+<div class="above_header_body">
+<div class="lvl_1_nav_3" style="display: block;">
+<div class="sp-nav-info">
+<a id="userLink" class="head_profile_img" rel="nofollow" href="/tvjhome.aspx?tvjid=3679532"><img id="userImage" src="http://web.buddytv.com/images/1x1.gif"/></a>
+<div class="sp-name"><a id="userLink2" rel="nofollow"></a></div>
+<div id="userPointsRegion" class="sp-points"><span class="star-points-header-icons"></span><span id="userPoints"></span></div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div id="buddyUserLevel" style="position:relative; margin: 5px 0px 5px 40px;">
+<div class="xp-meter">
+<div class="xp-meter-bar">
+<div class="xp-meter-bar2">
+<div id="levelProgressBar" class="xp-meter-fill"></div>
+</div>
+</div>
+<div class="xp-meter-lvl">
+<span id="userLevel" style="top:5px;">7</span>
+</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+<div class="sp-next-level" style="display: none;"></div>
+<div class="sp-nav-logout">
+<div><a href="/profile2/profile-edit.aspx">Edit</a> | <a href="javascript:UpperRightUserSection.Logout()" rel="nofollow">Logout</a></div>
+<div id="adminModeRegion" style="display:none;">Admin mode: <a href="javascript:Btv.Admin.ToggleMode()" id="adminModeText">off</a></div>
+</div>
+<div id="fbconnect" style="padding-left:35px">
+<fb:login-button scope="email,publish_stream" onlogin="Btv.Facebook.Connect();" v="2" size="small"></fb:login-button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="loginContainer" class="global-header-login" style="display: none;">
+<fb:login-button scope="email,publish_stream" onlogin="Btv.Facebook.Connect();" v="2" size="small"></fb:login-button>
+<a href="javascript:UpperRightUserSection.Login();" class="log-in-for-header"><span>Log in</span></a>
+</div>
+<script type="text/javascript">            document.write(Btv.Templating.GetInstance("Global.Search", {}).Render());</script>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="notification-links">
+<div class="header-feedback-div"><a href="/feedback.aspx" class="header-feedback-link">Feedback</a></div>
+<div id="headerInboxLink" class="header-inbox-req" style="visibility:hidden;"><a id="inboxUnreadCount" href="/profile2/profile-messages.aspx?folder=1" rel="nofollow">Inbox</a></div>
+<div id="friendRequests" class="header-friend-req" style="display:none;"></div>
+<div style="clear:both"></div>
+</div>
+<script>    $Timer.Start("728x90 Header");</script>
+<div class="show-brand">
+<div class="ad728" id="btv_aja_header"><div class="ad728-placement"><!-- 728x90 IFrame --><iframe id="515d9ffb36b81" name="515d9ffb36b81" src="http://ox-d.buddytv.com/w/1.0/afr?auid=291369&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no" width="728" height="90"><a href="http://ox-d.buddytv.com/w/1.0/rc?cs=515d9ffb36b81&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.buddytv.com/w/1.0/ai?auid=291369&cs=515d9ffb36b81&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></div></div>
+</div>
+<script>    $Timer.Stop("728x90 Header");</script>
+<div class="clear-fix"></div>
+<script type="text/javascript">
+    Btv.User.UserSectionReady();
+
+    UpperRightUserSection = new function () {
+        oThis = this;
+        var fncCallback = Function.NoOp;
+        var fncLogoutCallback = null;
+
+        oThis.Login = function () {
+            Btv.User.InitLogin(fncCallback, true);
+        }
+
+        oThis.SetCallbackFunction = function (fnc) {
+            fncCallback = fnc;
+        }
+
+        oThis.Logout = function () {
+            Btv.User.Logout(fncLogoutCallback);
+        }
+
+        oThis.SetLogoutCallbackFunction = function (fnc) {
+            fncLogoutCallback = fnc;
+        }
+    }
+
+    HeaderFlyouts = new function () {
+        oThis = this;
+
+        var htFlyouts = {
+                    movies: { ListItemId: 'headerMovies', FlyoutId: 'headerMoviesFlyout', HasContent: false }
+                    , news: { ListItemId: 'headerNews', FlyoutId: 'headerNewsFlyout', HasContent: false }
+                    , photos: { ListItemId: 'headerPhotos', FlyoutId: 'headerPhotosFlyout', HasContent: false }
+                    , fungames: { ListItemId: 'headerFunGames', FlyoutId: 'headerFunGamesFlyout', HasContent: false }
+
+        };
+
+        for (var key in htFlyouts) {
+            HookupMouseRegion(key, htFlyouts[key]);
+        }
+
+
+        function HookupMouseRegion(sKey, oCurrentFlyout) {
+            var elListItem = $(oCurrentFlyout.ListItemId);
+            var elContainer = $(oCurrentFlyout.FlyoutId);
+
+            var oMouseRegionMgr = new Btv.UI.MouseRegionManager(50, 100);
+
+            oMouseRegionMgr.onActive.Attach(function (ev) {
+                if (ev) {
+                    //check for async html load
+                    if (!oCurrentFlyout.HasContent) {
+                        LoadHeaderContent(sKey, oCurrentFlyout);
+                    }
+
+                    elListItem.className = 'hover';
+                    elContainer.style.display = 'block';
+                    Btv.Ads.HideAds();
+                }
+                else {
+                    elListItem.className = '';
+                    elContainer.style.display = 'none';
+                    Btv.Ads.DisplayAds();
+                    oMouseRegionMgr.Stop();
+                }
+            });
+
+            oMouseRegionMgr.AttachElement(elListItem);
+            oCurrentFlyout.MouseRegionMgr = oMouseRegionMgr;
+        }
+
+        function LoadHeaderContent(sKey, oCurrentFlyout) {
+            var handleSuccess = function (o) {
+                if (elContainer.childNodes.length == 0) {
+                    if (o.responseText !== undefined) {
+                        if (!oCurrentFlyout.HasContent) {
+                            oCurrentFlyout.HasContent = true;
+                            var innerFlyoutDiv = document.createElement('div');
+                            innerFlyoutDiv.className = 'global-flyout';
+                            innerFlyoutDiv.innerHTML = o.responseText;
+                            elContainer.appendChild(innerFlyoutDiv);
+                        }
+                    }
+                }
+            }
+
+            var handleFailure = function (o) { }
+
+
+
+
+            var elContainer = $(oCurrentFlyout.FlyoutId);
+            if (elContainer.childNodes.length == 0) {
+                var strUrl = '/header/' + sKey + '.aspx';
+                Btv.Yui.Load(['connection'], function () {
+                    YAHOO.util.Connect.asyncRequest('GET', strUrl, {
+                        success: handleSuccess,
+                        failure: handleFailure
+                    });
+                });
+            }
+        }
+    }
+</script>
+
+                    <div class="popup" id="InstructionsPopup"></div>
+ 		            <div id="place-login-pop">
+ 		                
+ 		                
+                                    <script>
+                                        $Timer.Start("MainContentPlaceHolder");
+                                    </script>
+	    				            
+
+<div class="bodywrap">
+<div class="navigation">
+<h1>404 - Page not found</h1>
+</div>
+<div class="right-two-col">
+<div class="content-col">
+<div class="content-col-body" style="padding:20px">
+<div style="font-size:20px; padding-bottom:25px;">Oops! We could not find the page you were looking for.</div>
+<div style="font-size:16px">
+Here are some recommendations:<br />
+<div class="error404_arrow">Search:
+<div class="my-buddytv-search_404">
+<script type="text/javascript">document.write(Btv.Templating.GetInstance("Global.Search", { disableDropDown: true }).Render());</script>
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div class="error404_arrow">Browse our most popular pages:
+<ul style="padding-left:40px; padding-top:10px">
+<li><a href="/">BuddyTV Home</a></li>
+<li><a href="/news.aspx">TV News</a></li>
+<li><a href="/quiz/quiz.aspx">Trivia</a></li>
+</ul>
+</div>
+<div class="error404_arrow" style="padding-bottom:100px">If you feel you've reached this page in error, please let us know:<br /><br />
+<div style="padding-left:30px"><a href="/feedback.aspx">Feedback Form &raquo;</a></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="right-col">
+<div class="content-container">
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+
+
+                                    <script>
+                                        $Timer.Stop("MainContentPlaceHolder");
+                                        $Timer.Start("SlideoutContentPlaceHolder");
+                                    </script>
+                                    
+                                    <script>
+                                        $Timer.Stop("SlideoutContentPlaceHolder");
+                                    </script>
+	    				            <div class="clear-fix"></div>
+
+                                
+                                    <div id="btv_aja_rightAd" class="tower-ad">
+                                        <script>                                            $Timer.Start("160x600");</script>
+                                        <!-- 160x600 IFrame --><iframe id="515d9ff484bb3" name="515d9ff484bb3" src="http://ox-d.buddytv.com/w/1.0/afr?auid=291361&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no" width="160" height="600"><a href="http://ox-d.buddytv.com/w/1.0/rc?cs=515d9ff484bb3&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.buddytv.com/w/1.0/ai?auid=291361&cs=515d9ff484bb3&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
+                                        <script>                                            $Timer.Stop("160x600");</script>
+                                    </div>        
+                                
+ 		            </div>
+
+                             
+
+                    <div class="footer2">
+                     
+<div class="btv-footer-whole">
+<div id="btv_aja_footer" style=" padding-bottom:17px; margin-top:25px">
+<script>$Timer.Start("728x90 Footer");</script>
+<span id="ctl00_commonFooter_footerAdText"><!-- 728x90 IFrame --><iframe id="515d9ffb36b81" name="515d9ffb36b81" src="http://ox-d.buddytv.com/w/1.0/afr?auid=291369&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no" width="728" height="90"><a href="http://ox-d.buddytv.com/w/1.0/rc?cs=515d9ffb36b81&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.buddytv.com/w/1.0/ai?auid=291369&cs=515d9ffb36b81&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></span>
+<script>$Timer.Stop("728x90 Footer");</script>
+</div>
+<div class="footer-wrap">
+<div class="footer-box">
+<div class="enhanced_footer">
+<script type="text/javascript">document.write(Btv.Templating.GetInstance("Global.Search", {disableDropDown : true}).Render());</script>
+<div style="clear:both;"></div>
+<div class="sitemap" style="margin-left:5px;">
+<div class="enhanced_footer_head">My BuddyTV</div>
+<a rel="nofollow" href="/">Homepage</a>
+<a rel="nofollow" href="/profile2/profile-messages.aspx?folder=1">Inbox</a>
+<a rel="nofollow" href="/find-friends/browse.aspx">Friend Finder</a>
+<a rel="nofollow" href="https://itunes.apple.com/us/app/buddytv-guide-movie-tv-show/id449938021?mt=8">BuddyTV Guide</a>
+</div>
+<div class="sitemap">
+<div class="enhanced_footer_head">News</div>
+<a rel="nofollow" href="/news.aspx">TV</a>
+<a rel="nofollow" href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=buddytv">Listings</a>
+<a rel="nofollow" href="/slideshows/slideshows.aspx">Slideshows</a> 
+<div class="enhanced_footer_head" style="margin-top:16px; float:left; clear:left">Videos</div>
+<a rel="nofollow" href="/videos2/videos.aspx">On Demand Videos</a> 
+</div>
+<div class="sitemap" style="width:130px">
+<div class="enhanced_footer_head">Games</div>
+<a rel="nofollow" href="/ftv/">Fantasy TV</a>
+<a rel="nofollow" href="/games/trivia.aspx">Trivia</a>
+<a rel="nofollow" href="/closedquiz/personality-quiz.aspx">Personality Quiz</a>
+<a rel="nofollow" href="/battle/list.aspx">Showdowns</a>
+<a rel="nofollow" href="/tribute/tributes.aspx">TV Graffiti</a> 
+<a rel="nofollow" href="/auctions/auctions.aspx">Auctions</a> 
+</div>
+<div class="sitemap" style="width:130px">
+<div class="enhanced_footer_head"></div>
+<a rel="nofollow" href="/user-quizzes/user-quizzes.aspx">User Quizzes</a>
+<a rel="nofollow" href="/celebrity-rater/rate-celebrity.aspx">Celeb Rater</a>
+<a rel="nofollow" href="/show-rater/rate-show.aspx?">Show Rater</a> 
+</div>
+<div class="topshows"style="width:180px">
+<div class="enhanced_footer_head">Top TV Shows</div>
+<a href="/american-idol.aspx">American Idol</a>
+<a href="/americas-got-talent.aspx">America's Got Talent</a>
+<a href="/the-bachelor.aspx">The Bachelor</a>
+<a href="/the-bachelorette.aspx">The Bachelorette</a>
+<a href="/dancing-with-the-stars.aspx">Dancing with the Stars</a>
+<a href="/glee.aspx">Glee</a>
+</div>
+<div class="topshows" style="width:200px">
+<div class="enhanced_footer_head"></div>
+<a href="/so-you-think-you-can-dance.aspx">So You Think You Can Dance</a> 
+<a href="/supernatural.aspx">Supernatural</a>
+<a href="/the-vampire-diaries.aspx">The Vampire Diaries</a>
+<a href="/the-voice.aspx">The Voice</a>
+<a href="/the-x-factor.aspx">The X Factor</a>
+<a href="/tvshows-all.aspx">All Shows &raquo;</a>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="btv-sub-footer">
+<a href="/feedback.aspx">Send Us Feedback</a>&nbsp;|&nbsp;
+<a href="/buddytv-guide.aspx">BuddyTV Guide App</a>&nbsp;|&nbsp;
+<a href="/partners/partners.aspx">Partners</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=5">About Us</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=100000006">Contact Us</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=100000007">Writers</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=100000005">Press</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=100000004">Advertise</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=18">Promotions</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=13">FAQ</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=17">Terms of Use</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=14">Privacy Policy</a>&nbsp;|&nbsp;
+<a rel="nofollow" href="/Redirect.aspx?id=19">DMCA/Infringement</a><br />
+<span class="copyright" style="color:#ffffff">&copy; 2005-2013 BuddyTV. All Rights Reserved.</span> 
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    activateLoginPopUp();
+</script>
+
+                    </div> 
+	            </div>	
+                       
+     
+        
+    </div>
+
+</form>
+
+</div></body><script>                 $Timer.Stop("BodySection");</script>
+</html>
+<script>
+    $Timer.Stop("Html");
+</script>
+<script>
+    YAHOO.Btv.Runtime.Init();
+</script>
+<script>
+    $Timer.Start("FaceBookFeatureLoader");
+    Btv.Facebook.PreScriptLoad();
+</script>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>    Btv.Facebook.PostScriptLoad();</script>
+<script>    $Timer.Stop("FaceBookFeatureLoader");</script>
+
+<div id="ctl00_delayLoadingSection"></div>
+
+
+<script>    $Timer.Start("Statistics Section");</script>
+
+<!--Start Google analytics code-->
+
+<script type="text/javascript">
+    $Timer.Start("Google Analytics Section");
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    $Timer.Start("Google Analytics JS file");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+    $Timer.Start("Google Analytics Section");
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+</script>
+
+<script type=""text/javascript"">
+    $Timer.Stop("Google Analytics JS file");
+    Btv.GoogleAnalytics.Unhold();
+    Btv.GoogleAnalytics.Track();
+    $Timer.Stop("Google Analytics Section");
+</script>
+<!--End Google analytics code-->
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+    $Timer.Start("StatCounter1");
+    var sc_project = 1271247;
+    var sc_invisible = 1;
+    var sc_partition = 11;
+    var sc_security = "9a0a53df";
+    var sc_remove_link = 1;
+    $Timer.Start("StatCounter1 JS file");
+</script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<!-- End of StatCounter Code -->
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+    $Timer.Stop("StatCounter1 JS file");
+    $Timer.Stop("StatCounter1");
+    $Timer.Start("StatCounter2");
+    var sc_project = 4597841;
+    var sc_invisible = 1;
+    var sc_partition = 56;
+    var sc_click_stat = 1;
+    var sc_security = "fa1c2aec";
+    $Timer.Start("StatCounter2 JS file");
+</script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<script>
+    $Timer.Stop("StatCounter2 JS file");
+    $Timer.Stop("StatCounter2");
+</script>
+<!-- End of StatCounter Code -->
+
+<!-- Start Quantcast tag --> 
+<script>
+    $Timer.Start("Quantcast");
+    $Timer.Start("Quantcast JS file");
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+    $Timer.Stop("Quantcast JS file");
+    _qoptions = { labels: "VH1 Pop Culture,VH1 TheScreeningRoom,MTVN Global Digital Network,MTVN Digital Tribes,Thirtysomething Tribe,MTVN Music and Logo Global Network,MTVN Music and Logo Tribes,VH1 plus Thirtysomething,MTV BoxOfficeBlockbusters,MTV Gaming,MTV StylesTrends,MTVN Global Digital Network,MTVN Digital Tribes,MTV Generation Tribe,MTVN Music and Logo Global Network,MTVN Music and Logo Tribes,MTV plus Generation" };
+    _qacct = "p-94wNw88f65Rhk";
+    $Timer.Start("Quantcast Track");
+    quantserve();
+    $Timer.Stop("Quantcast Track");
+    $Timer.Stop("Quantcast");
+</script>
+<!-- End Quantcast tag -->
+
+
+
+<script>    $Timer.Stop("Statistics Section");</script>
+
+<script>    $Timer.Start("overlayContainer");</script>
+
+<script>    $Timer.Stop("overlayContainer");</script>
+
+<script>
+    $Timer.Stop("Page");
+    YAHOO.Btv.Runtime.onPageParsed.Fire();
+    Btv.Diagnostics.Startup();
+</script>

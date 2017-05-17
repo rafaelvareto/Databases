@@ -1,0 +1,245 @@
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>		<title>Colour Box Makeup Studios</title>
+		<meta name="keywords" content="makeup artist, workshop, makeup classes, makeup artist boot camp, boot camp, special FX, hairstyling, Kerry Herta, Joe Matke, Seattle, New Orleans" />
+		<meta name="description" content="Today's top artists provide a deep understanding of the most up-to-date makeup tools and techniques used in film, television, print and beauty." />
+		<meta name="robots" content="all" />
+		<meta name="generator" content="Sandvox 2.9.2" />
+		<meta name="viewport" content="width=980" />
+		<meta http-equiv="X-UA-Compatible" content="IE=100" />
+		<meta name="google-site-verification" content="xg1Uw3pFIH8LNS4tE9L6-leH-R9YDv-VP4cvp9XwF3A" />
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+		<link rel="canonical" href="http://www.colourboxmakeup.com/" />
+		<link rel="stylesheet" type="text/css" href="_Resources/ddsmoothmenu.css" />
+		<link rel="stylesheet" type="text/css" href="sandvox_Hydrogen_left/main.css" title="Hydrogen Left Sidebar" />
+		<link rel="stylesheet" type="text/css" href="sandvox_Hydrogen_left/print.css" media="print" /><!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="sandvox_Hydrogen_left/ie9.css" /><![endif]-->
+		<!--
+		Photo credits for this website's design: <http://www.colourboxmakeup.com/sandvox_Hydrogen_left/Credits.rtf>
+		Licensing for this website's design:     <http://www.colourboxmakeup.com/sandvox_Hydrogen_left/License.rtf>
+		-->
+		
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-10170058-1', 'colourboxmakeup.com');
+		  ga('send', 'pageview');
+		
+		</script>
+	</head>
+	<body class="sandvox has-page-title allow-sidebar has-custom-banner home-page no-IR" id="www_colourboxmakeup_com" <script>>
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId      : '136242917099',
+		      xfbml      : true,
+		      version    : 'v2.1'
+		    });
+		  };
+		
+		  (function(d, s, id){
+		     var js, fjs = d.getElementsByTagName(s)[0];
+		     if (d.getElementById(id)) {return;}
+		     js = d.createElement(s); js.id = id;
+		     js.src = "//connect.facebook.net/en_US/sdk.js";
+		     fjs.parentNode.insertBefore(js, fjs);
+		   }(document, 'script', 'facebook-jssdk'));
+		</script>		<div id="page-container">
+			<div id="page">
+				<div id="page-top" class="has-logo has-title no-tagline">
+					<div id="title">
+						<span id="logo-container"><img id="logo" src="_Media/untitled-2_med.jpeg" alt="Untitled 2" width="920" height="163" /></span>
+						<h1 class="title"><span class="in">Colour  Box Makeup Studios</span></h1>
+					</div><!-- title -->
+					<div id="sitemenu-container">
+						<div id="sitemenu">
+							<h2 class="hidden">Site Navigation<a href="#page-content" rel="nofollow">[Skip]</a></h2>
+							<div id="sitemenu-content">
+								<ul>
+									<li class="i1 o currentPage"><span class="in">Home</span></li>
+									<li class="i2 e hasSubmenu"><a href="workshops/" title="Workshops"><span class="in">Workshops</span></a>
+										<ul>
+											<li class="i1 o"><a href="workshops/makeup-artist-boot-camp.html" title="Makeup Artist Boot Camp"><span class="in">Makeup Artist Boot Camp</span></a></li>
+											<li class="i2 e"><a href="workshops/bridal-boot-camp.html" title="Makeup Artist Boot Camp:Bridal Edition"><span class="in">Makeup Artist Boot Camp:Bridal Edition</span></a></li>
+											<li class="i3 o"><a href="workshops/airbrush-seminar.html" title="Airbrush Seminar"><span class="in">Airbrush Seminar</span></a></li>
+											<li class="i4 e"><a href="workshops/beginning-hairstyling.html" title="Beginning Hairstyling for the Makeup Artist"><span class="in">Beginning Hairstyling for the Makeup Artist</span></a></li>
+											<li class="i5 o"><a href="workshops/advanced-hairstyling.html" title="Advanced Hairstyling for Fashion &amp; Film"><span class="in">Advanced Hairstyling for Fashion &amp; Film</span></a></li>
+											<li class="i6 e last-item last"><a href="workshops/bald-caps/" title="Bald Caps for HD + Film"><span class="in">Bald Caps for HD + Film</span></a></li>
+										</ul>
+									</li>
+									<li class="i3 o hasSubmenu"><a href="instructors/" title="Instructors"><span class="in">Instructors</span></a>
+										<ul>
+											<li class="i1 o"><a href="instructors/kerry-herta/" title="Kerry Herta"><span class="in">Kerry Herta</span></a></li>
+											<li class="i2 e"><a href="instructors/joe-matke.html" title="Joe Matke"><span class="in">Joe Matke</span></a></li>
+											<li class="i3 o last-item last"><a href="instructors/jason-collins.html" title="Jason Collins"><span class="in">Jason Collins</span></a></li>
+										</ul>
+									</li>
+									<li class="i4 e"><a href="products.html" title="Products"><span class="in">Products</span></a></li>
+									<li class="i5 o"><a href="testimonials.html" title="Testimonials"><span class="in">Testimonials</span></a></li>
+									<li class="i6 e"><a href="enrollment/" title="Enrollment"><span class="in">Enrollment</span></a></li>
+									<li class="i7 o"><a href="news.html" title="News"><span class="in">News</span></a></li>
+									<li class="i8 e"><a href="social.html" title="Social"><span class="in">Social</span></a></li>
+									<li class="i9 o last-item last"><a href="contact.html" title="Contact"><span class="in">Contact</span></a></li>
+								</ul>
+							</div> <!-- /sitemenu-content -->
+						</div> <!-- /sitemenu -->
+					</div> <!-- sitemenu-container -->
+				</div> <!-- page-top -->
+				<div class="clear below-page-top"></div>
+				<div id="page-content" class="">
+					<div id="sidebar-container">
+						<div id="sidebar">
+							<div id="sidebar-top"></div>
+							<div id="sidebar-content">
+								<h3 class="hidden">Sidebar<a rel="nofollow" href="#main">[Skip]</a></h3>
+								<div class="pagelet bordered untitled i1 o last-item">
+									<div class="pagelet-body">
+										<div class="RichTextElement">
+											<div>
+												<p style="text-align: center;"><span style="font-size: 18px; font-family: Georgia; color: rgb(148, 17, 0);">Upcoming Workshops</span></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">New Orleans | Nov. 5-9, 2014<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/makeup-artist-boot-camp.html"><span style="color: rgb(148, 17, 0);">Makeup Artist Boot Camp</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: <a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">New Orleans | Nov. 10, 2014<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/airbrush-seminar.html"><span style="color: rgb(148, 17, 0);">Airbrush Seminar</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: <a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Chicago | Nov. 13-17, 2014<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/makeup-artist-boot-camp.html"><span style="color: rgb(148, 17, 0);">Makeup Artist Boot Camp</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-size: 14px; font-family: Georgia;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Chicago | Nov. 18, 2014<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/airbrush-seminar.html"><span style="color: rgb(148, 17, 0);">Airbrush Seminar</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-size: 14px; font-family: Georgia;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Atlanta | Dec. 4-8, 2014<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/makeup-artist-boot-camp.html"><span style="color: rgb(148, 17, 0);">Makeup Artist Boot Camp</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-size: 14px; font-family: Georgia;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Atlanta | Dec. 9, 2014<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/airbrush-seminar.html"><span style="color: rgb(148, 17, 0);">Airbrush Seminar</span></a><br /></span><span style="font-size: 14px; font-family: Georgia;">Instructor:</span><span style="color: rgb(148, 17, 0); font-family: Georgia; font-size: 14px;"> </span><span style="font-size: 14px; font-family: Georgia;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Seattle | Feb. 4-8, 2015<br /></span><span style="font-size: 18px; font-family: Georgia;"><a href="workshops/makeup-artist-boot-camp.html"><span style="color: rgb(148, 17, 0);">Makeup Artist Boot Camp</span></a></span><br /><span style="font-family: Georgia; font-size: 14px;">Instructor: <a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Seattle | Feb. 9, 2015<br /></span><span style="font-size: 18px; font-family: Georgia;"><a href="workshops/airbrush-seminar.html"><span style="color: rgb(148, 17, 0);">Airbrush Seminar</span></a></span><br /><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-family: Georgia; font-size: 14px;"><a href="instructors/kerry-herta/" style="font-family: Georgia; font-size: 14px;"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a></span></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">New Orleans | April 8-12, 2015<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/makeup-artist-boot-camp.html"><span style="color: rgb(148, 17, 0);">Makeup Artist Boot Camp</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: <a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-size: 10px; font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">New Orleans | April 13, 2015<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/airbrush-seminar.html"><span style="color: rgb(148, 17, 0);">Airbrush Seminar</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-family: Georgia; font-size: 14px;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a></span></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Chicago | May 13-17, 2015<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/makeup-artist-boot-camp.html"><span style="color: rgb(148, 17, 0);">Makeup Artist Boot Camp</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-size: 14px; font-family: Georgia;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a><br /></span><span style="font-size: 10px; font-family: Georgia;"><br /></span><span style="font-size: 14px; color: rgb(53, 53, 53); font-family: Georgia;">Chicago | May 18, 2015<br /></span><span style="font-family: Georgia; font-size: 18px;"><a href="workshops/airbrush-seminar.html"><span style="color: rgb(148, 17, 0);">Airbrush Seminar</span></a><br /></span><span style="font-family: Georgia; font-size: 14px;">Instructor: </span><span style="font-size: 14px; font-family: Georgia;"><a href="instructors/kerry-herta/"><span style="color: rgb(148, 17, 0);">Kerry Herta</span></a></span><span style="font-family: Georgia; font-size: 14px;"><br /></span></p>
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							</div> <!-- sidebar-content -->
+							<div id="sidebar-bottom"></div>
+						</div> <!-- sidebar -->
+					</div> <!-- sidebar-container -->
+					<div id="main">
+						<div id="main-top"></div>
+						<div id="main-content">
+							<h2 style="text-align:center;" class="title"><span class="in"><span style="color: rgb(148, 17, 0); font-size: 36px; font-weight: normal; font-family: Georgia;">Why Colour Box Makeup Studios?</span></span></h2>
+							<div class="article">
+								<div class="article-content">
+									<div class="RichTextElement">
+										<div><p style="text-align: justify;"><span style="font-family: Georgia;">Colour Box Makeup Studios <a href="instructors/"><span style="color: rgb(148, 17, 0);">instructors</span></a> spend most of their time in sound stages, makeup rooms, special effects houses and on location, where they lead teams of artists in designing some of the industry’s most challenging and creative makeup projects. Here are just a few...</span></p>
+											
+											<div class="first graphic-container wide left">
+												<div class="slider-index graphic">
+													<div class="figure-content">
+														<!-- sandvox.SliderIndex -->
+														<div class="nivo-container nivo-thumbs-enabled">
+															<div id="slider" style="width:580px; height:434px;" class="nivoSlider graphic"><img alt="lTAwE81" data-thumb="_Media/ltawe81.jpeg" data-thumb-alt="1" src="_Media/ltawe81-2.jpeg" alt="lTAwE81" width="580" height="434" /><img alt="American Horror Story Asylum White Nun" data-thumb="_Media/american-horror-story-asylu-3.jpeg" data-thumb-alt="2" src="_Media/american-horror-story-asylu-2.jpeg" alt="American Horror Story Asylum White Nun" width="580" height="434" /><img alt="The-Hunger-Games-Catching-Fire-2013-Review-Plot-Summary-Star-Cast-Crew" data-thumb="_Media/the-hunger-games-catching-3.jpeg" data-thumb-alt="3" src="_Media/the-hunger-games-catching-2.jpeg" alt="The-Hunger-Games-Catching-Fire-2013-Review-Plot-Summary-Star-Cast-Crew" width="580" height="434" /><img alt="Beauty" data-thumb="_Media/beauty.jpeg" data-thumb-alt="4" src="_Media/beauty-2.jpeg" alt="Beauty" width="580" height="434" /><img alt="tiger woods" data-thumb="_Media/tiger-3.jpeg" data-thumb-alt="5" src="_Media/tiger-2.jpeg" alt="Tiger" width="580" height="434" /><img alt="Nip/Tuck Season 6 Promo" data-thumb="_Media/niptuck-season-6-promo-3.jpeg" data-thumb-alt="6" src="_Media/niptuck-season-6-promo-2.jpeg" alt="Nip/Tuck Season 6 Promo" width="580" height="434" /><img alt="Bridal Makeup" data-thumb="_Media/bridal-makeup.jpeg" data-thumb-alt="7" src="_Media/bridal-makeup-2.jpeg" alt="Bridal Makeup" width="492" height="368" /><img alt="Amanda Beard Womens Health and Fitness Cover - Version 2" data-thumb="_Media/amanda-beard-womens-health-3.jpeg" data-thumb-alt="8" src="_Media/amanda-beard-womens-health-2.jpeg" alt="Amanda Beard Womens Health and Fitness Cover - Version 2" width="580" height="434" /><img alt="Skechers Sport Foot Locker" data-thumb="_Media/skechers-sport-foot-locker-3.jpeg" data-thumb-alt="9" src="_Media/skechers-sport-foot-locker-2.jpeg" alt="Skechers Sport Foot Locker" width="580" height="434" /><img alt="It's Always Sunny In Philadelphia Promo Banana Billboard" data-thumb="_Media/its-always-sunny-in-philade.jpeg" data-thumb-alt="10" src="_Media/its-always-sunny-in-philade-2.jpeg" alt="It's Always Sunny In Philadelphia Promo Banana Billboard" width="420" height="315" /><img alt="10365920_779799692039202_2375854359314686352_n" data-thumb="_Media/10365920_779799692039202_23-3.jpeg" data-thumb-alt="11" src="_Media/10365920_779799692039202_23-2.jpeg" alt="10365920_779799692039202_2375854359314686352_n" width="420" height="315" /><img alt="Lights Out" data-thumb="_Media/lights-out-3.jpeg" data-thumb-alt="12" src="_Media/lights-out-2.jpeg" alt="Lights Out" width="580" height="434" /><img alt="Surgical 4" data-thumb="_Media/surgical-4-3.jpeg" data-thumb-alt="13" src="_Media/surgical-4-2.jpeg" alt="Surgical 4" width="534" height="400" /><img alt="Nip/Tuck Season 7 Ad" data-thumb="_Media/niptuck-season-7-ad-3.jpeg" data-thumb-alt="14" src="_Media/niptuck-season-7-ad-2.jpeg" alt="Nip:Tuck Season 7 Ad" width="580" height="434" /></div>
+														</div>
+														<!-- /sandvox.SliderIndex -->
+													</div>
+												</div>
+												<div style="" class="graphic">
+													<div class="figure-content caption"><p style="text-align: center;">Colour Box instructors were the makeup or hair department heads on each of the projects pictured above. <a href="instructors/"><span style="color: rgb(148, 17, 0);">Click here</span></a> to learn more about our instructors.<br /><br /></p></div>
+												</div>
+											</div><img src="_Media/jessica-lathrop-3_med.jpeg" alt="Jessica Lathrop" width="131" height="145" class="not-first-item narrow right graphic-container" />
+											
+											<div class="not-first-item wide left">
+												<div style="width:469px;" class="graphic"><div class="RichTextElement">
+														<div class="figure-content">
+															<p style="text-align: justify;"><em><span style="font-family: Georgia;">"You spend your hands on time working on models, not on each other, so you are getting the most out of your experience. She truly cares about her students and their class feels like a family and she fosters that environment with warmth, compassion, and a little tough love when needed.”</span></em><span style="font-family: Georgia;"> </span></p><p style="text-align: right;"><span style="font-family: Georgia;"> </span><span style="color: rgb(148, 17, 0); font-family: Georgia; font-size: 18px;">J</span><span style="color: rgb(148, 17, 0); font-size: 18px; font-family: Georgia;">essica Lathrop</span><span style="font-size: 18px; font-family: Georgia;"> | Makeup Artist</span><em><span style="font-family: Georgia;"><br /></span></em></p>
+															
+														</div>
+													</div>
+												</div>
+											</div><img src="_Media/dawn-warren_med.jpeg" alt="Dawn Warren" width="130" height="144" class="not-first-item narrow right graphic-container" />
+											
+											<div class="not-first-item wide left">
+												<div style="width:469px;" class="graphic"><div class="RichTextElement">
+														<div class="figure-content">
+															<p style="text-align: justify;"><em><span style="font-family: Georgia;">"I have taken some hard-core makeup skills away from Kerry’s <a href="workshops/"><span style="color: rgb(148, 17, 0);">classes</span></a>, but most importantly a growing confidence in my own abilities to figure stuff out on the fly, which is a very good thing to be able to do when working on projects.” </span></em><span style="font-weight: bold; font-family: Georgia;"> </span></p><p style="text-align: right;"><span style="color: rgb(148, 17, 0); font-size: 18px; font-family: Georgia;">D. Loraine Warren</span><span style="font-size: 18px; font-family: Georgia;"> | Makeup Artist</span><em><br /></em></p>
+															
+														</div>
+													</div>
+												</div>
+											</div>
+											
+										</div>
+									</div>
+								</div> <!-- /article-content -->
+								<div class="article-info">
+								</div> <!-- /article-info -->
+							</div> <!-- /article -->
+						</div> <!-- main-content -->
+						<div id="main-bottom"></div>
+					</div> <!-- main -->
+				</div> <!-- content -->
+				<div class="clear below-content"></div>
+				<div id="page-bottom">
+					<div id="page-bottom-contents">
+						<div><span style="font-size: 12px; font-family: Georgia;"><span class="first HTMLElement"><span id="cdSiteSeal1"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb73f2439faaa3f99eb92e9zy7mb7355e4ye7ca8f6369517757621d"></script><br>
+		</span> <!-- AddThis Follow BEGIN -->
+		<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+		<a class="addthis_button_facebook_follow" addthis:userid="ColourBoxMakeup"></a>
+		<a class="addthis_button_twitter_follow" addthis:userid="colourboxmakeup"></a>
+		<a class="addthis_button_linkedin_follow" addthis:userid="2969290" addthis:usertype="company"></a>
+		<a class="addthis_button_youtube_follow" addthis:userid="ColourBoxVideo"></a>
+		<a class="addthis_button_vimeo_follow" addthis:userid="colourboxmakeup"></a>
+		</div>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51b53c72279db820"></script>
+		<!-- AddThis Follow END --></span>© 2009-2014 Colour Box Makeup Studios </span></div>
+						<div class="hidden"> <a rel="nofollow" href="#title">[Back To Top]</a></div>
+					</div>
+				</div> <!-- page-bottom -->
+			</div> <!-- container -->
+			<div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div><div id="extraDiv3"><span></span></div><div id="extraDiv4"><span></span></div><div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div>
+		</div> <!-- specific body type -->
+		<script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js"></script>
+		<script>
+		if (typeof jQuery === 'undefined') document.write('<scr'+'ipt src="_Resources/jquery-1.9.1.min.js"></scr'+'ipt>');
+		</script>
+		<script charset="utf-8" src="_Resources/jquery.nivo.slider.min.js"></script><script id="ddsmoothmenu" src="_Resources/ddsmoothmenu.js">
+			/***********************************************
+			* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+			* This notice MUST stay intact for legal use
+			* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+			***********************************************/</script>
+		<script>
+		/* Attach nivo slider to '#slider' */
+		$(window).load(function () {
+			$('#slider').nivoSlider({
+				effect: 'fade',
+				animSpeed: 1000,
+				pauseTime: 2500,
+				directionNav: false,
+				controlNav: true,
+				controlNavThumbs: true,
+				keyboardNav: true,
+				pauseOnHover: true,
+				manualAdvance: false,
+				captionOpacity: 0.6,
+				prevText: 'Previous',
+				nextText: 'Next'
+			});
+		});
+		ddsmoothmenu.arrowimages = {down:['downarrowclass', '_Resources/down.gif', 23], right:['rightarrowclass', '_Resources/right.gif']}
+		ddsmoothmenu.init({ mainmenuid: 'sitemenu-content',orientation:'h', classname:'ddsmoothmenu',contentsource:'markup'})
+		</script>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		
+		<script type="text/javascript">stLight.options({publisher: "ur-e9007685-f787-28ea-4b97-8e63b33994ac", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+		<script>
+		var options={ "publisher": "ur-e9007685-f787-28ea-4b97-8e63b33994ac", "position": "right", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "pinterest", "email", "sharethis"]}};
+		var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+		</script>
+
+	</body>
+</html>

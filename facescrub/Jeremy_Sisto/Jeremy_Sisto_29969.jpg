@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Geopolitics</title>
+    <meta name="description" content="Fgp">
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+    <link href="/assets/application-5229c8fe4a82b83baedb74e5f1a092fb.css" media="all" rel="stylesheet" />
+    <script src="/assets/application-b39bb19673cae7b050f53c808b1eb3b9.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="1ujx2dffwu6+Ny/5wMwOTYJoF8kf0+wiYsqS6kC4a0I=" name="csrf-token" />
+  </head>
+
+  <body class = 'system render404'>
+    <header>
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/"><img alt="Logo" src="/assets/logo-83b9f11cb684a0807242de56fcc3529e.png" /></a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        	<li><a href="/users/sign_in">LOGIN</a></li>
+
+
+      <li class="social"><a href="https://www.facebook.com/fantasygeopolitics?ref=br_tf" target="_blank"><img alt="Facebook" src="/assets/facebook-4c298f5c531d9f1c7edaad100e77de11.png" /></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+        <div class="container">
+    <div class="row">
+      <div class="col-sm-12 back-nav-activities">
+      </div>
+    </div>
+  </div>
+<div id="subnav">
+  <br/ >
+<div class="container">
+	<div class="row">
+
+
+
+
+
+
+
+	</div>
+</div>
+</div>
+
+      
+    </header>
+    <main role="main">
+      </br>
+<h1>I'm sorry but the page you are expecting doesn't exist.</h1>
+    </main>
+  </body>
+</html>

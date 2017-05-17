@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="no-js ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <!-- New York Theme -->
+    <title> - Noah Sheldon</title>
+    
+    <!-- IE Mobile 10.0 rendering bug fix -->
+    <script>(function(){if("-ms-user-select"in document.documentElement.style&&navigator.userAgent.match(/IEMobile\/10\.0/)){var a=document.createElement("style");a.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));document.getElementsByTagName("head")[0].appendChild(a)}})();</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    
+    <meta name="description" content="Noah Sheldon is a comercial and editorial photographer based in Shanghai China and New York City. He specializes in portraiture, architectural and reportage work.">
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        
+    <meta name="revisit-after" content="3 days" />
+    <meta property="og:type" content="website" />
+    
+    <meta property="og:title" content=" - Noah Sheldon" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+
+    <meta property="og:description" content="Noah Sheldon is a comercial and editorial photographer based in Shanghai China and New York City. He specializes in portraiture, architectural and reportage work." />
+
+
+
+
+    <link rel="shortcut icon" href="http://media.virbcdn.com/cdn_images/crop_48x48/4c/PageImage-506692-4110588-flag.png">
+    <link rel="apple-touch-icon" href="http://media.virbcdn.com/cdn_images/crop_150x150/4c/PageImage-506692-4110588-flag.png">
+
+
+    <!-- CSS
+    ================================================== -->
+    <style type="text/css">/* Reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline; }
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block; }
+body {
+	line-height: 1; }
+ol, ul {
+	list-style: none; }
+blockquote, q {
+	quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none; }
+table {
+	border-collapse: collapse;
+	border-spacing: 0; }
+
+
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Regular-webfont.eot');
+    src: url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Regular-webfont.woff') format('woff'),
+    url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+    url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Regular-webfont.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}@font-face {
+    font-family: 'Open Sans Light';
+    src: url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Light-webfont.eot');
+    src: url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Light-webfont.woff') format('woff'),
+    url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Light-webfont.ttf') format('truetype'),
+    url('http://assets.virbcdn.com/_assets/_fonts/OpenSans-Light-webfont.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    
+
+
+
+}
+
+/***** background_body color *****/
+
+body,
+.sharing .share-buttons ul,
+table.ui-datepicker-calendar td a.ui-state-default,
+table.ui-datepicker-calendar td a:hover,
+table.ui-datepicker-calendar thead tr th,
+.ui-datepicker .ui-datepicker-header,
+.opentable form#OT_form .OT_wrapper ul.OT_list li input,
+#ui-datepicker-div .ui-datepicker-header:before,
+#ui-datepicker-div .ui-datepicker-calendar:before {
+	background-color: #ffffff;
+}
+
+#main-content .audio .audio-player li a.download,
+#main-content .audio .bandcamp-link,
+.audio-player ol li .controls .play-pause,
+.audio-player ol li .controls .previous,
+.audio-player ol li .controls .next,
+#main-content .topspins .topspin-widget-buy-button a,
+#main-content #store-listing ul.pagination li.current a,
+#main-content #store-cart .cart-actions .checkout,
+.widgets article.audio .controls a:hover,
+input#submit,
+#blog .blog-paging a.older, 
+#blog .blog-paging a.newer,
+#blog .blog-paging a.older:hover, 
+#blog .blog-paging a.newer:hover,
+#main-content #store-detail .product-specifics .add-to-cart,
+.opentable form#OT_form .OT_wrapper ul.OT_list li.OT_submit a.OT_Find_a_Table,
+table.ui-datepicker-calendar td a.ui-state-default.ui-state-active,
+table.ui-datepicker-calendar td a.ui-state-active.ui-state-hover,
+.opentable li.OT_navListItem a.OT_navLink:hover, 
+.opentable li.OT_navListItem a.OT_navLink.selected,
+.opentable li.OT_navListItem a.OT_navLink.selected:hover,
+#contact-form input[type="submit"],
+#main-content .contact .form-container #contact-form .captcha #captcha-list li a:hover,
+#main-content .contact .form-container #contact-form .captcha #captcha-list li a.selected,
+#contact-form fieldset ul.parsley-errors-list li {
+	color: #ffffff;
+}
+
+
+/***** background_sidebar color *****/
+
+header#site-header{
+    background-color: #ffffff;
+}
+.cart-link, 
+.cart-link:hover {
+	color: #ffffff;
+	color: #ffffff;
+}
+
+/***** site_name color *****/
+.logo h1 a {
+	color: #000000;
+}
+
+/***** tagline color *****/
+.logo h2,
+nav#main-nav ul li.section span {
+	color: #000000;
+}
+
+/***** nav color *****/
+nav#main-nav ul li a,
+.js nav#main-nav .toggle a,
+#main-content ul.categories li a,
+.menu .section-titles li a {
+    color: #000000;
+}
+.cart-link {
+	background-color: #000000;
+}
+
+
+/***** nav_rollover color *****/
+nav#main-nav ul li a:hover, 
+nav#main-nav ul li.current a,
+#main-content ul.categories li.selected a,
+#main-content ul.categories li a:hover,
+.menu .section-titles li a:hover {
+    color: #000000; 
+}
+.cart-link:hover {
+    background-color: #000000; 
+}
+
+
+/***** primary text color *****/
+body,
+h1, h2, h3, h4, h5, h6,
+.audio-player ol li .time,
+#blog #filter p,
+#blog ul li article header h1 a,
+#blog ul li article .tumblr-sharing a,
+#blog ul li article > footer .tags-categories ul li a,
+#main-content #store-cart ul li .delete,
+.audio-player ol li h2,
+.audio-player ol li h3,
+#main-content #store-listing .titles h2,
+#main-content #store-detail .product-specifics h1,
+#main-content .titles h2,
+#main-content .details h2,
+#main-content section.events h2,
+#blog .category-dropdown .select-box,
+#main-content #store-cart ul li .product-title a,
+.widgets article.audio .info h2,
+table.ui-datepicker-calendar td a,
+table.ui-datepicker-calendar td a:hover,
+table.ui-datepicker-calendar td a.ui-state-highlight,
+table.ui-datepicker-calendar td a.ui-state-default,
+table.ui-datepicker-calendar td a.ui-state-hover,
+table.ui-datepicker-calendar td.ui-state-disabled span.ui-state-default,
+table.ui-datepicker-calendar .ui-datepicker-calendar thead tr th,
+ul.OT_list li:after,
+#datepicker .ui-widget-header,
+#ui-datepicker-div .ui-widget-header,
+ul.OT_list li input,
+.ui-datepicker-calendar thead tr th span,
+#contact-form fieldset ul li input,
+#contact-form fieldset ul li textarea,
+#contact-form fieldset .captcha #captcha-list li a {
+	color: #000000;
+}
+
+table.ui-datepicker-calendar td.ui-datepicker-today a.ui-state-default.ui-state-highlight {
+	border-color: #000000;
+}
+
+#main-content .audio .audio-player li a.download:hover,
+#main-content .audio .bandcamp-link:hover,
+.audio-player ol li .controls .play-pause,
+.audio-player ol li .controls .previous, 
+.audio-player ol li .controls .next,
+#blog .blog-paging a.older,
+.horizontal-gallery #handle {
+	background-color: #000000;
+}
+
+
+/***** secondary text color *****/
+input#password,
+.sharing a,
+cite,
+#blog ul li article .blogs-content ul li:nth-child(even),
+#blog ul li article > footer time,
+#blog ul li article footer .tags-categories,
+#blog ul li article footer .tags-categories h3,
+#blog.tumblr .tumblr-sharing a,
+#main-content .index ul li .titles h3,
+#main-content .details p,
+#main-content .grid-gallery .large-gallery li .details .meta a,
+#main-content .slideshow-thumbnails-gallery .large-gallery .back-to-slideshow,
+#main-content .masonry-gallery .large-gallery .back-to-slideshow,
+#main-content .slideshow-gallery .large-gallery .navigation .previous, 
+#main-content .slideshow-gallery .large-gallery .navigation .next, 
+#main-content .slideshow-gallery .large-gallery .navigation p, 
+#main-content .slideshow-thumbnails-gallery .large-gallery .navigation .previous, 
+#main-content .slideshow-thumbnails-gallery .large-gallery .navigation .next,
+#main-content .slideshow-thumbnails-gallery .large-gallery .navigation p,
+#main-content .masonry-gallery .large-gallery .navigation .previous, 
+#main-content .masonry-gallery .large-gallery .navigation .next,
+#main-content .masonry-gallery .large-gallery .navigation p,
+#main-content .slideshow-gallery .large-gallery ul li .details p, 
+#main-content .slideshow-thumbnails-gallery .large-gallery ul li .details p,
+#main-content .masonry-gallery .large-gallery ul li .details p,
+#main-content #store-detail .back-to-listing,
+#main-content #store-detail .product-specifics .price .currency,
+#main-content #store-cart .total .label,
+.widgets article.widget .date, 
+.widgets article.widget .date a,
+footer#site-footer,
+footer#site-footer a,
+#main-content .content-editor blockquote p,
+#main-content #store-detail .product-specifics .price, 
+#main-content #store-cart ul li .product-option,
+#main-content .contact .contact-info li.contact-item .type,
+#main-content .menu .menu-list li .price,
+#main-content .menu .menu-list li p,
+#ui-datepicker-div .ui-datepicker-header:before {
+	color: #000000;
+}
+
+#main-content #store-cart .cart-actions .continue-shopping {
+    color: #000000;
+}
+
+
+#blog .blog-paging a.newer {
+	background-color: #000000;
+}
+
+
+/***** accent color *****/
+#main-content .topspins h1 {
+	color: #000000;
+}
+
+.audio-player ol li .controls .play-pause:hover,
+.audio-player ol li .controls .previous:hover, 
+.audio-player ol li .controls .next:hover,
+.audio-player ol li .length .progress,
+.audio-player ol li .length .load,
+.video .vjs-control-bar .vjs-volume-level,
+.video .vjs-control-bar .vjs-play-progress {
+	background-color: #000000;
+}
+
+#blog ul li article.link .blogs-content,
+#main-content .index ul li a:hover img {
+	border-color: transparent;
+	border-color: #000000;
+}
+
+/***** titles text color *****/
+#page-title,
+#blog h1#page-title a,
+.widgets article.widget h2, 
+.widgets article.widget h2 a,
+#main-content .menu .menu-list li .item-title {
+	color: #000000;
+}
+
+
+/***** container background color *****/
+pre,
+#blog .category-dropdown .select-box,
+#blog #filter p,
+#main-content #store-cart .empty-notice,
+.horizontal-gallery #slider,
+#main-content #store-detail .product-specifics .options,
+table.ui-datepicker-calendar .ui-state-disabled,
+.contact .captcha #captcha-list li a,
+.contact .form-container #result-message {
+	background-color: #ffffff;
+}
+
+
+/***** link color *****/
+a,
+#blog ul li article.quote header h1 a,
+#blog ul li article.link header h1 a,
+#main-content .index ul li a:hover .titles h2,
+#main-content section.events .see-details,
+.widgets article.widget a,
+#main-content .index ul li a:hover,
+.sharing .share-buttons .share-label,
+.ui-datepicker .ui-datepicker-header .ui-icon,
+table.ui-datepicker-calendar a.ui-state-default:hover {
+	color: #000000;
+}
+
+#main-content .audio .audio-player li a.download,
+#main-content .audio .bandcamp-link,
+#main-content .topspins .topspin-widget-buy-button,
+input#submit,
+#blog .blog-paging a.older:hover,
+#blog .blog-paging a.newer:hover,
+#main-content #store-detail .product-specifics .add-to-cart,
+#main-content #store-cart .cart-actions .checkout,
+#blog .blog-paging a.older:hover, 
+#blog .blog-paging a.newer:hover,
+#main-content #store-listing ul.pagination li.current a,
+.opentable form#OT_form .OT_wrapper ul.OT_list li.OT_submit a.OT_Find_a_Table,
+table.ui-datepicker-calendar td a.ui-state-active,
+table.ui-datepicker-calendar td a:hover.ui-state-active,
+.opentable a.OT_navLink:hover, 
+.opentable a.OT_navLink.selected,
+#contact-form input[type="submit"],
+.contact .captcha #captcha-list li a:hover,
+.contact .captcha #captcha-list li a.selected,
+#contact-form fieldset ul.parsley-errors-list li {
+	background-color: #000000;
+}
+
+#contact-form fieldset ul.parsley-errors-list li:before {
+	border-color: #000000;
+}
+
+table.ui-datepicker-calendar td a:hover,
+table.ui-datepicker-calendar td a.ui-state-active {
+	outline-color: #000000;
+}
+
+/***** link_rollover color *****/
+a:hover,
+#blog ul li article.quote header h1 a:hover,
+#blog ul li article.link header h1 a:hover,
+.widgets article.widget a:hover,
+#main-content section.events .see-details:hover,
+#blog ul li article > footer .tags-categories ul li a:hover,
+#main-content #store-listing ul.pagination li a:hover,
+#main-content #store-cart ul li .delete:hover,
+#main-content #store-cart ul li .product-title a:hover,
+#main-content .slideshow-gallery .large-gallery .navigation a:hover, 
+#main-content .slideshow-thumbnails-gallery .large-gallery .navigation a:hover,
+#main-content .masonry-gallery .large-gallery .navigation a:hover,
+#main-content #store-cart .cart-actions .continue-shopping:hover,
+.sharing .share-buttons .share-label:hover,
+.sharing.open .share-buttons .share-label,
+.ui-datepicker-prev .ui-icon:hover,
+.ui-datepicker-next .ui-icon:hover,
+#main-content .grid-gallery .large-gallery li .details .meta a:hover {
+	color: #ff00ff;
+}
+
+#main-content #store-detail .product-specifics .add-to-cart:hover,
+#main-content #store-cart .cart-actions .checkout:hover,
+input#submit:hover,
+input#submit:hover,
+.opentable form#OT_form .OT_wrapper ul.OT_list li.OT_submit a.OT_Find_a_Table:hover,
+#contact-form input[type="submit"]:hover {
+	background-color: #ff00ff;
+}
+
+/***** border color *****/
+input#password,
+.sharing a,
+hr,
+.audio-player ol li,
+#main-content .content-editor table,
+#main-content .audio .audio-player,
+#main-content section.events li,
+#main-content section.events li:nth-last-child(2), 
+#main-content section.events li:last-child,
+#main-content #store-cart ul li:first-child,
+.widgets .audio-player ol li .length,
+.audio-player ol li,
+#main-content .content-editor table tr,
+#main-content .topspins li,
+#main-content #store-cart ul li,
+.widgets .audio-player ol li .length,
+#blog ul li article .tumblr-sharing a,
+.js nav#main-nav .toggle,
+#main-content .listing .listing-list > li,
+#main-content .menu .menu-list li.menu-item,
+#main-content .menu .menu-list li.has-sub-items ul.sub-items,
+#ui-datepicker-div.ui-datepicker,
+.opentable form#OT_form .OT_wrapper ul.OT_list li.OT_cal #datepicker,
+table.ui-datepicker-calendar thead tr,
+table.ui-datepicker-calendar tr,
+table.ui-datepicker-calendar tr td,
+.opentable form#OT_form .OT_wrapper ul.OT_list li input,
+.opentable form#OT_form .OT_wrapper ul.OT_list li .OT_navList,
+.ui-datepicker .ui-datepicker-header,
+#ui-datepicker-div .ui-datepicker-header:before,
+.ui-datepicker-calendar,
+#contact-form fieldset ul li input, 
+#contact-form fieldset ul li textarea {
+	border-color: transparent;
+	border-color: #000000;
+} 
+
+
+/***** site name font family *****/
+.logo h1,
+.logo h2 {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+
+/***** navigation font family *****/
+nav#main-nav,
+.cart-link {
+	font-family: 'Open Sans Light', Helvetica, Arial, sans-serif;
+}
+
+
+/***** titles font family *****/
+#page-title,
+#blog h1#page-title a,
+#blog .quote blockquote p,
+#blog ul li article header h1,
+.widgets article.widget h2,
+.widgets article.widget h2 a,
+#main-content .menu .menu-list li .item-title {
+	font-family: 'Open Sans Light', Helvetica, Arial, sans-serif;
+}
+
+
+/***** body font family *****/
+body, 
+#datepicker .ui-datepicker-header .ui-datepicker-title span.ui-datepicker-month,
+#datepicker .ui-datepicker-header .ui-datepicker-title span.ui-datepicker-year,
+#ui-datepicker-div .ui-datepicker-header .ui-datepicker-title span.ui-datepicker-month,
+#ui-datepicker-div .ui-datepicker-header .ui-datepicker-title span.ui-datepicker-year,
+.opentable form#OT_form .OT_wrapper ul.OT_list li.OT_submit a.OT_Find_a_Table,
+#contact-form input[type="submit"] {
+	font-family: 'Open Sans Light', Helvetica, Arial, sans-serif;
+}
+
+
+
+
+/**** global font size *****/
+body {
+	font-size: 90%;
+}
+
+
+/**** site title font size *****/
+.logo h1 {
+	font-size: 90%;
+}
+
+/**** site title font size *****/
+.logo h2 {
+	font-size: 90%;
+}
+
+
+/**** navigation font size *****/
+nav#main-nav,
+.cart-link {
+	font-size: 90%;
+}
+
+
+/**** page titles font size *****/
+#page-title,
+#blog h1#page-title {
+	font-size: 160%;
+}
+
+
+/**** content font size *****/
+#main-content .content-editor {
+	font-size: 90%;
+}
+
+
+/**** widgets font size *****/
+.widgets {
+	font-size: 90%;
+}
+
+
+/**** footer font size *****/
+footer#site-footer {
+	font-size: 90%;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+	nav#main-nav.open > ul, .no-js nav#main-nav > ul#menu,
+	nav#main-nav ul li, nav#main-nav ul li.section,
+	.js nav#main-nav .toggle {
+		border-color: transparent;
+		border-color: #000000;
+	}
+	
+    nav#main-nav ul li:after,
+    nav#main-nav ul li a, 
+    nav#main-nav ul li.section span,
+    .cart-link-small {
+         color: #000000;
+    }
+
+    nav#main-nav ul li a, nav#main-nav ul li.section span {
+    	background-color: #ffffff;
+    }
+
+    nav#main-nav ul li ul li a {
+    	background-color: #e6e7e8;
+    }
+
+    .cart-link-small:hover {
+    	color: #000000;
+    }
+	
+    nav#main-nav ul li.section.open span,nav#main-nav ul li.section:hover span {
+        color: #000000;
+    }
+	
+    nav#main-nav ul li ul li,
+    .cart-link-small {
+		border-color: transparent;
+		border-color: #000000;
+    }
+      nav#main-nav ul li ul li a {
+        color: #000000;
+      }
+
+}
+</style>
+    <link rel="stylesheet" href="http://assets.virbcdn.com/_assets/_themes/new-york/css/base.css">
+    <link rel="stylesheet" href="http://assets.virbcdn.com/_assets/video-js/video-js.min.css">
+<link rel="stylesheet" href="http://assets.virbcdn.com/_assets/video-js/video-js-overrides.css">
+    
+    <style type="text/css">
+</style>
+    
+    <!-- IE
+    ================================================== -->
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" charset="utf-8" src="http://assets.virbcdn.com/_min/1416321531&b=_assets&f=_js/_plugins/modernizr/2.5.3.js,_js/jquery/1.7.2.js,_js/_plugins/swfobject/2.2.js,_js/jquery/easing.1.3.js,video-js/video.dev.js,video-js/video-js-embed.js"></script>
+    
+<!-- analytics.js -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-31865633-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" charset="utf-8">videojs.options.flash.swf = "http://assets.virbcdn.com/_assets/video-js/video-js.swf"</script>
+</head>
+<body >
+    <div class="main-container">
+        <div class="wrapper">
+
+        	<!-- Primary Page Layout
+        	================================================== -->
+        	
+            <header id="site-header">
+                
+                <div class="logo">
+                    <!--No Logo-->
+                    <h1><a href="http://noahsheldon.com/">Noah Sheldon</a></h1>
+                    
+                    <!--Subtitle-->
+                </div>
+                
+                <nav id="main-nav" class="">
+                    <span class="toggle">
+                        <a href="#open-close" data-icon="&equiv;">Menu</a>
+                    </span>
+                    <ul id="menu" class="group">
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/at-sea" >At Sea</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/rock-in-china" >Rock in China</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/china-weight" >Weight Lifters</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/for_posters" >13 Prints for Posters</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/biosphere" >Biosphere 2</a></li>
+                                                                                    <li class=" page page_title"><a href="http://fareastbroadway.com" target="_blank">Far East Broadway (-&gt; tumblr)</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/feb" >Far East Broadway (here)</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/news" >News</a></li>
+                                                                                    <li class=" page page_title"><a href="http://noahsheldon.com/about" >About</a></li>
+                                            </ul>
+                </nav>
+                
+            </header>
+            
+            <div id="main-content" role="main" class="group">
+
+
+                        
+                <!-- PAGE TYPE: Not Found -->
+                    <h1 id="page-title">Oops, there was an error.</h1>
+                    <section class="content-editor small-content">
+                        <p>The page you're looking for can't be found. Double-check your URL, or just go <a href="http://noahsheldon.com/" title="home">home</a>.</p>
+                    </section>
+
+
+                
+
+
+
+                
+                
+                
+
+                
+                
+                                                
+            </div>
+        
+        </div> <!-- end wrapper -->
+    </div> <!-- end container -->
+    
+            
+ 
+
+
+	<!-- JS
+    ================================================== -->
+    <script type="text/javascript" charset="utf-8">var siteSettings = {"debug":false,"virbDomain":"virb.com","virbCDNDomain":"assets.virbcdn.com","requestDomain":"noahsheldon.com","pageUrlId":"","pageUrl":"","maintenance":{"on":false,"authed":false},"isMobile":false,"isIpad":false,"isTablet":false,"isWindowsPhone7":false,"store":{"link_to_cart":false}};</script><script type="text/javascript" charset="utf-8" src="http://assets.virbcdn.com/_min/1416321527&b=_assets&f=_js/_site/mustache/site.js,_js/_site/mustache/audio.js,_themes/new-york/javascripts/script.2.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://virb.com/services/hud/default/noahsheldon.com/"></script>
+
+<!-- End Document
+================================================== -->
+</body>
+</html>

@@ -1,0 +1,680 @@
+<!DOCTYPE html> <html class="ltr no-js" dir="ltr" lang="en-US"> <head> <!-- Theme Version: 20141124-152140.1.72437 --> <!-- Build Type: prod --> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <link rel="apple-touch-icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/npdn-marco/apple-touch-icon.png?v=20141124-152140.1.72437"> <link rel="icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/npdn-marco/favicon.ico?v=20141124-152140.1.72437" type="image/x-icon"> <link rel="shortcut icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/npdn-marco/favicon.ico?v=20141124-152140.1.72437" type="image/x-icon"> <title>Marco Eagle | News and information about Marco Island, Florida</title> <meta content="text/html; charset=UTF-8" http-equiv="content-type" /> <script>/*<![CDATA[*/var _head_start = new Date();/*]]>*/</script> <!-- used for Google CSE --><!--<PageMap><DataObject type="Date"><Attribute name="sdateformat" value="20141015 02:51:08"/><Attribute name="edate" value="Wed Oct 15 14:51:08 GMT 2014"/><Attribute name="edateformat" value="20141015 02:51:08"/><Attribute name="sdate" value="1413384668826"/></DataObject><DataObject type="Site"><Attribute name="siteId" value="100108"/></DataObject><DataObject type="PageAttr"><Attribute name="Category" value="Marco Eagle"/></DataObject><DataObject type="Story"><Attribute name="ModDate" value="20141015 02:51:08"/><Attribute name="PubDate" value="20141015 02:51:08"/></DataObject></PageMap>--> <!-- social sharing tools --> <link href="http&#x3a;&#x2f;&#x2f;www&#x2e;naplesnews&#x2e;com&#x2f;community&#x2f;marco-eagle" rel="canonical" /> <link href="&#x2f;html&#x2f;css&#x2f;public&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6110&#x26;t&#x3d;1417051367000" rel="stylesheet" type="text/css" /> <link href="/html/portlet/journal_content/css/main.css?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;languageId=en_US&amp;b=6110&amp;t=1417051241000" rel="stylesheet" type="text/css" /> <script type="text/javascript">/*<![CDATA[*/
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return true;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return true;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10155";
+				},
+				getCompanyGroupId: function() {
+					return "10195";
+				},
+				getUserId: function() {
+					return "10159";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "357640549";
+				},
+
+				
+					getLayoutId: function() {
+						return "27";
+					},
+					getLayoutURL: function() {
+						return "http://www.naplesnews.com/community/marco-eagle";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "231";
+					},
+				
+
+				getScopeGroupId: function() {
+					return "221604449";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "221604449";
+				},
+				getParentGroupId: function() {
+					return "221604449";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "en_US";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "http://www.naplesnews.com/newspaper-responsive-base-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/newspaper-responsive-base-theme/";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?doAsGroupId=221604449&refererPlid=357640549";
+				},
+				getURLHome: function() {
+					return "http://www.naplesnews.com/web/guest";
+				},
+				getSessionId: function() {
+					return "2A437793DDF848C7DD735F82607A7B4A";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getBaseURL: function() {
+				return 'http://www.naplesnews.com/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6110&t=1417051391000&p=/html/js&';
+			},
+			getFilter: function() {
+				
+					
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&)/([^&]+)'
+						};
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function () {
+				return 'aui_lang.jsp?browserId=other&themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&colorSchemeId=06&minifierType=js&languageId=en_US&b=6110&t=1417051391000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		
+
+		Liferay.currentURL = '\x2fcommunity\x2fmarco-eagle';
+		Liferay.currentURLEncoded = '%2Fcommunity%2Fmarco-eagle';
+	// ]]>
+/*]]>*/</script> <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;colorSchemeId=06&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1&amp;epversion=47298" type="text/javascript"></script> <script type="text/javascript">/*<![CDATA[*/
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['56_INSTANCE_tMv86dnUZJ31','56_INSTANCE_Ci3owdmLMPdz','56_INSTANCE_LxXjOdf4cBTc','56_INSTANCE_Udol5cu06E8M','56_INSTANCE_jW4uLvJDGw3e','56_INSTANCE_JNYR9LRSixTJ','56_INSTANCE_lGYMqA5uKKzC','56_INSTANCE_TqdYoi26POA1','56_INSTANCE_ApwnIABn4bQb'];
+			
+		
+
+		
+
+		
+	// ]]>
+/*]]>*/</script> <!-- Add for optimization --> <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;colorSchemeId=06&amp;minifierType=js&amp;minifierBundleId=endplay.javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1&amp;epversion=47298" type="text/javascript"></script> <!-- JQUERY --> <script src="/html/js/endplay/framework/jquery/jquery-1.6.2.min.js?epversion=47298" type="text/javascript"></script> <!-- ENDPLAY FRAMEWORK --> <script type="text/javascript">/*<![CDATA[*/
+			if( !window.EP ){ var EP = {}; } EP.CONST = {};
+		/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+		EP.CONST.versionStr = "?epversion=47298";
+		EP.CONST.useTempData = false;
+		
+		//Extend Liferay's global JS ThemeDisplay object to include methods in the JSP one
+		(function(A){
+			A.mix(Liferay.ThemeDisplay, {
+				
+				getScopeGroupName: function(){
+					return 'NPDN';
+				},
+				getParentGroupName: function(){
+					return 'NPDN';
+				},
+				isControlPanel: function(){
+					return false;
+				}
+				
+			});
+		})(AUI());
+	/*]]>*/</script> <script src="/html/js/endplay/public.js?epversion=47298&minifierType=js"></script> <script type="text/javascript">/*<![CDATA[*/
+	var viewStoryUrl = "/group/npdn/create-story?type=story&storyId=";
+	var viewNonstoryUrl = "/web/npdn-staging/-/";
+	var viewGalleryUrl = "/group/npdn/create-gallery?type=gallery&storyId=";
+	
+	var companyId = themeDisplay.getCompanyId();
+	var groupId = 221604453;
+	
+/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+	Liferay.ThemeDisplay.getVocabularyIds = function() {
+		return "232891934";
+	};
+	Liferay.ThemeDisplay.getVocabularyGroupIds = function() {
+		return "221604453";
+	};
+/*]]>*/</script> <link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;www&#x2e;naplesnews&#x2e;com&#x2f;newspaper-responsive-base-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6110&#x26;t&#x3d;1416895977000" rel="stylesheet" type="text/css" /> <style type="text/css">
+	/* <![CDATA[ */
+		
+	/* ]]> */
+</style> <style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style> <link rel="apple-touch-icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/npdn-marco/apple-touch-icon.png"> <link rel="icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/npdn-marco/favicon.ico" type="image/x-icon"> <link rel="shortcut icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/npdn-marco/favicon.ico" type="image/x-icon"> <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0"> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:site" content="@ndn"> <meta name="twitter:app:id:iphone" content="372671233"> <meta name="twitter:app:id:ipad" content="557571965"> <!-- Font Stylesheet --> <!-- <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> --> <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> <script>/*<![CDATA[*/var jsHeadVal = ""; var jsHeadMediaServerUrl = "http://media.scrippsnationalnews.com/cms"; var cseAPI = "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"; var cseCX = "015583692002286327862:v6jejsesdn4"; var jsCallLetters = "npdn-marco";  var jsSiteType = "np"; var navitronRefreshInterval = "2"; var jsConfig = {}; $.extend(jsConfig, {});/*]]>*/</script> <!--[if lte IE 7]> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/ie-7.css?v=20141124-152140.1.72437" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141124-152140.1.72437" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141124-152140.1.72437" media="print"> <![endif]--> <!--[if IE 8]> <script>/*<![CDATA[*/jsHeadVal = "ie8";/*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/head.js?v=20141124-152140.1.72437"></script> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/ie-8.css?v=20141124-152140.1.72437" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141124-152140.1.72437" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141124-152140.1.72437" media="print"> <![endif]--> <!--[if !IE]><!--> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/all.css?v=20141124-152140.1.72437"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/small.css?v=20141124-152140.1.72437" media="screen and (max-width: 699px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/medium.css?v=20141124-152140.1.72437" media="screen and (min-width: 700px) and (max-width: 1019px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/large.css?v=20141124-152140.1.72437" media="screen and (min-width: 1020px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141124-152140.1.72437" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141124-152140.1.72437" media="print"> <!--<![endif]--> <!-- colorScheme: npdn-marco --> <!--[if gte IE 9]> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/all.css?v=20141124-152140.1.72437"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/small.css?v=20141124-152140.1.72437" media="screen and (max-width: 699px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/medium.css?v=20141124-152140.1.72437" media="screen and (min-width: 700px) and (max-width: 1019px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/large.css?v=20141124-152140.1.72437" media="screen and (min-width: 1020px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141124-152140.1.72437" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141124-152140.1.72437" media="print"> <![endif]--> <script src="http://media.scrippsnationalnews.com/cms/js/vendor/modernizr.custom.min.js?v=20141124-152140.1.72437"></script> <script>/*<![CDATA[*/
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + 
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    /*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/site.utils.detect.js?v=20141124-152140.1.72437"></script> <script src="http://media.scrippsnationalnews.com/cms/js/site.utils.ads.js?v=20141124-152140.1.72437"></script> <!-- Sponsored Content (disable: false) --> <script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22218"></script> <!-- Timezone --> <script>/*<![CDATA[*//*<![CDATA[*/var timeZone='EST';/*]]>*//*]]>*/</script> <!-- Smart Banners --> <script>/*<![CDATA[*/
+        if (Detect.Device.isiOS() && Detect.Screen.isTablet()) {
+             document.write('<meta content="app-id=557571965" name="apple-itunes-app" />');         } else if (Detect.Device.isiOS() && Detect.Screen.isPhone()) {
+            document.write('<meta content="app-id=372671233" name="apple-itunes-app" />');         }
+
+    /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/var switchTo5x=true;/*]]>*/</script> <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> <script type="text/javascript">/*<![CDATA[*/stLight.options({publisher: "d33b1e43-c02e-44e7-9336-e1856d0e9661", doNotHash: true, doNotCopy: true, hashAddressBar: false, onhover: false});/*]]>*/</script> <!-- Begin head_embed --> </head> <body class="npdn-marco controls-visible signed-out public-page organization-site site__image-ratio--$siteImageRatio site__color--blue site__type--np page__long-form-story--false "> <!-- isLongformStory: false --> <div class="body__inner"> <!--[if lte IE 7]> <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p> <![endif]--> <!-- BUILD_TYPE: prod --> <script>/*<![CDATA[*/ 
+var paywallGtmCookie = (function() { 
+  var getCookie = function(name) { 
+    var value = "; " + document.cookie; 
+    var parts = value.split("; " + name + "="); 
+    if (parts.length == 2) { return parts.pop().split(";").shift(); } 
+  }; 
+  var value = getCookie("paywall-gtm-variables"); 
+  var returnObj; 
+  if (value) { try { value = decodeURIComponent(value); var obj = JSON.parse(value); if (typeof obj === "object") { returnObj = obj; } else if (typeof obj === "string") { returnObj = JSON.parse(obj); } } catch(err) {} } 
+  if (typeof returnObj !== "object") { returnObj = {}; } 
+  if (returnObj.LoggedIn === undefined) { returnObj.LoggedIn = false } 
+  if (!returnObj.SubscriberID) { returnObj.SubscriberID = '' } 
+  if (returnObj.SubscriberStatus === undefined) { returnObj.SubscriberStatus = false } 
+  if (!returnObj.Zip) { returnObj.Zip = '' } 
+  return returnObj; 
+})(); 
+/*]]>*/</script> <!-- Begin : Adding Data Layer Variables to Google Tag Manager!--><script>/*<![CDATA[*/
+var gtmObj = {
+'DatePublished': '101514', 'Author': '', 'Editor': '', 'Category':
+'Marco Eagle', 'SubCat': '', 'IsPremium': 'false', 'DaysSincePublished':
+'49','LoggedIn': paywallGtmCookie.LoggedIn.toString(),'SubscriberStatus': paywallGtmCookie.SubscriberStatus.toString()};
+
+if (paywallGtmCookie.SubscriberID != "") gtmObj.SubscriberId = paywallGtmCookie.SubscriberID;
+if (paywallGtmCookie.Zip != "") gtmObj.Zip = paywallGtmCookie.Zip
+
+dataLayer = [gtmObj]; /*]]>*/</script><!-- END : Adding Data Layer Variables to Google Tag Manager!--> <!-- Google Tag Manager --> <noscript><iframe src=""//www.googletagmanager.com/ns.html?id=GTM-WK8R"" height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript> <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var
+            f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WK8R');/*]]>*/</script> <!-- End Google Tag Manager --> <header id="header" class="js-toggleGroup header--np" data-toggle-class="is-active" role="banner"> <div class="header--bg "> <div class="container"> <div class="masthead--bg"> <div class="masthead masthead--np"> <div class="masthead__nav"> <button type="button" data-icon="nav" class="navitron-toggle js-nav-toggle"></button> <a href="/" class="site-logo site-logo--np">NPDN</a> <div class="gray-box"> <form class="site-search js-search" id="search"> <input class="site-search__field" type="search" /> <input class="site-search__button" type="submit" value="search" /> </form> </div> </div> <div class="masthead__content"> <div class="link-list link-list--inline"> <a class="e_link" href="/">naplesnews.com</a> </div> <div class="subscriber-box js-member-links"> <p class="">Want full access?</p> <div class="links"> <div class="link link--subscribe js-member-link-subscribe"> <a class="button" href="/subscribe">Subscribe</a> </div> <div class="link link--activate js-member-link-activate"> <p><span class="hide-phone hide-tablet show-desktop">Current subscriber?</span><a href="/subscribe">Activate</a></p> </div> <div class="link link--login js-member-link-login"> <p><span class="hide-phone hide-tablet show-desktop">Have an account? </span><a href="/subscribe">Login</a></p> </div> </div> </div> <div class="site-dashboard"> <div class="block block--weather"> <div class="module module--dashboard--weather"> <a class="inner" href="/weather" target="_top"> <div class="block"> <img class="side__media" src="http://content.wdtinc.com/images/icons_scripps/150x100/night/mostlycloudy.png" /> <div class="side__body"> <div class="text--secondary">Weather</div> <div class="text--primary js-current-wx" data-weather-condition="mostly cloudy">Mostly cloudy</div> <div class="dashboard__text--primary js-current-temp" data-temperature="72">72&deg;</div> <div class="link">More Weather</div> </div> </div> </a> </div> </div> </div> </div> </div> <div class="container container--ad"> <div id="mNPDN-MARCO_AD_994_BY_30" class="module module--ad content-box ad--994x30 show-desktop hide-tablet hide-phone "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "above", "Zone" : "community/marco_eagle/landing", "renderOn" : "[DESKTOP]", "fname" : "marco_eagle", "Size" : "994x30"};
+                    ScrippsAdUtils.createAd(adData, 'mNPDN-MARCO_AD_994_BY_30');
+//ScrippsAdUtils.createAd_GPT(adData, 'mNPDN-MARCO_AD_994_BY_30');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> <div class="navbar navbar--np navbar--bg"> <div class="container"> <!-- NAVITRON --> <!-- current_page = --> <!-- current_parent_page = --> <!-- nothing_selected = true --> <nav class="sort-pages modify-pages nocontent nav nav--navitron" id="navigation"> <div class="nav__left js-navitron js-ajax"> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.naplesnews.com/community/marco-eagle" >Home</a> </section> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.naplesnews.com/community/marco-eagle/weather" >Weather</a> </section> </div> <div class="nav__right"> <a class="" href="http://www.naplesnews.com/community/marco-eagle/jobs" >Jobs</a> <a class="" href="http://www.naplesnews.com/community/marco-eagle/homes" >Homes</a> <a class="" href="http://www.naplesnews.com/community/marco-eagle/cars" >Cars</a> <a class="" href="http://www.naplesnews.com/community/marco-eagle/classifieds" >Classifieds</a> </div> <div id="mNPDN-MARCO_AD_113_BY_38" class="module module--ad content-box ad--113x38 show-desktop hide-tablet hide-phone "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "", "Zone" : "community/marco_eagle/landing", "renderOn" : "[DESKTOP]", "fname" : "marco_eagle", "Size" : "113x38"};
+                    ScrippsAdUtils.createAd(adData, 'mNPDN-MARCO_AD_113_BY_38');
+//ScrippsAdUtils.createAd_GPT(adData, 'mNPDN-MARCO_AD_113_BY_38');
+                })();
+            /*]]>*/</script> </div> </nav> <!-- End NAVITRON --> </div> </div> </header> <section class="container--alerts"> </section> <section class="container--happening-now"> </section> <div class="container container--ad"> <div id="mNPDN-MARCO_AD_728_BY_90_ABOVE" class="module module--ad content-box ad--728x90 show-desktop show-tablet hide-phone "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "above", "Zone" : "community/marco_eagle/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "marco_eagle", "Size" : "728x90"};
+                    ScrippsAdUtils.createAd(adData, 'mNPDN-MARCO_AD_728_BY_90_ABOVE');
+//ScrippsAdUtils.createAd_GPT(adData, 'mNPDN-MARCO_AD_728_BY_90_ABOVE');
+                })();
+            /*]]>*/</script> </div> <div id="mNPDN-MARCO_AD_320_BY_50" class="module module--ad content-box ad--320x50 hide-desktop hide-tablet show-phone "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "above", "Zone" : "community/marco_eagle/landing", "renderOn" : "[MOBILE]", "fname" : "marco_eagle", "Size" : "320x50"};
+                    ScrippsAdUtils.createAd(adData, 'mNPDN-MARCO_AD_320_BY_50');
+//ScrippsAdUtils.createAd_GPT(adData, 'mNPDN-MARCO_AD_320_BY_50');
+                })();
+            /*]]>*/</script> </div> </div> <div class="is-hidden"> <div id="p_p_id_searchbox_WAR_sitesearchportlet_" class="portlet-boundary portlet-boundary_searchbox_WAR_sitesearchportlet_ portlet-static portlet-static-end portlet-borderless search-box-portlet " > <span id="p_searchbox_WAR_sitesearchportlet"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div id="searchbox__searchbox_WAR_sitesearchportlet_"> <form id="searchbox_form" action="http://www.naplesnews.com/search?p_p_id=searchresult_WAR_sitesearchportlet&p_p_lifecycle=1&p_p_state=normal&_searchresult_WAR_sitesearchportlet_javax.portlet.action=search" method="GET" name="sf" > <input type="text" id="searchTerm" name="searchTerm" value=""/> <select name="scopeType" id="scopeType"> <option value="0" >Site</option> <option value="1" >Web</option> </select> <input class="lsb" type="button" name="btnS" onclick="submit_searchbox_WAR_sitesearchportlet_Form()" value="Search"/> <select name="sortType" id="sortType" style="display: none;"> <option value="0" >Relevance</option> <option value="1" >Date</option> </select> </form> </div> <script type="text/javascript">/*<![CDATA[*/
+	function submit_searchbox_WAR_sitesearchportlet_Form(){
+		var url = $("#searchbox__searchbox_WAR_sitesearchportlet_ #searchbox_form").attr("action");
+		var amp = "&";
+		
+		var appendSnippet = "";
+		if($("#searchbox__searchbox_WAR_sitesearchportlet_ #searchTerm").val()){
+			appendSnippet += amp + "searchTerm=" + encodeURIComponent($("#searchbox__searchbox_WAR_sitesearchportlet_ #searchTerm").val());
+			appendSnippet += amp + "scopeType="  + $("#searchbox__searchbox_WAR_sitesearchportlet_ #scopeType").val();
+			appendSnippet += amp + "sortType="   + $("#searchbox__searchbox_WAR_sitesearchportlet_ #sortType").val();
+		}		
+		window.location = url+appendSnippet;
+	}
+	$('#searchbox__searchbox_WAR_sitesearchportlet_ #searchbox_form').submit(function(e) {
+		e.preventDefault();
+		submit_searchbox_WAR_sitesearchportlet_Form();
+	});
+/*]]>*/</script> </div> </div> </div> </div> </div> <div class="container"></div> <div id="content" class="container" data-role="content"> <div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_ portlet-static portlet-static-end portlet-borderless " > <span id="p_103"></span> <div class="portlet-body"> </div> </div> <div class="page page__two-col" id="main-content" role="main"> <div class="layout__container area__full-col--top area__break--first portlet-area portlet-area--1" id="column-1"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-1"></div> </div> <div class="layout__container area__full-col--top area__break--second"> <div class="layout__content"> <div class="grid__container has-full"> <div class="grid__full"> <div class="portlet-area portlet-area--2" id="column-2"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-2"> <div id="p_p_id_56_INSTANCE_tMv86dnUZJ31_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_tMv86dnUZJ31"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_482134904_1.2"> <article id="m482134904" class="module module--featured-content featured-content--subindex live-streaming--false show-desktop show-tablet show-phone " > <div class="inner"> <div class="module__body"> <div class="inner"> <div class="blocks "> <div class=" "> <div class=" "> <!-- 640 x 480 --> <!-- Large story --> <article class="block block--large has-video "> <div class="hook--left"> <h1 class="headline"> <a href="/news/crime/authorities-investigating-marco-island-homicide" class="inner">Police: Marco woman stabbed, killed boyfriend</a> </h1> </div> <div class="hook--left"> <p class="abstract"> <a href="/news/crime/authorities-investigating-marco-island-homicide" class="inner"> A Marco Island woman was arrested early Tuesday after authorities say she stabbed her live-in boyfriend to death&hellip; </a> </p> </div> <div class="hook--right"> <figure class="media__container--4x3"> <a href="/news/crime/authorities-investigating-marco-island-homicide" class="inner"> <img alt="Police: Marco woman stabbed, killed boyfriend" src="http://mediaassets.naplesnews.com/photo/2014/12/02/1203_nclo_troemner, smith1_1417538159728_10287516_ver1.0_640_480.jpg" class="media" /> </a> </figure> </div> <div class="hook--left"> <div class="block__complex complex--social js-featuredShares" data-url="/news/crime/authorities-investigating-marco-island-homicide"> <span class="shares"><span class="color--skin js-featuredShareCount" data-url="/news/crime/authorities-investigating-marco-island-homicide"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block block--mini is-premium is-premium"> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/news/local-government/no-no-parking-signs-in-five-marco-alleyways-council-decides_79885064" class="inner"> <img alt="No more 'no parking' signs in five Marco alleys" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/08/04/City-of-Marco-logo-new_1407188388753_7216865_ver1.0_320_240.gif" class="media" /> <noscript> <img alt="No more 'no parking' signs in five Marco alleys" src="http://mediaassets.naplesnews.com/photo/2014/08/04/City-of-Marco-logo-new_1407188388753_7216865_ver1.0_320_240.gif" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/news/local-government/no-no-parking-signs-in-five-marco-alleyways-council-decides_79885064" class="inner">No more 'no parking' signs in five Marco alleys</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/news/local-government/no-no-parking-signs-in-five-marco-alleyways-council-decides_79885064"> <span class="shares"><span class="color--skin js-shareCount" data-url="/news/local-government/no-no-parking-signs-in-five-marco-alleyways-council-decides_79885064"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> </div> <div class="layout--featured-content__second"> <!-- 320 x 240 --> <article class="block block--mini "> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/paving-the-way-more-parallel-parking-could-be-coming-to-old-marco_27165325" class="inner"> <img alt="Solving parking issues in Old Marco" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/12/01/Parking_10228481_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Solving parking issues in Old Marco" src="http://mediaassets.naplesnews.com/photo/2014/12/01/Parking_10228481_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/community/marco-eagle/paving-the-way-more-parallel-parking-could-be-coming-to-old-marco_27165325" class="inner">Solving parking issues in Old Marco</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/paving-the-way-more-parallel-parking-could-be-coming-to-old-marco_27165325"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/paving-the-way-more-parallel-parking-could-be-coming-to-old-marco_27165325"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block block--mini "> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/crowds-throng-veterans-park-for-cis-treelighting-ceremony_09175247" class="inner"> <img alt="Crowds gather for Marco tree lighting" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/12/01/Tree_8_10227038_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Crowds gather for Marco tree lighting" src="http://mediaassets.naplesnews.com/photo/2014/12/01/Tree_8_10227038_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/community/marco-eagle/crowds-throng-veterans-park-for-cis-treelighting-ceremony_09175247" class="inner">Crowds gather for Marco tree lighting</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/crowds-throng-veterans-park-for-cis-treelighting-ceremony_09175247"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/crowds-throng-veterans-park-for-cis-treelighting-ceremony_09175247"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block block--mini "> <div class="side__media"> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/introducing-the-festival-of-trees-grand-opening-is-dec-8_56893727" class="inner"> <img alt="Tree Fest starts Dec. 8" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/TreeFest_10059888_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Tree Fest starts Dec. 8" src="http://mediaassets.naplesnews.com/photo/2014/11/28/TreeFest_10059888_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> </div> <div class="side__body"> <h1 class="headline"> <a href="/community/marco-eagle/introducing-the-festival-of-trees-grand-opening-is-dec-8_56893727" class="inner">Tree Fest starts Dec. 8</a> </h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/introducing-the-festival-of-trees-grand-opening-is-dec-8_56893727"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/introducing-the-festival-of-trees-grand-opening-is-dec-8_56893727"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </article> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_Ci3owdmLMPdz_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_Ci3owdmLMPdz"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_482177204_1.2"> <article id="m482177204" class="module module--link-list link-list--ups show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Marco Eagle links</header> <div class="module__body"> <div class="inner"> <ul class="list"> <li class="list__item"><a class="e_link " target="_top" href="https://www.facebook.com/themarcoeagle">Marco Eagle on Facebook</a></li> <li class="list__item"><a class="e_link " target="_top" href="/newsstand">Marco Eagle E-Edition</a></li> </ul> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_LxXjOdf4cBTc_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_LxXjOdf4cBTc"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_357901426_1.0"> <article class="module module--headline-list headline-list--three-up js-tabs js-layoutToggle show-desktop show-tablet show-phone js-videoModal-false "> <div class="inner"> <header class="header--light"> <h1 class="header"></h1> </header> <div class="module__body"> <div class="js-blocks__layout--grid js-tabs__targets js-layoutTarget" data-appendonmobile="true" data-display-type="three-up" data-ajaxurl="/web/npdn/refresh-article/357640549/357901426/SCRIPPS_RESPONSIVE_HEADLINE_LIST_AJAX"> <div class="blocks is-active" data-startoffset="6" data-ajaxmaxperpage="9"><section class="is-active"> <!-- 320 x 240 --> <article class="block su-3 "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/3-to-do-ushering-in-december_19866046" >3 To Do: Ushering in December ...</a></h6> <p class="abstract"> <a href="/community/marco-eagle/3-to-do-ushering-in-december_19866046" > Back from Australia, blues bassist-vocalist Anni Piper brings her lively blend of &ldquo;Saucy Aussie&rdquo; blues to The Sunshine State for&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/3-to-do-ushering-in-december_19866046" > <img alt="3 To Do: Ushering in December ..." src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/ToDo1_10061151_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="3 To Do: Ushering in December ..." src="http://mediaassets.naplesnews.com/photo/2014/11/28/ToDo1_10061151_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/3-to-do-ushering-in-december_19866046"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/3-to-do-ushering-in-december_19866046"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block su-3 "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/freedom-fountain-construction-underway-dedication-coincides-with-traveling-wall-visit_18478982" >Freedom Fountain construction underway</a></h6> <p class="abstract"> <a href="/community/marco-eagle/freedom-fountain-construction-underway-dedication-coincides-with-traveling-wall-visit_18478982" > Marco Islanders will soon be able to see the American Eagle perched atop his new nest, the Freedom Fountain, at the Veterans&rsquo; Memorial&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/freedom-fountain-construction-underway-dedication-coincides-with-traveling-wall-visit_18478982" > <img alt="Freedom Fountain construction underway" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/Fountain2_10065175_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Freedom Fountain construction underway" src="http://mediaassets.naplesnews.com/photo/2014/11/28/Fountain2_10065175_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/freedom-fountain-construction-underway-dedication-coincides-with-traveling-wall-visit_18478982"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/freedom-fountain-construction-underway-dedication-coincides-with-traveling-wall-visit_18478982"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block su-3 su-3n "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/the-bookworm-a-read-youll-dig-and-a-trip-back-in-time_94584125" >The Bookworm: A read you'll dig</a></h6> <p class="abstract"> <a href="/community/marco-eagle/the-bookworm-a-read-youll-dig-and-a-trip-back-in-time_94584125" > Your back yard was filled with treasure. When you were a kid, you were sure of it &ndash; and while it mightn&rsquo;t have been Pirate booty,&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/the-bookworm-a-read-youll-dig-and-a-trip-back-in-time_94584125" > <img alt="The Bookworm: A read you'll dig" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/12/02/BWorm1_10291806_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="The Bookworm: A read you'll dig" src="http://mediaassets.naplesnews.com/photo/2014/12/02/BWorm1_10291806_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/the-bookworm-a-read-youll-dig-and-a-trip-back-in-time_94584125"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/the-bookworm-a-read-youll-dig-and-a-trip-back-in-time_94584125"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block su-3n-plus-4 "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/peak-your-profits-lead-or-lose_51051962" >Peak Your Profit: Lead or lose</a></h6> <p class="abstract"> <a href="/community/marco-eagle/peak-your-profits-lead-or-lose_51051962" > Karen Lawson knows her stuff. Daily, she works with organizations that want to grow great leaders. The kind of leaders who inspire their&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/peak-your-profits-lead-or-lose_51051962" > <img alt="Peak Your Profit: Lead or lose" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/12/02/Peak_10291376_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Peak Your Profit: Lead or lose" src="http://mediaassets.naplesnews.com/photo/2014/12/02/Peak_10291376_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/peak-your-profits-lead-or-lose_51051962"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/peak-your-profits-lead-or-lose_51051962"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/white-coat-notes-sternutation-its-all-in-your-head_54126897" >White Coat Notes: Sternutation</a></h6> <p class="abstract"> <a href="/community/marco-eagle/white-coat-notes-sternutation-its-all-in-your-head_54126897" > Many of us are aware that physicians use unrecognizable terms to mean simple things. For example, &ldquo;sternutation&rdquo; simply means the&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/white-coat-notes-sternutation-its-all-in-your-head_54126897" > <img alt="White Coat Notes: Sternutation" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/12/02/WhiteCoat_10290407_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="White Coat Notes: Sternutation" src="http://mediaassets.naplesnews.com/photo/2014/12/02/WhiteCoat_10290407_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/white-coat-notes-sternutation-its-all-in-your-head_54126897"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/white-coat-notes-sternutation-its-all-in-your-head_54126897"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block su-3n "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/ask-the-pharmacist-medicine-messes-up-your-methylation_57072707" >Ask The Pharmacist: Methylation</a></h6> <p class="abstract"> <a href="/community/marco-eagle/ask-the-pharmacist-medicine-messes-up-your-methylation_57072707" > You&rsquo;re methylating right now. This means you&rsquo;re turning folate (vitamin B9) from your food, into something else called SAMe.&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/ask-the-pharmacist-medicine-messes-up-your-methylation_57072707" > <img alt="Ask The Pharmacist: Methylation" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/Pharm_10067020_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Ask The Pharmacist: Methylation" src="http://mediaassets.naplesnews.com/photo/2014/11/28/Pharm_10067020_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/ask-the-pharmacist-medicine-messes-up-your-methylation_57072707"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/ask-the-pharmacist-medicine-messes-up-your-methylation_57072707"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block su-3n-plus-4 "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/tales-from-the-front-korea-1951-topic-of-dar-meeting_93618774" >Korea 1951 topic of DAR meeting</a></h6> <p class="abstract"> <a href="/community/marco-eagle/tales-from-the-front-korea-1951-topic-of-dar-meeting_93618774" > The Marco Island Chapter of the Daughters of the American Revolution honored a veteran member and welcomed a newcomer to the group at its&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/tales-from-the-front-korea-1951-topic-of-dar-meeting_93618774" > <img alt="Korea 1951 topic of DAR meeting" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/DAR2_10064160_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Korea 1951 topic of DAR meeting" src="http://mediaassets.naplesnews.com/photo/2014/11/28/DAR2_10064160_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/tales-from-the-front-korea-1951-topic-of-dar-meeting_93618774"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/tales-from-the-front-korea-1951-topic-of-dar-meeting_93618774"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/strange-but-true-what-do-you-call-a-group-of-cats_37328353" >Stange But True: A group of cats is a ...</a></h6> <p class="abstract"> <a href="/community/marco-eagle/strange-but-true-what-do-you-call-a-group-of-cats_37328353" > The next time you see a group of cats together, you can call them a &ldquo;cloudier.&rdquo; If the cats are young ones, though, the&hellip; </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/strange-but-true-what-do-you-call-a-group-of-cats_37328353" > <img alt="Stange But True: A group of cats is a ..." src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/Strange_10055526_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Stange But True: A group of cats is a ..." src="http://mediaassets.naplesnews.com/photo/2014/11/28/Strange_10055526_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/strange-but-true-what-do-you-call-a-group-of-cats_37328353"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/strange-but-true-what-do-you-call-a-group-of-cats_37328353"></span></span> </div> </div> </article> <!-- 320 x 240 --> <article class="block su-3n "> <div class="inner" > <h6 class="headline soft-left" ><a href="/community/marco-eagle/trivia-test-greek-god-of-the-son_32647021" >Trivia Test: Greek God of the sun?</a></h6> <p class="abstract"> <a href="/community/marco-eagle/trivia-test-greek-god-of-the-son_32647021" > What is the Greek god of the sun called? What is bergamot? Lake Tahoe lies between which two U.S. states? </a> </p> <figure class="media__container--4x3 is-loading"> <a href="/community/marco-eagle/trivia-test-greek-god-of-the-son_32647021" > <img alt="Trivia Test: Greek God of the sun?" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/Trivia_10055528_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Trivia Test: Greek God of the sun?" src="http://mediaassets.naplesnews.com/photo/2014/11/28/Trivia_10055528_ver1.0_320_240.jpg" class="media" /> </noscript> </a> </figure> <div class="block__complex complex--social js-socialCounts" data-url="/community/marco-eagle/trivia-test-greek-god-of-the-son_32647021"> <span class="shares"><span class="color--skin js-shareCount" data-url="/community/marco-eagle/trivia-test-greek-god-of-the-son_32647021"></span></span> </div> </div> </article> </section></div> <div class="blocks" data-startoffset="1" data-ajaxmaxperpage="12"><section class="is-active"> </section></div> </div> <div class="nav nav--pagination"> <button type="button" class="js-prev is-disabled"></button> <button type="button" class="js-next is-disabled"></button> </div> </div> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="grid__container has-two"> <div class="grid__half"> <div class="portlet-area portlet-area--3" id="column-3"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-3"></div> </div> </div> <div class="grid__half su-2 su-2n"> <div class="portlet-area portlet-area--4" id="column-4"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-4"></div> </div> </div> </div> <div class="grid__container has-full"> <div class="grid__full"> <div class="portlet-area portlet-area--7" id="column-7"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-7"></div> </div> </div> </div> </div> <div class="layout__side portlet-area portlet-area--5" id="column-5"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-5"> <div id="p_p_id_56_INSTANCE_Udol5cu06E8M_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_Udol5cu06E8M"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_AD_300_BY_250_ABOVE_1.0"> <div id="mAD_300_BY_250_ABOVE" class="module module--ad content-box ad--300x250 show-desktop show-tablet show-phone companionAd "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "above", "Zone" : "community/marco_eagle/landing", "renderOn" : "[DESKTOP, MOBILE, TABLET]", "fname" : "marco_eagle", "Size" : "300x250"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_300_BY_250_ABOVE');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_300_BY_250_ABOVE');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_jW4uLvJDGw3e_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_jW4uLvJDGw3e"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_357868745_1.0"> <article id="m357868745" class="module module--carousel carousel--media show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Recent Photo Galleries</header> <div class="module__body"> <div class="inner"> <div class="component__carousel js-carousel" data-interval="6" data-startOffset="1" data-ajaxmaxnum="30" data-ajaxurl="/web/npdn/refresh-article/486933092/357868745/SCRIPPS_RESPONSIVE_CAROUSEL_AJAX?resultsPerPage=6"> <div class="carousel__pager"> <div class="pager__container pager--prev"> <button type="button" class="btn--ui-block js-prev is-disabled"> <span aria-hidden="true" data-icon="prev"></span> <span class="screen-reader-text" hidden="">Previous</span> </button> </div> <div class="pager__container pager--next"> <button type="button" class="btn--ui-block js-next"> <span aria-hidden="true" data-icon="next"></span> <span class="screen-reader-text" hidden="">Next</span> </button> </div> </div> <div class="carousel__overflow"> <div class="js-carousel__content"> <div class="blocks"> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/community/immigrant-action" class="inner" > <!-- Thumbnail: http://mediaassets.naplesnews.com/photo/2014/11/29/DM_ACTIONEFFECTS_226_10120524_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Immigrant Action" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/29/DM_ACTIONEFFECTS_226_10120524_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Immigrant Action" src="http://mediaassets.naplesnews.com/photo/2014/11/29/DM_ACTIONEFFECTS_226_10120524_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Immigrant Action</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/community/estero-tree-lighting" class="inner" > <!-- Thumbnail: http://mediaassets.naplesnews.com/photo/2014/11/28/DM_ESTEROTREE_228_10081933_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Estero Tree Lighting" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/DM_ESTEROTREE_228_10081933_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Estero Tree Lighting" src="http://mediaassets.naplesnews.com/photo/2014/11/28/DM_ESTEROTREE_228_10081933_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Estero Tree Lighting</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/community/black-friday-at-target" class="inner" > <!-- Thumbnail: http://mediaassets.naplesnews.com/photo/2014/11/28/DM_BLACKFRIDAY_42_10078441_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Black Friday at Target" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/28/DM_BLACKFRIDAY_42_10078441_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Black Friday at Target" src="http://mediaassets.naplesnews.com/photo/2014/11/28/DM_BLACKFRIDAY_42_10078441_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Black Friday at Target</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/community/bikers-for-babies-2014" class="inner" > <!-- Thumbnail: http://mediaassets.naplesnews.com/photo/2014/11/22/DM_BIKERSFORBABIES_1085_9759674_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Bikers for Babies, 2014" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/22/DM_BIKERSFORBABIES_1085_9759674_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Bikers for Babies, 2014" src="http://mediaassets.naplesnews.com/photo/2014/11/22/DM_BIKERSFORBABIES_1085_9759674_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Bikers for Babies, 2014</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/community/david-lawrence-center-sound-minds-music-festival-and-mental-health-symposium" class="inner" > <!-- Thumbnail: http://mediaassets.naplesnews.com/photo/2014/11/17/141115NS-JW-SOUNDMINDS3_1416242714432_9645860_ver1.0_320_240.JPG --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Sound Minds Music Festival" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/17/141115NS-JW-SOUNDMINDS3_1416242714432_9645860_ver1.0_320_240.JPG" class="media" /> <noscript> <img alt="Sound Minds Music Festival" src="http://mediaassets.naplesnews.com/photo/2014/11/17/141115NS-JW-SOUNDMINDS3_1416242714432_9645860_ver1.0_320_240.JPG" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Sound Minds Music Festival</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/community/the-naples-grape-escape-food-wine-craft-beer-festival" class="inner" > <!-- Thumbnail: http://mediaassets.naplesnews.com/photo/2014/11/17/141115NS-JW-NAPLESGRAPEESCAPE15_1416241487036_9645824_ver1.0_320_240.JPG --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="The Naples Grape Escape" src="" data-src="http://mediaassets.naplesnews.com/photo/2014/11/17/141115NS-JW-NAPLESGRAPEESCAPE15_1416241487036_9645824_ver1.0_320_240.JPG" class="media" /> <noscript> <img alt="The Naples Grape Escape" src="http://mediaassets.naplesnews.com/photo/2014/11/17/141115NS-JW-NAPLESGRAPEESCAPE15_1416241487036_9645824_ver1.0_320_240.JPG" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">The Naples Grape Escape</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> </div> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_JNYR9LRSixTJ_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_JNYR9LRSixTJ"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_352893242_1.2"> <article id="m352893242" class="module module--link-list link-list--ups show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Related links</header> <div class="module__body"> <div class="inner"> <ul class="list"> <li class="list__item"><a class="e_link " target="_top" href="/scanner">Scanner</a></li> <li class="list__item"><a class="e_link " target="_top" href="/media/webcams">Webcams</a></li> <li class="list__item"><a class="e_link " target="_top" href="http://participate.naplesnews.com">Share your photos</a></li> <li class="list__item"><a class="e_link " target="_top" href="/participate/submit">Submit your news</a></li> <li class="list__item"><a class="e_link " target="_top" href="/blogs/">All blogs</a></li> <li class="list__item"><a class="e_link " target="_top" href="http://events.naplesnews.com">Events</a></li> </ul> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_lGYMqA5uKKzC_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_lGYMqA5uKKzC"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_485365222_1.0"> <article id="m485365222" class="module module--static-content show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Contact us</header> <div class="module__body"> <div class="inner"> <div class="blocks "> Bill Green is the editor of the Marco Eagle. He may be reached via email at <a href="mailto:news@naplesnews.com?subject=Marco%20Eagle">news@naplesnews.com</a> or via phone: 239-263-4842. </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_TqdYoi26POA1_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_TqdYoi26POA1"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_641693056_1.0"> <article id="m641693056" class="module module-- show-desktop show-tablet show-phone " > <div class="inner"> <div class="module__body"> <div class="inner"> <div class="blocks "> <div id="newsy-widget-container"></div> <script>/*<![CDATA[*/
+    (function(){
+
+            new srNewsyPlayer({
+
+            scriptUrl : 'http://stage.newsy.com/widget/script.js',
+            autoplay : false,
+            hideIfStoryHasVideo: 'false',
+            
+                        player_id : 'aa4dcd715d7a4dff93de14594bc95ad9',
+            
+                        widget_id : '22',
+            
+                        adset : '4ffb266fada74f98bc0941643deb351c',
+            
+                          bgcolor: '#000000',
+             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                categories: [ 'top',  'us',  'world',  'tech',  'politics',  'business',  'entertainment',  'sci-health',  'sports']
+
+                     });        
+        })();
+    /*]]>*/</script> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_ApwnIABn4bQb_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_ApwnIABn4bQb"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604449_AD_300_BY_250_BELOW_1.0"> <div id="mAD_300_BY_250_BELOW" class="module module--ad content-box ad--300x250 show-desktop show-tablet show-phone "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "below", "Zone" : "community/marco_eagle/landing", "renderOn" : "[DESKTOP, MOBILE, TABLET]", "fname" : "marco_eagle", "Size" : "300x250"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_300_BY_250_BELOW');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_300_BY_250_BELOW');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="layout__container area__full-col--bottom portlet-area area__break--third portlet-area--6" id="column-6"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-6"></div> </div> </div> <form action="#" id="hrefFm" method="post" name="hrefFm"> <span></span> </form> </div> <!-- FOOT DEFAULT --> <section class="container"> <div id="mNPDN-MARCO_AD_728_BY_90_BELOW" class="module module--ad content-box ad--728x90 show-desktop show-tablet hide-phone "> <!-- siteType: npdn-marco.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "232918612", "Call_Letters" : "NPDN", "Position" : "below", "Zone" : "community/marco_eagle/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "marco_eagle", "Size" : "728x90"};
+                    ScrippsAdUtils.createAd(adData, 'mNPDN-MARCO_AD_728_BY_90_BELOW');
+//ScrippsAdUtils.createAd_GPT(adData, 'mNPDN-MARCO_AD_728_BY_90_BELOW');
+                })();
+            /*]]>*/</script> </div> </section> <footer class="footer footer--bg" id="footer" role="contentinfo"> <div class="container"><a class="footer--logo" href="/"><img class="media" src="http://mediaassets.naplesnews.com/photo/2014/07/05/naplesnews_n_1404542865952_6679953_ver1.0.png" /></a> <nav class="nav nav--footer link-list--inline"> <a href="/community/banner">The Banner</a> <a href="/community/collier-citizen">Collier Citizen</a> <a href="/community/marco-eagle">Marco Eagle</a> <a href="/community/journal">The Journal</a> <a href="/vista-semanal">Vista Semanal</a> <a href="/">Naples Daily News</a></nav> <div class="nav--container"> <section class="nav nav--sponsored grid-row"> <header class="header"> Naples Daily News</header> <div class="section__body grid-container"><div class="grid grid-half link-list link-list--stacked"><ul><li><a href="http://www.ndnadvertising.com/">Advertise with Us</a></li><li><a href="/about-us/contact">Contact Us</a></li><li><a href="/customerservice">Customer Service</a></li><li><a href="http://www.legacy.com/obituaries/naplesnews/">Obits</a></li><li><a href="http://www.floridapublicnotices.com/">Legal Notices</a></li><li><a href="/newsstand">E-Edition</a></li><li><a href="http://www.rdpdeals.com/portal.php?client=4A3A8A">Reader Rewards</a></li><li><a href="/coupons/">Coupons</a></li></ul></div><div class="grid grid-half link-list link-list--stacked"><ul><li><a href="/cars">Autos</a></li><li><a href="/jobs">Jobs</a></li><li><a href="/homes">Homes</a></li><li><a href="/classifieds">Classifieds</a></li><li> <hr noshade="noshade" size="1" /> </li><li><a href="http://web.naplesnews.com/NIE/" title="Newspapers in Education">Newspapers in Education</a></li></ul></div></div></section> <section class="nav nav--site-apps"> <header class="header"> Mobile Apps</header> <div class="items"><div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://mediaassets.naplesnews.com/photo/2014/07/05/naplesnews_n_50_1404542865884_6679952_ver1.0.png" width="50" /></div><div class="side__body"><div class="title">Naples News</div><div class="link-list link-list--inline"><a href="http://itunes.apple.com/us/app/naplesnews/id372671233?mt=8">iPhone</a> <a href="https://itunes.apple.com/us/app/naples-daily-news-for-ipad/id557571965?mt=8">iPad</a> <a href="http://www.amazon.com/Naples-Daily-News-Fla/dp/B00C0XFXCU">Kindle</a> <a href="https://play.google.com/store/apps/details?id=com.scripps.naplesnews.mobile">Android</a> <a href="http://apps.microsoft.com/windows/en-us/app/naples-daily-news/21ca1c4e-b0e7-40f9-be51-347133a5c7a0">Windows</a></div></div></div><div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://media2.kjrh.com/image/mobile-apps/ss-app-icon144x144.png" width="50" /></div><div class="side__body"><div class="title">Storm Shield</div><div class="link-list link-list--inline"><a href="https://itunes.apple.com/app/id526831380">iPhone</a> <a href="https://play.google.com/store/apps/details?id=com.wdtinc.android.stormshield">Android</a></div></div></div></div></section> <section class="nav nav--stay-connected"> <header class="header"> Stay Connected</header> <div class="links link-list--inline"></div><div class="link-list link-list--stacked"><ul><li><a href="http://www.facebook.com/naplesnews"><i class="rsp-icon icon--facebook"></i> facebook</a></li><li><a href="http://twitter.com/ndn/"><i class="rsp-icon icon--twitter"></i> twitter</a></li><li><a href="http://www.pinterest.com/naplesnews/"><i class="rsp-icon icon--pinterest"> </i> pinterest</a></li><li><a href="http://instagram.com/naplesnews"><i class="rsp-icon icon--instagram"></i> instagram</a></li><li><a href="http://www.youtube.com/NaplesDailyNews/"><i class="rsp-icon icon--youtube"> </i> youtube</a></li><li><a href="/newsletters"><i class="rsp-icon icon--email"></i> newsletters</a></li></ul></div></section> <section class="nav nav--business-directory"> <header class="header"> Business Directory</header> <form action="http://local.naplesnews.com/search.pg" class="submit_form default_form" method="get" style="margin:0;color:#C2C2C2;background:transparent;border:0;padding:12px 0;" target="_top"> <label for="id_business"><span class="submit_label">Business: <span class="formtip">e.g. salon</span></span> <input class="CatTxtBxMojo" kl_virtual_keyboard_secure_input="on" maxlength="2048" name="q" style="width: 160px;color:#666666;" type="text" value="" /> </label> <label for="id_business"><span class="submit_label">Location: <span class="formtip">e.g. Naples, FL</span></span> <input class="CatTxtBxMojo" kl_virtual_keyboard_secure_input="on" maxlength="2048" name="z" style="width: 160px;color:#666666;" type="text" value="Naples, FL" /> </label><div class="CatBtnSubmitMojo"><input style="font-size:8pt;" type="submit" value="Search" /></div></form> </section> <section class="scripps-brand"> <div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://www.wcpo.com/wcpo-digital-theme/images/custom/logo-scripps.png" /></div><div class="side__body"><strong>Scripps Media Inc.</strong> © <script type="text/javascript">/*<![CDATA[*//*<![CDATA[*/var year = new Date();document.write(year.getFullYear());/*]]>*//*]]>*/</script>The E.W. Scripps Co</div></div> <section class="soft-right"> <div class="link-list link-list--inline"><a href="/about-us/contact">Contact Us</a> <a href="/about-us/privacy-policy">Privacy Policy</a> <a href="/about-us/terms-of-use">Terms of Use</a></div></section> </section> </div></div></footer> <!-- omniture scripts --> <script type="text/javascript">/*<![CDATA[*/
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+		Liferay.Portlet.runtimePortletIds = ['searchbox_WAR_sitesearchportlet','103'];
+	
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+// <![CDATA[
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_103_',
+						portletId: '103',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d103\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_tMv86dnUZJ31_',
+						portletId: '56_INSTANCE_tMv86dnUZJ31',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_tMv86dnUZJ31\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_Ci3owdmLMPdz_',
+						portletId: '56_INSTANCE_Ci3owdmLMPdz',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_Ci3owdmLMPdz\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_LxXjOdf4cBTc_',
+						portletId: '56_INSTANCE_LxXjOdf4cBTc',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_LxXjOdf4cBTc\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_Udol5cu06E8M_',
+						portletId: '56_INSTANCE_Udol5cu06E8M',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_Udol5cu06E8M\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d6\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_jW4uLvJDGw3e_',
+						portletId: '56_INSTANCE_jW4uLvJDGw3e',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_jW4uLvJDGw3e\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d6\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_JNYR9LRSixTJ_',
+						portletId: '56_INSTANCE_JNYR9LRSixTJ',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_JNYR9LRSixTJ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d6\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 3,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_lGYMqA5uKKzC_',
+						portletId: '56_INSTANCE_lGYMqA5uKKzC',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_lGYMqA5uKKzC\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d6\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 4,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_TqdYoi26POA1_',
+						portletId: '56_INSTANCE_TqdYoi26POA1',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_TqdYoi26POA1\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d4\x26p_p_col_count\x3d6\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 5,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_ApwnIABn4bQb_',
+						portletId: '56_INSTANCE_ApwnIABn4bQb',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3d56_INSTANCE_ApwnIABn4bQb\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d5\x26p_p_col_count\x3d6\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_searchbox_WAR_sitesearchportlet_',
+						portletId: 'searchbox_WAR_sitesearchportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d357640549\x26p_p_id\x3dsearchbox_WAR_sitesearchportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fcommunity\x252Fmarco-eagle'
+					}
+				);
+			AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]>
+/*]]>*/</script> <script src="http://www.naplesnews.com/newspaper-responsive-base-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1416895977000" type="text/javascript"></script> <script type="text/javascript">/*<![CDATA[*/
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	/*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/vendor/jquery.unveil.min.js"></script> <script src="http://media.scrippsnationalnews.com/cms/js/videoplayer.js?v=20141124-152140.1.72437"></script> <script src="http://media.scrippsnationalnews.com/cms/js/site.global.min.js?v=20141124-152140.1.72437"></script> <!-- Chartbeat Snippet --> <script type="text/javascript">/*<![CDATA[*/
+
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 15115;
+_sf_async_config.domain = 'www.naplesnews.com'; 
+_sf_async_config.sections = 'News' 
+
+
+if (!window._story_authors) {
+  window._story_authors = '';
+}
+if (_story_authors != '') {
+    _sf_async_config.authors = _story_authors; /* Set by the STORY template */
+} else {
+    _sf_async_config.authors = 'Scripps Only Content ' + new Date().getFullYear();
+}
+
+/** CONFIGURATION END **/
+
+(function(){
+function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute("src", (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != "function") ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+/*]]>*/</script> </div> <!-- /.body__inner --> </body> </html> 

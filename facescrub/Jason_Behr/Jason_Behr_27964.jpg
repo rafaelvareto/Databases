@@ -1,0 +1,258 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="es"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="es"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="es"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="es"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="" lang="es"> <!--<![endif]-->
+<head>
+  <title>Chicos Perú</title>
+  <meta charset="utf-8">
+  <meta name="Description" content="Chicos. Chatea con Gente - Chat Gratis. Gamarra - Ropa en Perú" />
+  <meta name="Keywords" content="Chicos" />
+  <base href="http://www.adonde.com/peru-peru/search.php" target="_top" />
+  <meta name="robot" content="index, follow" />
+  <meta name="revisit" content="1 day" />
+  <meta name="msvalidate.01" content="2EC826D8EF6344A69F9FDDE8BEC222D0" />
+
+  
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+  <script src="../assets/js/script.js"></script>
+  <script type="text/javascript" src="http://www.adonde.com/public/js/jqyt.js"></script>  
+  <script type="text/javascript" src="http://www.google.com.pe/cse/brand?form=cse-search-box&amp;lang=es"></script>
+  <script type="text/javascript" src="http://www.adonde.com/public/js/swfobject.js"></script>
+  <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+  </script>
+  <script type='text/javascript'>
+  GS_googleAddAdSenseService("ca-pub-6263803831447773");
+  GS_googleEnableAllServices();
+  </script>
+  <script type='text/javascript'>
+  
+   
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-300x250-1");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-300x250-2");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-300x250-3");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-300x250-4");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-300x250-5");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-300x250-6");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-336x280-1");    
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-728x90-1");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-728x90-2");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-160x600-1");
+    GA_googleAddSlot("ca-pub-6263803831447773", "Buscador-160x600-2");
+    
+   
+
+  </script>
+  <script type='text/javascript'>
+  GA_googleFetchAds();
+  </script>   
+
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  _uacct = "UA-814083-1";
+  urchinTracker();
+  </script>
+
+</head>
+<body>
+  
+
+  <header class="fluid">
+    <div class="wrapper">
+      <div id="brand" class="lfloat">
+        <a href="/" id="logo"><span>Logo</span></a>
+                  <span id="help-text">Portal y Buscador del Perú</span>
+              </div>
+      <div id="searcher" class="lfloat">
+        <div class="lfloat">
+          <select id="options">
+            <option value="adonde">Buscar en Adonde.com</option>
+            <option value="peru">Buscar páginas de Perú</option>
+            <option value="google">Buscar en Google</option>
+          </select>
+        </div>
+        <div class="lfloat">  
+          <form action="http://www.adonde.com/peru-peru/search.php" method="post" name="form1" class="adonde">
+            <input type="text" class="text" name="termino" />
+            <button type="submit" class="search_btn">Buscar</button>
+          </form>
+          <form action="http://www.adonde.com/public/local_search.php" id="cse-search-box" style="display:none;" class="peru">
+            <input type="hidden" name="cx" value="partner-pub-6263803831447773:ojw0utf04ks" />
+            <input type="hidden" name="cof" value="FORID:11" />
+            <input type="hidden" name="ie" value="UTF-8" />
+            <input type="text" name="q" class="text" size="30" />
+            <button type="submit" class="search_btn" name="sa" >Buscar</button>
+          </form>
+          <form action="http://www.adonde.com/public/general_search.php" id="cse-search-box" style="display:none;" class="google">
+            <input type="hidden" name="cx" value="partner-pub-6263803831447773:phgiqtsmbk2" />
+            <input type="hidden" name="cof" value="FORID:11" />
+            <input type="hidden" name="ie" value="UTF-8" />
+            <input type="text" name="q" class="text" size="30" />
+            <button type="submit" name="sa"  class="search_btn" >Buscar</button>
+          </form>
+        </div>
+      </div>
+      <div id="social" class="rfloat">
+        
+      </div>      
+    </div>
+  </header>    
+    <nav class="h fluid">
+    <div class="wrapper">    
+      <ul>
+        <li><a href="http://www.adonde.com" class="welcome">Inicio</a></li>
+        <li  ><a href="http://www.adonde.com/noticias-peru/" class="news">Noticias</a></li>
+        <li><a href="http://www.adonde.com/diversion/" class="fun">Diversión</a></li>
+        <li><a href="http://www.adonde.com/deportes/" class="sports">Deportes</a></li>
+        <li><a href="http://www.adonde.com/esoterismo/" class="esoterism">Esoterismo</a></li>
+        <li><a href="http://www.adonde.com/turismo/" class="tourism">Turismo</a></li>
+        <li><a href="http://www.adonde.com/servicios/" class="services">Servicios</a></li>
+		<li class='current'><a href="http://www.adonde.com/directorio-web/" class="directory">Directorio web</a></li>
+		<li><a href="http://www.adonde.com/articulos/" class="articles">Artículos</a></li>
+
+
+      </ul>
+    <div>
+  </nav>
+    
+    <div id="subnav" class="fluid lfloat ">
+      <div class="wrapper">
+
+        <!-- Home -->  
+        
+        <!-- Noticias -->      
+              </div>     
+    </div>
+     
+  <div id="container"  class='searcher' >  
+<div id='content' class='searcher'><div class="sidebar lfloat">
+	<div>
+		<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-6263803831447773";
+		/* BE Buscador 120x90-1 */
+		google_ad_slot = "8394659113";
+		google_ad_width = 120;
+		google_ad_height = 90;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+	</div>
+  ﻿        <h3 class="first">Categorías</h3>
+        <ul>
+          <li><a href="http://www.adonde.com/cultura/">Arte y Cultura</a></li>
+          <li><a href="http://www.adonde.com/buscadores/">Buscadores Guías</a></li>
+          <li><a href="http://www.adonde.com/ciencia-tecnologia/">Ciencia Tecnología</a></li>
+          <li><a href="http://www.adonde.com/ciencias-sociales/">Ciencias Sociales</a></li>
+          <li><a href="http://www.adonde.com/comercio-finanzas/">Comercio Finanzas</a></li>
+          <li><a href="http://www.adonde.com/compras/">Compras Productos</a></li>
+          <li><a href="http://www.adonde.com/deportes/">Deportes</a></li>
+          <li><a href="http://www.adonde.com/diversion/">Diversión Amor</a></li>
+          <li><a href="http://www.adonde.com/educacion/">Educación</a></li>
+          <li><a href="http://www.adonde.com/gobierno-peru/">Gobierno Peru</a></li>
+          <li><a href="http://www.adonde.com/industria-peru/">Industria Peru</a></li>
+          <li><a href="http://www.adonde.com/informatica-internet/">Informática Internet</a></li>
+          <li><a href="http://www.adonde.com/letras-literatura/">Letras Literatura</a></li>
+          <li><a href="http://www.adonde.com/musica/">Música Peru</a></li>
+          <li><a href="http://www.adonde.com/ninos-juegos/">Niños y Juegos</a></li>
+          <li><a href="http://www.adonde.com/peruhoy/">Noticias Peru</a></li>
+          <li><a href="http://www.adonde.com/organizaciones/">Organizaciones</a></li>
+          <li><a href="http://www.adonde.com/paginas-personales/">Págs. Personales</a></li>
+          <li><a href="http://www.adonde.com/politica-leyes/">Política y Leyes</a></li>
+          <li><a href="http://www.adonde.com/religion-misticismo/">Religión Misticismo</a></li>
+          <li><a href="http://www.adonde.com/salud-belleza/">Salud y Belleza</a></li>
+          <li><a href="http://www.adonde.com/servicios/">Servicios</a></li>
+          <li><a href="http://www.adonde.com/turismo/">Turismo Peru</a></li>
+        </ul>
+        <h3>Educación</h3>
+        <ul>
+          <li><a href="http://www.adonde.com/colegios-peru/">Promos Colegios</a></li>
+          <li><a href="http://www.adonde.com/eduuni.htm">Universidades</a></li>
+          <li><a href="http://www.adonde.com/medio-ambiente/">Medio Ambiente</a></li>
+          <li><a href="http://www.adonde.com/escuela/tareas.htm">Tareas Escolares</a></li>
+          <li><a href="http://www.adonde.com/historia/">Historia Peru</a></li>
+          <li><a href="http://www.adonde.com/historia/presidentes.htm">Presidentes Peru</a></li>
+          <li><a href="http://www.adonde.com/biografia/">Biografías Peru</a></li>
+          <li><a href="http://www.adonde.com/cultura/museos-peru/">Museos Peru</a></li>
+          <li><a href="http://www.adonde.com/gobierno-peru/embajadas.php">Embajadas</a></li>
+          <li><a href="http://www.adonde.com/politica-leyes/constitucion-peru.php">Constitución Peru</a></li>
+          <li><a href="http://www.adonde.com/religion-misticismo/santos-peruanos.php">Santos y Fiestas</a></li>
+          <li><a href="http://www.adonde.com/religion-misticismo/iglesias-lima.php">Iglesias Lima</a></li>
+          
+		</ul>
+
+		  
+</div><div class='main  searcher lfloat'><div id='main_search_results'><div id="banners_300x250_search">
+
+
+<div class="banner_left" style="padding-left: 0px">
+<!-- Buscador-300x250-1 -->
+<script type='text/javascript'>
+GA_googleFillSlot("Buscador-300x250-1");
+</script>
+  </div>
+
+
+
+<div class="banner_right" style="padding-left: 15px">
+<!-- Buscador-300x250-2 -->
+<script type='text/javascript'>
+GA_googleFillSlot("Buscador-300x250-2");
+</script>
+  </div>
+
+
+
+</div>
+
+
+<h1>chicos</h1>Se encontraron <strong>2</strong> coincidencias.</p><div id='main_search_results'><div class='result'><div class='title'><span class='number'>1</span> <h2><a href="/web/chateacongente-com-63749/">Chatea con Gente - Chat Gratis</a></h2> <span>(Perú)</span></div><p>Chat gratis con <strong>chicos</strong> y chicas de tu ciudad. Conocer amigos y ligar en nuestro chat gratuito es facil, conoce gente de todo el mundo y diviertete en el chat gratis.<br />http://www.chateacongente.com/</p><p>Categoría: <a href="chats/">Chats</a></p></div><div class='result'><div class='title'><span class='number'>2</span> <h2><a href="/web/gamarra-com-pe-36109/">Gamarra - Ropa en Perú</a></h2> <span>(La Victoria, Lima, Perú)</span></div><p>Tiendas, boutiques, fabricantes, servicios de confección de Gamarra. Polos, vestidos, ropa sport, fashion, jeans, ternos, ropa materna, ropa para chicas y ropa para <strong>chicos</strong>. Radio Gamarra, el centro comercial más grande de Sudamérica.<br />http://www.gamarra.com.pe/</p><p>Categoría: <a href="ropa-tiendas-confecciones/">Ropa, Tiendas, Confecciones</a></p></div></div><div class="mini-pages"><span class="current"><a href="./chicos.html">1</a></span></div>
+</div></div><div class="rfloat aside">
+  <div>
+    <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-6263803831447773";
+    /* BE-Buscador-160x90-2 */
+    google_ad_slot = "6917925910";
+    google_ad_width = 160;
+    google_ad_height = 90;
+    //-->
+    </script>
+    <script type="text/javascript"
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+  </div>
+  <div>
+    <!-- Buscador-160x600-1 -->
+    <script type='text/javascript'>
+    GA_googleFillSlot("Buscador-160x600-1");
+    </script>
+  </div>        
+  <div>
+    <!-- Buscador-160x600-2 -->
+    <script type='text/javascript'>
+    GA_googleFillSlot("Buscador-160x600-2");
+    </script>
+  </div>
+</div>﻿    </div>
+    <footer >
+
+
+    	<div>
+    		
+
+    	</div>
+
+    	<div class="clear"></div>
+      <div class="center">© 1997 - 2014 Adonde.com Todos los Derechos Reservados.</div>
+    </footer>
+	  
+  </div>
+</body>
+</html></div>
