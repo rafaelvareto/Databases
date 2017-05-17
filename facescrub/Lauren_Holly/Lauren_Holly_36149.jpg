@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<HTML>
+ <HEAD>
+  <TITLE> Jump Page request url failed</TITLE>
+  <META NAME="Generator" CONTENT="">
+  <META NAME="Author" CONTENT="dingyangfan">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+  <meta http-equiv="Refresh" content="5; url=http://deeppencil.com" /> 
+	<script type="text/javascript">     
+	function countDown(secs,surl){     
+	 //alert(surl);     
+	 var jumpTo = document.getElementById('jumpTo');
+	 jumpTo.innerHTML=secs;  
+	 if(--secs>0){     
+		 setTimeout("countDown("+secs+",'"+surl+"')",1000);     
+		 }     
+	 else{       
+		 location.href=surl;     
+		 }     
+	 }     
+	</script> 
+</head>
+
+<body>
+	
+		After
+	<span id="jumpTo">5</span> seconds, start jump  <a href="http://deeppencil.com">http://deeppencil.com</a>
+<script type="text/javascript">countDown(5,'http://deeppencil.com');</script>  
+</body>
+</HTML>
+
+
+
