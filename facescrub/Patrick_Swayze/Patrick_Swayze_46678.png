@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://thecasualheroes.net/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://thecasualheroes.net/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page Not Found - The Casual Heroes</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - The Casual Heroes" />
+<meta property="og:site_name" content="The Casual Heroes" />
+<meta property="article:publisher" content="http://www.facebook.com/thecasualheroes" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The Casual Heroes &raquo; Feed" href="http://thecasualheroes.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Casual Heroes &raquo; Comments Feed" href="http://thecasualheroes.net/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://thecasualheroes.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Toptwenfive-social-icons-css'  href='http://thecasualheroes.net/wp-content/plugins/top-25-social-icons/css/toptwenfive.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kamn-css-easy-twitter-feed-widget-css'  href='http://thecasualheroes.net/wp-content/plugins/easy-twitter-feed-widget/easy-twitter-feed-widget.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://thecasualheroes.net/wp-content/themes/twentyfourteen/genericons/genericons.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://thecasualheroes.net/wp-content/themes/twentyfourteen/style.css?ver=4.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://thecasualheroes.net/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://thecasualheroes.net/wp-content/plugins/powerpress/player.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thecasualheroes.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thecasualheroes.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw){window.open('http://thecasualheroes.net/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+powerpress_url = 'http://thecasualheroes.net/wp-content/plugins/powerpress/';
+//-->
+</script>
+<link rel="alternate" type="application/rss+xml" title="Default Podcast Feed" href="http://thecasualheroes.net/feed/podcast/" />
+<link type="text/css" rel="stylesheet" href="http://thecasualheroes.net/wp-content/plugins/social-widget/style.css"/>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title,
+		.site-description {
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://thecasualheroes.net/wp-content/uploads/2014/01/black.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+<!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-36120575-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="error404 custom-background group-blog header-image">
+<div id="page" class="hfeed site">
+		<div id="site-header">
+		<a href="http://thecasualheroes.net/" rel="home">
+			<img src="http://thecasualheroes.net/wp-content/uploads/2014/01/cropped-The-Casual-Heroes1.png" width="450" height="212" alt="">
+		</a>
+	</div>
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://thecasualheroes.net/" rel="home">The Casual Heroes</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-tch-menu-container"><ul id="menu-tch-menu" class="nav-menu"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a title="Homepage" href="http://TheCasualHeroes.net/">Home</a></li>
+<li id="menu-item-165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165"><a href="http://thecasualheroes.net/category/annoucements/">Annoucements</a></li>
+<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="http://thecasualheroes.net/category/articles/">Articles</a></li>
+<li id="menu-item-167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-167"><a href="http://thecasualheroes.net/category/podcasts/">Podcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-1119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1119"><a href="http://thecasualheroes.net/category/alterna-2/">Alterna</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-170"><a href="http://thecasualheroes.net/category/podcasts/championship-rounds/">Championship Rounds</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171"><a href="http://thecasualheroes.net/category/podcasts/comic-cast/">Comic Cast</a></li>
+	<li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-172"><a href="http://thecasualheroes.net/category/podcasts/interviews/">Interviews</a></li>
+	<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-173"><a href="http://thecasualheroes.net/category/podcasts/movie-cast/">Movie Cast</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174"><a href="http://thecasualheroes.net/category/podcasts/sports-cast/">Sports Cast</a></li>
+	<li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-175"><a href="http://thecasualheroes.net/category/podcasts/tch-specials/">TCH Specials</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-176"><a href="http://thecasualheroes.net/category/podcasts/wrestle-cast/">Wrestle Cast</a></li>
+</ul>
+</li>
+<li id="menu-item-168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-168"><a href="http://thecasualheroes.net/category/videos/">Videos</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="http://thecasualheroes.net/contact-us/">Contact Us</a></li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://thecasualheroes.net/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<header class="page-header">
+				<h1 class="page-title">Not Found</h1>
+			</header>
+
+			<div class="page-content">
+				<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+				<form role="search" method="get" class="search-form" action="http://thecasualheroes.net/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div><!-- .page-content -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="socialwidget-2" class="widget widget_socialwidget"><div id="sidesocial">
+						<div class="sidefb">
+							<div class="sidefb">
+							<div class="facebookOuter">
+							 <div class="facebookInner">
+							  <div class="fb-like-box" 
+							      data-width="250" data-height="200" 
+							      data-href="facebook.com/TheCasualHeroes" 
+							      data-show-border="false" data-show-faces="true"  
+							      data-stream="false" data-header="false">
+							  </div>          
+							 </div>
+							</div>
+						</div>
+						
+						
+						<div class="sidetw">
+						<a href="https://twitter.com/TheCasualHeroes" class="twitter-follow-button" data-show-screen-name="true" data-show-count="true" data-lang="en">Follow @TheCasualHeroes</a>
+						</div>
+					</div></aside><aside id="widget_twentyfourteen_ephemera-2" class="widget widget_twentyfourteen_ephemera">			<h1 class="widget-title audio">
+				<a class="entry-format" href="http://thecasualheroes.net/type/audio/">Recent Podcasts</a>
+			</h1>
+			<ol>
+
+								<li>
+				<article class="post-1150 post type-post status-publish format-audio has-post-thumbnail hentry category-podcasts category-wrestle-cast">
+					<div class="entry-content">
+						<p>Well here it is.  Draft #2 or as I like to call it Draft V2.  Ya know, cause I am hip with slang these days.  Here are the rules:</p>
+<div dir="ltr">
+<div>Your roster must contain</div>
+<div></div>
+<div>2 main event wrestlers</div>
+<div>2 tag teams</div>
+<div>6 midcard wrestlers</div>
+<div>4 lower card wrestlers</div>
+<div></div>
+<div>That&#8217;s 14 spots for each of us to draft. Your budget will be $150. Spend wisely. Your &#8220;cap&#8221; is set on picks so that you must have at least one dollar remaining for every remaining draft pick.</div>
+<div></div>
+<div>If I want to draft AJ Styles with my first pick, then the most I can bid is $137 because I must have $1 remaining to purchase wrestlers for remaining spots.</div>
+</div>
+<div class="powerpress_player" id="powerpress_player_4847"><object type="application/x-shockwave-flash" data="http://thecasualheroes.net/wp-content/plugins/powerpress/audio-player.swf" id="4847" height="24" width="290">
+<param name="movie" value="http://thecasualheroes.net/wp-content/plugins/powerpress/audio-player.swf" />
+<param name="FlashVars" value="playerID=4847&amp;soundFile=http%3A%2F%2Fwww.tchpodcasts.com%2Fadmin%2Fauctiondraft.mp3&amp;pagebg=&amp;bg=E5E5E5&amp;width=290&amp;rtl=no&amp;loader=009900&amp;text=333333&amp;titles=The Casual Heroes Podcast&amp;animation=yes&amp;remaining=yes&amp;buffer=&amp;track=FFFFFF&amp;tracker=DDDDDD&amp;border=CCCCCC&amp;initialvolume=60&amp;leftbg=CCCCCC&amp;lefticon=333333&amp;voltrack=F2F2F2&amp;volslider=666666&amp;rightbg=B4B4B4&amp;rightbghover=999999&amp;righticon=333333&amp;righticonhover=FFFFFF&amp;transparentpagebg=yes" />
+<param name="quality" value="high" />
+<param name="menu" value="false" />
+<param name="wmode" value="transparent" />
+<a href="http://www.tchpodcasts.com/admin/auctiondraft.mp3" title="Play" target="_blank"><img src="http://thecasualheroes.net/wp-content/plugins/powerpress/play_audio.png" title="Play" alt="Play" style="border:0;" /></a></object>
+</div>
+<p class="powerpress_links powerpress_links_mp3">Podcast: <a href="http://www.tchpodcasts.com/admin/auctiondraft.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('1150-podcast');" rel="nofollow">Play in new window</a>
+ | <a href="http://www.tchpodcasts.com/admin/auctiondraft.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="auctiondraft.mp3">Download</a>
+</p><!--powerpress_player-->					</div><!-- .entry-content -->
+
+					<header class="entry-header">
+						<div class="entry-meta">
+							<h1 class="entry-title"><a href="http://thecasualheroes.net/wrestle-cast-auction-draft/" rel="bookmark">Wrestle Cast &#8211; Auction Draft</a></h1><span class="entry-date"><a href="http://thecasualheroes.net/wrestle-cast-auction-draft/" rel="bookmark"><time class="entry-date" datetime="2014-11-21T14:57:23+00:00">November 21, 2014</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://thecasualheroes.net/author/admin/" rel="author">Jensocide</a></span></span>						</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+				</article><!-- #post-## -->
+				</li>
+				
+			</ol>
+			<a class="post-format-archive-link" href="http://thecasualheroes.net/type/audio/">
+				More audio <span class="meta-nav">&rarr;</span>			</a>
+			</aside><aside id="widget_twentyfourteen_ephemera-3" class="widget widget_twentyfourteen_ephemera">			<h1 class="widget-title video">
+				<a class="entry-format" href="http://thecasualheroes.net/type/video/">Recent Videos</a>
+			</h1>
+			<ol>
+
+								<li>
+				<article class="post-1016 post type-post status-publish format-video has-post-thumbnail hentry category-videos tag-4x tag-am-i-impressed tag-beyond-earth tag-civilization tag-count-trapula tag-dan-twin tag-gameplay tag-impressions tag-lets-play tag-mac tag-pc tag-preview tag-review tag-steam tag-strategy tag-trailer">
+					<div class="entry-content">
+						<p><iframe width="306" height="172" src="https://www.youtube.com/embed/K0FlP2993c4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+					</div><!-- .entry-content -->
+
+					<header class="entry-header">
+						<div class="entry-meta">
+							<h1 class="entry-title"><a href="http://thecasualheroes.net/civilization-beyond-earth-pc-impressed/" rel="bookmark">Civilization: Beyond Earth (PC) &#8211; Am I Impressed?</a></h1><span class="entry-date"><a href="http://thecasualheroes.net/civilization-beyond-earth-pc-impressed/" rel="bookmark"><time class="entry-date" datetime="2014-11-07T16:37:00+00:00">November 7, 2014</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="http://thecasualheroes.net/author/xruiner89/" rel="author">Dan Twin</a></span></span>						</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+				</article><!-- #post-## -->
+				</li>
+				
+			</ol>
+			<a class="post-format-archive-link" href="http://thecasualheroes.net/type/video/">
+				More videos <span class="meta-nav">&rarr;</span>			</a>
+			</aside><aside id="calendar-2" class="widget widget_calendar"><h1 class="widget-title">Calendar</h1><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>November 2014</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Sunday">S</th>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://thecasualheroes.net/2014/10/">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td><a href="http://thecasualheroes.net/2014/11/01/" title="Sign Motion (PC) &#8211; Am I Impressed?">1</a></td>
+	</tr>
+	<tr>
+		<td>2</td><td><a href="http://thecasualheroes.net/2014/11/03/" title="Paper Monsters Recut (PC) &#8211; Am I Impressed?">3</a></td><td><a href="http://thecasualheroes.net/2014/11/04/" title="The Morning After Raw">4</a></td><td>5</td><td>6</td><td><a href="http://thecasualheroes.net/2014/11/07/" title="Civilization: Beyond Earth (PC) &#8211; Am I Impressed?">7</a></td><td><a href="http://thecasualheroes.net/2014/11/08/" title="AlternaPodcast: The Chair Gets ROWDY, Democrats and Fried Chicken, AlternaPodcast: The Dolridge Sacrament">8</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://thecasualheroes.net/2014/11/09/" title="AlternaPodcast: Empire of the Wolf">9</a></td><td>10</td><td>11</td><td><a href="http://thecasualheroes.net/2014/11/12/" title="The Morning After Raw 11-10">12</a></td><td><a href="http://thecasualheroes.net/2014/11/13/" title="Wrestle Cast &#8211; Effort!, The Moneyline with WhiteDwain &#8211; NFL Week 11 Picks">13</a></td><td><a href="http://thecasualheroes.net/2014/11/14/" title="AlternaPodcast: Anyone But Virginia, Comic Cast: Erica Schultz">14</a></td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td><a href="http://thecasualheroes.net/2014/11/18/" title="The Morning After Raw for November 17, 2014">18</a></td><td><a href="http://thecasualheroes.net/2014/11/19/" title="AlternaPodcast: Dead Future King">19</a></td><td><a href="http://thecasualheroes.net/2014/11/20/" title="Wrestle Cast &#8211; Delicious">20</a></td><td><a href="http://thecasualheroes.net/2014/11/21/" title="Wrestle Cast &#8211; Auction Draft, The Moneyline with WhiteDwain – NFL Week 12 Picks">21</a></td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td id="today"><a href="http://thecasualheroes.net/2014/11/24/" title="The Morning After WWE Survivor Series">24</a></td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside></div><!-- #content-sidebar -->
+<div id="secondary">
+		<h2 class="site-description">Saving the world&#8230;tomorrow, maybe.</h2>
+	
+	
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://thecasualheroes.net/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="paypaldonatewidget-2" class="widget widget_paypaldonatewidget">     
+	 <b>Help support The Casual Heroes!  We appreciate any and all donations.  We will mention you on the podcasts as a thanks for your support!  </b>
+	 <div align="center"><form method="post" action="https://www.paypal.com/cgi-bin/webscr">
+<div class="paypal-donations">
+<input type="hidden" value="_donations" name="cmd"/>
+<input type="hidden" value="jensocide@me.com " name="business"/>
+
+<input type="hidden" value="You found the information helpful and want to say thanks? Your donation is enough to inspire us to do more. Thanks a bunch!" name="item_name"/>
+<input type="hidden" value="USD" name="currency_code"/>
+<input type="image" alt="PayPal � The safer, easier way to pay online." name="submit" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif"/><img width="1" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt=""/></div></form></div>
+	 
+	 
+	
+	</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+					<li>
+				<a href="http://thecasualheroes.net/morning-wwe-survivor-series/">The Morning After WWE Survivor Series</a>
+						</li>
+					<li>
+				<a href="http://thecasualheroes.net/moneyline-whitedwain-nfl-week-12-picks/">The Moneyline with WhiteDwain – NFL Week 12 Picks</a>
+						</li>
+					<li>
+				<a href="http://thecasualheroes.net/wrestle-cast-auction-draft/">Wrestle Cast &#8211; Auction Draft</a>
+						</li>
+					<li>
+				<a href="http://thecasualheroes.net/wrestle-cast-delicious/">Wrestle Cast &#8211; Delicious</a>
+						</li>
+					<li>
+				<a href="http://thecasualheroes.net/deadfutureking/">AlternaPodcast: Dead Future King</a>
+						</li>
+				</ul>
+		</aside><aside id="meta-2" class="widget widget_meta"><h1 class="widget-title">Login</h1>			<ul>
+			<li><a rel="nofollow" href="http://thecasualheroes.net/wp-login.php?action=register">Register</a></li>			<li><a rel="nofollow" href="http://thecasualheroes.net/wp-login.php">Log in</a></li>
+			<li><a href="http://thecasualheroes.net/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://thecasualheroes.net/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside><aside id="rss-2" class="widget widget_rss"><h1 class="widget-title"><a class='rsswidget' href='http://feeds.feedburner.com/TheCasualHeroes'><img style='border:0' width='14' height='14' src='http://thecasualheroes.net/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://thecasualheroes.net/'>TCH RSS Feed</a></h1><ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/yQA42bQNoGc/'>Wrestle Cast – Auction Draft</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/7tMLTAoaxZE/'>Wrestle Cast – Delicious</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/OL5nkDiMwzQ/'>AlternaPodcast: Dead Future King</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/KClWzTW_AdA/'>Comic Cast: Erica Schultz</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/e5F9RWcEG7k/'>AlternaPodcast: Anyone But Virginia</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/8QyyzYRg19s/'>Wrestle Cast – Effort!</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/5kdzHkmwTMY/'>AlternaPodcast: Empire of the Wolf</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/e21PVxY0z8Y/'>AlternaPodcast: The Dolridge Sacrament</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/4ECkos4ZnNM/'>Democrats and Fried Chicken</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/TheCasualHeroes/~3/-XZPczh4lFs/'>AlternaPodcast: The Chair Gets ROWDY</a></li></ul></aside>	</div><!-- #primary-sidebar -->
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+								<a href="http://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<style type="text/css" media="screen">
+  #bit, #bit * {}
+  #bit {
+      bottom: -300px;
+      font: 13px "Helvetica Neue",sans-serif;
+      position: fixed;
+      right: 10px;
+      z-index: 999999;
+      width: 230px;
+  }
+  
+  .loggedout-follow-typekit {
+      margin-right: 4.5em;
+  }
+  
+  #bit a.bsub {
+      background-color: #464646;
+      background-image: -moz-linear-gradient(center bottom , #3F3F3F, #464646 5px);
+      background: -webkit-gradient(linear, left top, left bottom, from(#3F3F3F), to(#464646));
+      filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#3F3F3F', endColorstr='#464646');    
+
+      border: 0 none;
+      box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
+      color: #CCCCCC;
+      display: block;
+      float: right;
+      font: 13px/28px "Helvetica Neue",sans-serif;
+      letter-spacing: normal;
+      outline-style: none;
+      outline-width: 0;
+      overflow: hidden;
+      padding: 0 10px 0 8px;
+      text-decoration: none !important;
+      text-shadow: 0 -1px 0 #444444;
+  }
+  
+  #bit a.bsub {
+      border-radius: 2px 2px 0 0;
+  }
+  
+  #bit a.bsub span {
+      background-attachment: scroll;
+      background-clip: border-box;
+      background-color: transparent;
+      background-image: url(http://thecasualheroes.net/wp-content/plugins/follow-button-for-jetpack/plus.png);
+      background-origin: padding-box;
+      background-position: 2px 3px;
+      background-repeat: no-repeat;
+      background-size: 20% auto;
+      padding-left: 18px;
+  }
+  
+  #bit a:hover span, #bit a.bsub.open span {
+      /*background-position: 0 -117px;*/
+      color: #FFFFFF !important;
+  }
+  
+  #bit a.bsub.open {
+      background: none repeat scroll 0 0 #333333;
+  }
+  
+  #bitsubscribe {
+      background: none repeat scroll 0 0 #464646;
+      border-radius: 2px 0 0 0;
+      color: #FFFFFF;
+      margin-top: 27px;
+      padding: 15px;
+      width: 200px;
+      float: right;
+      margin-top: 0;
+  }
+  
+  div#bitsubscribe.open {
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  #bitsubscribe div {
+      overflow: hidden;
+  }
+  
+  #bit h3, #bit #bitsubscribe h3 {
+      color: #FFFFFF;
+      font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+      font-size: 20px;
+      font-weight: 300;
+      margin: 0 0 0.5em !important;
+      text-align: left;
+      text-shadow: 0 1px 0 #333333;
+  }
+  
+  #bit #bitsubscribe p {
+      color: #FFFFFF;
+      font: 300 15px/1.3em "Helvetica Neue",Helvetica,Arial,sans-serif;
+      margin: 0 0 1em;
+      text-shadow: 0 1px 0 #333333;
+  }
+  
+  #bitsubscribe p a {
+      margin: 20px 0 0;
+  }
+  
+  #bit #bitsubscribe p.bit-follow-count {
+      font-size: 13px;
+  }
+  
+  #bitsubscribe input[type="submit"] {
+      -moz-transition: all 0.25s ease-in-out 0s;
+      -webkit-transition: all 0.25s ease-in-out 0s;
+      -o-transition: all 0.25s ease-in-out 0s;
+      -ms-transition: all 0.25s ease-in-out 0s;
+      transition: all 0.25s ease-in-out 0s;   
+      background: -moz-linear-gradient(center top , #333333 0%, #111111 100%) repeat scroll 0 0 transparent;
+      background: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#111111));
+      filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#111111');    
+
+      border: 1px solid #282828;
+      border-radius: 11px 11px 11px 11px;
+      box-shadow: 0 1px 0 #444444 inset;
+      color: #CCCCCC;
+      padding: 2px 20px;
+      text-decoration: none;
+      text-shadow: 0 1px 0 #000000;
+  }
+  
+  #bitsubscribe input[type="submit"]:hover {
+      background: -moz-linear-gradient(center top , #333333 0%, #222222 100%) repeat scroll 0 0 transparent;
+      box-shadow: 0 1px 0 #4F4F4F inset;
+      color: #FFFFFF;
+      text-decoration: none;
+  }
+  
+  #bitsubscribe input[type="submit"]:active {
+      background: -moz-linear-gradient(center top , #111111 0%, #222222 100%) repeat scroll 0 0 transparent;
+      box-shadow: 0 -1px 0 #333333 inset;
+      color: #AAAAAA;
+      text-decoration: none;
+  }
+  
+  #bitsubscribe input[type="text"] {
+      border-radius: 3px 3px 3px 3px;
+      font: 300 15px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  
+  #bitsubscribe input[type="text"]:focus {
+      border: 1px solid #000000;
+  }
+  
+  #bitsubscribe.open {
+      display: block;
+  }
+  
+  #bsub-subscribe-button {
+      margin: 0 auto;
+      text-align: center;
+  }
+  
+  #bitsubscribe #bsub-credit {
+      border-top: 1px solid #3C3C3C;
+      font: 11px "Helvetica Neue",sans-serif;
+      margin: 0 0 -15px;
+      padding: 7px 0;
+      text-align: center;
+  }
+  
+  #bitsubscribe #bsub-credit a {
+      background: none repeat scroll 0 0 transparent;
+      color: #AAAAAA;
+      text-decoration: none;
+      text-shadow: 0 1px 0 #262626;
+  }
+  
+  #bitsubscribe #bsub-credit a:hover {
+      background: none repeat scroll 0 0 transparent;
+      color: #FFFFFF;
+  }
+</style>    
+
+<script type="text/javascript" charset="utf-8">
+  jQuery.extend(jQuery.easing, {
+      easeOutCubic: function (x, t, b, c, d) {
+          return c * ((t = t / d - 1) * t * t + 1) + b;
+      }
+  });
+  jQuery(document).ready(function () {
+      var isopen = false,
+          bitHeight = jQuery('#bitsubscribe').height();
+      setTimeout(function () {
+          jQuery('#bit').animate({
+              bottom: '-' + bitHeight - 30 + 'px'
+          }, 200);
+      }, 300);
+      jQuery('#bit a.bsub').click(function () {
+          if (!isopen) {
+              isopen = true;
+              jQuery('#bit a.bsub').addClass('open');
+              jQuery('#bit #bitsubscribe').addClass('open')
+              jQuery('#bit').stop();
+              jQuery('#bit').animate({
+                  bottom: '0px'
+              }, {
+                  duration: 400,
+                  easing: "easeOutCubic"
+              });
+          } else {
+              isopen = false;
+              jQuery('#bit').stop();
+              jQuery('#bit').animate({
+                  bottom: '-' + bitHeight - 30 + 'px'
+              }, 200, function () {
+                  jQuery('#bit a.bsub').removeClass('open');
+                  jQuery('#bit #bitsubscribe').removeClass('open');
+              });
+          }
+      });
+  });
+</script>
+
+<div id="bit" class="">
+  <a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+  
+  <div id="bitsubscribe">
+    <h3><label for="loggedout-follow-field">Follow The Casual Heroes</label></h3>
+  <p>Get every new post delivered to your Inbox</p> 
+    <p>Join other followers</p>
+    <form style="padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=thecasualheroes', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p><input type="text" style="width:183px" name="email" value="Enter email address" onfocus='this.value=(this.value=="Enter email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'/></p><input type="hidden" value="thecasualheroes" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form>        </div>
+</div>
+	<div id="fb-root">
+	<script type="text/javascript">
+		window.fbAsyncInit = function() {
+  			FB.init({ status: true, cookie: true, xfbml: true});
+		};
+		(function() {
+			var e = document.createElement('script');
+			e.type = 'text/javascript';
+			e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+			e.async = true;
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		(function() {
+			var e = document.createElement('script');
+			e.type = 'text/javascript';
+			e.src = 'http://platform.twitter.com/widgets.js';
+			e.async = true;
+			document.getElementById('fb-root').appendChild(e);
+		}());
+		
+  		})();
+ 	</script>
+</div>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/thecasualheroes.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-content/themes/twentyfourteen/js/functions.js?ver=20140616'></script>
+<script type='text/javascript' src='http://thecasualheroes.net/wp-content/plugins/easy-twitter-feed-widget/lib/js/widget-easy-twitter-feed-widget.js?ver=1.0'></script>
+</body>
+</html>

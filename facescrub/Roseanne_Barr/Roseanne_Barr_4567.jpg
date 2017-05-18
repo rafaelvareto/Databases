@@ -1,0 +1,467 @@
+<!--- GOOGLE ANALYTICS CODE --->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-700394-18', 'phillynow.com');
+  ga('send', 'pageview');
+</script>
+<!--- END GOOGLE ANALYTICS CODE --->
+
+
+
+<!------ OAS SETUP begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+//configuration 
+OAS_url = 'http://oasc02023.247realmedia.com/RealMedia/ads/';
+OAS_sitepage = 'www.phillynow.com';
+OAS_listpos = 'Bottom,Middle,Right2,Top,Top1';
+OAS_query = '';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 
+}
+ </SCRIPT> 
+<SCRIPT LANGUAGE=JavaScript1.1>  
+ OAS_version = 11;   
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))  
+ OAS_version = 10; 
+if (OAS_version >= 11) 
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
+</SCRIPT><SCRIPT LANGUAGE=JavaScript> 
+ document.write('');  
+function OAS_AD(pos) {  
+if (OAS_version >= 11 && typeof(OAS_RICH)!='undefined')
+ OAS_RICH(pos);  
+else 
+ OAS_NORMAL(pos);  
+}  
+ </SCRIPT>  
+<!------ OAS SETUP end ------> 	
+
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+
+        <title> &raquo; Page not found</title>
+
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+		<link rel="shortcut icon" href="http://blogs.reviewpublishing.com/pw/wp-content/uploads/sites/2/2014/05/favicon.jpeg">
+
+		<link rel="pingback" href="http://phillynow.com/xmlrpc.php">
+
+		<!-- Holding main menu -->
+		
+		<!-- head functions -->
+			<script> var theChampSiteUrl = 'http://phillynow.com'; </script>
+			<script> var theChampLoadingImgPath = 'http://phillynow.com/wp-content/plugins/super-socializer/images/ajax_loader.gif'; var theChampAjaxUrl = 'http://phillynow.com/wp-admin/admin-ajax.php'; var theChampRedirectionUrl = 'http://phillynow.com/phillynow/files/2012/04/Roseanne_Barr2012c1-225x300.jpg'; var theChampRegRedirectionUrl = 'http://phillynow.com/phillynow/files/2012/04/Roseanne_Barr2012c1-225x300.jpg'; </script>
+				<script> var theChampVerified = 0; var theChampAjaxUrl = 'http://phillynow.com/wp-admin/admin-ajax.php'; var theChampPopupTitle = ''; var theChampEmailPopup = 0; var theChampEmailAjaxUrl = 'http://phillynow.com/wp-admin/admin-ajax.php'; var theChampEmailPopupTitle = ''; var theChampEmailPopupErrorMsg = ''; var theChampEmailPopupUniqueId = ''; var theChampEmailPopupVerifyMessage = ''; var theChampTwitterRedirect = 'http%3A%2F%2Fphillynow.com%2Fphillynow%2Ffiles%2F2012%2F04%2FRoseanne_Barr2012c1-225x300.jpg'; </script>
+				<div id="fb-root"></div>
+		<script> var theChampFBKey = '452785574857931'; var theChampFBLang = 'en_US'; </script>
+				<script> var theChampFacebookScope = 'email'; var theChampFBFeedEnabled = false; </script>
+				<script> var theChampForceFBComment = false; var theChampFBCommentTitle = ''; var theChampFBCommentUrl = 'http://phillynow.com/2014/11/25/stage-review-lanterns-qed-about-much-more-than-physics/'; var theChampFBCommentColor = 'light'; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = 'time'; var theChampFBCommentMobile = 'auto-detect'; var theChampFBAppID = '452785574857931'; var theChampSiteUrl = 'http://phillynow.com'; var theChampWPCommentingContent = ''; var theChampFBCommentingContent = ''; var theChampCommentingLoadFbFirst = 1; var theChampCommentingSwitchWpText = ''; var theChampCommentingSwitchFbText = ''; var theChampCommentingHandle = false;</script>
+				<script> var theChampSharingAjaxUrl = 'http://phillynow.com/wp-admin/admin-ajax.php'; var theChampCloseIconPath = 'http://phillynow.com/wp-content/plugins/super-socializer/images/close.png'; var theChampPluginIconPath = 'http://phillynow.com/wp-content/plugins/super-socializer/images/logo.png'; var theChampHorizontalSharingCountEnable = 1; var theChampVerticalSharingCountEnable = 0; </script>
+		<link rel="alternate" type="application/rss+xml" title="PW&#039;s PhillyNow &raquo; Feed" href="http://phillynow.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PW&#039;s PhillyNow &raquo; Comments Feed" href="http://phillynow.com/comments/feed/" />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://phillynow.com/wp-content/themes/valenti/plugins/login-with-ajax/widget.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://phillynow.com/wp-includes/css/dashicons.min.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://phillynow.com/wp-includes/js/thickbox/thickbox.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the-champ-frontend-css-css'  href='http://phillynow.com/wp-content/plugins/super-socializer/css/front.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-main-stylesheet-css'  href='http://phillynow.com/wp-content/themes/valenti/library/css/style.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C400italic%7COpen+Sans%3A400%2C700%2C400italic&#038;subset=greek%2Cgreek-ext&#038;ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://phillynow.com/wp-content/themes/valenti/library/css/fontawesome/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://phillynow.com/wp-content/themes/valenti/library/css/ie.css?ver=3.2' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://phillynow.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/plugins/login-with-ajax/login-with-ajax.js?ver=4.0'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/plugins/super-socializer/js/front/social_login/common.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/plugins/super-socializer/js/front/facebook/sdk.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/plugins/super-socializer/js/front/social_login/facebook.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/plugins/super-socializer/js/front/facebook/commenting.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/library/js/modernizr.custom.min.js?ver=2.6.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://phillynow.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://phillynow.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<style>.cb-overlay-stars .fa-star, #cb-vote .fa-star, #cb-to-top .fa-long-arrow-up, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, .bbp-submit-wrapper button:visited, .buddypress .cb-cat-header #cb-cat-title a,  .buddypress .cb-cat-header #cb-cat-title a:visited, .woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .woocommerce .star-rating span, .woocommerce-page .star-rating span {
+            color:#eb9812;
+        }#cb-search-modal .cb-header, .cb-join-modal .cb-header, .lwa .cb-header, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            border-color: #eb9812;
+        }.cb-sidebar-widget .cb-sidebar-widget-title, .cb-multi-widget .tabbernav .tabberactive, .cb-author-page .cb-author-details .cb-meta .cb-author-page-contact, .cb-about-page .cb-author-line .cb-author-details .cb-meta .cb-author-page-contact, .cb-page-header, .cb-404-header, .cb-cat-header, #cb-footer #cb-widgets .cb-footer-widget-title span, #wp-calendar caption, .cb-tabs ul .current, #bbpress-forums li.bbp-header, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li.selected, #buddypress div.item-list-tabs ul li.current, #buddypress .item-list-tabs ul li:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+            border-bottom-color: #eb9812 ;
+        }#cb-main-menu .current-post-ancestor, #cb-main-menu .current-menu-item, #cb-main-menu .current-menu-ancestor, #cb-main-menu .current-post-parent, #cb-main-menu .current-menu-parent, #cb-main-menu .current_page_item, #cb-main-menu .current-page-ancestor, #cb-main-menu .current-category-ancestor, .cb-review-box .cb-bar .cb-overlay span, #cb-accent-color, .cb-highlight, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            background-color: #eb9812;
+        }</style><style type="text/css">
+                                                 body, #respond { font-family: 'Open Sans', sans-serif; }
+                                                 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, #cb-nav-bar #cb-main-menu ul li > a, .cb-breaking-news span, .cb-grid-4 h2 a, .cb-grid-5 h2 a, .cb-grid-6 h2 a, .cb-author-posts-count, .cb-author-title, .cb-author-position, .search  .s, .cb-review-box .cb-bar, .cb-review-box .cb-score-box, .cb-review-box .cb-title, #cb-review-title, .cb-title-subtle, #cb-top-menu a, .tabbernav, .cb-byline, #cb-next-link a, #cb-previous-link a, .cb-review-ext-box .cb-score, .tipper-positioner, .cb-caption, .cb-button, #wp-calendar caption, .forum-titles, .bbp-submit-wrapper button, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form .bbp-the-content-wrapper input, #bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink, .widget_display_stats dl dt, .cb-lwa-profile .cb-block, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li, #buddypress .activity-list li.load-more, #buddypress a.activity-time-since, #buddypress ul#groups-list li div.meta, .widget.buddypress div.item-options, .cb-activity-stream #buddypress .activity-header .time-since, .cb-font-header, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .cb-infinite-scroll a, .cb-no-more-posts { font-family:'Oswald', sans-serif; }
+                     </style><style type="text/css">.widget_tag_cloud a {
+    color: #4D4D4D;
+}
+
+.widget_tag_cloud a, .tags-title {
+    color: #4D4D4D;
+}
+
+ .widget_tag_cloud a:hover, .tags-title:hover {
+    color: #4D4D4D;
+  }
+  
+.the_champ_horizontal_sharing {
+    margin-bottom: 30px;
+}#cb-top-menu .cb-breaking-news ul li a { color:#595959; }.header { background-color: #000000; }</style><!-- end custom css --><style>#cb-nav-bar #cb-main-menu .main-nav .menu-item-21:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-21:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-21 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-21 .cb-sub-menu { background:#df2c2a!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-21 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#df2c2a!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-22:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-22 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-23:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-23:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-23 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-23 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-23 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-16:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-16:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-16 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-16 .cb-sub-menu { background:#00b0d6!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-16 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#00b0d6!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-18:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-18:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-18 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-18 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-18 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-17:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-17:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-17 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-17 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-17 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-20:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-20:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-20 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-20 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-20 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-19:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-19:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-19 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-19 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-19 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-104:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-104:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-104 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-104 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-104 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-13:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-13:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-13 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-13 .cb-sub-menu { background:#841a9e!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-13 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#841a9e!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-14:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-14:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-14 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-14 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-14 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-15:hover,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-15:focus,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-15 .cb-sub-menu li .cb-grandchild-menu,
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-15 .cb-sub-menu { background:#eb9812!important; }
+                                             #cb-nav-bar #cb-main-menu .main-nav .menu-item-15 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-92:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-92:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-92 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-92 .cb-sub-menu { background:#eb9812!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-92 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }</style>		<!-- end head functions-->
+
+	</head>
+
+	<body class="error404">
+
+        
+	    <div id="cb-outer-container">
+
+    		<div id="cb-container" class="cb-boxed wrap clearfix"  >
+
+                <header class="header clearfix wrap" role="banner">
+
+                        <div class="wrap clearfix">
+                                                                            <div id="logo" class="cb-with-large">
+                                                <a href="http://phillynow.com">
+                                                    <img src="http://blogs.reviewpublishing.com/pw/wp-content/uploads/sites/2/2014/05/PWsPhillyNowBlogHeader.png" alt="PW&#039;s PhillyNow logo" width="380" height="80" data-retina-src="http://blogs.reviewpublishing.com/pw/wp-content/uploads/sites/2/2014/05/PWsPhillyNowBlogHeader@2x.png" />
+                                                </a>
+                                            </div>
+                                                        </div>
+
+    				    <nav id="cb-nav-bar" class="clearfix stickybar cb-dark-menu" role="navigation">
+
+                            <div id="cb-search-modal" class="cb-dark-menu">
+                        <div class="cb-search-box">
+                            <div class="cb-header">
+                                <div class="cb-title">Search</div>
+                                <div class="cb-close">
+                                    <span class="cb-close-modal"><i class="fa fa-times"></i></span>
+                                </div>
+                            </div><form role="search" method="get" class="cb-search" action="http://phillynow.com/">
+
+    <input type="text" class="cb-search-field" placeholder="" value="" name="s" title="">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+
+</form></div></div> <div class="wrap clearfix"><div id="cb-main-menu" class="menu-categories-container"><ul class="nav main-nav clearfix"><li id="menu-item-21" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-21"><a href="http://phillynow.com/category/now/">What&#8217;s Up Today</a><div class="cb-big-menu"><div class="cb-articles cb-with-sub">
+                                    <div class="cb-featured">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#df2c2a;">Featured</span></div>
+                                        <ul> <li class="cb-article clearfix">
+                        <div class="cb-mask" style="background-color:#df2c2a;"><a href="http://phillynow.com/2014/11/25/science-says-this-whole-ferguson-thing-is-about-race/"><img width="480" height="240" src="http://phillynow.com/wp-content/uploads/sites/2/2014/11/DARRENWILSON-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="DARRENWILSON" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/11/25/science-says-this-whole-ferguson-thing-is-about-race/">Science says this whole Ferguson thing is about race</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/phillynowstaff/">phillynowstaff</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-11-25">November 25, 2014</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder"></i>  <a href="http://phillynow.com/category/phrankly/" title="View all posts in Phrankly Speaking">Phrankly Speaking</a>,  <a href="http://phillynow.com/category/phrankly/uncomfortable/" title="View all posts in Uncomfortable Questions">Uncomfortable Questions</a>,  <a href="http://phillynow.com/category/now/" title="View all posts in What&#039;s Up Now">What's Up Now</a></div></div>
+                        </div></li></ul>
+                                     </div>
+                                     <div class="cb-recent">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#df2c2a;">Recent</span></div>
+                                        <ul> <li class="cb-article-1 clearfix">
+                        <div class="cb-mask" style="background-color:#df2c2a;"><a href="http://phillynow.com/2014/12/02/the-six-days-you-can-park-for-free-in-philly-this-season/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/12/PARKEDCARS-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="row of parked cars" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/02/the-six-days-you-can-park-for-free-in-philly-this-season/">The six days you can park for free in Philly this season</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/jkruger/">Josh Kruger</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-02">December 2, 2014</time></div></div>
+                        </div></li> <li class="cb-article-2 clearfix">
+                        <div class="cb-mask" style="background-color:#df2c2a;"><a href="http://phillynow.com/2014/12/01/on-stage-now-ardens-theatres-beauty-and-the-beast/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/12/4-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Beauty and the Beast at the Arden" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/01/on-stage-now-ardens-theatres-beauty-and-the-beast/">On stage now: Arden Theatre&#8217;s &#8220;Beauty and the Beast&#8221;</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/jrblackwell/">J.R. Blackwell</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-01">December 1, 2014</time></div></div>
+                        </div></li> <li class="cb-article-3 clearfix">
+                        <div class="cb-mask" style="background-color:#df2c2a;"><a href="http://phillynow.com/2014/12/01/philadelphia-police-begin-testing-body-mounted-cameras/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/12/PHILADELPHIAPOLICE-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Police" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/01/philadelphia-police-begin-testing-body-mounted-cameras/">Philadelphia Police begin testing body-mounted cameras</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/jkruger/">Josh Kruger</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-01">December 1, 2014</time></div></div>
+                        </div></li></ul>
+                                     </div>
+                                 </div><ul class="cb-sub-menu">	<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="http://phillynow.com/category/now/do/">Awesome Stuff to Do</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="http://phillynow.com/category/now/news/">News &amp; People</a></li>
+</ul></div></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-16"><a href="http://phillynow.com/category/phrankly/">Phrankly Speaking</a><div class="cb-big-menu"><div class="cb-articles cb-with-sub">
+                                    <div class="cb-featured">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#00b0d6;">Featured</span></div>
+                                        <ul> <li class="cb-article clearfix">
+                        <div class="cb-mask" style="background-color:#00b0d6;"><a href="http://phillynow.com/2014/11/27/timarees-body-students-your-brain-muscle-needs-discipline/"><img width="480" height="240" src="http://phillynow.com/wp-content/uploads/sites/2/2014/11/timaree-Fotolia_-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="Short hair beauty woman wearing glasses vector." /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/11/27/timarees-body-students-your-brain-muscle-needs-discipline/">Timaree’s Body: Students, your brain muscle needs discipline</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/phillynowstaff/">phillynowstaff</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-11-27">November 27, 2014</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder"></i>  <a href="http://phillynow.com/category/phrankly/timaree/" title="View all posts in Timaree&#039;s Body">Timaree's Body</a></div></div>
+                        </div></li></ul>
+                                     </div>
+                                     <div class="cb-recent">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#00b0d6;">Recent</span></div>
+                                        <ul> <li class="cb-article-1 clearfix">
+                        <div class="cb-mask" style="background-color:#00b0d6;"><a href="http://phillynow.com/2014/12/02/updates-jill-scott-stands-by-cosby-and-lincoln-us-prez-quits/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/12/JILLANDBILL-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="JILLANDBILL" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/02/updates-jill-scott-stands-by-cosby-and-lincoln-us-prez-quits/">Updates: Jill Scott stands by Cosby, and Lincoln U&#8217;s prez quits</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/bchenevert/">Bill Chenevert</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-02">December 2, 2014</time></div></div>
+                        </div></li> <li class="cb-article-2 clearfix">
+                        <div class="cb-mask" style="background-color:#00b0d6;"><a href="http://phillynow.com/2014/12/02/the-six-days-you-can-park-for-free-in-philly-this-season/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/12/PARKEDCARS-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="row of parked cars" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/02/the-six-days-you-can-park-for-free-in-philly-this-season/">The six days you can park for free in Philly this season</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/jkruger/">Josh Kruger</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-02">December 2, 2014</time></div></div>
+                        </div></li> <li class="cb-article-3 clearfix">
+                        <div class="cb-mask" style="background-color:#00b0d6;"><a href="http://phillynow.com/2014/12/01/2014-in-review-already-the-50-best-albums-of-the-year/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/11/Angel-feature-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Angel feature" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/01/2014-in-review-already-the-50-best-albums-of-the-year/">2014 in Review (already): The 50 best albums of the year</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/bchenevert/">Bill Chenevert</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-01">December 1, 2014</time></div></div>
+                        </div></li></ul>
+                                     </div>
+                                 </div><ul class="cb-sub-menu">	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://phillynow.com/category/phrankly/review/">The Philly Review</a></li>
+	<li id="menu-item-17" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17"><a href="http://phillynow.com/category/phrankly/randy/">Purplevania</a></li>
+	<li id="menu-item-20" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20"><a href="http://phillynow.com/category/phrankly/uncomfortable/">Uncomfortable Questions</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19"><a href="http://phillynow.com/category/phrankly/timaree/">Timaree&#8217;s Body</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104"><a href="http://phillynow.com/category/phrankly/genevieve/">Genevieve Spoils Everything</a></li>
+</ul></div></li>
+<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-13"><a href="http://phillynow.com/category/pics/">Philly Pics</a><div class="cb-big-menu"><div class="cb-articles cb-with-sub">
+                                    <div class="cb-featured">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#841a9e;">Featured</span></div>
+                                        <ul> <li class="cb-article clearfix">
+                        <div class="cb-mask" style="background-color:#841a9e;"><a href="http://phillynow.com/2014/10/01/30-second-review-kiesza-at-the-tla/"><img width="480" height="240" src="http://phillynow.com/wp-content/uploads/sites/2/2014/10/Kiesza-feature-480x240.jpg" class="attachment-cb-480-240 wp-post-image" alt="Kiesza feature" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/10/01/30-second-review-kiesza-at-the-tla/">30-Second Review: Kiesza at the TLA</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/bchenevert/">Bill Chenevert</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-10-01">October 1, 2014</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder"></i>  <a href="http://phillynow.com/category/pics/scene/" title="View all posts in On the Scene">On the Scene</a>,  <a href="http://phillynow.com/category/phrankly/review/" title="View all posts in The Philly Review">The Philly Review</a></div></div>
+                        </div></li></ul>
+                                     </div>
+                                     <div class="cb-recent">
+                                        <div class="cb-mega-title h2"><span style="border-bottom-color:#841a9e;">Recent</span></div>
+                                        <ul> <li class="cb-article-1 clearfix">
+                        <div class="cb-mask" style="background-color:#841a9e;"><a href="http://phillynow.com/2014/12/01/on-stage-now-ardens-theatres-beauty-and-the-beast/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/12/4-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Beauty and the Beast at the Arden" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/12/01/on-stage-now-ardens-theatres-beauty-and-the-beast/">On stage now: Arden Theatre&#8217;s &#8220;Beauty and the Beast&#8221;</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/jrblackwell/">J.R. Blackwell</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-12-01">December 1, 2014</time></div></div>
+                        </div></li> <li class="cb-article-2 clearfix">
+                        <div class="cb-mask" style="background-color:#841a9e;"><a href="http://phillynow.com/2014/11/26/blue-cross-riverrink-opens-friday-for-skating-sipping-and-snuggling/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/11/FIREWORKS-feature-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="RiverRink fireworks" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/11/26/blue-cross-riverrink-opens-friday-for-skating-sipping-and-snuggling/">Blue Cross RiverRink opens Friday for skating, sipping and snuggling</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/bchenevert/">Bill Chenevert</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-11-26">November 26, 2014</time></div></div>
+                        </div></li> <li class="cb-article-3 clearfix">
+                        <div class="cb-mask" style="background-color:#841a9e;"><a href="http://phillynow.com/2014/11/25/stage-review-lanterns-qed-about-much-more-than-physics/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/11/QED-feature-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="QED feature" /></a></div>
+                        <div class="cb-meta">
+                            <h2 class="h4"><a href="http://phillynow.com/2014/11/25/stage-review-lanterns-qed-about-much-more-than-physics/">Stage Review: Lantern&#8217;s &#8220;QED&#8221; about much more than physics</a></h2>
+                            <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/bchenevert/">Bill Chenevert</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-11-25">November 25, 2014</time></div></div>
+                        </div></li></ul>
+                                     </div>
+                                 </div><ul class="cb-sub-menu">	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://phillynow.com/category/pics/scene/">On the Scene</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://phillynow.com/category/pics/wallpapers/">Philly Wallpapers</a></li>
+</ul></div></li>
+<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a href="http://philadelphiaweekly.com">In This Week&#8217;s PW</a><div class="cb-links-menu"></li>
+<li class="cb-icons"><ul><li class="cb-icon-search"><a href="#" title="Search" class="cb-tip-bot" data-reveal-id="cb-search-modal"><i class="fa fa-search"></i></a></li></ul></li><li id="cb-nav-logo" class="cb-nav-logo-sticky" style="padding-top: 12px"><a href="http://phillynow.com"><img src="http://blogs.reviewpublishing.com/pw/wp-content/uploads/sites/2/2014/05/PhillyNowBlogHeader1-small.png" alt="site logo" width="100" height="18" data-retina-src="http://blogs.reviewpublishing.com/pw/wp-content/uploads/sites/2/2014/05/PhillyNowBlogHeader1-small@2x.png" ></a></li></ul></div></div>
+    	 				</nav>
+
+    	 				
+                            <!-- Secondary Menu -->
+                            <div id="cb-top-menu" class="clearfix cb-dark-menu">
+                                    <div class="wrap clearfix">
+
+                                        <div class="cb-breaking-news"><span>LATEST <i class="fa fa-long-arrow-right"></i></span><ul><li><a href="http://phillynow.com/2014/12/02/updates-jill-scott-stands-by-cosby-and-lincoln-us-prez-quits/" title="Look Updates: Jill Scott stands by Cosby, and Lincoln U&#039;s prez quits" >Updates: Jill Scott stands by Cosby, and Lincoln U's prez quits</a> </li> <li><a href="http://phillynow.com/2014/12/02/the-six-days-you-can-park-for-free-in-philly-this-season/" title="Look The six days you can park for free in Philly this season" >The six days you can park for free in Philly this season</a> </li> <li><a href="http://phillynow.com/2014/12/01/on-stage-now-ardens-theatres-beauty-and-the-beast/" title="Look On stage now: Arden Theatre&#039;s &quot;Beauty and the Beast&quot;" >On stage now: Arden Theatre's "Beauty and the Beast"</a> </li> <li><a href="http://phillynow.com/2014/12/01/philadelphia-police-begin-testing-body-mounted-cameras/" title="Look Philadelphia Police begin testing body-mounted cameras" >Philadelphia Police begin testing body-mounted cameras</a> </li> <li><a href="http://phillynow.com/2014/12/01/2014-in-review-already-the-50-best-albums-of-the-year/" title="Look 2014 in Review (already): The 50 best albums of the year" >2014 in Review (already): The 50 best albums of the year</a> </li> <li><a href="http://phillynow.com/2014/11/28/pa-town-saves-decorates-ugly-christmas-tree-like-charlie-brown/" title="Look PA town saves, decorates &quot;ugly&quot; Christmas tree like Charlie Brown" >PA town saves, decorates "ugly" Christmas tree like Charlie Brown</a> </li> </ul></div><ul class="cb-top-nav"><li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://phillynow.com/about-us/">About PhillyNow</a></li>
+</ul><a href="#" title="Search" class="cb-tip-bot cb-small-menu-icons cb-small-menu-search" data-reveal-id="cb-search-modal"><i class="fa fa-search"></i></a>
+                                        <div id="cb-tap-detect"></div>
+
+                                    </div>
+                            </div>
+                            <!-- /Secondary Menu -->
+
+                        
+                        
+                        
+    	 				<a href="#" id="cb-to-top"><i class="fa fa-long-arrow-up"></i></a>
+
+                        
+                </header> <!-- end header -->	<div class="cb-404-header wrap">
+           <h1 id="cb-cat-title">Page not found</h1>
+    </div>
+    
+	<div id="cb-content" class="wrap clearfix">
+	    
+         <div id="main" class="cb-full-width clearfix" role="main">
+	
+			<article id="post-not-found" class="hentry clearfix">
+	      	              
+				<section class="entry-content">			
+					
+	                <h2>Oops! The page you were looking for was not found.</h2>
+                    <img src="http://phillynow.com/wp-content/themes/valenti/library/images/cb-404.png" data-src-retina="http://phillynow.com/wp-content/themes/valenti/library/images/cb-404@2x.png" class="cloud-404" alt="PW&#039;s PhillyNow 404"/>
+		
+				</section> <!-- end article section -->
+	
+				<section class="search">
+	
+				    <p><form role="search" method="get" class="cb-search" action="http://phillynow.com/">
+
+    <input type="text" class="cb-search-field" placeholder="" value="" name="s" title="">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+
+</form></p>
+	
+				</section> <!-- end search section -->
+					
+			</article> <!-- end article -->
+	
+		</div> <!-- end #main -->
+		
+	</div> <!-- end #cb-content -->
+    
+     			<footer id="cb-footer" class=" wrap" role="contentinfo">
+
+    				<div id="cb-widgets" class="cb-footer-a wrap clearfix">
+
+                                                    <div class="cb-one cb-column clearfix">
+                                <div id="nav_menu-3" class="cb-footer-widget widget_nav_menu"><div class="menu-pw-sites-container"><ul id="menu-pw-sites" class="menu"><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="http://www.philadelphiaweekly.com/">Philadelphia Weekly</a></li>
+</ul></div></div>                            </div>
+                                                                            <div class="cb-two cb-column clearfix">
+                                <div id="text-4" class="cb-footer-widget widget_text">			<div class="textwidget"><p style="text-align: center;">
+<!------ OAS AD 'Middle' begin ------>  
+<A HREF="http://oasc02023.247realmedia.com/RealMedia/ads/click_nx.ads/www.phillynow.com/1[randomNo]@Middle" TARGET="_blank"><IMG SRC="http://oasc02023.247realmedia.com/RealMedia/ads/adstream_nx.ads/www.phillynow.com/1[randomNo]@Middle" Border=0></a> 
+<!------ OAS AD 'Middle' end ------>
+</p></div>
+		</div>                            </div>
+                                                                            <div class="cb-three cb-column clearfix">
+                                <div id="cb-popular-posts-2" class="cb-footer-widget widget-popular-posts widget-latest-articles"><h3 class="cb-footer-widget-title"><span>Popular Posts</span></h3>
+    		<ul class="cb-light cb-small">
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#00b0d6;">
+                	    <a href="http://phillynow.com/2014/06/19/yes-philly-city-council-passes-marijuana-decriminalization/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/06/ST-3-bud-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="ST-3-bud" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://phillynow.com/2014/06/19/yes-philly-city-council-passes-marijuana-decriminalization/">Yes, Philly City Council passes marijuana decriminalization</a></h4>
+                        <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/rlobasso/">Randy LoBasso</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-06-19">June 19, 2014</time></div> <div class="cb-comments cb-byline-element"><span><i class="fa fa-comment"></i><a href="http://phillynow.com/2014/06/19/yes-philly-city-council-passes-marijuana-decriminalization/#comments">8</a></span></div></div>                                           </div>
+                </li>
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#df2c2a;">
+                	    <a href="http://phillynow.com/2014/09/08/nutter-to-sign-pot-bill/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/06/ST-3-bud-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="ST-3-bud" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://phillynow.com/2014/09/08/nutter-to-sign-pot-bill/">Nutter to sign pot bill</a></h4>
+                        <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/rlobasso/">Randy LoBasso</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-09-08">September 8, 2014</time></div> <div class="cb-comments cb-byline-element"><span><i class="fa fa-comment"></i><a href="http://phillynow.com/2014/09/08/nutter-to-sign-pot-bill/#comments">6</a></span></div></div>                                           </div>
+                </li>
+    		
+                <li class="cb-article clearfix">
+                	<div class="cb-mask" style="background-color:#df2c2a;">
+                	    <a href="http://phillynow.com/2014/06/11/gov-corbett-suddenly-cares-about-mass-transit-as-septa-strike-looms/"><img width="80" height="60" src="http://phillynow.com/wp-content/uploads/sites/2/2014/06/800px-Rosemont_PA_SEPTA_Station-80x60.jpg" class="attachment-cb-80-60 wp-post-image" alt="Image via Wikimedia Commons" /></a>                	</div>
+                    <div class="cb-meta">
+                        <h4><a href="http://phillynow.com/2014/06/11/gov-corbett-suddenly-cares-about-mass-transit-as-septa-strike-looms/">Gov. Corbett suddenly cares about mass transit as SEPTA strike looms</a></h4>
+                        <div class="cb-byline"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a href="http://phillynow.com/author/jkruger/">Josh Kruger</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="updated" datetime="2014-06-11">June 11, 2014</time></div> <div class="cb-comments cb-byline-element"><span><i class="fa fa-comment"></i><a href="http://phillynow.com/2014/06/11/gov-corbett-suddenly-cares-about-mass-transit-as-septa-strike-looms/#comments">5</a></span></div></div>                                           </div>
+                </li>
+    		    		</ul>
+    		</div>                                </div>
+                                                
+                    </div>
+
+                    
+                        <div class="cb-footer-lower clearfix">
+
+                            <div class="wrap clearfix">
+
+                                <div class="cb-copyright">Contents copyright 2014 by Philadelphia Weekly. All rights reserved. </div>
+
+        						
+           					</div>
+
+        				</div>
+    				
+    			</footer> <!-- end footer -->
+
+    		</div> <!-- end #cb-container -->
+
+		</div> <!-- end #cb-outer-container -->
+
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/phillynow.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://phillynow.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/library/js/jquery.flexslider-min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/library/js/selectivizr-min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/library/js/jquery.fs.boxer.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/library/js/jquery.ext.js?ver=4.0'></script>
+<script type='text/javascript' src='http://phillynow.com/wp-content/themes/valenti/library/js/cb-scripts.js?ver=3.2'></script>
+
+	</body>
+
+</html> <!-- The End. what a ride! -->

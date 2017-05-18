@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>404 Page | SFFS</title>
+        <meta name="description" content="404 Page" />
+        <meta name="keywords" content="" />
+        <meta property="og:title" content="404 Page" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="http://sffs.org//404-page" />
+        <meta property="og:site_name" content="San Francisco Film Society" />
+        <meta property="og:image" content="http://sffs.org/assets/images/" />
+        <meta property="og:description" content="404 Page" />
+        <meta name="robots" content="" />
+        <base href="http://sffs.org/" />
+        <link rel="shortcut icon" href="/prebuilt/favicon.ico" />
+        <meta name="viewport" content="width=device-width" />
+        <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700,300' rel='stylesheet' type='text/css' />
+        <link href="/assets/prebuilt/css/reset.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/prebuilt/css/colorbox.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/prebuilt/css/jquery-ui-1.10.4.custom.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/prebuilt/css/style.css?ver=0.5?version=2" rel="stylesheet" type="text/css" />
+        <link href="/assets/prebuilt/css/responsive.css" rel="stylesheet" type="text/css" />
+        <!--[if IE]>
+	<script  type="text/javascript" src="/assets/prebuilt/js/html5shiv.js"></script>
+<![endif]-->
+        <script type="text/javascript" src="/assets/prebuilt/js/jquery.js"></script>
+        <script type="text/javascript" src="/assets/prebuilt/js/jquery.hoverIntent.js"></script>
+        <script type="text/javascript" src="/assets/prebuilt/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                function receiveMessage(event) {
+                    // Do we trust the sender of this message?  (might be
+                    // different from what we originally opened, for example).
+                    if (event.origin == "http://tickets.sffs.org" || event.origin == "https://tickets.sffs.org") {
+                        var action = event.data.split("&")[0].split("=")[1];
+
+                        if (action == "close") {
+                            $('#cboxClose').click();
+                        }
+                        else if (action == "resize") {
+                            var height = parseInt(event.data.split("&")[1].split("=")[1]);
+                            //alert(height);
+                            $.colorbox.resize({innerHeight: height});
+                        }
+                    }
+                }
+                window.addEventListener("message", receiveMessage, false);
+            });            
+        </script>
+        <script type="text/javascript" src="/assets/prebuilt/js/global.js?v=3"></script>
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+
+  ga('create', 'UA-7421384-1', 'sffs.org');
+
+  ga('send', 'pageview');
+
+
+
+
+</script></head>
+<body>
+    <section id="mainCntr" >
+        <!--wrapper start-->
+
+<header>
+    <section class="wrapper">
+        <a class="logo" href="/">
+                <img   src="/assets/images/site/logo.png" alt=""  style="max-width:445px;max-height:23px;" />
+</a>
+        <a class="mobilelogo" href="/">
+                <img   src="/assets/images/site/mobile-logo.png" alt=""  style="max-width:179px;max-height:42px;" />
+</a>
+        <a class="toggleMenu" href="#"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a>
+        <a class="mobilesearch" href="#">
+            <img src="/assets/prebuilt/images/search-icon.png" alt=""></a>
+
+        <form class="mobilebox" action="/search-results">
+            <input type="text" name="q" value="">
+            <input type="submit" value="">
+        </form>
+
+        <section class="mobileNav">
+            <a class="menuClose" href="#">
+                <img src="/assets/prebuilt/images/arrw-img.png" alt=""></a>
+            <ul>
+                <li class="home">
+                        <a href="/"    title="Home">
+        Home</a>
+
+                        <ul  >
+    <li >    <a href="/about"    title="About">
+        About</a>
+</li>
+    <li >    <a href="https://community.sffs.org/donations" target="_blank"   title="Donate">
+        Donate</a>
+</li>
+    <li >    <a href="/sponsor"    title="Sponsor">
+        Sponsor</a>
+</li>
+    <li >    <a href="/membership"    title="Membership">
+        Membership</a>
+</li>
+    <li >    <a href="/exhibition/fall-season-2014"    title="Buy Tickets">
+        Buy Tickets</a>
+</li>
+    <li >    <a href="http://prod3.agileticketing.net/websales/pages/viewbasket.aspx?epgguid=26a0f97a-140f-4809-bc60-142a5b5deefa&amp;" target="_blank"   title="My Cart">
+        My Cart</a>
+</li>
+    </ul>	
+
+                </li>
+                    <li class="exhibition">    <a href="/exhibition"    title="Exhibition">
+        Exhibition</a>
+
+                        
+                    </li>
+                    <li class="education">    <a href="/education"    title="Education">
+        Education</a>
+
+                        
+                    </li>
+                    <li class="filmware">    <a href="/filmmaker360"    title="Filmmaker360">
+        Filmmaker360</a>
+
+                        
+                    </li>
+            </ul>
+        </section>
+        <ul class="top_nav">
+    <li >    <a href="/about"    title="About">
+        About</a>
+</li>
+                <li><a href="https://community.sffs.org/donations" onclick="window.open('https://community.sffs.org/donations','1386630580673','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0');return false;">Donate</a></li>  
+    <li >    <a href="/sponsor"    title="Sponsor">
+        Sponsor</a>
+</li>
+    <li >    <a href="/membership"    title="Membership">
+        Membership</a>
+</li>
+    <li >    <a href="/exhibition/fall-season-2014"    title="Buy Tickets">
+        Buy Tickets</a>
+</li>
+                         <li><a href="http://prod3.agileticketing.net/websales/pages/viewbasket.aspx?epgguid=26a0f97a-140f-4809-bc60-142a5b5deefa&amp;" class="shadowbox">My Cart</a></li>  
+            <li>
+                <form action="/search-results" method="get">
+                    <input type="text" name="q" value="" style="width: 0; padding: 0;">
+                    <input type="submit" value="">
+                </form>
+            </li>
+        </ul>
+    </section>
+        <nav>
+            <section class="wrapper">
+                <ul class="pageNavigation">
+                        <li class="exhibition " id="firstNav">    <a href="/exhibition"    title="Exhibition">
+        Exhibition</a>
+</li>
+                        <li class="education " id="secondNav">    <a href="/education"    title="Education">
+        Education</a>
+</li>
+                        <li class="filmware " id="thirdNav">    <a href="/filmmaker360"    title="Filmmaker360">
+        Filmmaker360</a>
+</li>
+                </ul>
+            </section>
+            <section class="dropdown">
+                    <section class="menuContent exhibition firstNav">
+                        <section class="wrapper ">
+                            <aside class="one">
+                                <h2>    <a href="/exhibition"    title="Exhibition">
+        Exhibition</a>
+</h2>
+                                <ul>
+                                        <li>
+                                                <a href="/exhibition/fall-season-2014"    title="Fall Season 2014">
+        Fall Season 2014</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/exhibition/sfiff58-call-for-entries"    title="SFIFF58 Call For Entries">
+        SFIFF58 Call For Entries</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="http://www.sffs.org/festival-home"    title="2014 SF Int'l Film Festival">
+        2014 SF Int'l Film Festival</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/exhibition/archive"    title="Archive">
+        Archive</a>
+
+                                            
+                                        </li>   
+                                </ul>
+                            </aside>
+                                <aside class="common ">
+                                        <a href="/exhibition/sfiff58-call-for-entries"  >    <img src="/assets/images/EXHIBITION/2015 SFIFF/CFE_SFIFF58_212x120_web-01.png" alt=""   />
+</a>
+
+                                    <h3>    <a href="/exhibition/sfiff58-call-for-entries"    title="SFIFF58 Call For Entries">
+        SFIFF58 Call For Entries</a>
+</h3>
+                                    <p>The San Francisco International Film Festival is now accepting submissions to SFIFF58 (April 23- May 7, 2015)!</p>
+                                </aside>
+                                <aside class="common ">
+                                        <a href="/exhibition/special-presentations"  >    <img src="/assets/images/EXHIBITION/SpecialPresentations_Interview_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/exhibition/special-presentations"    title="Special Presentations">
+        Special Presentations</a>
+</h3>
+                                    <p>The Film Society presents numerous special events throughout the year, from film premieres (often with special guests) to screenings with live music, and much more.</p>
+                                </aside>
+                                <aside class="common last">
+                                        <a href="/exhibition/fall-season-2014"  >    <img src="/assets/images/EXHIBITION/Fall Season/2014/Web/FALLSEASON2014_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/exhibition/fall-season-2014"    title="Fall Season 2014">
+        Fall Season 2014</a>
+</h3>
+                                    <p>The Fall Season&ndash;taking place over three exciting, film-filled weekends in November&ndash;brings important new work home to adventurous and inquisitive Bay Area audiences through in-depth explorations of three renowned filmmaking capitals.</p>
+                                </aside>
+                        </section>
+                    </section>
+                    <section class="menuContent education secondNav">
+                        <section class="wrapper ">
+                            <aside class="one">
+                                <h2>    <a href="/education"    title="Education">
+        Education</a>
+</h2>
+                                <ul>
+                                        <li>
+                                                <a href="/education/screenings-for-schools"    title="Screenings for Schools">
+        Screenings for Schools</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/education/filmmakers-in-the-classroom"    title="Filmmakers in the Classroom">
+        Filmmakers in the Classroom</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/education/the-art-and-science-of-lucasfilm"    title="The Art & Science of Lucasfilm">
+        The Art & Science of Lucasfilm</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/education/youth-media-exhibition"    title="Youth Media Exhibition">
+        Youth Media Exhibition</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/education/artist-in-residence"    title="Artist in Residence">
+        Artist in Residence</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/education/colleges-and-universities"    title="Colleges & Universities">
+        Colleges & Universities</a>
+
+                                            
+                                        </li>   
+                                </ul>
+                            </aside>
+                                <aside class="common ">
+                                        <a href="/education/filmmakers-in-the-classroom"  >    <img src="/assets/images/EDUCATION/FITC2_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/education/filmmakers-in-the-classroom"    title="Filmmakers in the Classroom">
+        Filmmakers in the Classroom</a>
+</h3>
+                                    <p>Filmmakers in the Classroom (FITC) is a semester-long program that provides onsite professional development for teachers in grades 4-12 who want to integrate media making and viewing into their classroom curriculum.</p>
+                                </aside>
+                                <aside class="common ">
+                                        <a href="/education/the-art-and-science-of-lucasfilm"  >    <img src="/assets/images/EDUCATION/ART_SCIENCE_LUCASFILM/ASLF2_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/education/the-art-and-science-of-lucasfilm"    title="The Art & Science of Lucasfilm">
+        The Art & Science of Lucasfilm</a>
+</h3>
+                                    <p>Experienced professionals from the various Lucasfilm divisions share their knowledge with Bay Area middle and high school students in a series of behind-the-scenes, interactive multimedia presentations.</p>
+                                </aside>
+                                <aside class="common last">
+                                        <a href="http://filmed.sffs.org/"  >    <img src="/assets/images/site/filmEd_Logo_Stacked_BLK.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="http://filmed.sffs.org/"    title="FilmEd.">
+        FilmEd.</a>
+</h3>
+                                    <p>An interactive platform and Open Educational Resource for teaching media making and viewing in the classroom, FilmEd. is a new online community and toolkit for both educators and artists.</p>
+                                </aside>
+                        </section>
+                    </section>
+                    <section class="menuContent filmware thirdNav">
+                        <section class="wrapper ">
+                            <aside class="one">
+                                <h2>    <a href="/filmmaker360"    title="Filmmaker360">
+        Filmmaker360</a>
+</h2>
+                                <ul>
+                                        <li>
+                                                <a href="/filmmaker360/narrative-grants-and-programs"    title="Narrative Grants & Programs">
+        Narrative Grants & Programs</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/filmmaker360/documentary-grants-and-programs"    title="Documentary Grants & Programs">
+        Documentary Grants & Programs</a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/filmmaker360/filmhouse"    title="FilmHouse ">
+        FilmHouse </a>
+
+                                            
+                                        </li>   
+                                        <li>
+                                                <a href="/filmmaker360/find-a-project"    title="Find A Project">
+        Find A Project</a>
+
+                                            
+                                        </li>   
+                                </ul>
+                            </aside>
+                                <aside class="common ">
+                                        <a href="/filmmaker360/narrative-grants-and-programs/sffs-krf-filmmaking-grant/2014-krf-sffs-grantees"  >    <img src="/assets/images/FM360/KRF_LittleAccidents_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/filmmaker360/narrative-grants-and-programs/sffs-krf-filmmaking-grant/2014-krf-sffs-grantees"    title="2014 KRF / SFFS Grantees">
+        2014 KRF / SFFS Grantees</a>
+</h3>
+                                    <p>SFFS / KRF Filmmaking Grants support feature narrative films that explore antidiscrimination, human and civil rights, gender and sexual identity and other social issues of our time.</p>
+                                </aside>
+                                <aside class="common ">
+                                        <a href="/filmmaker360/documentary-grants-and-programs/documentary-film-fund"  >    <img src="/assets/images/FM360/DFF_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/filmmaker360/documentary-grants-and-programs/documentary-film-fund"    title="Documentary Film Fund">
+        Documentary Film Fund</a>
+</h3>
+                                    <p>The SFFS Documentary Film Fund supports riveting documentaries in postproduction distinguished by compelling stories, intriguing characters and an innovative visual approach.</p>
+                                </aside>
+                                <aside class="common last">
+                                        <a href="/filmmaker360/filmhouse"  >    <img src="/assets/images/FM360/FilmHouse/FilmHouse_sign_FeatureImage_212x120.jpg" alt=""   />
+</a>
+
+                                    <h3>    <a href="/filmmaker360/filmhouse"    title="FilmHouse ">
+        FilmHouse </a>
+</h3>
+                                    <p>The San Francisco Film Society's FilmHouse provides filmmakers with a collaborative work space in the city's bustling Chinatown District.</p>
+                                </aside>
+                        </section>
+                    </section>
+            </section>
+
+        </nav>   
+</header>
+        <section class="bodyCntr pink">
+            
+            <section class="wrapper">
+                    <section class="wrapper">
+        
+        <section class="right_column ">
+                <h1 >404 Page</h1>   
+            <section class="">
+                <section >
+                        <section class="deatilBox">
+        
+        <p>The page you are looking is not located here any more. We recently changed our site around. You can try <a href="/search-results" >searching</a> this site. If you can't find what you are looking for and need help If that doesn't work, you can contact us.</p>
+    </section>
+
+                </section>
+            </section>
+        </section>
+
+        <section class="left_column">
+                <aside class="left_nav">
+        <ul class="mobileAccordion">
+        </ul>
+    </aside>
+
+        </section>
+    </section>
+
+            </section>
+        </section>
+    <section class="sponserBox">
+        <section class="wrapper">
+            <ul style="background: none;">
+                    <li>
+                            <a href="http://www.ingeniux.com" >    <img   src="/assets/images/Ingeniux_clr_framework.png" alt=""  style="max-width:302px;max-height:45px;" />
+</a>
+
+                    </li>
+            </ul>
+        </section>
+    </section>
+<footer>
+    <section class="wrapper">
+        <section class="right">
+                <a class="secondary_btn" style="float:right;" href="http://visitor.r20.constantcontact.com/manage/optin/ea?v=001Y9XAqyV8VF1e_qvqN-Nfjdz3KwetItC27vtqn8M81aYajdp0thW44A%3D%3D" target="_blank" onclick="window.open('http://visitor.r20.constantcontact.com/manage/optin/ea?v=001Y9XAqyV8VF1e_qvqN-Nfjdz3KwetItC27vtqn8M81aYajdp0thW44A%3D%3D','1386630580673','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0');return false;">Sign up for Newsletter</a>
+            <p></p>
+<ul>
+<li><a href="https://www.facebook.com/sanfranciscofilmsociety" target="_blank"> <img alt="" src="images/site/fb-img.png" /></a></li>
+<li><a href="https://twitter.com/SF_FilmSociety" target="_blank"> <img alt="" src="images/site/tw-img1.png" /></a></li>
+<li><a href="http://www.pinterest.com/sffs/" target="_blank"> <img alt="" src="images/site/p-img.png" /></a></li>
+<li><a href="http://blog.sffs.org/home?format=rss" target="_blank"> <img alt="" src="images/site/rss-img1.png" /></a></li>
+</ul>
+        </section>
+        <section class="left">
+                <a href="/" >    <img   src="/assets/images/site/logo-1.png" alt=""  style="max-width:445px;max-height:23px;" />
+</a>
+
+                <ul  >
+    <li >    <a href="/exhibition/archive"    title="Archive">
+        Archive</a>
+</li>
+    <li >    <a href="/press"    title="Press">
+        Press</a>
+</li>
+    <li >    <a href="/education"    title="Education">
+        Education</a>
+</li>
+    <li >    <a href="/exhibition"    title="Exhibition">
+        Exhibition</a>
+</li>
+    <li >    <a href="/filmmaker360"    title="Filmmaker360">
+        Filmmaker360</a>
+</li>
+    </ul>	
+
+            <ul class="copyright">
+<li><a href="http://www.sffs.org/about/contact-us">Contact</a></li>
+<li><a href="/exhibition/calendar#" >Terms &amp; Privacy</a></li>
+<li>&copy; 2014 SAN FRANCISCO FILM SOCIETY.</li>
+</ul>
+        </section>
+    </section>
+</footer>
+</section>
+
+</body>
+</html>

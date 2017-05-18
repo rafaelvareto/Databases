@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+	<!-- HTML5 Boilerplate -->
+	<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+	<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+	<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+	<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+		<!-- Responsive and mobile friendly stuff -->
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.5, minimum-scale=1.0" />
+		<!--[if IEMobile]>
+			<meta http-equiv="cleartype" content="on">
+		<![endif]-->        
+
+		<!-- META information -->
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<title>
+			News From The Future &nbsp;|&nbsp; Gadgets and Gizmos 		</title>
+
+		<!-- Wordpress -->
+		<meta name="generator" content="WordPress 4.0.1" />
+
+		<!-- RSS & Pingback -->
+		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://newsfromthefuture.net/?feed=rss2" />
+		<link rel="alternate" type="text/xml" title="RSS .92" href="http://newsfromthefuture.net/?feed=rss" />
+		<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://newsfromthefuture.net/?feed=atom" />
+		<link rel="pingback" href="http://newsfromthefuture.net/xmlrpc.php" />
+
+		<!-- Queue libraries, stylesheets & scripts -->
+		<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="News From The Future &raquo; Feed" href="http://newsfromthefuture.net/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="News From The Future &raquo; Comments Feed" href="http://newsfromthefuture.net/?feed=comments-rss2" />
+<link rel='stylesheet' id='default-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='html5reset-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/css/html5reset.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='setup-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/css/setup.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='core-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/css/core.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='queries-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/css/queries.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/css/lightbox.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://newsfromthefuture.net/wp-content/themes/cotton/css/font-awesome.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A100%7COpen+Sans%3A300%2C400%2C700%2C800&#038;ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/backtop.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/lightbox.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/respond.src.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/jquery.typer.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/logo.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/calls.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/retina.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/selectivizr-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://newsfromthefuture.net/wp-content/themes/cotton/js/modernizr-2.5.3-min.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://newsfromthefuture.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://newsfromthefuture.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<style>
+		
+		.container-typer {
+			background: #ffffff;
+		}
+		
+		.content-typer h1 {
+			color: #8a8a8a;
+		}
+		
+		.content-typer span.colored {
+			color: #19bb9b;
+		}
+		
+		.container-announce {
+			background: #19bb9b;
+		}
+		
+		.content-announce h1,
+		.content-announce p {
+			color: #ffffff;
+		}
+		
+		.container-innerlead {
+			background: #19bb9b;
+		}
+		
+		.container-blog {
+			background: #f5f5f5;
+		}
+		
+		.container-blog:nth-of-type(2n+0) {
+			background: #ffffff;
+		}
+		
+		.container-blog:nth-of-type(2n+0) .circular {
+			background: #f5f5f5;
+			border: 1em solid #f5f5f5;
+		}
+		
+		.circular {
+			background: #ffffff;
+			border: 1em solid #ffffff;
+		}
+		
+		.content-blog p {
+			color: #8a8a8a;
+		}
+		
+		.content-blog .overlay span {
+			background: #19bb9b;
+		}
+		
+		span.colored {
+			color: #19bb9b;
+		}
+		
+		.container-youtube,
+		.list_container ul li:hover {
+			background: #19bb9b;
+		}
+		
+		.container-action {
+			background: #f5f5f5;
+		}
+		
+		.cform {
+			background: #19bb9b;
+			color: #ffffff;
+		}
+		
+		.wpcf7-submit,
+		div.wpcf7 p {
+			color: #ffffff;
+		}
+		
+		.wpcf7-submit:hover {
+			background: #ffffff;
+			color: #19bb9b;
+		}
+		
+		.content-action h1,
+		.content-action p {
+			color: #8a8a8a;
+		}
+		
+		.container-team {
+			background: #ffffff;
+		}
+		
+		.content-team-title h1 {
+			color: #8a8a8a;
+		}
+		
+		.content-team .overlay span:hover {
+			background: #19bb9b;
+		}
+		
+		.container-gallery {
+			background: #f5f5f5;
+		}
+		
+		.content-gallery-title h1 {
+			color: #8a8a8a;
+		}
+		
+		.content-gallery .overlay span:hover {
+			background: #19bb9b;
+		}
+		
+		.container-grid {
+			background: #19bb9b;
+		}
+		
+		.content-grid h3,
+		.content-grid p,
+		.content-grid .fa {
+			color: #ffffff;
+		}
+		
+		.container-table {
+			background: #ffffff;
+		}
+		
+		.table_top,
+		.table_bottom {
+			background: #36363c;
+		}
+		
+		.table_top h3,
+		.table_top span.price {
+			border-bottom: 1px solid #000000;
+		}
+		
+		.table_top h3,
+		.table_top span.price,
+		.table_top p span,
+		.table_bottom h4 {
+			color: #ffffff;
+		}
+		
+		.table_top p {
+			color: #8a8a8a;
+		}
+		
+		.table_mid {
+			background: #f5f5f5;
+		}
+		
+		.table_mid ul li {
+			color: #8a8a8a;
+		}
+		
+		.table_mid ul li {
+			border-bottom: 1px solid #cdcdcd;
+		}
+		
+		.table_mid ul {
+			border-top: 1px solid #cdcdcd;
+		}
+		
+		.table_bottom span {
+			background: #19bb9b;
+			border: 1px solid #19bb9b;
+		}
+		
+		.table_bottom span:hover {
+			color: #19bb9b;
+		}
+		
+		.table_bottom span:hover {
+			background: #ffffff;
+		}
+		
+		header h1 a,
+		header h1 a:visited,
+		header h1 a:active,
+		header h1 a:hover,
+		#expand_menu {
+			color: #19bb9b;
+		}
+		
+		.dropmenu li a, 
+		.dropmenu li a:link, 
+		.dropmenu li a:visited,
+		.dropmenu li li a, 
+		.dropmenu li li a:link, 
+		.dropmenu li li a:visited,
+		.dropmenu li li li a, 
+		.dropmenu li li li a:link, 
+		.dropmenu li li li a:visited {
+			background: #ffffff;
+			color: #8a8a8a;
+		}
+		
+		.dropmenu li a:hover, 
+		.dropmenu li a:active,
+		.dropmenu li li a:hover, 
+		.dropmenu li li a:active,
+		.dropmenu li li li a:hover, 
+		.dropmenu li li li a:active {
+			background: #f5f5f5;
+			color: #8a8a8a;
+		}
+		
+		.dropmenu li ul,
+		.dropmenu li li ul {
+			background: #ffffff;
+			border: 1px solid #f5f5f5;
+		}
+		
+		.dropmenu .current-post-ancestor a:hover,
+		.dropmenu .current-menu-ancestor a:hover,
+		.dropmenu .current-menu-item a:hover,
+		.dropmenu .current_page_item a:hover,
+		.dropmenu .current-post-ancestor a, 
+		.dropmenu .current-post-ancestor a:visited, 
+		.dropmenu .current-menu-ancestor a, 
+		.dropmenu .current-menu-ancestor a:visited, 
+		.dropmenu .current-menu-item a, 
+		.dropmenu .current-menu-item a:visited, 
+		.dropmenu .current_page_item a, 
+		.dropmenu .current_page_item a:visited,
+		.dropmenu .current-post-ancestor li a, 
+		.dropmenu .current-post-ancestor li a:visited, 
+		.dropmenu .current-menu-ancestor li a, 
+		.dropmenu .current-menu-ancestor li a:visited, 
+		.dropmenu .current-menu-item li a, 
+		.dropmenu .current-menu-item li a:visited, 
+		.dropmenu .current_page_item li a, 
+		.dropmenu .current_page_item li a:visited {
+			background: #19bb9b !important;
+			color: #ffffff !important;
+		}
+		
+		.container-widget {
+			background: #19bb9b;
+		}
+		
+		.content-widget p,
+		.content-widget .fa-6x,
+		.content-widget h1 {
+			color: #ffffff;
+		}
+		
+		.container-widget-1 {
+			background: #19bb9b;
+		}
+		
+		.content-widget-1 p,
+		.content-widget-1 .fa-6x,
+		.content-widget-1 h1 {
+			color: #ffffff;
+		}
+		
+		.container-widget-2 {
+			background: #19bb9b;
+		}
+		
+		.content-widget-2 p,
+		.content-widget-2 .fa-6x,
+		.content-widget-2 h1 {
+			color: #ffffff;
+		}
+		
+		.container-widget-3 {
+			background: #19bb9b;
+		}
+		
+		.content-widget-3 p,
+		.content-widget-3 .fa-6x,
+		.content-widget-3 h1 {
+			color: #ffffff;
+		}
+		
+		.widget li a,
+		.widget li a:visited,
+		.content-widget li a,
+		.content-widget li a:visited {
+			background: #19bb9b;
+			color: #ffffff;
+		}
+
+		.content-widget li a:hover, 
+		.content-widget li a:active {
+			background: #ffffff;
+			color: #19bb9b;
+		}
+
+		.ui-tooltip {
+			background: #F47723;
+		}
+		
+		body .ui-tooltip {
+			color: #ffffff;
+		}
+		
+		#backtotop a {
+			color: #ffffff;
+		}
+		
+		.responsive li a, 
+		.responsive li a:link, 
+		.responsive li a:visited {
+			background: #f5f5f5;
+			color: #8a8a8a;
+		}
+		
+		.responsive li li a, 
+		.responsive li li a:link, 
+		.responsive li li a:visited,
+		.responsive li li li a, 
+		.responsive li li li a:link, 
+		.responsive li li li a:visited {
+			background: #f0f0f0;
+			color: #8a8a8a;
+		}
+		
+		.responsive li a:hover, 
+		.responsive li a:active,
+		.responsive li li a:hover, 
+		.responsive li li a:active,
+		.responsive li li li a:hover, 
+		.responsive li li li a:active {
+			background: #19bb9b;
+			color: #ffffff;
+		}
+		
+		#container-footer {
+			background: #36363c;
+		}
+		
+		footer p {
+			color: #ffffff;
+		}
+		
+		footer .fa,
+		.footmenu li a, 
+		.footmenu li a:link, 
+		.footmenu li a:visited {
+			color: #8a8a8a;
+		}
+		
+		footer .fa:hover,
+		.footmenu li a:hover, 
+		.footmenu li a:active {
+			color: #ffffff;
+		}
+		
+		#container-head {
+			background: #ffffff;
+			border-bottom: 1px solid #e3e3e3;
+		}
+		
+		.container-innerpagination {
+			background: #36363c;
+		}
+		
+		.pagination span,
+		.pagination a {
+			color: #ffffff;
+			border: 1px solid #19bb9b;
+		}
+		
+		.pagination a:hover {
+			background: #19bb9b;
+			color: #ffffff !important;
+			border: 1px solid #19bb9b;
+		}
+		
+		.pagination .current {
+			background: #19bb9b;
+			color: #ffffff;
+			border: 1px solid #19bb9b;
+		}
+		
+		.gallery-item img:hover {
+			border: 1em solid #19bb9b !important;
+		}
+		
+			/*  CUSTOM === */
+			
+			
+			
+		</style><style>
+				#backtotop {
+					text-shadow: 1px 1px #000000;
+				}
+			</style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	</head>
+	<body class="home blog">
+						<div id="Top"></div>
+		<div id="wrapper"><!-- wrapper -->
+			<div id="container-head"><!-- container -->
+				<header class="group"><!-- section -->
+					<div class="row col-2-6 logoalign"><!-- col -->
+																	<h1 class="sitename">
+					<a href="http://newsfromthefuture.net">
+						News From The Future					</a>
+				</h1>
+											</div><!-- /col -->
+					<div class="row col-4-6"><!-- col -->
+								<div id="dropmenucontainer">
+					</div>
+									<a id="expand_menu" title="">
+			<i class="fa fa-bars fa-3x animated bounceInDown"></i>
+		</a>
+						</div><!-- /col -->
+				</header><!-- /section -->
+			</div><!-- /container -->
+			<div class="headgap"></div>
+			<div id="container-expand"><!-- container -->
+				<div id="content-expand"><!-- content -->
+					<div class="row col-3-3"><!-- col -->
+								<div id="responsivecontainer" class="centered_query">
+					</div>
+						</div><!-- /col -->
+				</div><!-- /content -->
+			</div><!-- /container -->		<section class="group"><div class="container-widget"><div class="content-widget"><div class="row col-3-3 centered wow animated fadeInDown" data-wow-offset="100"><form role="search" method="get" id="searchform" class="searchform" action="http://newsfromthefuture.net/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div></div></div></section>		<section class="group"><div class="container-widget"><div class="content-widget"><div class="row col-3-3 centered wow animated fadeInDown" data-wow-offset="100">		<h1>Recent Posts</h1>		<ul>
+					<li>
+				<a href="http://newsfromthefuture.net/?p=1">Hello world!</a>
+						</li>
+				</ul>
+		</div></div></div></section><section class="group"><div class="container-widget"><div class="content-widget"><div class="row col-3-3 centered wow animated fadeInDown" data-wow-offset="100"><h1>Recent Comments</h1><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Mr WordPress</a></span> on <a href="http://newsfromthefuture.net/?p=1#comment-1">Hello world!</a></li></ul></div></div></div></section><section class="group"><div class="container-widget"><div class="content-widget"><div class="row col-3-3 centered wow animated fadeInDown" data-wow-offset="100"><h1>Archives</h1>		<ul>
+	<li><a href='http://newsfromthefuture.net/?m=201409'>September 2014</a></li>
+		</ul>
+</div></div></div></section><section class="group"><div class="container-widget"><div class="content-widget"><div class="row col-3-3 centered wow animated fadeInDown" data-wow-offset="100"><h1>Categories</h1>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://newsfromthefuture.net/?cat=1" >Uncategorized</a>
+</li>
+		</ul>
+</div></div></div></section><section class="group"><div class="container-widget"><div class="content-widget"><div class="row col-3-3 centered wow animated fadeInDown" data-wow-offset="100"><h1>Meta</h1>			<ul>
+						<li><a href="http://newsfromthefuture.net/wp-login.php">Log in</a></li>
+			<li><a href="http://newsfromthefuture.net/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://newsfromthefuture.net/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</div></div></div></section>									<div id="container-footer"><!-- container -->
+				<footer class="group centered"><!-- section -->
+					<div class="row col-6-6"><!-- col -->
+								<div id="footmenucontainer">
+					</div>
+									                
+                        
+                		                                        												<p>COPYRIGHT &copy; 2014 News From The Future. All rights reserved.</p>
+		  
+						</div><!-- /col -->
+				</footer><!-- /section -->
+			</div><!-- /container -->
+		</div><!-- /wrapper -->
+					
+						
+	
+		<div id="backtotop"><a href="#"><i class="fa fa-chevron-up fa-3x animated fadeInRight"></i></a></div>		</body>
+</html>

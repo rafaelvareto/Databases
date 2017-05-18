@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page Not Found - The Cutting Suite</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://thecuttingsuite.com/xmlrpc.php">
+	<link rel="shortcut icon" href="http://thecuttingsuite.com/wp-content/uploads/2014/10/version_5_1-e14122784812102.jpg" />
+
+	<link rel="apple-touch-icon" sizes="144x144" href="http://thecuttingsuite.com/wp-content/uploads/2014/10/version_5_1-e14122784812103.jpg" />
+	<link rel="apple-touch-icon" sizes="72x72" href="http://thecuttingsuite.com/wp-content/uploads/2014/10/version_5_1-e14122784812104.jpg" />
+	<link rel="apple-touch-icon" href="http://thecuttingsuite.com/wp-content/uploads/2014/10/version_5_1-e14122784812105.jpg" />
+
+        <style type="text/css">
+            .jcarousel-control-prev {
+                left: -35px;
+            }
+
+            .jcarousel-control-next {
+                right: -35px;
+            }
+        </style>
+                    <style type="text/css">
+                .acp_wrapper { clear: both;
+                              border-radius: 0px;
+                } 
+                .button_style { margin: 10px 2px 10px 0!important;
+                               padding:0px; 
+                               text-align: center; 
+                               color: #333333 !important;
+                               cursor: pointer; 
+                               overflow: hidden; 
+                               display: inline-block;
+                }
+                .button_style:hover,
+                .button_style:focus {
+                    background: #CCCCCC;
+                } 
+                .button_style a { 
+                    color: #333333 !important; 
+                    text-decoration: none !important;
+                    display: block; 
+                    width: 100%; 
+                    height: 100%; 
+                    overflow: hidden;
+                }  
+                .acp_page_number {
+                    float: left; 
+                    font-size:16px; 
+                    line-height:30px;
+                    padding: 0px 10px;
+                    background:#AAAAAA; 
+                    border:1px solid #AAAAAA !important;
+                    color:#FFFFFF; 
+                    font-weight:bold; 
+                    font-family:arial                }   
+                .paging_btns li.nbox { 
+                    width: auto !important;
+                    height: auto !important;
+                    padding: 1px; 
+                } 
+                .paging_btns li.nbox a { 
+                    height: auto !important; 
+                } 
+                .paging_btns {
+                    list-style: none;
+                    margin: 0 auto!important;
+                    padding: 0; height: auto;
+                    text-align: center; 
+                } 
+                .loader_container {
+                    position: absolute; 
+                    display: none;  
+                    background: ;
+                } 
+                .loader { 
+                    display: block;  
+                    width: 100px; 
+                    height: auto;
+                } 
+                .paging_btns li.active .acp_page_number { 
+                    background:#FFFFFF!important; 
+                    color:#AAAAAA;cursor: default;
+                    border: 1px solid #AAAAAA!important; 
+                } 
+            </style>
+                <!-- PVC Template -->
+    <script type="text/template" id="pvc-stats-view-template">
+	<% if ( total_view > 0 ) { %>
+		<%= total_view %> <%= total_view > 1 ? "total views" : "total view" %>,
+		<% if ( today_view > 0 ) { %>
+			<%= today_view %> <%= today_view > 1 ? "views today" : "view today" %>
+		<% } else { %>
+		no views today		<% } %> 
+	<% } else { %>
+	No views yet	<% } %> 
+	</script>
+    
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - The Cutting Suite" />
+<meta property="og:site_name" content="The Cutting Suite" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The Cutting Suite &raquo; Feed" href="http://thecuttingsuite.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Cutting Suite &raquo; Comments Feed" href="http://thecuttingsuite.com/comments/feed/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    (function() {
+      var shr = document.createElement('script');
+      shr.setAttribute('data-cfasync', 'false');
+      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript'; shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var site_id = '41f92840ac42dc0d63e3f540fc7b9f0d';
+        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
+    Shareaholic.Utils.ajax({
+      cache: true,
+      cache_ttl: '1 minute',
+      url: 'http://thecuttingsuite.com/wp-admin/admin-ajax.php',
+      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
+      success: function(res) {
+        if(res && res.data) {
+          cb(res.data, true);
+        }
+      }
+    })
+  }}}};
+        try { Shareaholic.init(site_id, page_config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='The Cutting Suite' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:site_id' content='41f92840ac42dc0d63e3f540fc7b9f0d' />
+<meta name='shareaholic:wp_version' content='7.6.0.2' />
+
+<!-- Shareaholic Content Tags End -->
+<link rel='stylesheet' id='style-css'  href='http://thecuttingsuite.com/wp-content/plugins/sidebar-menu-widget/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ht-news-ticker-css-css'  href='http://thecuttingsuite.com/wp-content/plugins/ht-news-ticker/assets/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps_style-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/css/owl.carousel.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.theme-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/css/owl.theme.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='http://thecuttingsuite.com/wp-admin/css/color-picker.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps-style-flat-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/themes/flat/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps-style-rossi-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/themes/rossi/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps-style-saiga-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/themes/saiga/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps-style-sako-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/themes/sako/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps-style-ruger-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/themes/ruger/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wcps-style-anti-ruger-css'  href='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/themes/anti-ruger/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A900&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-bootstrap-style-css'  href='http://thecuttingsuite.com/wp-content/plugins/content-views-query-and-display-post-page/assets/bootstrap/css/bootstrap.min.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='http://thecuttingsuite.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/public.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jcarousel-css'  href='http://thecuttingsuite.com/wp-content/plugins/advanced-content-pagination/files/css/jcarousel.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='advpsStyleSheet-css'  href='http://thecuttingsuite.com/wp-content/plugins/advanced-post-slider/advps-style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ayvpp-admin-css'  href='http://thecuttingsuite.com/wp-content/plugins/automatic-youtube-video-posts/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://thecuttingsuite.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cntctfrm_stylesheet-css'  href='http://thecuttingsuite.com/wp-content/plugins/contact-form-plugin/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='a3-pvc-style-css'  href='http://thecuttingsuite.com/wp-content/plugins/page-views-count/assets/css/style.min.css?ver=1.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.8' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wprssmi_template_styles-css'  href='http://thecuttingsuite.com/wp-content/plugins/wp-rss-multi-importer/templates/templates.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://thecuttingsuite.com/wp-content/plugins/wp-twitter-autopost/css/twitter-post.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='areview-bootstrap-css'  href='http://thecuttingsuite.com/wp-content/themes/areview/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='areview-style-css'  href='http://thecuttingsuite.com/wp-content/themes/areview/style.css?ver=4.0.1' type='text/css' media='all' />
+<style type='text/css'>
+.site-title a { color: #ffffff; }
+.entry-title, .entry-title a { color: #505050; }
+.decoration-bar { 
+					background: #00A0B0;
+					background: -moz-linear-gradient(left, #00A0B0 0%, #00A0B0 20%, #4ECDC4 20%, #4ECDC4 40%, #EDC951 40%, #EDC951 60%, #FF6B6B 60%, #FF6B6B 80%, #C44D58 80%, #C44D58 100%);
+					background: -webkit-gradient(left top, right top, color-stop(0%, #00A0B0), color-stop(20%, #00A0B0), color-stop(20%, #4ECDC4), color-stop(40%, #4ECDC4), color-stop(40%, #EDC951), color-stop(60%, #EDC951), color-stop(60%, #FF6B6B), color-stop(80%, #FF6B6B), color-stop(80%, #C44D58), color-stop(100%, #C44D58));
+					background: -webkit-linear-gradient(left, #00A0B0 0%, #00A0B0 20%, #4ECDC4 20%, #4ECDC4 40%, #EDC951 40%, #EDC951 60%, #FF6B6B 60%, #FF6B6B 80%, #C44D58 80%, #C44D58 100%);
+					background: -o-linear-gradient(left, #00A0B0 0%, #00A0B0 20%, #4ECDC4 20%, #4ECDC4 40%, #EDC951 40%, #EDC951 60%, #FF6B6B 60%, #FF6B6B 80%, #C44D58 80%, #C44D58 100%);
+					background: -ms-linear-gradient(left, #00A0B0 0%, #00A0B0 20%, #4ECDC4 20%, #4ECDC4 40%, #EDC951 40%, #EDC951 60%, #FF6B6B 60%, #FF6B6B 80%, #C44D58 80%, #C44D58 100%);
+					background: linear-gradient(to right, #00A0B0 0%, #00A0B0 20%, #4ECDC4 20%, #4ECDC4 40%, #EDC951 40%, #EDC951 60%, #FF6B6B 60%, #FF6B6B 80%, #C44D58 80%, #C44D58 100%);
+					filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00A0B0', endColorstr='#C44D58', GradientType=1 );					
+				}
+
+</style>
+<link rel='stylesheet' id='areview-font-awesome-css'  href='http://thecuttingsuite.com/wp-content/themes/areview/fonts/font-awesome.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='areview-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A700&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='areview-body-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700%2C400italic%2C700italic&#038;ver=4.0.1' type='text/css' media='all' />
+<script type="text/javascript">var ayvpp_root = "http://thecuttingsuite.com";</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DavesWordPressLiveSearchConfig = {"resultsDirection":"down","showThumbs":"true","showExcerpt":"false","showMoreResultsLink":"true","minCharsToSearch":"2","xOffset":"0","yOffset":"0","blogURL":"http:\/\/thecuttingsuite.com","ajaxURL":"http:\/\/thecuttingsuite.com\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%= resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"daves-wordpress-live-search_result <%= liClass %> '\">\n        <% if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) { %>\n                <img src=\"<%= searchResult.attachment_thumbnail %>\" class=\"post_thumb\" \/>\n        <% } %>\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\"><%= searchResult.post_title %><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%= searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <p class=\"excerpt clearfix\"><%= searchResult.post_excerpt %><\/p>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%= searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%= searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%=  resultsSearchTerm %>\"><%= DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/daves-wordpress-live-search/js/daves-wordpress-live-search.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/daves-wordpress-live-search/js/excanvas.compiled.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/daves-wordpress-live-search/js/spinners.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/ht-news-ticker/assets/js/newsTicker.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wcps_ajax = {"wcps_ajaxurl":"http:\/\/thecuttingsuite.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/js/scripts.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/woocommerce-products-slider/js/owl.carousel.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/wp-nice-scrollbar/js/nicescroll.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/advanced-content-pagination/files/js/front-end-scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/advanced-content-pagination/files/js/jquery.jcarousel.min.js?ver=0.3.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/advanced-content-pagination/files/js/jcarousel.responsive.js?ver=0.3.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-includes/js/backbone.min.js?ver=1.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vars = {"api_url":"http:\/\/thecuttingsuite.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/page-views-count/assets/js/pvc.backbone.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/themes/areview/js/jquery.nicescroll.min.js?ver=1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/themes/areview/js/nicescroll-init.js?ver=1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/themes/areview/js/scripts.js?ver=1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/themes/areview/js/jquery.fitvids.js?ver=1'></script>
+<link media="screen" type="text/css" href="http://thecuttingsuite.com/wp-content/uploads/sass/wc_widget_product_slider_lite.min.css" rel="stylesheet" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thecuttingsuite.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thecuttingsuite.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<meta name="generator" content="WooCommerce 2.2.8" />
+    <!-- Slider Template -->
+    <script type="text/template" id="wc_product_slider_widget_item_tpl">
+		{{ var item_title_html = ''; }}
+				{{ if ( item_title != '' ) { }}
+			{{ item_title_html += '<div class="cycle-product-name"><a href="' + item_link + '">' + item_title + '</a></div>'; }}
+		{{ } }}
+				{{ if ( product_price != '' ) { }}
+			{{ item_title_html += '<div class="cycle-product-price">'+ product_price +'</div>'; }}
+		{{ } }}
+				{{ var cycle_desc = '<a class="cycle-product-linked" href="' + item_link + '">View this Product</a>'; }}
+				<img 
+			data-cycle-number="{{= index_product }}" 
+			src="{{= img_url }}" 
+			name="{{- item_title_html }}" 
+			title="" 
+			data-cycle-desc="{{ if ( item_link != '' ) { }} {{- cycle_desc }}{{ } }}" 
+            style=" {{ if ( index_product > 1 ) { }} display:none; {{ } }} "
+            {{ if ( typeof extra_attributes !== 'undefined' && extra_attributes != '' ) { }} {{= extra_attributes }} {{ } }}
+		/>
+	</script>
+    
+    <script type="text/template" id="wc_product_slider_mobile_item_tpl">
+		{{ var item_title_html = ''; }}
+				{{ if ( product_price != '' ) { }}
+			{{ item_title_html += '<div class="cycle-product-price">'+ product_price +'</div>'; }}
+		{{ } }}
+		{{ var category_tag_link = ''; }}
+						{{ if ( is_used_mobile_skin == 'true' ) { }}
+			<img 
+				src="{{= img_url }}" 
+				title="{{- item_title_html }}" 
+				data-cycle-desc="{{- category_tag_link }}" 
+				style=" {{ if ( index_product > 1 ) { }} display:none; {{ } }} "
+			/>
+		{{ } else { }}
+			<img 
+				src="{{= img_url }}" 
+				title="{{- item_title_html }}" 
+				alt="" 
+				style=" {{ if ( index_product > 1 ) { }} display:none; {{ } }} "
+			/>
+		{{ } }}
+	</script>
+    
+    <script type="text/javascript">
+		jQuery(document).ready(function() {
+			jQuery("html").niceScroll({
+			cursorcolor:"#398bd3",
+			cursorwidth:"10px",
+			cursorborderradius:"4px",
+			autohidemode:false,
+			cursorborder:"1px solid #fff",
+			scrollspeed:"60",
+			horizrailenabled:true,
+			touchbehavior:false,
+			});
+		});
+	</script>
+
+<!-- BEGIN GADWP v4.3.6 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55812144-1', 'auto');  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+<!--[if lt IE 9]>
+<script src="http://thecuttingsuite.com/wp-content/themes/areview/js/html5shiv.js"></script>
+<![endif]-->
+<link rel='stylesheet' id='daves-wordpress-live-search-css'  href='http://thecuttingsuite.com/wp-content/plugins/daves-wordpress-live-search/css/daves-wordpress-live-search_default_blue.css?ver=4.0.1' type='text/css' media='all' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://thecuttingsuite.com/wp-content/themes/areview/pattern.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+</head><div class="ht_ticker"><ul id="ht_news3" style="background-color:#dfdfdf"><span class="title" style="background-color:#353739; color:#5FB404;" >WHATS NEW TODAY ?</span><li>
+               <a href="http://thecuttingsuite.com/beyonce-7-eleven-claims-slurpee-pic-was-all-her-idea/" style="color:#343434">Beyonce &#8212; 7-Eleven Claims Slurpee Pic Was All Her Idea</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/andre-berto-carnival-ridin-with-trey-songz-chris-brown-at-insane-birthday-party/" style="color:#343434">Andre Berto &#8212; Carnival Ridin&#8217; With Trey Songz &amp; Chris Brown &#8230; At INSANE Birthday Party</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/first-look-viv-albertines-new-memoir-recalls-birth-of-punk-music-and-fashion/" style="color:#343434">First Look: Viv Albertine&#8217;s New Memoir Recalls Birth of Punk Music and Fashion</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/martin-scorsese-producing-grateful-dead-doc/" style="color:#343434">Martin Scorsese Producing Grateful Dead Doc</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/vanessa-hudgens-gets-bangs/" style="color:#343434">Vanessa Hudgens Gets Bangs</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/demi-lovato-says-she-is-a-princess-not-a-queen/" style="color:#343434">Demi Lovato Says She Is a Princess, Not a Queen</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/darius-rucker-wants-you-to-see-better/" style="color:#343434">Darius Rucker Wants You to See Better</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/kristian-bush-of-sugarland-teams-up-with-goodwill/" style="color:#343434">Kristian Bush of Sugarland Teams Up With Goodwill</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/whats-in-taylor-swifts-future/" style="color:#343434">What&#8217;s In Taylor Swift&#8217;s Future?</a>
+    </li><li>
+               <a href="http://thecuttingsuite.com/listen-to-jennifer-lawrence-sing-the-hanging-tree-for-hunger-games-mockingjay-part-1/" style="color:#343434">Listen to Jennifer Lawrence Sing &#8220;The Hanging Tree&#8221; for &#8216;Hunger Games: Mockingjay, Part 1&#8242;</a>
+    </li></ul></div>
+
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        jQuery("#ht_news3").newsTicker({
+        row_height: 30,
+        max_rows: 1,
+        speed: 800,
+        duration: 5000,
+        autostart: 1,
+        pauseOnHover: 0,
+    });
+});
+</script>
+<body class="error404 custom-background group-blog">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<header id="masthead" class="site-header" role="banner">
+		<div class="container">
+			<div class="site-branding">
+									<a href="http://thecuttingsuite.com/" title="The Cutting Suite"><img src="http://thecuttingsuite.com/wp-content/uploads/2014/10/version_5_1-e14122784812106.jpg" alt="The Cutting Suite" /></a>
+							</div>
+					
+		</div>
+	</header><!-- #masthead -->
+	<div class="clearfix">
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<div class="container">
+				<button class="menu-toggle btn"><i class="fa fa-bars"></i></button>
+							
+					<span class="home-icon"><a href="http://thecuttingsuite.com/" rel="home"><i class="fa fa-home"></i></a></span>
+							
+				<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://thecuttingsuite.com/">Home</a></li>
+<li id="menu-item-4126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4126"><a href="http://thecuttingsuite.com/music-tube/">Music Tube</a></li>
+<li id="menu-item-5487" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-5487"><a href="http://thecuttingsuite.com/blog/">Blog</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="http://thecuttingsuite.com/category/articles/">Articles</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50"><a href="http://thecuttingsuite.com/category/unsigned-daily/">Unsigned Daily</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-51"><a>Our Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://thecuttingsuite.com/the-cutting-suite-digital-mastering/">Digital Mastering</a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://thecuttingsuite.com/mixdown-services/">MixDown Services</a></li>
+	<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://thecuttingsuite.com/cutting-suite-vinyl-mastering/">vinyl mastering</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://thecuttingsuite.com/before-vs-after/">before vs after</a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://thecuttingsuite.com/cutting-suite-in-house-equipment/">Equipment</a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://thecuttingsuite.com/cutting-suite-dj-services/">DJ services</a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://thecuttingsuite.com/location-recording-services/">recording services</a></li>
+</ul>
+</li>
+<li id="menu-item-3794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3794"><a>Twitter</a>
+<ul class="sub-menu">
+	<li id="menu-item-3797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3797"><a href="http://thecuttingsuite.com/tweets/">Our Tweets</a></li>
+	<li id="menu-item-3796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3796"><a href="http://thecuttingsuite.com/music-tweets/">Music Tweets</a></li>
+	<li id="menu-item-3795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3795"><a href="http://thecuttingsuite.com/celebgossip-tweets/">Celeb Gossip Tweets</a></li>
+	<li id="menu-item-13054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13054"><a href="http://thecuttingsuite.com/unsignedartist/">#UnsignedArtist</a></li>
+</ul>
+</li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://thecuttingsuite.com/contact-us/">Contact us</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="http://thecuttingsuite.com/faq/">FAQ</a></li>
+</ul></div>			</div>
+		</nav><!-- #site-navigation -->
+		<div class="decoration-bar"></div>
+	</div>
+
+	
+	<div id="content" class="site-content container">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+					<form role="search" method="get" class="search-form" action="http://thecuttingsuite.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>
+							<div class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://thecuttingsuite.com/beyonce-7-eleven-claims-slurpee-pic-was-all-her-idea/">Beyonce &#8212; 7-Eleven Claims Slurpee Pic Was All Her Idea</a>
+						</li>
+					<li>
+				<a href="http://thecuttingsuite.com/andre-berto-carnival-ridin-with-trey-songz-chris-brown-at-insane-birthday-party/">Andre Berto &#8212; Carnival Ridin&#8217; With Trey Songz &amp; Chris Brown &#8230; At INSANE Birthday Party</a>
+						</li>
+					<li>
+				<a href="http://thecuttingsuite.com/first-look-viv-albertines-new-memoir-recalls-birth-of-punk-music-and-fashion/">First Look: Viv Albertine&#8217;s New Memoir Recalls Birth of Punk Music and Fashion</a>
+						</li>
+					<li>
+				<a href="http://thecuttingsuite.com/martin-scorsese-producing-grateful-dead-doc/">Martin Scorsese Producing Grateful Dead Doc</a>
+						</li>
+					<li>
+				<a href="http://thecuttingsuite.com/vanessa-hudgens-gets-bangs/">Vanessa Hudgens Gets Bangs</a>
+						</li>
+				</ul>
+		</div>
+										<div class="widget widget_categories">
+						<h2 class="widget-title">Most Used Categories</h2>
+						<ul>
+							<li class="cat-item cat-item-4"><a href="http://thecuttingsuite.com/category/blog/" >Blog</a> (2,803)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://thecuttingsuite.com/category/articles/" >Articles</a> (1,892)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://thecuttingsuite.com/category/music-videos/" >Music Videos</a> (201)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://thecuttingsuite.com/category/uncategorized/" title="[advps-slideshow-optset2]">Uncategorized</a> (1)
+</li>
+						</ul>
+					</div><!-- .widget -->
+					
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. <img src="http://thecuttingsuite.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://thecuttingsuite.com/2014/11/'> November 2014 </option>
+	<option value='http://thecuttingsuite.com/2014/10/'> October 2014 </option>
+	<option value='http://thecuttingsuite.com/2014/09/'> September 2014 </option>
+	<option value='http://thecuttingsuite.com/2014/08/'> August 2014 </option>
+	<option value='http://thecuttingsuite.com/2014/07/'> July 2014 </option>
+	<option value='http://thecuttingsuite.com/2014/06/'> June 2014 </option>
+	<option value='http://thecuttingsuite.com/2013/08/'> August 2013 </option>
+		</select>
+</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href='http://thecuttingsuite.com/tag/blog/' class='tag-link-4' title='1,814 topics' style='font-size: 22pt;'>Blog</a>
+<a href='http://thecuttingsuite.com/tag/calvin-harris/' class='tag-link-16' title='1 topic' style='font-size: 8pt;'>Calvin Harris</a>
+<a href='http://thecuttingsuite.com/tag/celeb-gossip/' class='tag-link-18' title='1 topic' style='font-size: 8pt;'>Celeb Gossip</a>
+<a href='http://thecuttingsuite.com/tag/celeb-nudes/' class='tag-link-11' title='1 topic' style='font-size: 8pt;'>Celeb Nudes</a>
+<a href='http://thecuttingsuite.com/tag/gossip/' class='tag-link-26' title='1,814 topics' style='font-size: 22pt;'>Gossip</a>
+<a href='http://thecuttingsuite.com/tag/icloud-hack/' class='tag-link-12' title='1 topic' style='font-size: 8pt;'>iCloud Hack</a>
+<a href='http://thecuttingsuite.com/tag/kim-kardashian/' class='tag-link-13' title='1 topic' style='font-size: 8pt;'>Kim Kardashian</a>
+<a href='http://thecuttingsuite.com/tag/money/' class='tag-link-19' title='1 topic' style='font-size: 8pt;'>Money</a>
+<a href='http://thecuttingsuite.com/tag/music-awards/' class='tag-link-10' title='1 topic' style='font-size: 8pt;'>Music Awards</a>
+<a href='http://thecuttingsuite.com/tag/musichits/' class='tag-link-28' title='1,814 topics' style='font-size: 22pt;'>MusicHits</a>
+<a href='http://thecuttingsuite.com/tag/musicnews/' class='tag-link-27' title='1,814 topics' style='font-size: 22pt;'>MusicNews</a>
+<a href='http://thecuttingsuite.com/tag/music-news/' class='tag-link-17' title='1 topic' style='font-size: 8pt;'>Music News</a>
+<a href='http://thecuttingsuite.com/tag/musicupdates/' class='tag-link-29' title='1,814 topics' style='font-size: 22pt;'>MusicUpdates</a>
+<a href='http://thecuttingsuite.com/tag/music-video/' class='tag-link-9' title='1 topic' style='font-size: 8pt;'>Music Video</a>
+<a href='http://thecuttingsuite.com/tag/nicki-minaj/' class='tag-link-8' title='1 topic' style='font-size: 8pt;'>Nicki Minaj</a>
+<a href='http://thecuttingsuite.com/tag/pics/' class='tag-link-15' title='1 topic' style='font-size: 8pt;'>Pics</a>
+<a href='http://thecuttingsuite.com/tag/sexy/' class='tag-link-14' title='1 topic' style='font-size: 8pt;'>Sexy</a></div>
+</div>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+				<div class="decoration-bar footer-bar"></div>
+	<div id="sidebar-footer" class="footer-widget-area clearfix" role="complementary">
+		<div class="container">
+										<div class="sidebar-column col-md-4 col-sm-4"> <aside id="text-3" class="widget widget_text"><h3 class="widget-title">Digital mastering</h3>			<div class="textwidget"><p>Digital mastering is simply an updated service. This involves the sending a receiving of files between the mastering house and the customer using the internet. This way making the process more efficient and less time consuming so we can pass the savings onto you , the customer.</p>
+<p>The sites we would recommend using to upload your tracks would be:</p>
+</div>
+		</aside> </div> 				<div class="sidebar-column col-md-4 col-sm-4"> <aside id="text-4" class="widget widget_text"><h3 class="widget-title">CD Mastering</h3>			<div class="textwidget"><p>With CD mastering, we can produce warm detail mastered from your original music. We also recommend you leave it as close to the original as possible, as we have a collection of superb valve compressors and EQs that are beyond the budget of many recording studios.</p>
+<p>Our mastering techniques include passing the signal from our Sadie mastering system through pristine converters.</p>
+</div>
+		</aside> </div> 				<div class="sidebar-column col-md-4 col-sm-4"> <aside id="text-5" class="widget widget_text"><h3 class="widget-title">The Cutting Suite Mixdown service</h3>			<div class="textwidget"><p>We offer a full mix-down service for all the most popular software music production packages available today, in both PC and Mac formats. You can also bring multi-track files of your Protools sessions or from a 24-track tape transfer.</p>
+<p>We can import these files into Sadie 5, or Protools to be re-mixed using our extensive array of plug-ins and outboard for reverb, delay and dynamics to achieve stunning-quality mixes using our superb monitoring systems. </p>
+</div>
+		</aside> </div> 		</div>	
+	</div>	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="decoration-bar"></div>
+		<div class="site-info container">
+			<a href="https://pjtec.co.uk/">Proudly powered by PJ Tec</a>
+			<span class="sep"> | </span>
+			Copyright © 2014 <a href="http://thecuttingsuite.com/contact-us">Cutting Suite</a> | All Rights Reserve | <a href="http://www.thecuttingsuite.com/contact"> terms of use</a> | <a href="http://www.thecuttingsuite.com/contact"> Contact us</a> | <a href="http://www.thecuttingsuite.com/contact"> Advertisement</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript'>jQuery(document).ready(function(){ jQuery('a.colorbox').colorbox({iframe:true, width:'80%', height:'80%'});jQuery('a.rssmi_youtube').colorbox({iframe:true, innerWidth:425, innerHeight:344})});</script><link rel='stylesheet' id='wc-product-slider-styles-css'  href='http://thecuttingsuite.com/wp-content/plugins/woo-widget-product-slideshow/assets/css/wc-product-slider.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wprssmi_colorbox-css'  href='http://thecuttingsuite.com/wp-content/plugins/wp-rss-multi-importer/css/colorbox.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/thecuttingsuite.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/thecuttingsuite.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/thecuttingsuite.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/thecuttingsuite.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/thecuttingsuite.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/thecuttingsuite.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/thecuttingsuite.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//thecuttingsuite.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.8'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/content-views-query-and-display-post-page/assets/bootstrap/js/bootstrap.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/content-views-query-and-display-post-page/assets/bootstrap-paginator/bootstrap-paginator.min.js?ver=0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"is_admin":"","is_mobile":"","_prefix":"pt-cv-","ajaxurl":"http:\/\/thecuttingsuite.com\/wp-admin\/admin-ajax.php","lang":"","_nonce":"2ada5b18b0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/public.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/themes/areview/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/themes/areview/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/backbone/backbone.localStorage.js?ver=1.1.9'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/backbone/product_sliders_app.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_product_slider_vars = {"legacy_api_url":"\/\/thecuttingsuite.com\/wc-api\/wc_product_slider_legacy_api"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/backbone/product_slider.backbone.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/wp-rss-multi-importer/scripts/jquery.colorbox-min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thecuttingsuite.com/wp-content/plugins/wp-rss-multi-importer/scripts/detect-mobile.js?ver=4.0.1'></script>
+    	<script type="text/javascript">
+		(function($) {
+		$(function(){
+			wc_product_sliders_app.start();
+		});
+		})(jQuery);
+		</script>
+    
+</body>
+</html>

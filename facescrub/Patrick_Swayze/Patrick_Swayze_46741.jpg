@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<title>Page Not Found - Nosham.com</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Nosham.com" />
+<meta property="og:site_name" content="Nosham.com" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Nosham.com &raquo; Feed" href="http://nosham.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nosham.com &raquo; Comments Feed" href="http://nosham.com/comments/feed/" />
+<link rel='stylesheet' id='genesis-sample-theme-css'  href='http://nosham.com/wp-content/themes/genesis-sample/style.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='arconix-portfolio-css'  href='http://nosham.com/wp-content/plugins/arconix-portfolio/includes/css/arconix-portfolio.css?ver=1.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://nosham.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://nosham.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://nosham.com/?sccss=1&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://nosham.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://nosham.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://nosham.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.tracking_callback=['ready',wpa2a.script_onready];
+//--></script>
+<link rel="Shortcut Icon" href="http://nosham.com/wp-content/themes/genesis-sample/images/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="error404 header-image content-sidebar" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://nosham.com/">Nosham.com</a></p><p class="site-description" itemprop="description">The Adventures of Alan Rooster</p></div><aside class="widget-area header-widget-area"><section id="social-widget-2" class="widget Social_Widget"><div class="widget-wrap"><div class="socialmedia-buttons smw_right"><a href="https://www.facebook.com/alan.gallicchio" rel="nofollow" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a><a href="https://plus.google.com/u/0/+AlanGallicchio/" rel="publisher" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/googleplus.png" 
+				alt="Follow Us on Google+" 
+				title="Follow Us on Google+" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a><a href="http://it.linkedin.com/pub/alan-gallicchio/49/104/3a2/" rel="nofollow" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/linkedin.png" 
+				alt="Follow Us on LinkedIn" 
+				title="Follow Us on LinkedIn" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a><a href="http://www.imdb.com/user/ur26401809/lists?tab=public&sort=modified:desc&filter=titles,people,characters,images,videos" rel="nofollow" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/imdb.png" 
+				alt="Follow Us on IMDb" 
+				title="Follow Us on IMDb" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a><a href="https://www.youtube.com/user/alannosham" rel="nofollow" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/youtube.png" 
+				alt="Follow Us on YouTube" 
+				title="Follow Us on YouTube" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a><a href="http://vimeo.com/nosham" rel="nofollow" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/vimeo.png" 
+				alt="Follow Us on Vimeo" 
+				title="Follow Us on Vimeo" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a><a href="mailto:alanrooster@gmail.com" rel="nofollow" target="_blank"><img width="64" height="64" src="http://nosham.com/wp-content/plugins/social-media-widget/images/default/64/email.png" 
+				alt="Follow Us on E-mail" 
+				title="Follow Us on E-mail" style="opacity: 0.5; -moz-opacity: 0.5;" class="fade" /></a></div></div></section></aside></div></header><nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-main" class="menu genesis-nav-menu menu-primary"><li id="menu-item-6522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6522"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-6526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6526"><a href="http://nosham.com/about-me/">About me</a></li>
+	<li id="menu-item-6527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6527"><a href="http://nosham.com/faq/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-7311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7311"><a href="http://nosham.com/travels/">Travels</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-544"><a target="_blank" href="http://vimeo.com/nosham/videos/sort:alphabetical/format:thumbnail">Videos</a></li>
+<li id="menu-item-6523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6523"><a href="#">Writings</a>
+<ul class="sub-menu">
+	<li id="menu-item-6531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6531"><a href="http://nosham.com/poems/">Poems</a></li>
+	<li id="menu-item-6530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6530"><a href="http://nosham.com/books/">Books</a></li>
+	<li id="menu-item-6532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6532"><a href="http://nosham.com/quotes/">Quotations</a></li>
+</ul>
+</li>
+<li id="menu-item-6519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6519"><a href="#">Contacts</a>
+<ul class="sub-menu">
+	<li id="menu-item-6533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6533"><a href="http://nosham.com/contact/">Contact me</a></li>
+	<li id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6529"><a href="http://nosham.com/guestbook/">Guestbook</a></li>
+</ul>
+</li>
+<li id="menu-item-6520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6520"><a target="_blank" href="http://www.facebook.com/groups/182327631842283/">Deserted Island Project</a></li>
+<li id="menu-item-6984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6984"><a target="_blank" href="http://www.idealwoman.info">Ideal woman project</a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" role="main" itemprop="mainContentOfPage"><article class="entry"><h1 class="entry-title">Not found, error 404</h1><div class="entry-content"><p>The page you are looking for no longer exists. Perhaps you can return back to the site's <a href="http://nosham.com">homepage</a> and see if you can find what you are looking for. Or, you can try finding it by using the search form below.</p><form method="get" class="search-form" action="http://nosham.com/" role="search"><input type="search" name="s" placeholder="Search this website&#x2026;" /><input type="submit" value="Search" /></form><p></p></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><section id="search-3" class="widget widget_search"><div class="widget-wrap"><form method="get" class="search-form" action="http://nosham.com/" role="search"><input type="search" name="s" placeholder="Search this website&#x2026;" /><input type="submit" value="Search" /></form></div></section><section id="categories-2" class="widget widget_categories"><div class="widget-wrap"><h4 class="widget-title widgettitle">Categories</h4>
+		<ul>
+	<li class="cat-item cat-item-4"><a href="http://nosham.com/category/art-films/" >Art &amp; Films</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://nosham.com/category/books-learning/" >Books &amp; Learning</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://nosham.com/category/business-politics/" >Business &amp; Politics</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://nosham.com/category/deserted-island-project/" >Deserted Island Project</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://nosham.com/category/friends-love/" >Friends &amp; Love</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://nosham.com/category/health-sport/" >Health &amp; Sport</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://nosham.com/category/ideal-woman-project/" >Ideal Woman Project</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://nosham.com/category/immortals/" >Idols</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://nosham.com/category/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://nosham.com/category/technology/" >Technology</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://nosham.com/category/thinking-learning/" >Thinking &amp; Learning</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://nosham.com/category/travels/" >Travels</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://nosham.com/category/videos/" >Videos</a>
+</li>
+		</ul>
+</div></section><section id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-wrap"><h4 class="widget-title widgettitle">Tags</h4>
+<div class="tagcloud"><a href='http://nosham.com/tag/adventures/' class='tag-link-17' title='13 topics' style='font-size: 17.873684210526pt;'>adventures</a>
+<a href='http://nosham.com/tag/airplanes/' class='tag-link-19' title='2 topics' style='font-size: 8pt;'>airplanes</a>
+<a href='http://nosham.com/tag/blog/' class='tag-link-21' title='14 topics' style='font-size: 18.315789473684pt;'>blog</a>
+<a href='http://nosham.com/tag/bullshit/' class='tag-link-23' title='15 topics' style='font-size: 18.610526315789pt;'>bullshit</a>
+<a href='http://nosham.com/tag/canary-islands/' class='tag-link-25' title='9 topics' style='font-size: 15.663157894737pt;'>canary islands</a>
+<a href='http://nosham.com/tag/china/' class='tag-link-27' title='21 topics' style='font-size: 20.673684210526pt;'>china</a>
+<a href='http://nosham.com/tag/colombia/' class='tag-link-28' title='7 topics' style='font-size: 14.189473684211pt;'>colombia</a>
+<a href='http://nosham.com/tag/computers/' class='tag-link-29' title='8 topics' style='font-size: 14.926315789474pt;'>computers</a>
+<a href='http://nosham.com/tag/costarica/' class='tag-link-30' title='3 topics' style='font-size: 9.7684210526316pt;'>costa rica</a>
+<a href='http://nosham.com/tag/dedicated/' class='tag-link-32' title='4 topics' style='font-size: 11.242105263158pt;'>dedicated</a>
+<a href='http://nosham.com/tag/diet/' class='tag-link-33' title='4 topics' style='font-size: 11.242105263158pt;'>diet</a>
+<a href='http://nosham.com/tag/diving/' class='tag-link-35' title='5 topics' style='font-size: 12.421052631579pt;'>diving</a>
+<a href='http://nosham.com/tag/food/' class='tag-link-42' title='4 topics' style='font-size: 11.242105263158pt;'>food</a>
+<a href='http://nosham.com/tag/fun/' class='tag-link-44' title='7 topics' style='font-size: 14.189473684211pt;'>fun</a>
+<a href='http://nosham.com/tag/germany/' class='tag-link-45' title='3 topics' style='font-size: 9.7684210526316pt;'>germany</a>
+<a href='http://nosham.com/tag/hong-kong/' class='tag-link-46' title='3 topics' style='font-size: 9.7684210526316pt;'>hong kong</a>
+<a href='http://nosham.com/tag/illness/' class='tag-link-47' title='5 topics' style='font-size: 12.421052631579pt;'>illness</a>
+<a href='http://nosham.com/tag/indonesia/' class='tag-link-48' title='6 topics' style='font-size: 13.452631578947pt;'>indonesia</a>
+<a href='http://nosham.com/tag/italy/' class='tag-link-50' title='26 topics' style='font-size: 22pt;'>italy</a>
+<a href='http://nosham.com/tag/look/' class='tag-link-52' title='5 topics' style='font-size: 12.421052631579pt;'>look</a>
+<a href='http://nosham.com/tag/love/' class='tag-link-53' title='11 topics' style='font-size: 16.842105263158pt;'>love</a>
+<a href='http://nosham.com/tag/malaysia/' class='tag-link-55' title='8 topics' style='font-size: 14.926315789474pt;'>malaysia</a>
+<a href='http://nosham.com/tag/maldives/' class='tag-link-56' title='4 topics' style='font-size: 11.242105263158pt;'>maldives</a>
+<a href='http://nosham.com/tag/music/' class='tag-link-60' title='3 topics' style='font-size: 9.7684210526316pt;'>music</a>
+<a href='http://nosham.com/tag/nosham/' class='tag-link-61' title='8 topics' style='font-size: 14.926315789474pt;'>nosham</a>
+<a href='http://nosham.com/tag/peru/' class='tag-link-63' title='4 topics' style='font-size: 11.242105263158pt;'>peru</a>
+<a href='http://nosham.com/tag/philippines/' class='tag-link-64' title='5 topics' style='font-size: 12.421052631579pt;'>philippines</a>
+<a href='http://nosham.com/tag/philosophy/' class='tag-link-65' title='17 topics' style='font-size: 19.494736842105pt;'>philosophy</a>
+<a href='http://nosham.com/tag/poetry/' class='tag-link-67' title='6 topics' style='font-size: 13.452631578947pt;'>poetry</a>
+<a href='http://nosham.com/tag/quotes/' class='tag-link-69' title='3 topics' style='font-size: 9.7684210526316pt;'>quotes</a>
+<a href='http://nosham.com/tag/rest-in-peace/' class='tag-link-71' title='9 topics' style='font-size: 15.663157894737pt;'>rest in peace</a>
+<a href='http://nosham.com/tag/singapore/' class='tag-link-75' title='8 topics' style='font-size: 14.926315789474pt;'>Singapore</a>
+<a href='http://nosham.com/tag/skills/' class='tag-link-77' title='4 topics' style='font-size: 11.242105263158pt;'>skills</a>
+<a href='http://nosham.com/tag/south-korea/' class='tag-link-78' title='8 topics' style='font-size: 14.926315789474pt;'>south korea</a>
+<a href='http://nosham.com/tag/taiwan/' class='tag-link-83' title='7 topics' style='font-size: 14.189473684211pt;'>taiwan</a>
+<a href='http://nosham.com/tag/thailand/' class='tag-link-85' title='14 topics' style='font-size: 18.315789473684pt;'>thailand</a>
+<a href='http://nosham.com/tag/travelstyle/' class='tag-link-86' title='12 topics' style='font-size: 17.284210526316pt;'>travelstyle</a>
+<a href='http://nosham.com/tag/truth/' class='tag-link-87' title='9 topics' style='font-size: 15.663157894737pt;'>truth</a>
+<a href='http://nosham.com/tag/usa/' class='tag-link-89' title='3 topics' style='font-size: 9.7684210526316pt;'>USA</a>
+<a href='http://nosham.com/tag/videogames/' class='tag-link-90' title='4 topics' style='font-size: 11.242105263158pt;'>videogames</a>
+<a href='http://nosham.com/tag/visa/' class='tag-link-91' title='3 topics' style='font-size: 9.7684210526316pt;'>visa</a>
+<a href='http://nosham.com/tag/web/' class='tag-link-92' title='12 topics' style='font-size: 17.284210526316pt;'>web</a>
+<a href='http://nosham.com/tag/working/' class='tag-link-93' title='7 topics' style='font-size: 14.189473684211pt;'>working</a>
+<a href='http://nosham.com/tag/writing-2/' class='tag-link-94' title='10 topics' style='font-size: 16.252631578947pt;'>writing</a>
+<a href='http://nosham.com/tag/you-suck/' class='tag-link-95' title='24 topics' style='font-size: 21.557894736842pt;'>you suck</a></div>
+</div></section></aside></div></div><footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright (c) 2008 · Nosham.com · All rights reserved · Alan Gallicchio</p></div></footer></div>
+<script type="text/javascript"><!--
+wpa2a.targets=[];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+<script type='text/javascript' src='http://nosham.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/nosham.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nosham.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.1'></script>
+</body>
+</html>

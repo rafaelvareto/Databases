@@ -1,0 +1,1351 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="ie7"> <![endif]-->
+<!--[if IE 8]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="ie9"> <![endif]-->
+<!--[if IE 10]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="ie10"> <![endif]-->
+<!--[if gt IE 10]><!--> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <!--<![endif]-->
+<head>
+<title>404 - Page Not Found</title>
+<title></title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="index, follow" />
+<meta name="google-site-verification" content="RO6Myq5CBHIGAdYZ4ngOJmbJY0WpKgzmJv216LEHN5I" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel='icon' href='../../../images/favicons/dish.ico'><link href="../../../css/usdish.responsive.css" rel="stylesheet" type="text/css" />
+<!-- Qualaroo for usdish.com -->
+<!-- Paste this code right after the <body> tag on every page of your site. -->
+<script type='text/javascript'>var _kiq = _kiq || [];</script>
+<script type='text/javascript' src='//s3.amazonaws.com/ki.js/44490/9BG.js' async='true'></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="/js/ui/smoothness/jquery-ui-1.9.2.custom.min.css" />
+
+<script type='text/javascript'>var _gaq=_gaq||[]; 
+_gaq.push(['_setAccount','UA-6291086-8']); 
+_gaq.push(['_setDomainName', 'usdish.com']); 
+_gaq.push(['_setCustomVar',1,'PromoCode','19481',2]);
+_gaq.push(['_setSiteSpeedSampleRate', 50]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
+</script>
+<script>
+window['optimizely'] = window['optimizely'] || [];
+window['optimizely'].push(['trackEvent', 'promocode_19481']);
+</script>
+
+<script src='//cdn.optimizely.com/js/101615148.js'></script>
+<meta name="msvalidate.01" content="C8E37BE36C8F9902B46A60BC354A63AF" />
+
+
+<script>
+var _prum = [['id', '5418c6cfabe53ddf4e388639'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<script src='/js/jquery.peelback.custom.vs.js'></script>
+        <script>
+          $(function(){
+            $('body').peelback({
+              adImage  : '/images/usdish.com/new/black_friday_peel.png',
+              peelImage  : '/images/usdish.com/new/peel-image.png',
+              clickURL : '#',
+              targetWindow : '_self',
+              gaTrack  : true,
+              gaLabel  : 'Black Friday Sale',
+              autoAnimate: true
+            });
+          });
+        </script>
+        
+<style>
+#peelback {
+z-index: 800;
+position: relative;
+}
+@media screen and (max-width: 767px) {
+    #peelback, #peeloverlay{
+        display: none !important;
+    }
+}
+</style>
+
+</head>
+<body id="construct" class="_404">
+<div id="extHeader">
+	<style type='text/css'>
+     .blackFriday{
+         width: 73px;
+         height: 135px;
+         background: url(/images/usdish.com/new/black_friday_mobile.png) no-repeat;
+         position: absolute;
+         z-index: 200;
+         top: 200px;
+         right: 0px;
+     }
+     .blackFriday.full{
+         width: 291px;
+     }
+     .blackFriday:hover{
+         cursor: pointer;
+     }
+ </style>
+ <div class='blackFriday show-for-small'></div>
+<div class='row-full greyBar'>
+    <div class='row'>
+        <div class='large-10 columns medium-9'>
+            <p class='grey-text'>Call NOW 1-855-826-1337 / 24-Hour Installation Available in Most Areas</p>
+        </div>
+        <div class='large-2 columns search-box medium-3'>
+             <form onsubmit='_gaq.push(['_trackEvent','ZipFinder','Submitted'])' method='post' class='zip-holder' id='zipCheck'>
+                <input type='text' id='zip-lookup' maxlength='5' class='zip-lookup' value='Zip Code' name='zip'>
+                <input type='button' class='btn' id='zip-submit' value=''>
+             </form>
+             <div class='error-text'>
+                <p>Please enter a valid zip code.</p>
+             </div>
+            <div id='st-results-container'></div>
+        </div>
+    </div>
+</div>
+<div class='row-full'>
+    <div class='row'>
+        <div class='large-12 columns'>
+            <div class='large-2 columns logo medium-2 small-2'>
+                <a href='/' onclick="_gaq.push(['_trackEvent', 'DISH Logo', 'Clicks DISH Logo']);"><img src='/images/usdish.com/new/dishLogo.png' alt='DISH Logo'/></a>
+            </div>
+                <a href='#_' class='menu show-for-mobile showTablet' id='menu-click'>
+              <div id='bars'>
+              <img src='/images/usdish.com/responsive/menu-bars.png' />
+              </div>
+              <div id='main-red'>
+              <img src='/images/usdish.com/responsive/red-menu-bars.png' />
+              </div>
+              </a>
+            <div class='large-10 columns medium-10'>
+                <div class='nav hide-for-mobile hiddenTablet' >
+    <div class='navItem packages parent ' data-childmenu='packagesMenuItem'>
+        <a href='/packages.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Packages']);">
+            <div class='bg'> </div>
+            <p class='navTitle'>Packages</p>
+        </a>
+        <div class='subMenu packagesMenuItem'>
+            <a href='/packages.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'DISH Packages', 'Packages']);">DISH Packages</a>
+            <a href='/specials.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Specials', 'Packages']);">Specials</a>
+            <a href='/channel_lineup.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Channel Lineups', 'Packages']);">Channel Lineups</a>
+            <a href='/packages_sports.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Sports', 'Packages']);" class='compareNav'>Sports</a>
+            <div class='subMenu compareMenu joeyMenu'>
+                <a href='/packages/sports/multi-sport-pack' id='compare-nav' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Multi Sport Pack', 'Packages']);">Multi Sport Pack<span class='arrow right'></a>
+                <a href='/packages/sports/sec-network' id='compare-nav' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'SEC Network', 'Packages']);">SEC Network<span class='arrow right'></a>
+            </div>
+            <a href='/premium_movies.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Premium Channels', 'Packages']);">Premium Channels</a>
+            <a href='/programming_international.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'International', 'Packages']);">International</a>
+            <a href='/programming_adult.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Adult', 'Packages']);">Adult</a>
+        </div>
+    </div>
+    
+    <div class='navItem features parent' data-childmenu='featuresMenuItem'>
+        <a href='#'>
+            <div class='bg'> </div>
+            <p class='navTitle'>Features</p>
+        </a>
+        <div class='subMenu featuresMenuItem'>
+            <a href='/packages_turbohd.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'DISH HD', 'Features']);">DISH HD</a>
+                        <a href='#' class='localChannelsLink'>Local Channels <span class='arrow right'></a>
+        <div class='geoMenu'>
+            <span class='title'>Select By State</span>
+            <a href='#' class='af'>A - D <span class='arrow right'></a>
+            <div class='subGeoStates af'>
+                <a href='/dishnetwork-alabama.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Alabama</a>
+                <a href='/dishnetwork-arizona.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Arizona</a>
+                <a href='/dishnetwork-arkansas.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Arkansas</a>
+                <a href='/dishnetwork-california.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">California</a>
+                <a href='/dishnetwork-colorado.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Colorado</a>
+                <a href='/dishnetwork-connecticut.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Connecticut</a>
+                <a href='/dishnetwork-delaware.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Delaware</a>
+            </div>
+            <a href='#' class='fl'>F - L <span class='arrow right'></span></a>
+            <div class='subGeoStates fl'>
+                <a href='/dishnetwork-florida.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Florida</a>
+                <a href='/dishnetwork-georgia.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Georgia</a>
+                <a href='/dishnetwork-idaho.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Idaho</a>
+                <a href='/dishnetwork-illinois.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Illinois</a>
+                <a href='/dishnetwork-indiana.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Indiana</a>
+                <a href='/dishnetwork-iowa.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Iowa</a>
+                <a href='/dishnetwork-kansas.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Kansas</a>
+                <a href='/dishnetwork-kentucky.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Kentucky</a>
+                <a href='/dishnetwork-louisiana.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Louisiana</a>
+            </div>
+            <a href='#' class='m'>M <span class='arrow right'></span></a>
+            <div class='subGeoStates m'>
+                <a href='/dishnetwork-maine.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Maine</a>
+                <a href='/dishnetwork-maryland.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Maryland</a>
+                <a href='/dishnetwork-massachusetts.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Massachusetts</a>
+                <a href='/dishnetwork-michigan.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Michigan</a>
+                <a href='/dishnetwork-minnesota.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Minnesota</a>
+                <a href='/dishnetwork-mississippi.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Mississippi</a>
+                <a href='/dishnetwork-missouri.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Missouri</a>
+                <a href='/dishnetwork-montana.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Montana</a>
+            </div>
+            <a href='#' class='no'>N - O <span class='arrow right'></span></a>
+            <div class='subGeoStates no'>
+                <a href='/dishnetwork-nebraska.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Nebraska</a>
+                <a href='/dishnetwork-nevada.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Nevada</a>
+                <a href='/dishnetwork-new-hampshire.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">New Hampshire</a>
+                <a href='/dishnetwork-new-jersey.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">New Jersey</a>
+                <a href='/dishnetwork-new-mexico.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">New Mexico</a>
+                <a href='/dishnetwork-new-york.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">New York</a>
+                <a href='/dishnetwork-north-carolina.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">North Carolina</a>
+                <a href='/dishnetwork-north-dakota.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">North Dakota</a>
+                <a href='/dishnetwork-ohio.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Ohio</a>
+                <a href='/dishnetwork-oklahoma.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Oklahoma</a>
+                <a href='/dishnetwork-oregon.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Oregon</a>
+            </div>
+            <a href='#' class='pw'>P - W <span class='arrow right'></span></a>
+            <div class='subGeoStates pw'>
+                <a href='/dishnetwork-pennsylvania.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Pennsylvania</a>
+                <a href='/dishnetwork-rhode-island.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Rhode Island</a>
+                <a href='/dishnetwork-south-carolina.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">South Carolina</a>
+                <a href='/dishnetwork-south-dakota.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">South Dakota</a>
+                <a href='/dishnetwork-tennessee.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Tennessee</a>
+                <a href='/dishnetwork-texas.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Texas</a>
+                <a href='/dishnetwork-utah.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Utah</a>
+                <a href='/dishnetwork-vermont.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Vermont</a>
+                <a href='/dishnetwork-virginia.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Virginia</a>
+                <a href='/dishnetwork-washington.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Washington</a>
+                <a href='/dishnetwork-west-virginia.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">West Virginia</a>
+                <a href='/dishnetwork-wisconsin.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Wisconsin</a>
+                <a href='/dishnetwork-wyoming.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Geo', 'Features']);">Wyoming</a>
+            </div>
+            </div>
+                        <a href='/equipment.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Equipment', 'Features']);">Equipment </a>
+            <a href='/equipment/hopper' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'DISH Hopper', 'Features']);" class='compareNav'>DISH Hopper </a>
+            <div class='subMenu compareMenu joeyMenu'>
+                <a href='/equipment/joey' id='compare-nav' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Joey', 'Features']);">DISH Joey<span class='arrow right'></a>
+            </div>
+            <a href='/compare_dish.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Compare', 'Features']);">Compare</a>
+                
+            <a href='/blockbuster' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Blockbuster at Home', 'Features']);">Blockbuster @Home</a>
+            <a href='/equipment/tailgater' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Tailgater', 'Features']);">Tailgater</a>
+            <a style="padding-right: 0; height:37px;" href='/dish-network-reviews' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'DISH Network Reviews', 'Features']);">DISH Network Reviews</a>
+        </div>
+    </div>
+    <div class='navItem latino parent'  data-childmenu='latinoMenuItem'>
+        <a href='/dishlatino' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'DishLATINO']);">
+        <div class='bg'> </div>
+        <p class='navTitle'>DishLATINO</p>
+        </a>
+        <div class='subMenu packagesMenuItem'>
+            <a href="http://latino.usdish.com/paquetes?kbid=72818" onclick="_gaq.push(['_trackEvent', 'Top Nav', 'dishLATINO', 'Paquetes']);" style='width:160px;'>Paquetes (en Español)</a>
+            <a href='/dishlatino' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'dishLATINO', 'Packages']);" style='width:160px;'>Packages (in English)</a>
+            
+        </div>
+    </div>
+    <div class='navItem internet '>
+        <a href='/internet.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Internet']);">
+        <div class='bg'> </div>
+        <p class='navTitle'>Internet</p>
+        </a>
+        <div class='subMenu packagesMenuItem'>
+            <a href='/internet.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Internet', 'Internet']);">Internet</a>
+            <a href='/bundles.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Bundles', 'Internet']);">DISH Bundles</a>
+            
+        </div>
+    </div>
+    
+    <div class='navItem business '>
+        <a href='/commercial.html' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Business']);">
+        <div class='bg'> </div>
+        <p class='navTitle'>Business</p>
+        </a>
+    </div>
+    
+    <div class='navItem last order'>
+        <a href="/order.html" onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Order Form']);">    
+    <div class='bg'> </div>
+    <p class='navTitle'>Order DISH</p>
+    </a>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class='row-full'>
+    <div class='row'>
+        <div class='large-12 columns'>
+            <div class='mobile-nav show-for-mobile showTablet' id='nav'>
+                <div id='main-nav'>
+                <div class='packages' id='menu-click1'>
+                    <a href='#' class='down-arrow' id='white-arrw' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Packages']);">Packages</a>
+                </div>
+                <ul id='subnav'>
+                        <li>
+                            <a href='/packages.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'DISH Packages', 'Packages']);">DISH Packages</a>
+                        </li>
+                        <li>
+                            <a href='/specials.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Specials', 'Packages']);">Specials</a>
+                        </li>
+                        <li>
+                            <a href='/channel_lineup.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Channel Lineups', 'Packages']);">Channel Lineups</a>
+                        </li>
+                        <li>
+                            <a href='/packages_sports.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Sports', 'Packages']);">Sports</a>
+                        </li>
+                        <li>
+                            <a href='/packages/sports/multi-sport-pack' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Multi Sport Pack', 'Packages']);">Multi Sport Pack</a>
+                        </li>
+                        <li>
+                            <a href='/packages/sports/sec-network' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'SEC Network', 'Packages']);">SEC Network</a>
+                        </li>
+                        <li>
+                            <a href='/premium_movies.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Premium Channels', 'Packages']);">Premium Channels</a>
+                        </li>
+                        <li>
+                            <a href='/programming_international.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'International', 'Packages']);">International</a>
+                        </li>
+                        <li>
+                            <a href='/programming_adult.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Adult', 'Packages']);">Adult</a>
+                        </li>
+                    </ul>
+                <div class='features' id='menu-click2'>
+                    <a href='#' class='down-arrow' id='white-arrw2'>Features</a>
+                </div>
+                <ul id='subnav2'>
+                        <li>
+                            <a href='/packages_turbohd.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'DISH HD', 'Features']);">DISH HD</a>
+                        </li>
+                        <li>
+                            <a href='#' id='local-nav' class='right-arrow' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Local Channels</a>
+                        </li>
+                        <li>
+                            <a href='/equipment.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Equipment', 'Features']);">Equipment</a>
+                        </li>
+                        <li>
+                            <a href='/equipment/hopper' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'DISH Hopper', 'Features']);">DISH Hopper</a>
+                        </li>
+                        <li>
+                            <a href='/equipment/joey' id='compare-nav' onclick="_gaq.push(['_trackEvent', 'Top Nav', 'Joey', 'Features']);">DISH Joey<span class='arrow right'></a>
+                        </li>
+                        <li>
+                            <a href='http://www.usdish.com/compare_dish.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Compare', 'Features']);">Compare</a>
+                        </li>
+                        <li>
+                            <a href='/blockbuster' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Blockbuster at Home', 'Features']);">Blockbuster @Home</a>
+                        </li>
+                        <li>
+                            <a href='/equipment/tailgater' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Tailgater', 'Features']);">Tailgater</a>
+                        </li>
+                        <li>
+                            <a href='/dish-network-reviews' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Dish Network Reviews', 'Features']);">Dish Network Reviews</a>
+                        </li>
+                    </ul>
+                <div class='latino' id='menu-click-latino'>
+                    <a href='#' class='down-arrow' id='white-arrow' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'DishLATINO']);">DishLATINO</a>
+                    <ul id='subnav-latino'>
+                        <li>
+                            <a href='http://latino.usdish.com/paquetes?kbid=72818' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'dishLatino', 'Paquetes']);">Paquetes (en Español)</a>
+                        </li>
+                        <li>
+                            <a href='/dishlatino' id='local-nav' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Packages (in English)</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class='internet' id='menu-click4'>
+                    <a href='#' class='down-arrow' id='white-arrw4' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Internet']);">Internet</a>
+                </div>
+                    <ul id='subnav4'>
+                        <li>
+                            <a href='/internet.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Internet', 'Internet']);">Internet</a>
+                        </li>
+                        <li>
+                            <a href='/bundles.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Bundles', 'Internet']);">DISH Bundles</a>
+                        </li>
+                    </ul>
+                <div class='business' id='menu-click-business'>
+                    <a href='/commercial.html'  onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Business']);">Business</a>
+                </div>
+                <!--<div class='order' >
+                    <a href='/order.html' onclick="_gaq.push(['_trackEvent', 'Order_Form', 'Mobile_Clicked', '1Choose_Options']);">Order DISH</a>
+                </div>
+                <div class='order'>
+                    <a href='/review-page.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'DISH Network Reviews', 'Features']);">Leave a Review</a>
+                </div>-->
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                
+                <div class='local-channels hide' id='state-abrev'>
+                <div>
+                    <a href='#' class='left-arrow' id='local' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Local Channels</a>
+                </div>
+                <div>
+                    <a href='#' class='right-arrow' id='a-d'>A - D</a>
+                </div>
+                <div>
+                    <a href='#' class='right-arrow' id='f-l'>F - L</a>
+                </div>
+                <div>
+                    <a href='#' class='right-arrow' id='m'>M</a>
+                </div>
+                <div>
+                    <a href='#' class='right-arrow' id='n-o'>N - O</a>
+                </div>
+                <div>
+                    <a href='#' class='right-arrow' id='p-w'>P - W</a>
+                </div>
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                
+                <div class='local-channels hide' id='state-nav1'>
+                <div>
+                    <a href='#' class='left-arrow first return' >A - D</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-alabama.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Alabama</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-arizona.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Arizona</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-arkansas.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Arkansas</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-california.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">California</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-colorado.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Colorado</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-connecticut.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Connecticut</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-delaware.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Delaware</a>
+                </div>
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                
+                <div class='local-channels hide' id='state-nav2'>
+                <div>
+                    <a href='#' class='left-arrow first return' >F - L</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-florida.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Florida</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-georgia.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Georgia</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-idaho.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Idaho</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-illinois.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Illinois</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-indiana.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Indiana</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-iowa.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Iowa</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-kansas.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Kansas</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-kentucky.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Kentucky</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-louisiana.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Louisiana</a>
+                </div>
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                
+                <div class='local-channels hide' id='state-nav3'>
+                <div>
+                    <a href='#' class='left-arrow first return' >M</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-maine.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Maine</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-maryland.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Maryland</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-massachusetts.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Massachusetts</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-michigan.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Michigan</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-minnesota.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Minnesota</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-mississippi.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Mississippi</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-missouri.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Missouri</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-montana.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Montana</a>
+                </div>
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                
+                <div class='local-channels hide' id='state-nav4'>
+                <div>
+                    <a href='#' class='left-arrow first return' >N - O</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-nebraska.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Nebraska</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-nevada.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Nevada</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-new-hampshire.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">New Hampshire</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-new-jersey.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">New Jersey</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-new-mexico.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">New Mexico</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-new-york.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">New York</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-north-carolina.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">North Carolina</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-north-dakota.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">North Dakota</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-ohio.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Ohio</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-oklahoma.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Oklahoma</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-oregon.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Oregon</a>
+                </div>
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                
+                <div class='local-channels hide' id='state-nav5'>
+                <div>
+                    <a href='#' class='left-arrow first return'>P - W</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-pennsylvania.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Pennsylvania</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-rhode-island.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Rhode Island</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-south-carolina.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">South Carolina</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-south-dakota.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">South Dakota</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-tennessee.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Tennessee</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-texas.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Texas</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-utah.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Utah</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-vermont.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Vermont</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-virginia.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Virginia</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-washington.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Washington</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-west-virginia.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">West Virginia</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-wisconsin.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Wisconsin</a>
+                </div>
+                <div>
+                    <a href='/dishnetwork-wyoming.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Geo', 'Features']);">Wyoming</a>
+                </div>
+                <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                </div>
+                </div>
+                <div class='compare-menu hide' id='compare-menu'>
+                    <div>
+                        <a href='#' class='left-arrow' id='compareHide'>Compare</a>
+                    </div>
+                    <div>
+                        <a href='/compare_dish.html' onclick="_gaq.push(['_trackEvent', 'Mobile Top Nav', 'Compare', 'Features']);">Compare DISH</a>
+                    </div>
+                    <div class='close menu-click3'>
+                    <a href='#' class='up-arrow'>Close Menu</a>
+                    </div>
+                </div>
+    
+        </div>
+    </div>
+</div>
+</div>
+
+</div>
+<div id="container">
+	<div class='row-full'>
+  <div class='row'>
+    <div class='large-12 columns focus'>
+        <a href='/packages.html'>
+          <h3 class='whiteText'>Watch TV Anywhere with <span class='redText'>DISH</span>. Except Here.</h3>
+          <h3 class='whiteText'>We recommend you DO NOT watch this video!</h3>
+        </a>
+</div>
+    
+    <div class='large-12 columns'>
+      <div class='cta hide-for-mobile'>
+      Get DISH Now: 1-855-826-1337
+      </div>
+
+      <div class='show-for-mobile call-box'>
+                <a href='tel: 1-855-826-1337' class='phone' onclick="_gaq.push(['_trackEvent', 'Button', 'Click to Call', 'Header']);">
+                <div class='call-btn' id='redBar'>
+                <span class='phone-icon'></span> Click to Call Now
+                </div>
+                </a>
+                <div class='lGrey'>
+                    1-855-826-1337
+                </div>
+</div>
+
+    </div>
+  </div>
+</div>
+<div class='row-full'>
+    <div class='row'>
+        <div class='main-content large-12 columns'>
+            <div class='large-12 columns center bottom40'>
+                <h4>CHECK OUT THESE NEW FEATURES FROM DISH</h4>
+            </div>
+            <div class='large-4 medium-4 columns center top20'>
+                <img src='/images/usdish.com/new/dishNetLogo.png' alt='dishNet' />
+                <p>Bundle your DISH Video service with dishNET, high-speed internet Available Anywhere</p>
+            </div>
+            <div class='large-4 medium-4 columns center'>
+                <img src='/images/usdish.com/new/blockbusterAtHomeLogo.jpg' alt='Blockbuster at Home' />
+                <p>Over 20 entertainment channels, plus thousands of movies and shows</p>
+            </div>
+            <div class='large-4 medium-4 columns center top30'>
+                <img src='/images/usdish.com/new/hopperLogo.jpg' alt='Dish Hopper' />
+                <p>The Hopper<sup>&trade;</sup> Whole-Home HD DVR</p>
+            </div>
+        </div>
+    </div>
+</div>
+<h3 class='cta test' style='display: none;'>Open 7 Days a Week • Se Habla Español</h3>
+
+</div>
+<div id="extFooter">
+	<div class='row-full footer hide-for-mobile'>
+    <div class='row'>
+        <div class='large-12 columns'>
+            <div class='large-3 columns us-logo medium-3'>
+                <img src="/images/usdish.com/new/usdishFooterLogo.png" alt="USDish Logo" />
+            </div>
+            <div class='large-6 columns footer-cta medium-6'>
+                <div class='phoneicon'></div>
+                <h2>1-855-826-1337</h2>
+                <div class="h6">Call Now for 24-Hour Installation Available in Most Areas</div>
+            </div>
+            <div class='large-3 columns dish-logo medium-3'>
+                <img src="/images/usdish.com/new/dishFooterLogo.png" alt="DISH Logo" />
+            </div>
+                <div class='large-12 columns footer-nav'>
+                <div class="large-2 columns medium-2" style='width: 20%;'>
+                    <p class="redText footerTitle">Packages</p>
+                    <div class="pack-nav">
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_dishfamily.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Smart Pack', 'Packages']);">Smart Pack</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_top100.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'America's Top 120', 'Packages']);">America's Top 120<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_top200.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'America's Top 200', 'Packages']);">America's Top 200<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_top250.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'America's Top 250', 'Packages']);">America's Top 250<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_everything.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'America's Everything', 'Packages']);">America&#39;s "Everything" Pak<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="http://latino.usdish.com/?kbid=70842" onclick="_gaq.push(['_trackEvent', 'Footer', 'DishLATINO', 'Packages']);">DishLATINO</a></div>
+                    </div>
+                </div>
+                <div class="large-2 columns medium-2">
+                    <p class="redText footerTitle">Channels</p>
+                    <div class="channel-nav">
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../programming_international.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'International', 'Channels']);">International</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_sports.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Sports', 'Channels']);">Sports</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../commercial.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Commercial', 'Channels']);">Commercial</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../programming_adult.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Adult', 'Channels']);">Adult</a></div>
+                    </div>
+                </div>
+                <div class="large-2 columns medium-2">
+                    <p class="redText footerTitle">Technology</p>
+                    <div class="tech-nav">
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../equipment/hopper" onclick="_gaq.push(['_trackEvent', 'Footer', 'DISH Hopper', 'Technology']);">DISH Hopper<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../internet.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'DishNET', 'Technology']);">dishNET<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../blockbuster" onclick="_gaq.push(['_trackEvent', 'Footer', 'Blockbuster at Home', 'Technology']);">Blockbuster @Home<sup>&trade;</sup></a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../packages_turbohd.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'HD', 'Technology']);">HD</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../equipment.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Equipment', 'Technology']);">Equipment</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../equipment/tailgater" onclick="_gaq.push(['_trackEvent', 'Footer', 'Tailgater', 'Technology']);">Tailgater</a></div>
+                    </div>
+                </div>
+                <div class="large-2 columns medium-2">
+                    <p class="redText footerTitle">Current Deals</p>
+                    <div class="deals-nav">
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../specials.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Deals', 'Current Deals']);">Deals</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../compare_dish.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Compare DISH', 'Current Deals']);">Compare DISH</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../premium_movies.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Premium Channels', 'Current Deals']);">Premium Channels</a></div>
+                    </div>     </div>
+                <div class="large-2 columns left medium-2">
+                    <p class="redText footerTitle">Corporate</p>
+                    <div class="corp-nav">
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../order.html" onclick="_gaq.push(['_trackEvent', 'Footer?, ?Order Form']);">Order DISH</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../contact_us.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'About', 'Corporate']);">About</a></div>
+                    <!--<div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../blog">Blog</a></div>-->
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../terms_conditions.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Terms and Conditions', 'Corporate']);" rel="nofollow">Terms & Conditions</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../privacy_policy.html" onclick="_gaq.push(['_trackEvent', 'Footer', 'Privacy Policy', 'Corporate']);" rel="nofollow">Privacy Policy</a></div>
+                        <div class="navItem "><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../pdf/usdish/LLP_Release_Form.pdf" onclick="_gaq.push(['_trackEvent', 'Footer', 'Permission Form', 'Corporate']);" rel="nofollow">Permission Form</a></div>
+                        <div class="navItem body3 italic"><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../resources" onclick="_gaq.push(['_trackEvent', 'Footer', 'Resources', 'Corporate']);">Resources</a></div>
+                        <div class="navItem body3 italic"><img src="/images/usdish.com/new/navArrow.png" /><a href="../../../scholarship" onclick="_gaq.push(['_trackEvent', 'Footer', 'Scholarship', 'Corporate']);" rel="nofollow">Scholarship</a></div>
+                    </div>
+                </div>
+                </div>
+                <div class="large-12 columns disclaimer">
+                <p>*Promotional price requires 24-month commitment. Available for new and qualifing former customers. Restrictions apply.</p>
+                <p>USDish is an affilate retailer of DISH Network, L.L.C. DIDH, DISH Network and Dish Network logos are trademarks, registered trademarks and/or service marks of DISH Network L.L.C. and/or its affiliate(s). The DISH Network trademarks, registered trademarks and/or service marks are under license of DIDH Network L.L.C. and/or its applicable affilate(s). 5202 W. Douglas Corrigan Way, Ste 300, Salt Lake City, UT 84116</p>
+                <a href="../../../terms_conditions.html" rel="nofollow">See Offer Details</a><br />
+                <a style="top:5px; position:relative;" href="http://latino.usdish.com/terminos_condiciones" rel="nofollow">Ver Detailes de Oferta</a>
+                </div>
+        </div>        
+    </div>
+</div>
+
+<div class='row-full show-for-mobile'>
+<div class='row'>
+<div class='small-12 columns'>
+<div class='show-for-mobile call-box'>
+                <a href='tel: 1-855-826-1337' class='phone' onclick="_gaq.push(['_trackEvent', 'Button', 'Click to Call', 'Header']);">
+                <div class='call-btn' id='redBar'>
+                <span class='phone-icon'></span> Click to Call Now
+                </div>
+                </a>
+                <div class='lGrey'>
+                    1-855-826-1337
+                </div>
+</div>
+<p class='disclaimer center'>Call Now for 24-Hour Installation Available In Most Areas</p>
+</div>
+<div class='mobile-footer small-12 columns'>
+        <div class='nav'>        
+        <a  href='/'>Home</a>
+        </div>
+        <div class=" disclaimer">
+                <p>*Promotional price requires 24-month commitment. Available for new and qualifing former customers. Restrictions apply.</p>
+                <p>USDish is an affilate retailer of DISH Network, L.L.C. DIDH, DISH Network and Dish Network logos are trademarks, registered trademarks and/or service marks of DISH Network L.L.C. and/or its affiliate(s). The DISH Network trademarks, registered trademarks and/or service marks are under license of DIDH Network L.L.C. and/or its applicable affilate(s). 5202 W. Douglas Corrigan Way, Ste 300, Salt Lake City, UT 84116</p>
+                <a href="../../../terms_conditions.html" rel="nofollow">See Offer Details</a><br />
+                <a style="top:5px; position:relative;" href="http://latino.usdish.com/terminos_condiciones" rel="nofollow">Ver Detailes de Oferta</a>
+        </div>
+        <div class='footer-bar'>
+            <div class='small-6 columns us-mobileLogo'>
+                <img src="/images/usdish.com/new/usdishFooterLogo.png" alt="USDish Logo" />
+            </div>
+            <div class='small-6 columns dish-mobileLogo'>
+                <img src="/images/usdish.com/new/dishFooterLogo.png" alt="DISH Logo" />
+            </div>
+        </div>
+</div>
+</div>
+</div>
+<!-- Google Code for Remarketing Tag -->
+        <!--------------------------------------------------
+        Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+        --------------------------------------------------->
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 971560572;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/971560572/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+        </noscript>
+<script src="/js/usdish.com/new/Newapp.js" type="text/javascript"></script>
+<script src="/js/usdish.com/new/menuController.js" type="text/javascript"></script>
+<script src="/js/usdish.com/jquery.bxSlider.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    var menu = new menuController();
+    menu.initMenu(' .nav');
+
+//mobile-nav
+    $(function () {
+         
+        $("#menu-click").on('click', function () {
+             $("#nav").toggleClass("show-nav");
+             $("#bars").toggleClass("white-bg");
+             $("#main-red").toggleClass("red-bg");
+        });
+
+        $("#menu-click1").on('click', function () {
+             $('#subnav').toggleClass("sub-nav");
+             $('.show-nav').toggleClass("packages");
+             $("#white-arrw").toggleClass("up-arrow");
+             $("#white-arrow-up").toggleClass("show");
+        });
+        
+        $("#menu-click2").on('click', function () {
+             $('#subnav2').toggleClass("sub-nav");
+             $('.show-nav').toggleClass("features");
+             $("#white-arrw2").toggleClass("up-arrow");
+        });
+        
+        $("#menu-click-latino").on('click', function () {
+             $('#subnav-latino').toggleClass("sub-nav");
+             $('.show-nav').toggleClass("latino");
+             $("#white-arrw-latino").toggleClass("up-arrow"); 
+        });
+        
+        $(".menu-click3").on('click', function () {
+             $("#nav").toggleClass("show-nav");
+             $("#bars").removeClass("white-bg");
+             $("#main-red").removeClass("red-bg");
+             $("#state-abrev").removeClass("show");
+             $(".mobile-nav").removeClass("hide");
+             if ($("#main-nav").hasClass("hide")) {
+                 $("#main-nav").toggleClass("hide");
+             }
+             $('.mobile-nav').removeClass("local");
+             $('.mobile-nav').removeClass("ad");
+             $('.mobile-nav').removeClass("fl");
+             $('.mobile-nav').removeClass("m");
+             $('.mobile-nav').removeClass("no");
+             $('.mobile-nav').removeClass("pw");
+        });
+        
+        $("#menu-click4").on('click', function () {
+            $('#subnav4').toggleClass("sub-nav");
+            $('.show-nav').toggleClass("internet");
+            $("#white-arrw4").toggleClass("up-arrow");
+        });
+        
+        
+        //local channels nav
+         $("#local-nav").on('click', function () {
+             $("#main-nav").toggleClass("hide");
+             $('#state-abrev').toggleClass('show');
+             $('.show-nav').toggleClass("local");
+             $('.show-nav').removeClass("packages");
+             $('.show-nav').removeClass("internet");
+             $('#subnav').removeClass("sub-nav");
+             $('#subnav4').removeClass("sub-nav");
+             $('#menu-click1 #white-arrw').removeClass('up-arrow');
+             $('#menu-click4 #white-arrw4').removeClass('up-arrow');
+             
+        });
+        
+        $("#local").on('click', function () {
+             $("#main-nav").toggleClass("hide");
+             $('#state-abrev').toggleClass("show");
+             $('.show-nav').removeClass("local");
+             $('#menu-click1').removeClass('up-arrow');
+             $('#menu-click4').removeClass('up-arrow');
+        });
+        
+         $("#a-d").on('click', function () {
+             $("#state-abrev").toggleClass("show");
+             $('#state-nav1').toggleClass('show');
+             $('.show-nav').toggleClass("ad");
+        });
+        
+        $("#f-l").on('click', function () {
+             $("#state-abrev").toggleClass("show");
+             $('#state-nav2').toggleClass('show');
+             $('.show-nav').toggleClass("fl");
+        });
+        
+        $("#m").on('click', function () {
+             $("#state-abrev").toggleClass("show");
+             $('#state-nav3').toggleClass('show');
+             $('.show-nav').toggleClass("m");
+        });
+        
+        $("#n-o").on('click', function () {
+             $("#state-abrev").toggleClass("show");
+             $('#state-nav4').toggleClass('show');
+             $('.show-nav').toggleClass("no");
+        });
+        
+        $("#p-w").on('click', function () {
+             $("#state-abrev").toggleClass("show");
+             $('#state-nav5').toggleClass('show');
+             $('.show-nav').toggleClass("pw");
+        });
+        
+        $(".return").on('click', function () {
+            $("#state-nav1").removeClass("show");
+             $("#state-abrev").toggleClass("show");
+             $('.show-nav').removeClass("ad");
+        });
+        
+         $(".return").on('click', function () {
+            $("#state-nav2").removeClass("show");
+             $("#state-abrev").toggleClass("show");
+             $('.show-nav').removeClass("fl");
+        });
+        
+        $(".return").on('click', function () {
+            $("#state-nav3").removeClass("show");
+             $("#state-abrev").toggleClass("show");
+             $('.show-nav').removeClass("m");
+        });
+        $(".return").on('click', function () {
+            $("#state-nav4").removeClass("show");
+             $("#state-abrev").toggleClass("show");
+             $('.show-nav').removeClass("no");
+        });
+        
+        $(".return").on('click', function () {
+            $("#state-nav5").removeClass("show");
+             $("#state-abrev").toggleClass("show");
+             $('.show-nav').removeClass("pw");
+             
+        });
+        $("#compare-nav").on('click', function () {
+             $("#main-nav").addClass("hide");
+             $('#compare-menu').addClass('show');
+             $('.show-nav').toggleClass("compare");
+             $('.show-nav').removeClass("packages");
+             $('.show-nav').removeClass("features");
+             $('.show-nav').removeClass("internet");
+             $('#subnav').removeClass("sub-nav");
+             $('#subnav4').removeClass("sub-nav");
+             $('#menu-click1 #white-arrw').removeClass('up-arrow');
+             $('#menu-click4 #white-arrw4').removeClass('up-arrow');
+             
+        });
+        $("#compareHide").on('click', function () {
+             $("#main-nav").removeClass("hide");
+             $('#compare-menu').removeClass("show");
+             $('.show-nav').removeClass("local");
+             $('#menu-click1').removeClass('up-arrow');
+             $('#menu-click4').removeClass('up-arrow');
+        });
+        
+    });
+ //accordian for content
+
+
+  
+   
+  $('.dropdown h4').click(function() {
+     $(this).toggleClass('red-up-arrow');
+     
+    $(this).next().toggleClass('show');
+  }); 
+  
+
+  
+
+   $('.feedback-header').on('click', function() {
+           $('.feedback-header').toggleClass('red-up-arrow')
+           
+          });
+   
+        
+    $(function(){
+                if ($(window).width() < 767 ) {
+                $('.feedback-header').addClass('red-arrow');
+                $('#brandOverall').addClass('hide');                 
+                 $(document).ready(function() {
+ 
+                $('#brandOverall').toggleClass('show');
+                $('#brandOverall ul').toggleClass('bxslider');
+                $('.bxslider').bxSlider();
+                
+                
+                $('.boxContent ul').addClass('bxslider');
+                    });   
+                };
+    });
+
+$(document).ready(function() {
+    var sMe = $(".mobiledrop");
+    sMe.addClass("animate");
+    sMe.on( "click", function() {
+        $( this ).toggleClass("open");
+    });
+    var drop = $("#packs h3");
+    drop.on('click', function () {
+         $(this).toggleClass('up-arrow');
+        $(this).next().toggleClass("show");
+    });
+});
+
+$(document).ready(function(){
+
+  $('.ipad-offer').hide();
+
+  $('#slideout').click(function(e){
+        e.preventDefault();
+            $('.ipad-offer').fadeIn();
+            return false;
+            $('#slideout').hide();
+        });
+  
+  $('.ipad-offer .close-button').click(function() {
+     $('.ipad-offer').fadeOut();
+  });
+  
+  $('.ipad-offer').click(function() {
+     $('.ipad-offer').fadeOut();
+  });
+});
+
+$(function(){ 
+    /* Hide form input values on zip-lookup focus*/ 
+    $('.zip-lookup:text').each(function(){
+        var txtval = $(this).val();
+        $(this).focus(function(){
+            if($(this).val() == txtval){
+                $(this).val('')
+            }
+        });
+        $(this).blur(function(){
+            if($(this).val() == ''){
+                $(this).val(txtval);
+            }
+        });
+    });
+    
+    $('#zip-submit').on('click', function() {
+        $('#zipCheck').submit();
+    });
+    $('#zipCheck').on('submit',function(event){
+        event.preventDefault();
+        var zipField = $('#zip-lookup');
+        var error = $('.error-text');
+        zipField.removeClass('error');
+        var zipVal = $.trim(zipField.val());
+        if(zipVal.length != 5){
+            zipField.addClass('error');
+            error.addClass('show');
+            return false;
+        }else if(!$.isNumeric(zipVal)){
+            zipField.addClass('error');
+            return false;
+        }else{
+            _gaq.push(['_setCustomVar',2,'ZipCode',zipVal]); 
+            $.ajax({
+                   url: '../../../includes/usdish.com/zip-check.php',
+                    data: {zip: zipVal},
+                    type: 'post',
+                    dataType: 'json',
+                    success: function(response){
+                        if(response){
+                            var state = response.state.toLowerCase();
+                            state = state.split(" ").join("-");                            
+                            var state_abbrev = response.state_abbrev.toLowerCase();
+                            var city = response.name;
+                            var group_id = response.group_id;
+                            city = city.split(" ").join("-");
+                            city = city.toLowerCase();
+                            if (group_id === undefined || group_id === null) {
+                                window.location.href = '/dishnetwork-'+state+'.html';
+                            } else {    
+                                window.location.href = '/'+state_abbrev+'-dishnetwork-'+city+'.html';
+                            }
+                        }
+                        if(!response){
+                            window.location.href = '/packages.html';
+                        }
+                    }
+            });
+            error.removeClass('show');
+        }
+    });
+    
+    
+    
+    // Duplicate scripts for USD - Banner Zip Finder - A/B Test
+    $('#abZip:text').each(function(){
+        var txtval = $(this).val();
+        $(this).focus(function(){
+            if($(this).val() == txtval){
+                $(this).val('')
+            }
+        });
+        $(this).blur(function(){
+            if($(this).val() == ''){
+                $(this).val(txtval);
+            }
+        });
+    });
+    
+    $('#abSubmit').on('click', function(event) {
+        event.preventDefault();
+        $('#abZipForm').submit();
+    });
+    
+    
+    
+    $('#abZipForm').on('submit',function(event){
+    event.preventDefault();
+    var zipField = $('#abZip');
+    var productSelect = $('#service option:selected').val();
+    var error = $('.ab-error-text');
+    zipField.removeClass('error');
+    var zipVal = $.trim(zipField.val());
+    _gaq.push(['_trackEvent', 'ZipFinderTest', 'Submitted', 'Index']);
+    if(productSelect == 'optTV' && zipVal.length != 5){
+        zipField.addClass('error');
+        error.addClass('show');
+        return false;
+    }else if(productSelect == 'optTV' && !$.isNumeric(zipVal)){
+        zipField.addClass('error');
+        return false;
+    }else if (productSelect == 'optTV') {
+        _gaq.push(['_setCustomVar',2,'ZipCode',zipVal]); 
+        _gaq.push(['_setCustomVar',3,'Service','TV Service']);  
+        $.ajax({
+               url: '../../../includes/usdish.com/zip-check.php',
+                data: {zip: zipVal},
+                type: 'post',
+                dataType: 'json',
+                success: function(response){
+                    if(response){
+                        var state = response.state.toLowerCase();
+                        state = state.split(" ").join("-");                            
+                        var state_abbrev = response.state_abbrev.toLowerCase();
+                        var city = response.name;
+                        var group_id = response.group_id;
+                        city = city.split(" ").join("-");
+                        city = city.toLowerCase();
+                        if (group_id === undefined || group_id === null) {
+                            window.location.href = '/dishnetwork-'+state+'.html';
+                        } else {    
+                            window.location.href = '/'+state_abbrev+'-dishnetwork-'+city+'.html';
+                        }
+                    }
+                    if(!response){
+                        window.location.href = '/packages.html';
+                    }
+                }
+        });
+        error.removeClass('show');
+        } else if(productSelect == 'optInternet') {
+            if ($.isNumeric(zipVal) && zipVal.length == 5) {
+                _gaq.push(['_setCustomVar',2,'ZipCode',zipVal]); 
+            }
+            _gaq.push(['_setCustomVar',3,'Service','Internet']);     
+            window.location.href = '/internet.html';        
+
+        } else if(productSelect == 'optBundles') {
+                   
+           if ($.isNumeric(zipVal) && zipVal.length == 5) {
+                _gaq.push(['_setCustomVar',2,'ZipCode',zipVal]); 
+            } 
+            _gaq.push(['_setCustomVar',3,'Service','Bundles']);               
+            window.location.href = '/bundles.html'; 
+        } else {
+            console.log('Uh oh');
+            event.preventDefault();
+        }
+    });
+    
+    // End duplicate scripts for USD - Banner Zip Finder - A/B Test
+    
+    });
+
+
+$(document).ready(function(){
+
+  $('.restrictions').hide();
+
+  $('#restrictions').click(function(e){
+        e.preventDefault();
+            $('.restrictions').fadeIn();
+            return false;
+        });
+  
+  $('.restrictions .close-button').click(function() {
+     $('.restrictions').fadeOut();
+  });
+  
+  $('.restrictions').click(function() {
+     $('.restrictions').fadeOut();
+  });
+  
+});
+$(document).ready(function(){
+        $("#dialog_ThankYou").dialog({ autoOpen: false, modal: true, draggable: false, resizable: false, width: 500, height: 300 });
+    });
+</script>
+
+<script type="text/javascript">
+    if (/*@cc_on!@*/true) { 
+        document.documentElement.className += ' ie' + document.documentMode; 
+    }
+</script>
+<!-- script type="text/javascript" src="//cicloudfront.s3.amazonaws.com/pix/asyncPixelLoader.js?url=https%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D616010%26ttype%3D0%26pix%3D31196718"></script -->
+<script type="text/javascript" src="//tags.mediaforge.com/js/1071"></script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/4678.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+</div>
+<!--
+<div id="social-btns" class='hide-for-mobile'>
+    <ul>
+        <li><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.usdish.com&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:66px;" allowTransparency="true"></iframe></li>
+        <li><g:plusone size="tall"></g:plusone><script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li>
+        <li><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script async defer type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></li>
+    </ul>
+</div>
+-->
+
+<!--Begin MathTag.com pixel tracking-->
+      <img src='//pixel.mathtag.com/event/img?mt_id=396520&mt_adid=118740&v1=&v2=&v3=&s1=&s2=&s3=' width='1' height='1' />
+
+<script>
+    
+/*
+ $(document).ready(function() {
+    $('.blackFriday').toggle(
+   function() {
+     $('.blackFriday').animate({ width: '291px' }, 1000 );
+   }, 
+   function() { 
+     $('.blackFriday').animate({ width: '73px' }, 1000 );
+   }
+ );
+  });
+*/
+
+$(function(){
+  
+  $('.blackFriday').each(function(){
+    var $this = $(this),
+        // Get the initial width, so it's not static in js. Just incase it ever changes.
+        defWidth = $this.outerWidth();
+    
+    $this.on('click', function(){
+      
+      if($this.is('.active')){
+        $this.removeClass('active');
+        $this.animate({width: defWidth}, 1000);
+      } else {
+        $this.addClass('active');
+        $this.animate({width: '291px'}, 1000);
+      }
+    });
+    
+  });
+  
+});
+
+ </script>
+				<script type="text/javascript">	
+					var _optimizelyPhone = '855-826-1337';
+					
+											(function(){
+							if(window.jQuery){
+									
+																	addOptimizely();
+															}
+							else{
+							   var script = document.createElement('script');
+							   script.type = "text/javascript";
+							   script.src = "/js/jquery-1.7.1.min.js";
+							   script.onload = function(){
+							        	
+																			addOptimizely();
+																   }
+							   document.getElementsByTagName('head')[0].appendChild(script);
+							}
+						})();
+	
+						function sendRequest(){
+							var script = document.createElement('script');
+							script.type = "text/javascript";
+							script.src = "/js/jquery.ba-replacetext.min.js";
+							script.onload = function(){
+							    var originalPhone = "855-826-1337";
+	
+								if(!originalPhone){
+																		originalPhone = "1-855-826-1337";
+								}
+	
+								$.ajax({
+									type: "POST",
+									url: "/includes/c-phone.php",
+									data:"action=rotatePhone",
+									success: function(response){
+										if(response != '0'){
+											_optimizelyPhone = response;
+											var regEx = new RegExp(originalPhone, 'g');
+						                    $('body *').replaceText(regEx, response);
+						                    if(($frame = $('iframe#conv-promo-test'))){
+						                    	$frame.contents().find('div.promo-info span:eq(0)').replaceText(regEx, response);
+						                    	$frame.contents().find('div.promo-info span.badge').fadeIn();
+						                    }
+										}
+									}
+								});
+							}
+						    document.getElementsByTagName('head')[0].appendChild(script);
+						}
+
+						function addOptimizely(){
+							var optimizelyObj = window.optimizely;
+	
+							if(optimizelyObj){
+								$.ajax({
+									type: "POST",
+									url: "/includes/c-phone.php",
+									data:{action: 'optimizelyUpdate' }
+								});
+							}
+						}
+									</script>
+			<!--My Pingdom for a horse-->
+</body>
+</html>

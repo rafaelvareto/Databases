@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+    	 tsū
+		</title>
+		<link href="//tsu-production-app.s3.amazonaws.com/assets/favicon-7d680d613fa78aa53f23dfd1eede0434.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+		<link href="//tsu-production-app.s3.amazonaws.com/assets/application-68f0808130a6e5807fc6ba0afb7803d1.css" media="screen" rel="stylesheet" />
+		
+		
+		<script src="//tsu-production-app.s3.amazonaws.com/assets/application-0567be1ecd6cad76695937c36c1abaf8.js"></script>
+		<meta content="authenticity_token" name="csrf-param" />
+<meta content="RJ4AA5clRSk+hr7A+f5RFYzUMBOjA50xYQSbqPOqeaU=" name="csrf-token" />
+		
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;libraries=places&amp;language=en"></script>
+
+	</head>
+	<body class="errors not_found logged-out  ">
+
+
+		<div id="loading_bar">
+			<span class="expand"></span>
+		</div>
+
+		<div class="globalBar">
+	<div class="navBar">
+		<div id="navBarHead">
+
+			<div class="logo">
+				<a href="/"></a>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+		<div id="page-outer">
+
+			<div id="notice_box">
+
+			</div>
+
+			<!-- main container -->
+			<div class="dialog" style="margin:auto; margin-top:80px; width:601px;">
+	<h1 style="color:#BD5E55; line-height: 1.5em;">Error 404</h1>
+	<p>
+		<b>"I think we have an error here"</b>
+	</p>
+	<p><img src="/assets/error.jpg" />
+	</p>
+</div>
+
+		</div>
+
+		<script src="//js.pusher.com/2.2/pusher.min.js" type="text/javascript"></script>
+
+
+
+    <script>
+	// Google Analytics
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-44277807-1', 'auto');
+	ga('send', 'pageview');
+
+	// Heap Analytics
+    window.heap=window.heap||[],heap.load=function(t,e){window.heap.appid=t,window.heap.config=e;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(t){return function(){heap.push([t].concat(Array.prototype.slice.call(arguments,0)))}},p=["identify","track"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+    heap.load(2300008851);
+
+</script>
+
+	</body>
+</html>
