@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<head>
+	
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="pingback" href="http://www.comedyhype.com/xmlrpc.php" />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			
+			<link rel="shortcut icon" href="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-02-22-at-5.48.11-AM.png" type="image/x-icon" />
+		
+			<!-- For iPhone -->
+		<link rel="apple-touch-icon-precomposed" href="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-02-22-at-5.48.11-AM.png">
+	
+			<!-- For iPhone 4 Retina display -->
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-02-22-at-5.48.11-AM.png">
+	
+			<!-- For iPad -->
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-02-22-at-5.48.11-AM.png">
+	
+			<!-- For iPad Retina display -->
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-02-22-at-5.48.11-AM.png">
+		
+		
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>ComedyHype.Com | Urban Comedy Refueled</title>
+<meta name="description" content="Where the world meets the urban comedy world."/>
+<link rel="canonical" href="http://www.comedyhype.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="ComedyHype.Com | Urban Comedy Refueled" />
+<meta property="og:description" content="Where the world meets the urban comedy world." />
+<meta property="og:url" content="http://www.comedyhype.com/" />
+<meta property="og:site_name" content="ComedyHype.Com | Urban Comedy ReFueled" />
+<meta property="og:image" content="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-11-09-at-3.08.29-AM.png" />
+<meta property="og:image" content="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-21-at-4.48.21-PM.png" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.comedyhype.com/", "potentialAction": { "@type": "SearchAction", "target": "http://www.comedyhype.com/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="ComedyHype.Com | Urban Comedy ReFueled &raquo; Feed" href="http://www.comedyhype.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ComedyHype.Com | Urban Comedy ReFueled &raquo; Comments Feed" href="http://www.comedyhype.com/comments/feed/" />
+    <meta name="apple-mobile-web-app-title" content="Comedy Hype">
+	<link rel="alternate" type="application/rss+xml" title="ComedyHype.Com | Urban Comedy ReFueled &raquo; ComedyHype.Com &#8211; Urban Comedy Refueled Comments Feed" href="http://www.comedyhype.com/latest-funny/feed/" />
+		<script type="text/javascript">
+		(function(document,navigator,standalone) {
+            // prevents links from apps from oppening in mobile safari
+            // this javascript must be the first script in your <head>
+            if ((standalone in navigator) && navigator[standalone]) {
+                var curnode, location=document.location, stop=/^(a|html)$/i;
+                document.addEventListener('click', function(e) {
+                    curnode=e.target;
+                    while (!(stop).test(curnode.nodeName)) {
+                        curnode=curnode.parentNode;
+                    }
+                    // Condidions to do this only on links to your own app
+                    // if you want all links, use if('href' in curnode) instead.
+                    if('href' in curnode && ( curnode.href.indexOf('http') || ~curnode.href.indexOf(location.host) ) ) {
+                        e.preventDefault();
+                        location.href = curnode.href;
+                    }
+                },false);
+            }
+        })(document,window.navigator,'standalone');
+		</script>
+	<link rel="apple-touch-icon" href="http://www.comedyhype.com/wp-content/uploads/2014/04/Screen-shot-2014-02-22-at-5.48.11-AM.png"><link rel="apple-touch-icon" sizes="72x72" href="http://www.comedyhype.com/wp-content/uploads/2014/04/Screen-shot-2014-02-22-at-5.48.11-AM.png"><link rel="apple-touch-icon" sizes="114x114" href="http://www.comedyhype.com/wp-content/uploads/2014/04/Screen-shot-2014-02-22-at-5.48.11-AM.png"><link rel="apple-touch-icon" sizes="144x144" href="http://www.comedyhype.com/wp-content/uploads/2014/04/Screen-shot-2014-02-22-at-5.48.11-AM.png"><link rel='stylesheet' id='mn_contact_form-style-css'  href='http://www.comedyhype.com/wp-content/plugins/mn-contact-form/css/mn-contact-form.css' type='text/css' media='all' />
+<link rel='stylesheet' id='adhs-css'  href='http://www.comedyhype.com/wp-content/plugins/add-to-home-screen-wp/add2home.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mashsb-styles-css'  href='http://www.comedyhype.com/wp-content/plugins/mashsharer/templates/mashsb.min.css' type='text/css' media='all' />
+<style type='text/css'>
+
+        .mashsb-count {
+        color: #cccccc;
+       
+        }
+</style>
+<link rel='stylesheet' id='photospace-res-styles-css'  href='http://www.comedyhype.com/wp-content/plugins/photospace-responsive/gallery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='social_contact_display-css'  href='http://www.comedyhype.com/wp-content/plugins/social-contact-display/lib/css/socialcontactdisplay.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google_fonts-css'  href='http://fonts.googleapis.com/css?family=Lato%7COswald%7COswald%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.comedyhype.com/wp-content/themes/orion/css/bootstrap.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.comedyhype.com/wp-content/themes/orion/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-css'  href='http://www.comedyhype.com/wp-content/themes/orion/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://www.comedyhype.com/wp-content/themes/orion/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='visual-composer-css'  href='http://www.comedyhype.com/wp-content/themes/orion/css/visual-composer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://www.comedyhype.com/wp-content/themes/orion/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-main-css'  href='http://www.comedyhype.com/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-custom-css'  href='http://www.comedyhype.com/wp-content/plugins/master-slider/assets/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='really_simple_share_style-css'  href='http://www.comedyhype.com/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css' type='text/css' media='all' />
+    <script type="text/javascript">
+	var addToHomeConfig = {
+		returningVisitor: 'true',	animationIn: 'drop',
+	animationOut: 'drop',
+	startdelay:2000,
+	lifespan:20000,
+	expire:0,
+	touchIcon:true,
+	};
+	</script>
+	<script type='text/javascript' src='http://www.comedyhype.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.comedyhype.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mn_ajax = {"ajaxurl":"http:\/\/www.comedyhype.com\/wp-content\/plugins\/mn-contact-form\/contact_processing.php","admin_ajaxurl":"http:\/\/www.comedyhype.com\/wp-content\/plugins\/mn-contact-form\/ajaxreq\/admin_ajax_requests.php","admin_email":"jon@comedyhype.com","mn_captcha":"1","mn_confirmation_mail":"1","mn_conf_mail_sub":"Confirmation+Mail","mn_conf_mail_msg":"Thanks+for+reaching+out.+-+Comedy+Hype","blog_name":"ComedyHype.Com+%7C+Urban+Comedy+ReFueled","mn_save_data":"1","dbhost":"localhost","dbname":"i357257_wp1","dbuser":"i357257_wp1","dbpwd":"A[#U~V8*rP86]*3","dbprefix":"wp_"};
+var mn_ajax = {"ajaxurl":"http:\/\/www.comedyhype.com\/wp-content\/plugins\/mn-contact-form\/contact_processing.php","admin_ajaxurl":"http:\/\/www.comedyhype.com\/wp-content\/plugins\/mn-contact-form\/ajaxreq\/admin_ajax_requests.php","admin_email":"jon@comedyhype.com","mn_captcha":"1","mn_confirmation_mail":"1","mn_conf_mail_sub":"Confirmation+Mail","mn_conf_mail_msg":"Thanks+for+reaching+out.+-+Comedy+Hype","blog_name":"ComedyHype.Com+%7C+Urban+Comedy+ReFueled","mn_save_data":"1","dbhost":"localhost","dbname":"i357257_wp1","dbuser":"i357257_wp1","dbpwd":"A[#U~V8*rP86]*3","dbprefix":"wp_"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.comedyhype.com/wp-content/plugins/mn-contact-form/js/mn-contact-form.js'></script>
+<script type='text/javascript' src='http://www.comedyhype.com/wp-content/plugins/add-to-home-screen-wp/add2home.js'></script>
+<script type='text/javascript' src='http://p.jwpcdn.com/6/8/jwplayer.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashsb = {"shares":"3","round_shares":"1","animate_shares":"0","share_url":"http:\/\/www.comedyhype.com\/","title":"ComedyHype.Com \u2013 Urban Comedy Refueled","image":null,"desc":"","hashtag":"","subscribe":"content","subscribe_url":"","activestatus":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.comedyhype.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js'></script>
+<script type='text/javascript' src='http://www.comedyhype.com/wp-content/plugins/photospace-responsive/jquery.galleriffic.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comedyhype.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.comedyhype.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.3" />
+<link rel='shortlink' href='http://www.comedyhype.com/?p=25' />
+    <style type="text/css">
+	@media all and (orientation:portrait) {
+		#addToHomeScreen {
+			zoom:1;
+			line-height:130%;
+			-webkit-text-size-adjust:1;
+		}
+		#addToHomeScreen .addToHomeClose {
+		-webkit-text-size-adjust:100%;
+				}
+			}
+	
+	@media all and (orientation:landscape) {
+		#addToHomeScreen {
+			zoom:1;
+			line-height:130%;
+			-webkit-text-size-adjust:1;
+		}
+		#addToHomeScreen .addToHomeClose {
+		-webkit-text-size-adjust:100%;
+				}
+			}
+	
+	</style>
+    <script type="text/javascript" src="http://www.comedyhype.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.comedyhype.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-0000000-0']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <!--	photospace [ START ] --> 
+<style type="text/css">
+		.photospace_res ul.thumbs img {
+			width:50px;
+			height:50px;
+		}
+	
+			.photospace_res .thumnail_row a.pageLink {
+				width:50px;
+				height:50px;
+				line-height: 50px;
+			}
+			.photospace_res ul.thumbs li{
+					margin-bottom:10px !important;
+					margin-right:10px !important; 
+				}
+				
+				.photospace_res .next,
+				.photospace_res .prev{
+					margin-right:10px !important;
+					margin-bottom:10px !important;
+				}
+		</style><!--	photospace [ END ] --> 
+<script type="text/javascript">
+        //<![CDATA[
+        
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      
+        //]]>
+  		</script>	<!--[if IE 8]>
+		<link rel="stylesheet" href="http://www.comedyhype.com/wp-content/themes/orion/css/ie8.css" />
+	<![endif]-->
+	<!-- CSS Options -->
+	<style type="text/css" media="screen">
+		
+		::-moz-selection {background:#000; color:#fff;}
+		::selection {background:#000; color:#fff;}
+		
+				h1, h2, h3, h4, h5, h6, .headersearch .search-box input[type=text],
+		.widget_calendar table#wp-calendar caption,
+		input#submit, button[type="submit"], input[type="submit"],
+		.etabs li a, .caption-carousel .title, .dropcap
+		{
+							font-family:'Oswald', Arial, Helvetica, sans-serif;
+				font-weight: normal;
+				
+					}
+		
+		.flexmenu a, .noMainmenu
+		{
+							font-family:'Oswald', Arial, Helvetica, sans-serif;
+				font-weight: normal;
+				
+					}
+		
+		body, .flexmenu.fm-lg>ul>li>ul>li a, textarea, .review-item h5, .review-post .title h5
+		{
+							font:13px/21px 'Lato', Arial, Helvetica, sans-serif;
+				
+					}
+			
+				body {
+			background:#141414;
+		}
+		
+		.header-logo a, .header-adds a{
+			line-height:70px;
+		}
+		.line-head, .etabs li a:hover, .etabs li.active a, 
+		.widgettitle, .widgettitle:before,
+		.pagination .pagi.current,
+		.footerwidgettitle,
+		.about-social li a,
+		.owl_carousel .owl-controls.clickable .owl-buttons div:hover, 
+		.comment-navigation div a:hover, 
+		.single-nav a:hover,
+		.review-final-score,
+		.review-percentage .review-item .bar,
+		input#submit, button[type="submit"], input[type="submit"],
+		.single-tags h5, .edit-link a:hover,
+		.dropcap.style1,
+		.wpb_content_element .wpb_tabs_nav li,
+		.counter-button,
+		.tagcloud a span,
+		.more-block:hover a, .more-block:hover .format,
+		#back-top a 
+		{
+			background-color:#333333;
+		}
+		a:hover,
+		a h1:hover, a h2:hover, a h3:hover, a h4:hover, a h5:hover, a h6:hover,
+		.lists-category li a:hover, 
+		.lists-category .all-category, 
+		.lists-category .all-category a,
+		.detailholder.medium .detailmeta a:hover,
+		.counter-desc .count:hover,
+		.about-social li a:hover,
+		.owl_carousel .owl-controls .owl-buttons div, 
+		.comment-navigation div a, 
+		.single-nav a,
+		.pagination .pagi,
+		.single-tags .tags a:hover,
+		.author-title-social .author-social a:hover,
+		input#submit:hover, 
+		button[type="submit"]:hover, 
+		input[type="submit"]:hover,
+		.headersearch-button i:hover,
+		.single-content a,
+		.dropcap.style2,
+		.dropcap.style3,
+		.dropcap.style4	{
+			color:#333333;
+		}
+		.block-title h2, .comment-reply-title span, .footer, .footer-wrap.dark .footer{
+			border-bottom-color:#333333;
+		}
+		.etabs li.active{
+			border-top-color:#333333;
+		}
+		.single-content blockquote{
+			border-left-color:#333333;
+		}
+		.about-social li a,
+		.pagination .pagi.current,
+		.owl_carousel .owl-controls .owl-buttons div, 
+		.comment-navigation div a, 
+		.single-nav a,
+		.pagination .pagi,
+		input#submit, button[type="submit"], input[type="submit"],
+		.dropcap.style1,
+		.dropcap.style2,
+		.dropcap.style4,
+		.wpb_content_element .wpb_tabs_nav li,
+		.counter-button,
+		.more-block:hover a, .more-block:hover .format{
+			border-color:#333333;
+		}
+		
+		.ticker-wrap{
+			background-color:#000000;
+		}
+		
+		.mediaholder .point-final-score
+		{
+			background-color:#111111;
+		}
+			</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"http://www.comedyhype.com/wp-admin/admin-ajax.php" , "your_rating":"Your Rating :"};
+/* ]]> */
+</script>
+
+
+</head>
+<body class="home page page-id-25 page-template page-template-homepage-slider3-block3-php wpb-js-composer js-comp-ver-3.6.14.1 vc_responsive">
+<div class="section-wrap">
+		<!-- SECTION TOP HEADER -->
+		<div class="top-header-wrap clearfix"> 
+			
+		</div>
+		<!-- SECTION HEADER -->
+		<div class="header-wrap clearfix"> 
+			<div class="container">
+				<div class="header row-fluid clearfix"> 
+											
+					<!-- Header Logo-->
+					<div class="header-logo span3">
+												<a href="http://www.comedyhype.com">
+														<img src="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-03-18-at-12.20.36-AM.png" alt="ComedyHype.Com | Urban Comedy ReFueled" />
+						</a>
+					</div>
+					
+											<!-- Header Adds-->
+						<div class="header-adds span9">
+															<style><!--
+.mobile { width: 320px; height: 50px; } @media(min-width: 500px) { .mobile { width: 468px; height: 60px; } } @media(min-width: 800px) { .mobile { width: 728px; height: 90px; } }
+--></style><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async=""></script><!-- Mobile --> <ins class="adsbygoogle mobile" style="display: inline-block;" data-ad-client="ca-pub-2371062750809830" data-ad-slot="9496848958"></ins><script type="text/javascript">// <![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+// ]]></script>							
+						</div>
+									</div>
+			</div>
+			<div class="navigation">
+				<div class="container">
+					<div class="row-fluid"> 
+						<div class="span12"> 
+							<!-- Header Navigation -->
+							<div class="nav-container clearfix"> 
+								<div class="nav-load clearfix"> 
+									<div class="fm-button">
+										<span class="fm-bar"></span>
+										<span class="fm-bar"></span>
+										<span class="fm-bar"></span>
+									</div>
+									<div class="nav-wrap">
+										<ul id="main_menu" class="menu"><li id="menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1996"><a href="http://www.comedyhype.com/story/">Our Story</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.comedyhype.com/contact-us-2/">Contact Us</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.comedyhype.com/contact-us/">Submissions</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.comedyhype.com/ch-contributors/">Contributors</a></li>
+<li id="menu-item-1467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1467"><a href="http://www.comedyhype.com/category/comedy-news/">Comedy News</a></li>
+<li id="menu-item-1468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1468"><a href="http://www.comedyhype.com/category/culture/">Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-1470" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1470"><a href="http://www.comedyhype.com/category/interviews/">Interviews</a></li>
+	<li id="menu-item-1471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1471"><a href="http://www.comedyhype.com/category/comedians-under-the-radar/">Comedians Under The Radar</a></li>
+	<li id="menu-item-1474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1474"><a href="http://www.comedyhype.com/category/comedy-tours/">Comedy Tours</a></li>
+	<li id="menu-item-1472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1472"><a href="http://www.comedyhype.com/category/tv/">TV</a></li>
+</ul>
+</li>
+<li id="menu-item-1469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1469"><a href="http://www.comedyhype.com/category/sketches/">Sketches</a></li>
+<li id="menu-item-1473" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1473"><a href="http://www.comedyhype.com/category/stand-up/">Stand-Up</a></li>
+</ul>									</div>	
+									
+									<a href="" class="headersearch-button"><i class="icon-search"></i></a>
+									
+									<div class="headersearch">
+										<i class="icon-search bg"></i>
+										<div class="search-box">
+		<form action="http://www.comedyhype.com" method="GET">
+			<input type="text" name="s" id="s" value="Typing Here and Press Enter ..." placeholder="Typing Here and Press Enter ..." />
+		</form>	      
+</div>									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+						<div class="headlinenews">
+				<div class="container">
+					<div class="row-fluid"> 
+						<div class="span12"> 
+								<div class="ticker-wrap clearfix">
+		<span class="titleticker">
+			Current Hype		</span>
+		<div class="ticker_container">
+			<div class="marquee-wrapper">
+				<div class="marquee" id="marquee">
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/">Sheryl Underwood Responds To Sommore And Queens Of Comedy: &#8220;I&#8217;m Not Mad At Them&#8221;</a>
+							<span>&#40;November 24, 2014 10:10 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/sketches/ashima-franklin-talks-spoken-reasons-spoken-reasons-ep-2/">Ashima Franklin Talks With Spoken Reasons On &#8216;Who Is Spoken Reasons&#8217; Ep. 2</a>
+							<span>&#40;November 24, 2014 9:31 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/">An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color</a>
+							<span>&#40;November 24, 2014 8:37 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/">Exclusive &#8211; Faizon Love Responds To Criticism On His Support For Bill Cosby: &#8220;Somebody Can Say Anything Now And We Just Jump On It Without Due Process&#8221;</a>
+							<span>&#40;November 24, 2014 11:50 am&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/interviews/alex-thomas-speaks-re-invention-episode-2-funny-dont-stop-series/">Alex Thomas Speaks On His Reinvention In Episode 2 Of &#8216;The Funny Don&#8217;t Stop&#8217; Series</a>
+							<span>&#40;November 24, 2014 11:14 am&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/">Katt Williams Says He Supports Cosby&#8217;s Alleged Victims, But Only Once</a>
+							<span>&#40;November 23, 2014 11:40 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/comedians-under-the-radar/deric-sleezy-evans-talks-comedy-hype-black-comics-try-defend-white-comics-use-n-word-shows-slave-mentality/">Deric &#8216;Sleezy&#8217; Evans Tells Comedy Hype What It Means To &#8216;Stay Local H*e&#8217;</a>
+							<span>&#40;November 23, 2014 9:52 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/sketches/comedy-skit-beyonce-jay-z-stopped-eric-andre-show/">Comedy Skit: Beyonce And Jay-Z Stopped By The Eric Andre Show??</a>
+							<span>&#40;November 23, 2014 9:39 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/">First Look: Mike Epps Debuts His Richard Pryor Reenactment</a>
+							<span>&#40;November 23, 2014 8:50 pm&#41;</span>
+						</div>
+											<div class="marquee-list">
+							<a href="http://www.comedyhype.com/sketches/comedy-skit-key-peeles-scat-duel-reminds-us-battle-rap/">Comedy Skit: Key &#038; Peele&#8217;s Scat Duel Reminds Us Of A Battle Rap</a>
+							<span>&#40;November 21, 2014 9:59 pm&#41;</span>
+						</div>
+									</div>
+			</div>
+			
+		</div>
+	</div>
+ 
+						</div>
+					</div>
+				</div>
+			</div>
+					</div>
+		<div class="container"><div class="row-fluid slider_block">
+<div class="span12">
+<div class="row-fluid grid">
+	<div class="span8 slider-wrap">
+		<div class="owl_slider slider2" data-speed="10000">
+								<div class="item_slide">
+													<a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/"><img width="757" height="370" src="http://www.comedyhype.com/wp-content/uploads/2014/11/eddiemurphy-757x370.jpg" class="attachment-block23-one wp-post-image" alt="Eddie Murphy" /></a>
+												<div class="item_slide_caption">
+							<h1><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/">Eddie Murphy To Get Serious In Upcoming Dramatic Film &#8216;Cook&#8217;</a><span><a class="block-cat" href="http://www.comedyhype.com/category/comedy-news/" title="Comedy News">Comedy News</a></span></h1>
+						</div>
+					</div>
+					
+								<div class="item_slide">
+													<a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/"><img width="757" height="326" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-3.03.35-PM-757x326.png" class="attachment-block23-one wp-post-image" alt="nick cannon pryor" /></a>
+												<div class="item_slide_caption">
+							<h1><a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/">Nick Cannon Says He&#8217;s Filming His Own Richard Pryor Movie</a><span><a class="block-cat" href="http://www.comedyhype.com/category/comedy-news/" title="Comedy News">Comedy News</a></span></h1>
+						</div>
+					</div>
+					
+								<div class="item_slide">
+													<a href="http://www.comedyhype.com/comedy-news/dl-hughley-comedy-store-allowing-white-comics-use-n-word-coming-never-let-us-play/"><img width="757" height="370" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-28-at-11.56.53-PM-757x370.png" class="attachment-block23-one wp-post-image" alt="dl hughley" /></a>
+												<div class="item_slide_caption">
+							<h1><a href="http://www.comedyhype.com/comedy-news/dl-hughley-comedy-store-allowing-white-comics-use-n-word-coming-never-let-us-play/">DL Hughley Speaks On The Comedy Store Allowing White Comics To Use The &#8216;N-Word&#8217;: &#8220;When We Were Coming Up, They Would Never Let Us Play There&#8221;</a><span><a class="block-cat" href="http://www.comedyhype.com/category/comedy-news/" title="Comedy News">Comedy News</a></span></h1>
+						</div>
+					</div>
+					
+					</div>
+	</div>
+	<div class="span4 block-wrap">
+		<div class="row-fluid grid">
+							<div class="span12 block_grid  second">
+						<div class="mediaholder">
+							<div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-5.02.01-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/" title="Sheryl Underwood Responds To Sommore And Queens Of Comedy: &#8220;I&#8217;m Not Mad At Them&#8221;"><i class="icon-plus"></i></a></div>															<a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/"><img width="440" height="212" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-5.02.01-PM-440x212.png" class="attachment-block3-two wp-post-image" alt="sheryl underwood" /></a>
+														<h3><a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/">Sheryl Underwood Responds To Sommore And Quee...</a></h3>
+						</div>
+					</div>
+									<div class="span12 block_grid  second">
+						<div class="mediaholder">
+							<div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-1.26.04-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title="An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color"><i class="icon-plus"></i></a></div>															<a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/"><img width="440" height="212" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-1.26.04-PM-440x212.png" class="attachment-block3-two wp-post-image" alt="tony rock" /></a>
+														<h3><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/">An &#8216;Exclusive&#8217; Night With Tony Ro...</a></h3>
+						</div>
+					</div>
+						</div>
+	</div>
+</div>
+</div>
+</div><p><div class="wpb_row row-fluid">
+	<div class="span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><a href="http://instagram.com/comedyhype" target="_blank"><img class="size-full wp-image-7467 aligncenter" alt="owns the night" src="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-11-09-at-3.08.29-AM.png" width="997" height="140" /></a></p>
+
+		</div> 
+	</div> <div class="block carousel clearfix"><div class="block-title"><h2>Latest Funny Videos</h2><ul class="lists-category"><li class="all-category"><a href="">All</a></li><li><a href="http://www.comedyhype.com/category/cc/">cc</a></li><li><a href="http://www.comedyhype.com/category/comedians-under-the-radar/">Comedians Under The Radar</a></li><li><a href="http://www.comedyhype.com/category/comedy-hustle-2/">Comedy Hustle</a></li><li><a href="http://www.comedyhype.com/category/comedy-news/">Comedy News</a></li><li><a href="http://www.comedyhype.com/category/comedy-tours/">Comedy Tours</a></li><li><a href="http://www.comedyhype.com/category/comedy-verse-2/">Comedy Verse</a></li><li><a href="http://www.comedyhype.com/category/culture/">Culture</a></li><li><a href="http://www.comedyhype.com/category/exclusive/">Exclusive</a></li><li><a href="http://www.comedyhype.com/category/hustle/">hustle</a></li><li><a href="http://www.comedyhype.com/category/interviews/">Interviews</a></li><li><a href="http://www.comedyhype.com/category/movies/">Movies</a></li><li><a href="http://www.comedyhype.com/category/online-series/">Series</a></li><li><a href="http://www.comedyhype.com/category/sketches/">Sketches</a></li><li><a href="http://www.comedyhype.com/category/social-comedy/">Social Comedy</a></li><li><a href="http://www.comedyhype.com/category/stand-up/">Stand-Up</a></li><li><a href="http://www.comedyhype.com/category/tv/">TV</a></li><li><a href="http://www.comedyhype.com/category/uncategorized/">Uncategorized</a></li></ul></div><div class="row-fluid"><div class="owl_carousel" data-grid="4" data-speed="5000"><div class="span12 post-7943 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-4.29.38-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/ashima-franklin-talks-spoken-reasons-spoken-reasons-ep-2/" title="Ashima Franklin Talks With Spoken Reasons On &#8216;Who Is Spoken Reasons&#8217; Ep. 2"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/ashima-franklin-talks-spoken-reasons-spoken-reasons-ep-2/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-4.29.38-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="ashima franklin" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/ashima-franklin-talks-spoken-reasons-spoken-reasons-ep-2/" title="Ashima Franklin Talks With Spoken Reasons On &#8216;Who Is Spoken Reasons&#8217; Ep. 2">Ashima Franklin Talks With Spoken Reasons On &#8216;Who Is Spoken Reasons&#8217; Ep. 2</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 24, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/ashima-franklin-talks-spoken-reasons-spoken-reasons-ep-2/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>88 Views</span></div><p>Continuing his series to show fans a couple of his different talents, Spoken Reasons drops episode 2 of his series. This time he invites Ashima</p></div></div><div class="span12 post-7901 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-4.33.31-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/comedy-skit-beyonce-jay-z-stopped-eric-andre-show/" title="Comedy Skit: Beyonce And Jay-Z Stopped By The Eric Andre Show??"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/comedy-skit-beyonce-jay-z-stopped-eric-andre-show/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-4.33.31-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="Screen shot 2014-11-23 at 4.33.31 PM" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/comedy-skit-beyonce-jay-z-stopped-eric-andre-show/" title="Comedy Skit: Beyonce And Jay-Z Stopped By The Eric Andre Show??">Comedy Skit: Beyonce And Jay-Z Stopped By The Eric Andre Show??</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 23, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/comedy-skit-beyonce-jay-z-stopped-eric-andre-show/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>141 Views</span></div><p>No not really, but a couple claiming to be Hov and Bey did stop by the set of the Eric Andre show on Adult Swim.</p></div></div><div class="span12 post-7855 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-21-at-4.56.57-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/comedy-skit-key-peeles-scat-duel-reminds-us-battle-rap/" title="Comedy Skit: Key &#038; Peele&#8217;s Scat Duel Reminds Us Of A Battle Rap"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/comedy-skit-key-peeles-scat-duel-reminds-us-battle-rap/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-21-at-4.56.57-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="key and peele" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/comedy-skit-key-peeles-scat-duel-reminds-us-battle-rap/" title="Comedy Skit: Key &#038; Peele&#8217;s Scat Duel Reminds Us Of A Battle Rap">Comedy Skit: Key &#038; Peele&#8217;s Scat Duel Reminds Us Of A Battle Rap</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 21, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/comedy-skit-key-peeles-scat-duel-reminds-us-battle-rap/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>256 Views</span></div><p>On the latest episode of Key &#038; Peele, Jordan and Keegan display their scatting skills and show that its no different to today&#8217;s battle raps.</p></div></div><div class="span12 post-7800 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-19-at-4.43.19-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/comedy-skit-4yallent-spoofs-auditions-lifetimes-aaliyah-movie/" title="Comedy Skit: 4YallEnt. Spoofs The Auditions For Lifetime&#8217;s Aaliyah Movie"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/comedy-skit-4yallent-spoofs-auditions-lifetimes-aaliyah-movie/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-19-at-4.43.19-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="aaliyah movie" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/comedy-skit-4yallent-spoofs-auditions-lifetimes-aaliyah-movie/" title="Comedy Skit: 4YallEnt. Spoofs The Auditions For Lifetime&#8217;s Aaliyah Movie">Comedy Skit: 4YallEnt. Spoofs The Auditions For Lifetime&#8217;s Aaliyah Movie</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 19, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/comedy-skit-4yallent-spoofs-auditions-lifetimes-aaliyah-movie/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>219 Views</span></div><p>One thing that everyone has been talking about, is the recent televised Aaliyah movie that premiered on Lifetime. Unfortunately many fans were disappointed by the</p></div></div><div class="span12 post-7647 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-13-at-7.10.03-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/comedy-skit-matthew-nuglsey-blackie-sack/" title="Comedy Skit: This Is Matthew Nuglsey Of &#8216;Blackie Sack&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/comedy-skit-matthew-nuglsey-blackie-sack/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-13-at-7.10.03-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="add blackie sack" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/comedy-skit-matthew-nuglsey-blackie-sack/" title="Comedy Skit: This Is Matthew Nuglsey Of &#8216;Blackie Sack&#8217;">Comedy Skit: This Is Matthew Nuglsey Of &#8216;Blackie Sack&#8217;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 14, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/comedy-skit-matthew-nuglsey-blackie-sack/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>280 Views</span></div><p>In this episode of All Def Digital&#8217;s &#8216;Blackie Sack,&#8217; we get a closer look at member Matthew Nuglsey from the Hackie Sack Millionaires. From the</p></div></div><div class="span12 post-7643 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-13-at-6.30.48-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/comedy-skit-jermaine-fowler-clearly-allergic-nuts-friends-people/" title="Comedy Skit: Jermaine Fowler Is Clearly Allergic To Nuts!! (Friends Of The People)"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/comedy-skit-jermaine-fowler-clearly-allergic-nuts-friends-people/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-13-at-6.30.48-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="jermaine fowler" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/comedy-skit-jermaine-fowler-clearly-allergic-nuts-friends-people/" title="Comedy Skit: Jermaine Fowler Is Clearly Allergic To Nuts!! (Friends Of The People)">Comedy Skit: Jermaine Fowler Is Clearly Allergic To Nuts!! (Friends Of The People)</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 13, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/comedy-skit-jermaine-fowler-clearly-allergic-nuts-friends-people/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>425 Views</span></div><p>Last night another episode of &#8216;Friends Of The People&#8217; premiered on TruTV, in this episode Jermaine Folwer found himself jumping out of a cake. Unfortunately</p></div></div><div class="span12 post-7548 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-11-at-12.12.29-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/comedy-skit-personal-trainer-gets-personal/" title="Comedy Skit: When A Personal Trainer Gets &#8220;Too Personal&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/comedy-skit-personal-trainer-gets-personal/" title=""><img width="437" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-11-at-12.12.29-PM-437x250.png" class="attachment-mediaholder-medium wp-post-image" alt="tpindell" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/comedy-skit-personal-trainer-gets-personal/" title="Comedy Skit: When A Personal Trainer Gets &#8220;Too Personal&#8221;">Comedy Skit: When A Personal Trainer Gets &#8220;Too Personal&#8221;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 11, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/comedy-skit-personal-trainer-gets-personal/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>316 Views</span></div><p>For some a personal trainer is needed to get their body into shape but do beware of where you find them. In this latest skecth</p></div></div><div class="span12 post-7506 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-10-at-4.12.19-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/spoken-reasons-tries-help-jsnowpro-cynthia-luciettes-relationship-dr-reasons-season-2-premiere/" title="Spoken Reasons Tries To Help JSnowPro &#038; Cynthia Luciette&#8217;s Relationship In Dr. Reasons Season 2 Premiere"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/spoken-reasons-tries-help-jsnowpro-cynthia-luciettes-relationship-dr-reasons-season-2-premiere/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-10-at-4.12.19-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="spoken reasons dr reasons" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/spoken-reasons-tries-help-jsnowpro-cynthia-luciettes-relationship-dr-reasons-season-2-premiere/" title="Spoken Reasons Tries To Help JSnowPro &#038; Cynthia Luciette&#8217;s Relationship In Dr. Reasons Season 2 Premiere">Spoken Reasons Tries To Help JSnowPro &#038; Cynthia Luciette&#8217;s Relationship In Dr. Reasons Season 2 Premiere</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 10, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/spoken-reasons-tries-help-jsnowpro-cynthia-luciettes-relationship-dr-reasons-season-2-premiere/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>375 Views</span></div><p>Back in the office. Spoken Reasons officially returns to help couples in his series, &#8216;Dr. Reasons&#8217; with All Def Digital. In the season 2 premiere</p></div></div><div class="span12 post-7340 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-04-at-8.40.49-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/stand-up/comedian-radar-kerry-coddett-shows-handles-cat-calling/" title="Comedian Under The Radar: Ladies, Kerry Coddett Shows How To Handle &#8216;Cat-Calling&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/stand-up/comedian-radar-kerry-coddett-shows-handles-cat-calling/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-04-at-8.40.49-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="comedian kerry coddett" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/stand-up/comedian-radar-kerry-coddett-shows-handles-cat-calling/" title="Comedian Under The Radar: Ladies, Kerry Coddett Shows How To Handle &#8216;Cat-Calling&#8217;">Comedian Under The Radar: Ladies, Kerry Coddett Shows How To Handle &#8216;Cat-Calling&#8217;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 05, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/stand-up/comedian-radar-kerry-coddett-shows-handles-cat-calling/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>416 Views</span></div><p>With everyone discussing wether cat-calling is wrong or right, NYC based comedian Kerry Coddett briefly gives some females in the audience advice on how to</p></div></div><div class="span12 post-7316 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-03-at-10.21.25-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/stand-up/lucas-brothers-perform-jimmy-fallon/" title="The Lucas Brother&#8217;s Stand-Up Performance On Jimmy Fallon"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/stand-up/lucas-brothers-perform-jimmy-fallon/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-03-at-10.21.25-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="lucas bros" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/stand-up/lucas-brothers-perform-jimmy-fallon/" title="The Lucas Brother&#8217;s Stand-Up Performance On Jimmy Fallon">The Lucas Brother&#8217;s Stand-Up Performance On Jimmy Fallon</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 04, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/stand-up/lucas-brothers-perform-jimmy-fallon/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>556 Views</span></div><p>The other night The Lucas Bros. from TruTV&#8217;s Friends Of The People, made a stop by The Tonight Show with Jimmy Fallon. Of course during</p></div></div><div class="span12 post-7276 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-03-at-2.56.07-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/sketches/snl-spoofs-katt-williams-suge-knight-explain-camera-theft/" title="SNL Spoofs Katt Williams And Suge Knight To Explain Camera Theft"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/sketches/snl-spoofs-katt-williams-suge-knight-explain-camera-theft/" title=""><img width="382" height="210" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-03-at-2.56.07-AM.png" class="attachment-mediaholder-medium wp-post-image" alt="suge knight katt williams snl" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/sketches/snl-spoofs-katt-williams-suge-knight-explain-camera-theft/" title="SNL Spoofs Katt Williams And Suge Knight To Explain Camera Theft">SNL Spoofs Katt Williams And Suge Knight To Explain Camera Theft</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 03, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/sketches/snl-spoofs-katt-williams-suge-knight-explain-camera-theft/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>533 Views</span></div><p>Despite viewers not being too pleased with the recent SNL episode hosted by Chris Rock, many can agree that the spoofing of Katt Williams &#038;</p></div></div></div></div></div>
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span8 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<style><!--
+.mobile { width: 320px; height: 50px; } @media(min-width: 500px) { .mobile { width: 468px; height: 60px; } } @media(min-width: 800px) { .mobile { width: 728px; height: 90px; } }
+--></style><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async=""></script><!-- Mobile --> <ins class="adsbygoogle mobile" style="display: inline-block;" data-ad-client="ca-pub-2371062750809830" data-ad-slot="9496848958"></ins><script type="text/javascript">// <![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+// ]]&gt;</script>
+		</div> 
+	</div> <div class="block grid clearfix"><div class="block-title"><h2>culture</h2></div><div class="row-fluid"><div class="span4"><div class="post-7946 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-5.02.01-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/" title="Sheryl Underwood Responds To Sommore And Queens Of Comedy: &#8220;I&#8217;m Not Mad At Them&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-5.02.01-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="sheryl underwood" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/" title="Sheryl Underwood Responds To Sommore And Queens Of Comedy: &#8220;I&#8217;m Not Mad At Them&#8221;">Sheryl Underwood Responds To Sommore And Queens Of Comedy: &#8220;I&#8217;m Not Mad At Them&#8221;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 24, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/interviews/sheryl-underwood-responds-sommore-queens-comedy-im-mad/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>72 Views</span></div><p>In an interview with Sam Sylk on 93.1 WZAK in Cleveland, Sheryl Underwood got a chance to respond to the recent interview of fellow comedian</p></div></div></div><div class="span4"><div class="post-7936 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-1.26.04-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title="An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-1.26.04-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="tony rock" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title="An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color">An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 24, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>78 Views</span></div><p>Comedy Hype contributor Nika Hughes recently made her way to Los Angeles&#8217;s Laugh Factory with Dane Cook as the headliner, and while there she had</p></div></div></div><div class="span4"><div class="post-7877 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-7.10.38-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/" title="Exclusive &#8211; Faizon Love Responds To Criticism On His Support For Bill Cosby: &#8220;Somebody Can Say Anything Now And We Just Jump On It Without Due Process&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-7.10.38-AM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="chappelle" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/" title="Exclusive &#8211; Faizon Love Responds To Criticism On His Support For Bill Cosby: &#8220;Somebody Can Say Anything Now And We Just Jump On It Without Due Process&#8221;">Exclusive &#8211; Faizon Love Responds To Criticism On His Support For Bill Cosby: &#8220;Somebody Can Say Anything Now And We Just Jump On It Without Due Process&#8221;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 24, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>465 Views</span></div><p>With the current Bill Cosby sexual assault allegations gaining much attention on several outlets, comedian and actor Faizon Love recently expressed his opinion on the</p></div></div></div><div class="clearfix"></div><div class="span4"><div class="post-7914 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-5.57.35-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/alex-thomas-speaks-re-invention-episode-2-funny-dont-stop-series/" title="Alex Thomas Speaks On His Reinvention In Episode 2 Of &#8216;The Funny Don&#8217;t Stop&#8217; Series"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/alex-thomas-speaks-re-invention-episode-2-funny-dont-stop-series/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-5.57.35-AM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="alex thomas" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/interviews/alex-thomas-speaks-re-invention-episode-2-funny-dont-stop-series/" title="Alex Thomas Speaks On His Reinvention In Episode 2 Of &#8216;The Funny Don&#8217;t Stop&#8217; Series">Alex Thomas Speaks On His Reinvention In Episode 2 Of &#8216;The Funny Don&#8217;t Stop&#8217; Series</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 24, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/interviews/alex-thomas-speaks-re-invention-episode-2-funny-dont-stop-series/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>96 Views</span></div><p>Veteran comedian Alex Thomas looks to give fans a look into his world with new series, &#8216;The Funny Don&#8217;t Stop.&#8217; In part 2 of his</p></div></div></div><div class="span4"><div class="post-7904 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-6.17.33-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/" title="Katt Williams Says He Supports Cosby&#8217;s Alleged Victims, But Only Once"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/" title=""><img width="440" height="249" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-6.17.33-PM-440x249.png" class="attachment-mediaholder-medium wp-post-image" alt="Screen shot 2014-11-23 at 6.17.33 PM" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/" title="Katt Williams Says He Supports Cosby&#8217;s Alleged Victims, But Only Once">Katt Williams Says He Supports Cosby&#8217;s Alleged Victims, But Only Once</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 23, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>303 Views</span></div><p>Last night during a stop in Louisville, Kentucky apart of his current tour, Katt Williams commented on the recent Bill Cosby rape allegations. While on</p></div></div></div><div class="span4"><div class="post-7891 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-3.47.18-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/" title="First Look: Mike Epps Debuts His Richard Pryor Reenactment"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-3.47.18-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="mike epps" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/" title="First Look: Mike Epps Debuts His Richard Pryor Reenactment">First Look: Mike Epps Debuts His Richard Pryor Reenactment</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 23, 2014</span><span class="comments"><i class="icon-comments"></i>Comments off</span><span class="views"><i class="icon-eye-open"></i>276 Views</span></div><p>&nbsp; Last night Mike Epps made a stop in Cleveland, Ohio apart of his current After Dark Tour comedy tour. Luckily for  fans who attended the</p></div></div></div><div class="clearfix"></div><div class="span4"><div class="post-7850 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/roywwodjr.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/tbs-cancels-sulivan-son-roy-wood-jr-sends-personal-message-fans/" title="TBS Cancels &#8216;Sulivan &#038; Son&#8217;, Roy Wood Jr. Sends Personal Message To Fans"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/tbs-cancels-sulivan-son-roy-wood-jr-sends-personal-message-fans/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/roywwodjr-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="roywwodjr" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/culture/tbs-cancels-sulivan-son-roy-wood-jr-sends-personal-message-fans/" title="TBS Cancels &#8216;Sulivan &#038; Son&#8217;, Roy Wood Jr. Sends Personal Message To Fans">TBS Cancels &#8216;Sulivan &#038; Son&#8217;, Roy Wood Jr. Sends Personal Message To Fans</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 21, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/culture/tbs-cancels-sulivan-son-roy-wood-jr-sends-personal-message-fans/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>183 Views</span></div><p>Before kicking off the filming for a fourth season, the cast of TBS&#8217;s &#8216;Sulivan &amp; Son&#8217; found out yesterday that they will not be returning</p></div></div></div><div class="span4"><div class="post-7845 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-20-at-8.35.24-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/dave-chappelle-answers-fan-questions-apart-gq-men-year-feature/" title="Dave Chappelle Answers Fan Questions Apart Of GQ &#8216;Men Of The Year&#8217; Feature"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/dave-chappelle-answers-fan-questions-apart-gq-men-year-feature/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-20-at-8.35.24-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="dave chappelle" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/interviews/dave-chappelle-answers-fan-questions-apart-gq-men-year-feature/" title="Dave Chappelle Answers Fan Questions Apart Of GQ &#8216;Men Of The Year&#8217; Feature">Dave Chappelle Answers Fan Questions Apart Of GQ &#8216;Men Of The Year&#8217; Feature</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 21, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/interviews/dave-chappelle-answers-fan-questions-apart-gq-men-year-feature/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>358 Views</span></div><p>Apart of his GQ &#8216;Men Of The Year&#8217; spread, Dave Chappelle got in front of the camera to answer a few fan questions. In the</p></div></div></div><div class="span4"><div class="post-7834 big-post blog-item"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Larry-Wilmore.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/larry-wilmore-renames-talk-show-nightly-show-premiere-jan-19th/" title="Larry Wilmore Renames Talk Show &#8216;The Nightly Show&#8217;, To Premiere  Jan. 19th"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/larry-wilmore-renames-talk-show-nightly-show-premiere-jan-19th/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Larry-Wilmore-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="Larry-Wilmore" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/culture/larry-wilmore-renames-talk-show-nightly-show-premiere-jan-19th/" title="Larry Wilmore Renames Talk Show &#8216;The Nightly Show&#8217;, To Premiere  Jan. 19th">Larry Wilmore Renames Talk Show &#8216;The Nightly Show&#8217;, To Premiere  Jan. 19th</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 20, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/culture/larry-wilmore-renames-talk-show-nightly-show-premiere-jan-19th/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>226 Views</span></div><p>Back in May, Comedy Central shared news that they recruited famed writer Larry Wilmore to fill in their 11:30PM EST. time slot. At the time</p></div></div></div><div class="clearfix"></div><div class="span12 clearfix"><div class='pagination'><span class='pagi current'>1</span><a class='pagi inactive' href='http://www.comedyhype.com/page/2/' >2</a><a class='pagi inactive' href='http://www.comedyhype.com/page/3/' >3</a><a class='pagi arrow' href='http://www.comedyhype.com/page/2/'>&rsaquo;</a><a class='pagi arrow' href='http://www.comedyhype.com/page/79/'>&raquo;</a></div>
+</div></div></div>
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div id="text-2" class="widget widget_text"><h2 class="widgettitle">SOCIAL: CONNECT WITH US</h2>			<div class="textwidget"><div class="nino-social-preview nino-size-32 nino-social-style-1 nino-css3-style-1 nino-align-left"><a href="http://www.facebook.com/pages/ComedyHypeCom/1543482275867079" target="_blank" class="nino-social-icon-facebook"><span>Facebook</span></a><a href="http://twitter.com/comedyhype_" target="_blank" class="nino-social-icon-twitter"><span>Twitter</span></a><a href="http://instagram.com/comedyhype" target="_blank" class="nino-social-icon-instagram"><span>Instagram</span></a><a href="http://www.youtube.com/channel/UCABZ7Z6SBTp4IsARDceOq7w" target="_blank" class="nino-social-icon-youtube-channel"><span>YouTube Channel</span></a><a href="https://soundcloud.com/http://www.comedyhype.com/" target="_blank" class="nino-social-icon-soundcloud"><span>Soundcloud</span></a></div></div>
+		</div><div id="widget_sp_image-3" class="widget widget_sp_image"><img width="418" height="86" alt="" class="attachment-full" style="max-width: 100%;" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-12.29.51-AM.png" /></div><div id="ads336_280-widget-4" class="widget adds336_280-widget"><h2 class="widgettitle"></h2>		<div  class="ads336-280">
+								<div class="ad-inner">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Large Square -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2371062750809830"
+     data-ad-slot="2471020846"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div>
+				</div>
+	</div><div id="posts-widget-2" class="widget posts-widget"><h2 class="widgettitle">Being Watched Now</h2><div class="widget-block">			
+			<div class="small-post first clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/07/tracy1.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/tracy-morgan-tv-series-still-move-forward/" title="Tracy Morgan TV Series With FX Still To Move Forward, Says The Networks CEO"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/tracy-morgan-tv-series-still-move-forward/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/07/tracy1-100x70.jpg" class="attachment-mediaholder-small wp-post-image" alt="tracy" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/culture/tracy-morgan-tv-series-still-move-forward/" title="Tracy Morgan TV Series With FX Still To Move Forward, Says The Networks CEO">Tracy Morgan TV Series With FX...</a></h3><div class="detailmeta"><p>Despite recently leaving rehab for</p><span class="time">Jul 22, 2014</span></div></div>			</div>
+		
+					
+			<div class="small-post clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/06/Screen-shot-2014-06-03-at-1.52.26-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/alex-thomas-stops-snoop-doggs-ggn/" title="Alex Thomas Stops By Snoop Dogg&#8217;s GGN: Talks Career, And Working With Will Smith"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/alex-thomas-stops-snoop-doggs-ggn/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/06/Screen-shot-2014-06-03-at-1.52.26-PM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="alex thomas" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/interviews/alex-thomas-stops-snoop-doggs-ggn/" title="Alex Thomas Stops By Snoop Dogg&#8217;s GGN: Talks Career, And Working With Will Smith">Alex Thomas Stops By Snoop Dog...</a></h3><div class="detailmeta"><p>As Snoop&#8217;s recent guest on</p><span class="time">Jun 03, 2014</span></div></div>			</div>
+		
+					
+			<div class="small-post clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/08/Screen-shot-2014-08-12-at-10.01.39-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/stand-up/amanda-seales-marc-lamont-hill-smart-funny-black-stand-series-kim-coles-lil-rel-felonious-munk-charla-laureston-jordan-rock/" title="Amanda Seales &#038; Marc Lamont Hill &#8216;Smart, Funny, And Black&#8217; Stand-Up Series: Kim Coles, Lil Rel, Felonious Munk, Charla Laureston, &#038; Jordan Rock"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/stand-up/amanda-seales-marc-lamont-hill-smart-funny-black-stand-series-kim-coles-lil-rel-felonious-munk-charla-laureston-jordan-rock/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/08/Screen-shot-2014-08-12-at-10.01.39-AM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="amanda seals" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/stand-up/amanda-seales-marc-lamont-hill-smart-funny-black-stand-series-kim-coles-lil-rel-felonious-munk-charla-laureston-jordan-rock/" title="Amanda Seales &#038; Marc Lamont Hill &#8216;Smart, Funny, And Black&#8217; Stand-Up Series: Kim Coles, Lil Rel, Felonious Munk, Charla Laureston, &#038; Jordan Rock">Amanda Seales &#038; Marc Lamo...</a></h3><div class="detailmeta"><p>For the monthly show at</p><span class="time">Aug 12, 2014</span></div></div>			</div>
+		
+					
+			<div class="small-post clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/07/Screen-shot-2014-07-02-at-4.47.35-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/olivia-munn-joins-cast-ride-along-2-kevin-hart-ice-cube/" title="Olivia Munn Joins The Cast Of &#8216;Ride Along 2&#8242; With Kevin Hart And Ice Cube"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/olivia-munn-joins-cast-ride-along-2-kevin-hart-ice-cube/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/07/Screen-shot-2014-07-02-at-4.47.35-PM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="kevin hart ice cube" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/culture/olivia-munn-joins-cast-ride-along-2-kevin-hart-ice-cube/" title="Olivia Munn Joins The Cast Of &#8216;Ride Along 2&#8242; With Kevin Hart And Ice Cube">Olivia Munn Joins The Cast Of ...</a></h3><div class="detailmeta"><p>Ride Along 2 as expected</p><span class="time">Jul 02, 2014</span></div></div>			</div>
+		
+					
+			<div class="small-post last clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/04/Screen-shot-2014-04-22-at-12.36.07-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedians-under-the-radar/king-bach-covers-new-york-magazine-talks-success-wasnt-funnier-everyone/" title="King Bach Covers New York Magazine: Talks Success In Comedy,  “It wasn’t me being funnier than everyone”"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedians-under-the-radar/king-bach-covers-new-york-magazine-talks-success-wasnt-funnier-everyone/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/04/Screen-shot-2014-04-22-at-12.36.07-PM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="king bach" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedians-under-the-radar/king-bach-covers-new-york-magazine-talks-success-wasnt-funnier-everyone/" title="King Bach Covers New York Magazine: Talks Success In Comedy,  “It wasn’t me being funnier than everyone”">King Bach Covers New York Maga...</a></h3><div class="detailmeta"><p>For the latest issue of</p><span class="time">Apr 22, 2014</span></div></div>			</div>
+		
+		</div></div><div id="posts-widget-3" class="widget posts-widget"><h2 class="widgettitle">Exclusives</h2><div class="widget-block">			
+			<div class="small-post first clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-1.26.04-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title="An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-1.26.04-PM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="tony rock" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/culture/exclusive-night-tony-rock-shows-comedy-beyond-color/" title="An &#8216;Exclusive&#8217; Night With Tony Rock Shows That Comedy Is Beyond Color">An &#8216;Exclusive&#8217; Nig...</a></h3><div class="detailmeta"><p>Comedy Hype contributor Nika Hughes</p><span class="time">Nov 24, 2014</span></div></div>			</div>
+		
+					
+			<div class="small-post clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-7.10.38-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/" title="Exclusive &#8211; Faizon Love Responds To Criticism On His Support For Bill Cosby: &#8220;Somebody Can Say Anything Now And We Just Jump On It Without Due Process&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-24-at-7.10.38-AM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="chappelle" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/interviews/exclusive-faizon-love-responds-cosby-support-criticism-im-looking-like-somebody-coming-father/" title="Exclusive &#8211; Faizon Love Responds To Criticism On His Support For Bill Cosby: &#8220;Somebody Can Say Anything Now And We Just Jump On It Without Due Process&#8221;">Exclusive &#8211; Faizon Love ...</a></h3><div class="detailmeta"><p>With the current Bill Cosby</p><span class="time">Nov 24, 2014</span></div></div>			</div>
+		
+					
+			<div class="small-post last clearfix">
+				<div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-6.17.33-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/" title="Katt Williams Says He Supports Cosby&#8217;s Alleged Victims, But Only Once"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-6.17.33-PM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="Screen shot 2014-11-23 at 6.17.33 PM" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/culture/katt-williams-says-supports-cosbys-alleged-victims/" title="Katt Williams Says He Supports Cosby&#8217;s Alleged Victims, But Only Once">Katt Williams Says He Supports...</a></h3><div class="detailmeta"><p>Last night during a stop</p><span class="time">Nov 23, 2014</span></div></div>			</div>
+		
+		</div></div>
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="block magazine2 clearfix"><div class="block-title"><h2>Comedy News</h2></div><div class="magazine row-fluid"><div class="span12 clearfix"><div class="post-7749 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/eddiemurphy.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/" title="Eddie Murphy To Get Serious In Upcoming Dramatic Film &#8216;Cook&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/eddiemurphy-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="Eddie Murphy" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/" title="Eddie Murphy To Get Serious In Upcoming Dramatic Film &#8216;Cook&#8217;">Eddie Murphy To Get Serious In Upcoming Dramatic Film &#8216;Cook&#8217;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 18, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>289 Views</span></div><p>Like his past role in 2006&#8242;s Dreamgirls, Eddie Murphy will put the jokes on hold and take a more serious approach to things. In the</p></div></div></div><div class="span6 clearfix"><div class="post-7407 medium-post second"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-3.03.35-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/" title="Nick Cannon Says He&#8217;s Filming His Own Richard Pryor Movie"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-3.03.35-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="nick cannon pryor" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/" title="Nick Cannon Says He&#8217;s Filming His Own Richard Pryor Movie">Nick Cannon Says He&#8217...</a></h3><div class="detailmeta"><p>Guess Nick Cannon is determined to play stand-up comedy legend Richard Pryor one way or</p><span class="time">Nov 07, 2014</span></div></div></div></div><div class="span6 clearfix"><div class="post-7168 medium-post second"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-28-at-11.56.53-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-news/dl-hughley-comedy-store-allowing-white-comics-use-n-word-coming-never-let-us-play/" title="DL Hughley Speaks On The Comedy Store Allowing White Comics To Use The &#8216;N-Word&#8217;: &#8220;When We Were Coming Up, They Would Never Let Us Play There&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-news/dl-hughley-comedy-store-allowing-white-comics-use-n-word-coming-never-let-us-play/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-28-at-11.56.53-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="dl hughley" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedy-news/dl-hughley-comedy-store-allowing-white-comics-use-n-word-coming-never-let-us-play/" title="DL Hughley Speaks On The Comedy Store Allowing White Comics To Use The &#8216;N-Word&#8217;: &#8220;When We Were Coming Up, They Would Never Let Us Play There&#8221;">DL Hughley Speaks On The ...</a></h3><div class="detailmeta"><p>After sharing our story on white comedians being allowed to freely use the &#8216;N-Word&#8217; at</p><span class="time">Oct 29, 2014</span></div></div></div></div><div class="clearfix"></div><div class="span6 clearfix"><div class="post-7011 medium-post"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-20-at-2.57.05-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-news/woah-hannibal-buress-wants-know-bill-cosby-rapist/" title="Woah: Hannibal Buress Wants You To Know Bill Cosby Is A Rapist"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-news/woah-hannibal-buress-wants-know-bill-cosby-rapist/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-20-at-2.57.05-AM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="bill cosby hannibal buress" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedy-news/woah-hannibal-buress-wants-know-bill-cosby-rapist/" title="Woah: Hannibal Buress Wants You To Know Bill Cosby Is A Rapist">Woah: Hannibal Buress Wan...</a></h3><div class="detailmeta"><p>Interesting news coming out of Philadelphia. As Hannibal Buress makes some stops for his newly</p><span class="time">Oct 20, 2014</span></div></div></div></div><div class="span6 clearfix"><div class="post-6934 medium-post"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/10/on-set-blackson-epps.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-news/michael-blackson-mike-epps-reunite-new-project-meet-blacks-lil-duval/" title="Michael Blackson, And Mike Epps Reunite On New Project &#8216;Meet The Blacks&#8217; With Lil Duval"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-news/michael-blackson-mike-epps-reunite-new-project-meet-blacks-lil-duval/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/on-set-blackson-epps-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="on set blackson epps" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedy-news/michael-blackson-mike-epps-reunite-new-project-meet-blacks-lil-duval/" title="Michael Blackson, And Mike Epps Reunite On New Project &#8216;Meet The Blacks&#8217; With Lil Duval">Michael Blackson, And Mik...</a></h3><div class="detailmeta"><p>Guess we can be getting ready for the return of another classic scene featuring Michael</p><span class="time">Oct 15, 2014</span></div></div></div></div><div class="clearfix"></div></div></div>
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="block magazine2 clearfix"><div class="block-title"><h2>Comedians Under The Radar</h2></div><div class="magazine row-fluid"><div class="span12 clearfix"><div class="post-7858 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/dericevans.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedians-under-the-radar/deric-sleezy-evans-talks-comedy-hype-black-comics-try-defend-white-comics-use-n-word-shows-slave-mentality/" title="Deric &#8216;Sleezy&#8217; Evans Tells Comedy Hype What It Means To &#8216;Stay Local H*e&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedians-under-the-radar/deric-sleezy-evans-talks-comedy-hype-black-comics-try-defend-white-comics-use-n-word-shows-slave-mentality/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/dericevans-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="deric evans" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedians-under-the-radar/deric-sleezy-evans-talks-comedy-hype-black-comics-try-defend-white-comics-use-n-word-shows-slave-mentality/" title="Deric &#8216;Sleezy&#8217; Evans Tells Comedy Hype What It Means To &#8216;Stay Local H*e&#8217;">Deric &#8216;Sleezy&#8217; Evans Tells Comedy Hype What It Means To &#8216;Stay Local H*e&#8217;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 23, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedians-under-the-radar/deric-sleezy-evans-talks-comedy-hype-black-comics-try-defend-white-comics-use-n-word-shows-slave-mentality/#comments">1 Comment</a></span><span class="views"><i class="icon-eye-open"></i>442 Views</span></div><p>We catch up with  Nashville, TN native comedian Deric &#8216;Sleezy&#8217; Evans as he discuss his current hustle in comedy and how his growing clothing line</p></div></div></div><div class="span6 clearfix"><div class="post-7763 medium-post second"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/nore.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedians-under-the-radar/nore-davis-announces-debut-comedy-album-home-game-cover-art/" title="Nore Davis Announces Debut Comedy Album &#8216;Home Game&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedians-under-the-radar/nore-davis-announces-debut-comedy-album-home-game-cover-art/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/nore-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="nore" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedians-under-the-radar/nore-davis-announces-debut-comedy-album-home-game-cover-art/" title="Nore Davis Announces Debut Comedy Album &#8216;Home Game&#8217;">Nore Davis Announces Debu...</a></h3><div class="detailmeta"><p>Rising comedian Nore Davis, has finally got a chance to offer his fans a comedy</p><span class="time">Nov 18, 2014</span></div></div></div></div><div class="span6 clearfix"><div class="post-7746 medium-post second"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-18-at-11.56.38-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/comedians-willie-lynch-jr-leonard-outz-explain-celebs-want-hook/" title="Comedians Willie Lynch Jr. And Leonard Outz Explain What Celebs They Want To Hook Up With"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/comedians-willie-lynch-jr-leonard-outz-explain-celebs-want-hook/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-18-at-11.56.38-AM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="Screen shot 2014-11-18 at 11.56.38 AM" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/interviews/comedians-willie-lynch-jr-leonard-outz-explain-celebs-want-hook/" title="Comedians Willie Lynch Jr. And Leonard Outz Explain What Celebs They Want To Hook Up With">Comedians Willie Lynch Jr...</a></h3><div class="detailmeta"><p>On an episode of talk series &#8220;Kickin The Blah Blah Blah&#8221; with Brooklyn MC Blahz</p><span class="time">Nov 18, 2014</span></div></div></div></div><div class="clearfix"></div><div class="span6 clearfix"><div class="post-7735 medium-post"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/smokey.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedians-under-the-radar/first-listen-friday-mixtape-comedian-dukk-drops-ugly-single-branknu/" title="First Listen: Friday The Mixtape  &#8211; Comedian Dukk Drops &#8216;Ugly&#8217; Single With Branknu"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedians-under-the-radar/first-listen-friday-mixtape-comedian-dukk-drops-ugly-single-branknu/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/smokey-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="smokey" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedians-under-the-radar/first-listen-friday-mixtape-comedian-dukk-drops-ugly-single-branknu/" title="First Listen: Friday The Mixtape  &#8211; Comedian Dukk Drops &#8216;Ugly&#8217; Single With Branknu">First Listen: Friday The ...</a></h3><div class="detailmeta"><p>In 1995&#8242;s Friday, there is an infamous scene when Smokey finally meets his blind date.</p><span class="time">Nov 18, 2014</span></div></div></div></div><div class="span6 clearfix"><div class="post-7675 medium-post"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-17-at-4.32.31-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/shawty-shawty-talks-hot-sauce-never-leave-stage/" title="Shawty Shawty Talks With Hot Sauce: &#8220;I Would Never Leave The Stage&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/shawty-shawty-talks-hot-sauce-never-leave-stage/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-17-at-4.32.31-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="shawty shawty" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/interviews/shawty-shawty-talks-hot-sauce-never-leave-stage/" title="Shawty Shawty Talks With Hot Sauce: &#8220;I Would Never Leave The Stage&#8221;">Shawty Shawty Talks With ...</a></h3><div class="detailmeta"><p>While in Chicago, Atlanta grown comedian Shawty Shawty caught up with fellow comedian Hot Sauce</p><span class="time">Nov 14, 2014</span></div></div></div></div><div class="clearfix"></div></div></div>
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="block blog2 clearfix"><div class="block-title"><h2>Social Comedy</h2></div><div class="row-fluid"><div class="post-7672 big-post blog-item span12 clearfix"><div class="mediaholder_big"><a href="http://www.comedyhype.com/social-comedy/lol-comedian-dlai-says-everything-thinking-im-gay-viral/" title="Lol: Comedian D&#8217;Lai Says Everything You Were Thinking About The &#8220;Im Not Gay No More&#8221; Viral"><img width="570" height="300" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-14-at-2.44.19-PM-570x300.png" class="attachment-mediaholder-big wp-post-image" alt="d&#039;lai" /></a></div><div class="detailholder big"><h3><a href="http://www.comedyhype.com/social-comedy/lol-comedian-dlai-says-everything-thinking-im-gay-viral/" title="Lol: Comedian D&#8217;Lai Says Everything You Were Thinking About The &#8220;Im Not Gay No More&#8221; Viral">Lol: Comedian D&#8217;Lai Says Everything You Were Thinking About The &#8220;Im Not Gay No More&#8221; Viral</a></h3><div class="single-meta clearfix"><div class="date"><i class="icon-calendar"></i>Nov 14, 2014</div><div class="comments"><i class="icon-comment"></i><a href="http://www.comedyhype.com/social-comedy/lol-comedian-dlai-says-everything-thinking-im-gay-viral/#comments">No Comments</a></div><div class="views"><i class="icon-eye-open"></i>368 Views</div><div class="author"><i class="icon-user"></i><a href="http://ComedyHype.Com" title="Visit Comedy Hype&#8217;s website" rel="author external">Comedy Hype</a></div></div><p>Earlier this week, a clip of a church member went viral after he claimed that through prayer he was delivered from no longer being gay. The clip which was spread through social media sites like Instagram, Facebook, and Twitter caught many people off guard. D&#8217;Lai who is best known for touring on Bill Bellamy&#8217;s Ladies Night Out Tour decided share just about everything you were thinking for those who watched.</p></div></div><div class="post-7618 big-post blog-item span12 clearfix"><div class="mediaholder_big"><a href="http://www.comedyhype.com/social-comedy/flexing-instagram-goes-wrong-starring-hannibal-buress/" title="When &#8220;Flexing On Instagram&#8221; Goes Wrong Featuring Hannibal Buress"><img width="470" height="246" src="http://www.comedyhype.com/wp-content/uploads/2014/11/hannibalb.jpg" class="attachment-mediaholder-big wp-post-image" alt="hannibalb" /></a></div><div class="detailholder big"><h3><a href="http://www.comedyhype.com/social-comedy/flexing-instagram-goes-wrong-starring-hannibal-buress/" title="When &#8220;Flexing On Instagram&#8221; Goes Wrong Featuring Hannibal Buress">When &#8220;Flexing On Instagram&#8221; Goes Wrong Featuring Hannibal Buress</a></h3><div class="single-meta clearfix"><div class="date"><i class="icon-calendar"></i>Nov 13, 2014</div><div class="comments"><i class="icon-comment"></i><a href="http://www.comedyhype.com/social-comedy/flexing-instagram-goes-wrong-starring-hannibal-buress/#comments">No Comments</a></div><div class="views"><i class="icon-eye-open"></i>818 Views</div><div class="author"><i class="icon-user"></i><a href="http://ComedyHype.Com" title="Visit Comedy Hype&#8217;s website" rel="author external">Comedy Hype</a></div></div><p>Sometimes on social media site Instagram, people take advantage of other people&#8217;s perception. Even the phrase &#8216;Flexing on Instagram&#8217; has become a popular saying to describe when a user over exaggerates a favorable moment with a picture. Well Hannibal Buress doesn&#8217;t seem to be a fan of flexing or just straight out lying. When it came to one post in particular Buress quickly called out a would be &#8216;Flexer.&#8217; Earlier today a user</p></div></div><div class="span12 clearfix"><div class='pagination'><span class='pagi current'>1</span><a class='pagi inactive' href='http://www.comedyhype.com/page/2/' >2</a><a class='pagi inactive' href='http://www.comedyhype.com/page/3/' >3</a><a class='pagi arrow' href='http://www.comedyhype.com/page/2/'>&rsaquo;</a><a class='pagi arrow' href='http://www.comedyhype.com/page/28/'>&raquo;</a></div>
+</div></div></div>
+		</div> 
+	</div> 
+</div><div class="wpb_row row-fluid">
+	<div class="span8 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_video_widget wpb_content_element">
+		<div class="wpb_wrapper"><div class="block-title wpb_video_heading"><h2>The Tube</h2></div><div class="wpb_video_wrapper"><iframe width="940" height="529" src="http://www.youtube.com/embed/RAfzq76G7B4?feature=oembed&wmode=opaque" frameborder="0" allowfullscreen></iframe></div>
+		</div> 
+	</div> <div class="block magazine1 clearfix"><div class="block-title"><h2>comedy hustle</h2></div><div class="magazine row-fluid"><div class="span6 clearfix"><div class="post-6595 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-01-at-8.33.17-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/look-silicon-valley-damon-wayans-may-apps/" title="Look Out Silicon Valley, Damon Wayans May Have Some Apps For You"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/look-silicon-valley-damon-wayans-may-apps/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-01-at-8.33.17-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="damon wayans tech" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/interviews/look-silicon-valley-damon-wayans-may-apps/" title="Look Out Silicon Valley, Damon Wayans May Have Some Apps For You">Look Out Silicon Valley, Damon Wayans May Have Some Apps For You</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Oct 02, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/interviews/look-silicon-valley-damon-wayans-may-apps/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>652 Views</span></div><p>Your browser does not support iframes. Taking on a different role than most of us know him for in the comedy world, Damon Wayans is looking at building</p></div></div></div><div class="span6 clearfix"><div class="post-4853 small-post first second"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/08/Screen-shot-2014-08-05-at-9.38.30-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/interviews/artist-chris-b-murray-talks-comedy-hype-discuss-dave-chappelle-inspired-artwork-ice-cream/" title="Artist Chris B. Murray Talks To Comedy Hype: Discuss His Dave Chappelle Inspired Artwork, &#8216;No More Ice Cream&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/interviews/artist-chris-b-murray-talks-comedy-hype-discuss-dave-chappelle-inspired-artwork-ice-cream/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/08/Screen-shot-2014-08-05-at-9.38.30-AM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="chappelle no more ice cream" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/interviews/artist-chris-b-murray-talks-comedy-hype-discuss-dave-chappelle-inspired-artwork-ice-cream/" title="Artist Chris B. Murray Talks To Comedy Hype: Discuss His Dave Chappelle Inspired Artwork, &#8216;No More Ice Cream&#8217;">Artist Chris B. Murray Ta...</a></h3><div class="detailmeta"><p>In our interview with Philly based artist Chris B.</p><span class="time">Aug 05, 2014</span></div></div></div></div><div class="span6 clearfix"><div class="post-4534 small-post"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/07/tony-baker.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedians-under-the-radar/tony-baker-preps-debut-comedy-album-lifestyle/" title="Tony Baker Preps For Debut Comedy Album, &#8220;It&#8217;s A Lifestyle&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedians-under-the-radar/tony-baker-preps-debut-comedy-album-lifestyle/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/07/tony-baker-100x70.jpg" class="attachment-mediaholder-small wp-post-image" alt="tony baker" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/comedians-under-the-radar/tony-baker-preps-debut-comedy-album-lifestyle/" title="Tony Baker Preps For Debut Comedy Album, &#8220;It&#8217;s A Lifestyle&#8221;">Tony Baker Preps For Debu...</a></h3><div class="detailmeta"><p>On August 12th, Chicago raised comedian Tony Baker will</p><span class="time">Jul 21, 2014</span></div></div></div></div><div class="span6 clearfix"><div class="post-4518 small-post last"><div class="mediaholder small"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/07/Screen-shot-2014-07-21-at-9.09.52-AM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/hustle/red-grant-releases-eye-wear-hat-apparel-line-ordizzle/" title="Red Grant Launches Eyewear And Hat Apparel Line: Ordizzle"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/hustle/red-grant-releases-eye-wear-hat-apparel-line-ordizzle/" title=""><img width="100" height="70" src="http://www.comedyhype.com/wp-content/uploads/2014/07/Screen-shot-2014-07-21-at-9.09.52-AM-100x70.png" class="attachment-mediaholder-small wp-post-image" alt="red grant" /></a></div><div class="detailholder small"><h3><a href="http://www.comedyhype.com/hustle/red-grant-releases-eye-wear-hat-apparel-line-ordizzle/" title="Red Grant Launches Eyewear And Hat Apparel Line: Ordizzle">Red Grant Launches Eyewea...</a></h3><div class="detailmeta"><p>If you have been paying attention to Red Grant</p><span class="time">Jul 21, 2014</span></div></div></div></div></div></div><div class="block carousel clearfix"><div class="block-title"><h2>FILMS</h2><ul class="lists-category"><li class="all-category"><a href="http://www.comedyhype.com/category/movies/">All</a></li></ul></div><div class="row-fluid"><div class="owl_carousel" data-grid="5" ><div class="span12 post-7793 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/first-look-pictures-kevin-hart-will-ferrell-get-hard/" title="" class="caption-carousel"><span class=title>First Look Pict...</span><span>As discussed, Kevin Hart joined Will</span></a><a href="http://www.comedyhype.com/culture/first-look-pictures-kevin-hart-will-ferrell-get-hard/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-19-at-3.44.34-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="kevin hart will ferrell" /></a></div></div><div class="span12 post-7770 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/bill-cosbys-comedy-special-netflix-put-hold/" title="" class="caption-carousel"><span class=title>Bill Cosby&#821...</span><span>Back in August, it was revealed</span></a><a href="http://www.comedyhype.com/culture/bill-cosbys-comedy-special-netflix-put-hold/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-19-at-12.30.20-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="bill cosby" /></a></div></div><div class="span12 post-7749 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/" title="" class="caption-carousel"><span class=title>Eddie Murphy To...</span><span>Like his past role in 2006&#8242;s</span></a><a href="http://www.comedyhype.com/comedy-news/eddie-murphy-get-serious-upcoming-dramatic-film-cook/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/eddiemurphy-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="Eddie Murphy" /></a></div></div><div class="span12 post-7564 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/kevin-hart-working-another-action-comedy-time-rock/" title="" class="caption-carousel"><span class=title>Kevin Hart Work...</span><span>Guess &#8216;Hustle Hart&#8217; is in full</span></a><a href="http://www.comedyhype.com/culture/kevin-hart-working-another-action-comedy-time-rock/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-11-at-4.38.28-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="kevin hart" /></a></div></div><div class="span12 post-7407 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/" title="" class="caption-carousel"><span class=title>Nick Cannon Say...</span><span>Guess Nick Cannon is determined to</span></a><a href="http://www.comedyhype.com/comedy-news/nick-cannon-says-hes-filming-richard-pryor-movie/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-3.03.35-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="nick cannon pryor" /></a></div></div><div class="span12 post-7261 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/set-mike-epps-meet-blacks/" title="" class="caption-carousel"><span class=title>On The Set Of M...</span><span>As shared Mike Epps, along with</span></a><a href="http://www.comedyhype.com/culture/set-mike-epps-meet-blacks/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-02-at-11.59.02-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="mike epps gary owen" /></a></div></div><div class="span12 post-6992 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/trailer-chris-rocks-top-5-features-tracy-morgan-kevin-hart-jb-smoove-jay-pharoah-michael-che-leslie-jones-cendric-entertainer-first-look/" title="" class="caption-carousel"><span class=title>Trailer: Chris ...</span><span>It&#8217;s here. Chris Rock looks to</span></a><a href="http://www.comedyhype.com/culture/trailer-chris-rocks-top-5-features-tracy-morgan-kevin-hart-jb-smoove-jay-pharoah-michael-che-leslie-jones-cendric-entertainer-first-look/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-20-at-12.33.41-AM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="chris rock top 5 kevin hart tracy morgan" /></a></div></div><div class="span12 post-6962 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/kevin-hart-confirms-upcoming-role-intouchables-remake-chops-drama/" title="" class="caption-carousel"><span class=title>Kevin Hart Conf...</span><span>Earlier last week talks began circulating</span></a><a href="http://www.comedyhype.com/culture/kevin-hart-confirms-upcoming-role-intouchables-remake-chops-drama/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-15-at-6.17.02-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="kevin hart" /></a></div></div><div class="span12 post-6934 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/comedy-news/michael-blackson-mike-epps-reunite-new-project-meet-blacks-lil-duval/" title="" class="caption-carousel"><span class=title>Michael Blackso...</span><span>Guess we can be getting ready</span></a><a href="http://www.comedyhype.com/comedy-news/michael-blackson-mike-epps-reunite-new-project-meet-blacks-lil-duval/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/on-set-blackson-epps-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="on set blackson epps" /></a></div></div><div class="span12 post-6820 big-post"><div class="mediaholder carousel"><a href="http://www.comedyhype.com/culture/everybody-hates-chris-star-admits-stealing-eddie-murphy-material-get-role/" title="" class="caption-carousel"><span class=title>&#8216;Everybod...</span><span>Stealing jokes is nothing new amongst</span></a><a href="http://www.comedyhype.com/culture/everybody-hates-chris-star-admits-stealing-eddie-murphy-material-get-role/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/whitepeople-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="whitepeople" /></a></div></div></div></div></div><div class="block carousel clearfix"><div class="block-title"><h2>Tour Life</h2></div><div class="row-fluid"><div class="owl_carousel" data-grid="4" ><div class="span12 post-7891 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-3.47.18-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/" title="First Look: Mike Epps Debuts His Richard Pryor Reenactment"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-23-at-3.47.18-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="mike epps" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/first-look-mike-epps-debuts-richard-pryor-reenactment/" title="First Look: Mike Epps Debuts His Richard Pryor Reenactment">First Look: Mike Epps Debuts His Richard Pryor Reenactment</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 23, 2014</span><span class="comments"><i class="icon-comments"></i>Comments off</span><span class="views"><i class="icon-eye-open"></i>276 Views</span></div><p>&nbsp; Last night Mike Epps made a stop in Cleveland, Ohio apart of his current</p></div></div><div class="span12 post-7829 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/kevin-hart.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/kevin-hart-announces-now-comedy-tour/" title="Kevin Hart Announces The &#8216;What Now&#8217; Comedy Tour"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/kevin-hart-announces-now-comedy-tour/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/kevin-hart-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="kevin hart" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/kevin-hart-announces-now-comedy-tour/" title="Kevin Hart Announces The &#8216;What Now&#8217; Comedy Tour">Kevin Hart Announces The &#8216;What Now&#8217; Comedy Tour</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 20, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/kevin-hart-announces-now-comedy-tour/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>2337 Views</span></div><p>For everyone who has been waiting to see what Kevin Hart plans to do next</p></div></div><div class="span12 post-7815 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/patrice-oneal.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/3rd-annual-patrice-oneal-comedy-benefit-concert-announced/" title="The 3rd Annual Patrice O’Neal Comedy Benefit Concert Announced"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/3rd-annual-patrice-oneal-comedy-benefit-concert-announced/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/patrice-oneal-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="patrice oneal" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/3rd-annual-patrice-oneal-comedy-benefit-concert-announced/" title="The 3rd Annual Patrice O’Neal Comedy Benefit Concert Announced">The 3rd Annual Patrice O’Neal Comedy Benefit Concert Announced</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 20, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/3rd-annual-patrice-oneal-comedy-benefit-concert-announced/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>242 Views</span></div><p>This coming February several comedians will take to the stage to remember the late Patrice</p></div></div><div class="span12 post-7788 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/damonwayans.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/damon-wayans-jr-perform-stand-dad-damon-sr/" title="Damon Wayans Jr. To Perform Stand-Up With Dad, Damon Sr."><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/damon-wayans-jr-perform-stand-dad-damon-sr/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/damonwayans-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="damon wayans" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/damon-wayans-jr-perform-stand-dad-damon-sr/" title="Damon Wayans Jr. To Perform Stand-Up With Dad, Damon Sr.">Damon Wayans Jr. To Perform Stand-Up With Dad, Damon Sr.</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 19, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/damon-wayans-jr-perform-stand-dad-damon-sr/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>515 Views</span></div><p>For those who didn&#8217;t know Damon Wayans Jr. of FOX&#8217;s New Girl is not a</p></div></div><div class="span12 post-7569 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-11-at-8.38.09-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/jordan-rock-brings-smoking-culture-comedy-together-nycs-productively-stoned-comedy-show/" title="Jordan Rock Brings &#8216;Smoking Culture And Comedy&#8217; Together For NYC&#8217;s Productively Stoned Comedy Show"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/jordan-rock-brings-smoking-culture-comedy-together-nycs-productively-stoned-comedy-show/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-11-at-8.38.09-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="jordan rock" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/jordan-rock-brings-smoking-culture-comedy-together-nycs-productively-stoned-comedy-show/" title="Jordan Rock Brings &#8216;Smoking Culture And Comedy&#8217; Together For NYC&#8217;s Productively Stoned Comedy Show">Jordan Rock Brings &#8216;Smoking Culture And Comedy&#8217; Together For NYC&#8217;s Productively Stoned Comedy Show</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 12, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/jordan-rock-brings-smoking-culture-comedy-together-nycs-productively-stoned-comedy-show/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>426 Views</span></div><p>As he creates his own lane of the Rock brand in comedy, Jordan Rock now</p></div></div><div class="span12 post-7430 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-5.43.10-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/deray-davis-joins-mike-epps-dark-comedy-tour/" title="DeRay Davis Joins Mike Epps &#8216;After Dark Comedy Tour&#8217;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/deray-davis-joins-mike-epps-dark-comedy-tour/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-07-at-5.43.10-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="deray davis mike epps" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/deray-davis-joins-mike-epps-dark-comedy-tour/" title="DeRay Davis Joins Mike Epps &#8216;After Dark Comedy Tour&#8217;">DeRay Davis Joins Mike Epps &#8216;After Dark Comedy Tour&#8217;</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 07, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/deray-davis-joins-mike-epps-dark-comedy-tour/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>715 Views</span></div><p>Earlier this year, DeRay Davis and Mike Epps entertained fans together apart of Shaq All-Star</p></div></div><div class="span12 post-7354 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-05-at-3.07.38-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/students-injured-rush-see-kevin-hart-reached-rock-star-status/" title="Students Injured During Rush To See Kevin Hart, Has He Reached Rock Star Status?"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/students-injured-rush-see-kevin-hart-reached-rock-star-status/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-05-at-3.07.38-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="kevin hart" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/students-injured-rush-see-kevin-hart-reached-rock-star-status/" title="Students Injured During Rush To See Kevin Hart, Has He Reached Rock Star Status?">Students Injured During Rush To See Kevin Hart, Has He Reached Rock Star Status?</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 05, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/students-injured-rush-see-kevin-hart-reached-rock-star-status/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>417 Views</span></div><p>As you may know Kevin Hart has recently kicked off his very first college tour.</p></div></div><div class="span12 post-7293 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/torrei.jpg" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/hollywood-exess-torrei-hart-makes-stand-comedy-return/" title="Hollywood Exes&#8217;s Torrei Hart Makes Stand-Up Comedy Return"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/hollywood-exess-torrei-hart-makes-stand-comedy-return/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/torrei-440x250.jpg" class="attachment-mediaholder-medium wp-post-image" alt="torrei" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/hollywood-exess-torrei-hart-makes-stand-comedy-return/" title="Hollywood Exes&#8217;s Torrei Hart Makes Stand-Up Comedy Return">Hollywood Exes&#8217;s Torrei Hart Makes Stand-Up Comedy Return</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Nov 03, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/hollywood-exess-torrei-hart-makes-stand-comedy-return/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>360 Views</span></div><p>Its been some time since we last seen VH1 Hollywood Exes&#8217;s Torrei Hart on the</p></div></div><div class="span12 post-7194 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-29-at-8.39.04-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/affion-crockett-continues-return-stand-stop-houston-improv/" title="Affion Crockett Continues His Return To Stand-Up With A Stop At The Houston Improv"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/affion-crockett-continues-return-stand-stop-houston-improv/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-29-at-8.39.04-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="affion crockett" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/affion-crockett-continues-return-stand-stop-houston-improv/" title="Affion Crockett Continues His Return To Stand-Up With A Stop At The Houston Improv">Affion Crockett Continues His Return To Stand-Up With A Stop At The Houston Improv</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Oct 30, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/affion-crockett-continues-return-stand-stop-houston-improv/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>605 Views</span></div><p>As shared Affion Crockett has been back on the road for his stand-up comedy return.</p></div></div><div class="span12 post-6921 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-15-at-2.48.01-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/comedy-tours/wendy-williams-recruits-luenell-laughin-comedy-show/" title="Wendy Williams Recruits Luenell For &#8216;How You Laughin?&#8217; Comedy Show"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/comedy-tours/wendy-williams-recruits-luenell-laughin-comedy-show/" title=""><img width="440" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-15-at-2.48.01-PM-440x250.png" class="attachment-mediaholder-medium wp-post-image" alt="wendy williams luenell" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/comedy-tours/wendy-williams-recruits-luenell-laughin-comedy-show/" title="Wendy Williams Recruits Luenell For &#8216;How You Laughin?&#8217; Comedy Show">Wendy Williams Recruits Luenell For &#8216;How You Laughin?&#8217; Comedy Show</a></h3><div class="detailmeta"><span class="time"><i class="icon-calendar"></i>Oct 15, 2014</span><span class="comments"><i class="icon-comments"></i><a href="http://www.comedyhype.com/comedy-tours/wendy-williams-recruits-luenell-laughin-comedy-show/#comments">No Comments</a></span><span class="views"><i class="icon-eye-open"></i>1151 Views</span></div><p>On November 15th, talk show host Wendy Williams will be at the New Jersey Pac</p></div></div></div></div></div>
+		</div> 
+	</div> 
+
+	<div class="span4 wpb_column column_container">
+		<div class="wpb_wrapper">
+			<div class="block carousel clearfix"><div class="block-title"><h2>Comedy Commandments</h2></div><div class="row-fluid"><div class="owl_carousel" data-grid="3" ><div class="span12 post-7839 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-20-at-7.56.18-PM.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/cc/comedy-commandments-thou-shalt-cut-fellow-comedian/" title="Comedy Commandments: &#8220;Thou Shalt Not Under Cut A Fellow Comedian&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/cc/comedy-commandments-thou-shalt-cut-fellow-comedian/" title=""><img width="390" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-20-at-7.56.18-PM-390x250.png" class="attachment-mediaholder-medium wp-post-image" alt="comedy commandment" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/cc/comedy-commandments-thou-shalt-cut-fellow-comedian/" title="Comedy Commandments: &#8220;Thou Shalt Not Under Cut A Fellow Comedian&#8221;">Comedy Commandments: &#8220;Thou Shalt Not Under Cut A Fellow Comedian&#8221;</a></h3><p>Every sports, music, and entertainment platform has their rules and guidelines that participating individuals must follow. So what are the rules for comedy? We present</p></div></div><div class="span12 post-7741 big-post"><div class="mediaholder medium"><div class="caption-link"><a href="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-17-at-11.57.11-PM1.png" title="" class="show-image caption-type first"><i class="icon-search"></i></a><a href="http://www.comedyhype.com/cc/comedy-commandments-thou-shalt-remix-another-comedians-joke/" title="Comedy Commandments: &#8220;Thou Shalt Not Remix Another Comedian&#8217;s Joke&#8221;"><i class="icon-plus"></i></a></div><a href="http://www.comedyhype.com/cc/comedy-commandments-thou-shalt-remix-another-comedians-joke/" title=""><img width="385" height="250" src="http://www.comedyhype.com/wp-content/uploads/2014/11/Screen-shot-2014-11-17-at-11.57.11-PM1-385x250.png" class="attachment-mediaholder-medium wp-post-image" alt="Screen shot 2014-11-17 at 11.57.11 PM" /></a></div><div class="detailholder medium"><h3><a href="http://www.comedyhype.com/cc/comedy-commandments-thou-shalt-remix-another-comedians-joke/" title="Comedy Commandments: &#8220;Thou Shalt Not Remix Another Comedian&#8217;s Joke&#8221;">Comedy Commandments: &#8220;Thou Shalt Not Remix Another Comedian&#8217;s Joke&#8221;</a></h3><p>Every sports, music, and entertainment platform has their rules and guidelines that participating individuals must follow. So what are the rules for comedy? We present</p></div></div></div></div></div>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2371062750809830"
+     data-ad-slot="6517872954"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div> 
+	</div> 
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><img class="size-full wp-image-7059 aligncenter" alt="" src="http://www.comedyhype.com/wp-content/uploads/2014/10/Screen-shot-2014-10-21-at-4.48.21-PM.png" width="404" height="521" /></p>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div></p>
+</div>
+		<div class="footer-wrap clearfix">
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span12">
+					<div class="footer-widget clearfix">
+						<div class="row-fluid">
+																	<!-- Widget 1 -->
+		<div class="span4 first">
+			<div id="pages-2" class="footer_widget widget_pages"><h2 class="footerwidgettitle">The Hype</h2>		<ul>
+			<li class="page_item page-item-17"><a href="http://www.comedyhype.com/ch-contributors/">CH Contributors</a></li>
+<li class="page_item page-item-25 current_page_item"><a href="http://www.comedyhype.com/">ComedyHype.Com &#8211; Urban Comedy Refueled</a></li>
+<li class="page_item page-item-15"><a href="http://www.comedyhype.com/contact-us-2/">Contact Us</a></li>
+<li class="page_item page-item-1994"><a href="http://www.comedyhype.com/story/">Our Story</a></li>
+<li class="page_item page-item-19"><a href="http://www.comedyhype.com/contact-us/">Submissions</a></li>
+		</ul>
+		</div>		</div>
+			
+		<!-- Widget 2 -->
+		<div class="span4">
+			<div id="categories-2" class="footer_widget widget_categories"><h2 class="footerwidgettitle">Categories </h2>		<ul>
+	<li class="cat-item cat-item-2095"><a href="http://www.comedyhype.com/category/cc/" title="View all posts filed under cc">cc</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.comedyhype.com/category/comedians-under-the-radar/" title="View all posts filed under Comedians Under The Radar">Comedians Under The Radar</a>
+</li>
+	<li class="cat-item cat-item-1467"><a href="http://www.comedyhype.com/category/comedy-hustle-2/" title="View all posts filed under Comedy Hustle">Comedy Hustle</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.comedyhype.com/category/comedy-news/" title="View all posts filed under Comedy News">Comedy News</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.comedyhype.com/category/comedy-tours/" title="View all posts filed under Comedy Tours">Comedy Tours</a>
+</li>
+	<li class="cat-item cat-item-1328"><a href="http://www.comedyhype.com/category/comedy-verse-2/" title="View all posts filed under Comedy Verse">Comedy Verse</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://www.comedyhype.com/category/culture/" title="View all posts filed under Culture">Culture</a>
+</li>
+	<li class="cat-item cat-item-1046"><a href="http://www.comedyhype.com/category/exclusive/" title="View all posts filed under Exclusive">Exclusive</a>
+</li>
+	<li class="cat-item cat-item-1463"><a href="http://www.comedyhype.com/category/hustle/" title="View all posts filed under hustle">hustle</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.comedyhype.com/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://www.comedyhype.com/category/movies/" title="View all posts filed under Movies">Movies</a>
+</li>
+	<li class="cat-item cat-item-148"><a href="http://www.comedyhype.com/category/online-series/" title="View all posts filed under Series">Series</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.comedyhype.com/category/sketches/" title="View all posts filed under Sketches">Sketches</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.comedyhype.com/category/social-comedy/" title="View all posts filed under Social Comedy">Social Comedy</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.comedyhype.com/category/stand-up/" title="View all posts filed under Stand-Up">Stand-Up</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="http://www.comedyhype.com/category/tv/" title="View all posts filed under TV">TV</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.comedyhype.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+		</ul>
+</div>		</div>
+			
+		<!-- Widget 3 -->
+		<div class="span4 last">
+			<div id="widget-about-2" class="footer_widget widget_widget-about"><h2 class="footerwidgettitle">About Us</h2><div class="about-wrap"><a class="about-img" href="http://www.comedyhype.com"><span class="line-head"></span><img src="http://www.comedyhype.com/wp-content/uploads/2014/03/Screen-shot-2014-02-20-at-7.17.43-AM.png" alt="ComedyHype.Com | Urban Comedy ReFueled" /></a><p class="about-text">          Innovate. Culture. &quot;Where The Laughter Is Real&quot;</p><ul class="about-social clearfix"><li><a href="http://twitter.com/comedyhype_" aria-hidden="true" class="icon-twitter" target="_blank"></a></li><li><a href="http://instagram.com/comedyhype" aria-hidden="true" class="icon-instagram" target="_blank"></a></li><li><a href="http://www.youtube.com/channel/UCABZ7Z6SBTp4IsARDceOq7w" aria-hidden="true" class="icon-youtube" target="_blank"></a></li></ul></div></div>		</div>													</div>
+					</div>
+					
+											<div class="footer clearfix">
+														<div class="footer-left">
+								<div class="credits">
+									© Copyright 2011 DaLaughingBarrel, All Rights Reserved								</div>
+							</div>
+																					<div class="footer-right">
+								<div class="bottom-menu">
+									<ul id="bottomNav" class="menu"><li id="menu-item-1230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1230"><a></a></li>
+<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="http://www.comedyhype.com/contact-us/">Submissions</a></li>
+<li id="menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232"><a href="http://www.comedyhype.com/contact-us-2/">Contact Us</a></li>
+</ul>								</div>
+							</div>
+													</div>			
+									</div>
+			</div>
+		</div>
+	</div>
+	<div id="back-top">
+		<a href="#top"><span class="icon-long-arrow-up"></span></a>
+	</div>
+</div>
+<div id="lessbuttons_holder"></div><script async src="https://lessbuttons.com/script.js?position=bottom&onmobile=other&facebook=1&twitter=1&googleplus=1&linkedin=auto&pinterest=auto&zindex=100501"></script>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&version=v2.0";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53570750-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<script type="text/javascript">
+		jQuery(window).ready(function() {
+			// Sticky Header
+							jQuery('.navigation').stickyMenu();
+						
+			// Navigation
+			jQuery('.nav-wrap').flexMenu({
+									breakpoint: 962,
+								responsivePattern: 'toggle',
+				animationSpeed: 300
+			});
+		});
+		
+				
+		var retina = window.devicePixelRatio > 1 ? true : false;
+
+        		
+				
+		
+	</script>
+<link rel='stylesheet' id='nino-social-style-icon-css'  href='http://www.comedyhype.com/wp-content/plugins/nino-social-connect/includes/assets/css/nino-social-style.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.comedyhype.com/wp-content/themes/orion/js/init.js'></script>
+<script type='text/javascript' src='http://www.comedyhype.com/wp-content/themes/orion/js/custom.js'></script>
+</body>
+</html>

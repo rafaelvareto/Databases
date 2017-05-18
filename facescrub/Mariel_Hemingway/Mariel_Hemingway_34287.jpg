@@ -1,0 +1,826 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+
+<meta name="google-site-verification" content="cuM3gY1S-gYJB3eq2zOI2Ogx3xFj8j52FYZTltRWLYk" />
+<meta name="msvalidate.01" content="" />
+<meta name="y_key" content="" />
+<title>SRQ: Living Local in Sarasota and Bradenton Florida</title>
+<meta name="keywords" content="Sarasota, Florida, Magazine, SRQ, News, Restaurant, Dining, Shopping, Beaches, City, Newspaper, Real Estate, Home, Airport, County" />
+<meta name="description" content="SRQ: Sarasota's Premier Magazine is the monthly city magazine for Sarasota, Manatee and the Gulf Coast Keys. With vibrant features and engaging content, SRQ is the indispensable must-read for affluent boomers, professionals and active retirees." />
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/clients/52/favicon.ico" />
+<link href="/clients/52/menu_style.css?v=17" rel="stylesheet" type="text/css" media="screen" />
+<link href="/clients/52/style.css?v=17" rel="stylesheet" type="text/css" media="screen" />
+
+<script src="/scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+		
+		<script type="text/javascript" src="/scripts/jquery.fancybox-1.3.4/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+		<script type="text/javascript" src="/scripts/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js?v=6"></script>
+		<link rel="stylesheet" type="text/css" href="/scripts/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+		
+		
+<script type="text/javascript" src="/scripts/scripts.js?v=17"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/clients/52/page_37.css?v=17" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript">
+<!--
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3974618-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+-->
+</script>	<link href="/scripts/jquery-ui/smoothness/jquery-ui-latest.css" rel="stylesheet" type="text/css" media="screen" />
+	<script type="text/javascript" src="/scripts/jquery-ui/jquery-ui-1.8.min.js"></script>
+		
+
+
+</head>
+<body class="body" >
+<div id="header_nav">
+	<div class="container">
+		<a href="/"><img id="logo" src="/clients/52/images/logo.png" alt="SRQ Magazine"/></a>
+		        <a href="http://www.srqsb2.com" target="_blank"><img class="large-banner header_banner_0" src="/clients/52/assets/c52_banner_ads/20141121141713154.jpg"/></a>
+		<a href="http://www.srqsb2.com" target="_blank"><img class="small-banner header_banner_0" src="/clients/52/assets/c52_banner_ads/20141121141713246.jpg"/></a>
+		        <a href="http://www.srqmag.com/clients/52/assets/c52_digdata/20140917182622973.pdf" target="_blank"><img class="large-banner header_banner_1" src="/clients/52/assets/c52_banner_ads/20140922152511107.jpg"/></a>
+		<a href="http://www.srqmag.com/clients/52/assets/c52_digdata/20140917182622973.pdf" target="_blank"><img class="small-banner header_banner_1" src="/clients/52/assets/c52_banner_ads/20140922152511486.jpg"/></a>
+				<script type="text/javascript">
+		<!--
+		
+		function switchHeaderBanners(banner_id) {
+			//alert(banner_id);
+			if(banner_id==2) banner_id = 0;
+			$('.large-banner,.small-banner').fadeOut('fast');
+			$('.header_banner_'+banner_id).fadeIn('slow');
+			if(2>1) setTimeout("switchHeaderBanners("+(banner_id+1)+")",8000);
+			
+		}
+		
+		$(function() {
+			switchHeaderBanners(0);	
+		});
+		
+		-->
+		</script>
+		
+		       <img src="/clients/52/images/live-local.png" id="live-local"/>
+		<div id="menu1">
+						<a target="_blank" href="http://www.srqsb2.com">SRQSB2</a>
+						<a target="_blank" href="http://www.clicksrq.com">CLICK SRQ</a>
+						<a target="_blank" href="http://www.srqbalmasque.com/">BAL MASQUE</a>
+					</div>	
+
+		<div id="menu2">
+			<a href="javascript:{}" id="srq_daily">SRQ Daily</a>
+			<a href="javascript:{}" id="channels">Channels</a>
+			
+			<a href="javascript:{}" id="sig_events">Signature Events</a>
+			<a href="javascript:{}" id="issues">Editions</a>
+			<a href="javascript:{}" id="dig_data">Dig Data</a>
+			
+			<!--<a href="javascript:{}" id="profiles"></a>-->
+		</div>
+		<div id="search_bg"></div>
+		<form id="site-search" action="/sphider-search">
+			<input type="hidden" name="search" value="1"/>
+			<input type="text" name="query" placeholder="SEARCH"/>
+			<input type="image" src="/clients/52/images/search-icon.png" id="search_icon"/>
+		</form>
+		<div id="latest_mag" style="background-image:url(/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQxMTI0MTE0OTMyMjIwLmpwZw==&w=200)"></div>
+		
+		<a href="/subscribe" id="subscribe_bug"></a>
+	</div>
+</div>	
+<div id="hidden_dropdowns">
+	<div class="container">
+		<div class="hidden_dropdown" id="channels_content">	<div>
+	<a href="http://www.srqbacklot.com" target="_blank"><img style="margin:10px 0px" src="/clients/52/assets/backlot.png" alt="SRQ Backlot|Your peek behind the scenes of Sarasota's growing film industry."/></a>
+	<span>Your peek behind the scenes of Sarasota's growing film industry.</span>
+	</div>
+		<div>
+	<a href="http://www.srqinsidethebrand.com" target="_blank"><img style="margin:10px 0px" src="/clients/52/assets/inside-the-brand.png" alt="Inside The Brand|Join us for stories from the SRQ Media team."/></a>
+	<span>Join us for stories from the SRQ Media team.</span>
+	</div>
+	</div>
+		<div class="hidden_dropdown" id="sig_events_content">	<div class="menu2_item">
+		<a href="https://www.srqsb2.com" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQwODEzMTA1NDE4MjY1LmpwZw==&w=300"/></a>
+		<div class="menu2_item_date">
+			 Dec 8, 2014		</div>
+		<a class="menu2_item_title" href="https://www.srqsb2.com" target="_blank">SB2: Business of Philanthropy</a>
+	</div>
+		<div class="menu2_item">
+		<a href="http://www.srqmag.com/hoty" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQwOTE3MTgxNDM0NTYxLmpwZw==&w=300"/></a>
+		<div class="menu2_item_date">
+			 Dec 11, 2014		</div>
+		<a class="menu2_item_title" href="http://www.srqmag.com/hoty" target="_blank">SRQ Home of the Year Call for Entries</a>
+	</div>
+		<div class="menu2_item">
+		<a href="https://www.srqsb2.com" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQwODEzMTA1NjExMjUyLmpwZw==&w=300"/></a>
+		<div class="menu2_item_date">
+			 Jan 22, 2015		</div>
+		<a class="menu2_item_title" href="https://www.srqsb2.com" target="_blank">SB2: Boomers and Caregivers</a>
+	</div>
+		<div class="menu2_item">
+		<a href="https://www.srqsb2.com" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQwODEzMTA1NzMyOTgxLmpwZw==&w=300"/></a>
+		<div class="menu2_item_date">
+			 Mar 19, 2015		</div>
+		<a class="menu2_item_title" href="https://www.srqsb2.com" target="_blank">SB2: Sarasota Bayfront</a>
+	</div>
+	</div>
+		<div class="hidden_dropdown" id="issues_content">
+<div style="float:left;width:330px">
+	
+	<a href="http://trendmag2.trendoffset.com/publication?i=230429" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQxMTI0MTE0OTMyMjIwLmpwZw==&w=330&h=402&crop=1"/></a>
+	<span>DECEMBER 2014</span>
+	
+</div>
+<div style="float:right;width:800px">
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=230429" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQxMDMxMDgwOTQzNDE0LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>NOVEMBER 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=225956" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQxMDAzMTM1NTU2NzQ1LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>OCTOBER 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=221637" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQwODI4MTUyNjMyODk0LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>SEPTEMBER 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=218316" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQwNzMxMTA1OTM3NDU1LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>AUGUST 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=214483" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQwNjMwMTg0OTIxNzI4LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>JULY 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=211033" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQwNjExMTgxNzU4ODQxLmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>JUNE 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=206111" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQwNDI2MDk0ODA5ODA3LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>MAY 2014</span>
+		</div>
+			<div class="mag_edition">
+			<a href="http://trendmag2.trendoffset.com/publication?i=202210" target="_blank"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfbWFnX2VkaXRpb25zLzIwMTQwNDI2MDk0NzQ2MzI5LmpwZw==&w=160&h=190&crop=1"/></a>
+			<span>APRIL 2014</span>
+		</div>
+		
+</div>	
+<div style="clear:both"></div></div>
+		<div class="hidden_dropdown" id="dig_data_content">	<div class="menu2_item">
+		<a target="_blank" href="/clients/52/assets/c52_digdata/WTVA Full Presentation.pdf"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZGlnZGF0YS8yMDE0MTExOTA5Mzk0NTQ5OS5qcGc=&w=300"/></a>
+		<div class="menu2_item_date">
+			Nov 19, 2014		</div>
+		<a class="menu2_item_title" target="_blank" href="/clients/52/assets/c52_digdata/WTVA Full Presentation.pdf">Where the Votes Are: Click here to view PDF</a>
+	</div>
+		<div class="menu2_item">
+		<a target="_blank" href="/clients/52/assets/c52_digdata/20141027152511877.pdf"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZGlnZGF0YS8yMDE0MTAyNzE1MjUxMTE5Ny5qcGc=&w=300"/></a>
+		<div class="menu2_item_date">
+			Oct 22, 2014		</div>
+		<a class="menu2_item_title" target="_blank" href="/clients/52/assets/c52_digdata/20141027152511877.pdf">CONNECTING TO THE WORLD: SRQ AIRPORT & PORT MANATEE</a>
+	</div>
+		<div class="menu2_item">
+		<a target="_blank" href="/clients/52/assets/c52_digdata/20141016112036220.pdf"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZGlnZGF0YS8yMDE0MTAxNjExNDA1Mzg3NS5qcGc=&w=300"/></a>
+		<div class="menu2_item_date">
+			Sep 25, 2014		</div>
+		<a class="menu2_item_title" target="_blank" href="/clients/52/assets/c52_digdata/20141016112036220.pdf">ELECTED MAYOR</a>
+	</div>
+		<div class="menu2_item">
+		<a target="_blank" href="/clients/52/assets/c52_digdata/20140917182622973.pdf"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZGlnZGF0YS8yMDE0MDkxNzE4MjYyMjU4Mi5qcGc=&w=300"/></a>
+		<div class="menu2_item_date">
+			Sep 15, 2014		</div>
+		<a class="menu2_item_title" target="_blank" href="/clients/52/assets/c52_digdata/20140917182622973.pdf">CALL FOR ENTRIES Download Materials</a>
+	</div>
+		<div class="menu2_item">
+		<a target="_blank" href="/clients/52/assets/c52_digdata/20140911161154964.pdf"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZGlnZGF0YS8yMDE0MDkxMTE2MTE1NDUxOC5qcGc=&w=300"/></a>
+		<div class="menu2_item_date">
+			Sep 10, 2014		</div>
+		<a class="menu2_item_title" target="_blank" href="/clients/52/assets/c52_digdata/20140911161154964.pdf">SRQ WHERE THE VOTES ARE Download PDF Presentation</a>
+	</div>
+	<div style="clear:both"></div>
+<input type="button" class="button" value="View Archive &raquo;" onClick="location.href='/Dig-Data'"/>
+</div>
+		<div class="hidden_dropdown" id="srq_daily_content">	<div class="menu2_item">
+		<a href="/srq-daily/2014-12-02"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2ltYWdlcy9zcnFkYWlseS90aXRsZU5ldy5qcGc=&w=300"/></a>
+		<div class="menu2_item_date">
+			Dec 2, 2014		</div>
+		<a class="menu2_item_title" href="/srq-daily/2014-12-02">Freshly Squeezed Content Every Morning</a>
+	</div>
+		<div class="menu2_item">
+		<a href="/srq-daily/2014-12-01"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2ltYWdlcy9zcnFkYWlseS9TUlFEQUlMWU1vbmRheUJ1c2luZXNzLmpwZw==&w=300"/></a>
+		<div class="menu2_item_date">
+			Dec 1, 2014		</div>
+		<a class="menu2_item_title" href="/srq-daily/2014-12-01">Monday Business Edition</a>
+	</div>
+		<div class="menu2_item">
+		<a href="/srq-daily/2014-11-29"><img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2ltYWdlcy9zcnFkYWlseS9TUlFEQUlMWVNhdHVyZGF5UGVyc3BlY3RpdmVzLmpwZw==&w=300"/></a>
+		<div class="menu2_item_date">
+			Nov 29, 2014		</div>
+		<a class="menu2_item_title" href="/srq-daily/2014-11-29">Saturday Perspectives Edition</a>
+	</div>
+	<div class="menu2_item">
+	<a href="/SRQ-Daily"><img style="margin-top:30px" src="/clients/52/images/archive-search.png"/></a>
+	<br/><br/><a class="gray_button" href="javascript:{}" onClick="subscribeDaily()">Subscribe Now &raquo;</a>
+</div>
+</div>
+	</div>
+</div>	
+<div id="content">
+	<div class="container">
+		
+		
+	
+	
+		
+		
+		
+		
+		
+
+
+	<script src="/scripts/carouFredSel-6.2.1/jquery.carouFredSel-6.2.1.js" type="text/javascript"></script>
+<div id="maincontent">
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDAwMjM0MTkuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Payne's Newest Gain</h4>
+            <span class="department">In Studio &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>Café In the Park serves up fresh, fast flavor. </p>
+            <a href="/articles/72/Paynes-Newest-Gain">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDE2NTMyNDkuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Leverage and Innovation</h4>
+            <span class="department">In Brief &nbsp; | &nbsp; </span> <span>Jacob Ogles</span>
+            <p>Debra Jacobs, executive director of The Patterson Foundation, takes seriously the role of directing  philanthropic dollars within the community in a way that honors the legacy of Dorothy Patterson</p>
+            <a href="/articles/73/Leverage-and-Innovation">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDIxMTI3NDcuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Never Settling</h4>
+            <span class="department">On Board &nbsp; | &nbsp; </span> <span>Jacob Ogles</span>
+            <p>The Gulf Coast Community Foundation in recent years has been among the high-profile philanthropic forces in the region, tackling everything from helping the homeless to boosting economic development. </p>
+            <a href="/articles/74/Never-Settling">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDI1MjE4MjIuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Go Figure</h4>
+            <span class="department">Design &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>Bodor sisters make haste to reduce waste, turning scrap into sculpture.</p>
+            <a href="/articles/75/Go-Figure">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDQ5MDg1NjcuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Gift of Art</h4>
+            <span class="department">Culture City &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>Suncoasters daily benefit economically and experientially from living in towns and counties so actively engaged in creating a vibrant cultural landscape.</p>
+            <a href="/articles/76/Gift-of-Art">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDUxMDg4NzQuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>'SotaPOP</h4>
+            <span class="department">On Trend &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>Getting graphic with mod-inspired pieces.</p>
+            <a href="/articles/77/SotaPOP">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMDU0NTI4OTAuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Soothing Anna Maria</h4>
+            <span class="department">Nest &nbsp; | &nbsp; </span> <span>Ashley Farlow</span>
+            <p>This Anna Maria Island master bedroom is lavish, yet relaxed enough for the waterfront setting. </p>
+            <a href="/articles/78/Soothing-Anna-Maria">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMTE2MTQ2MjMuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Three Chocolatiers</h4>
+            <span class="department">At The Table &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>All for chocolate, and chocolate for all; The Chocolate Bark Company, Sirard’s Chocolate Café and The Short Giraffe</p>
+            <a href="/articles/79/Three-Chocolatiers">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMTIxMDU2NzQuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Holiday Take-Out</h4>
+            <span class="department">Foodie Life &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>Chinese food is, in its own special way, an American Christmas tradition.  Immortalized in the  classic film A Christmas Story, following the holiday trials of Ralphie and Company, the Chinese restaurant has become the go-to alternative to the homemade fe</p>
+            <a href="/articles/80/Holiday-Take-Out">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMTMxNTc1NTQuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>State of the Heart</h4>
+            <span class="department">Body & Health &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>Centers for Disease Control and Prevention has estimated that nearly 600,000 people die of heart  disease in the United States each year, as many as one in four deaths, making it the leading cause of death for both men and women. SRQ gathered heart specia</p>
+            <a href="/articles/81/State-of-the-Heart">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDExMjQxMTQxNDEzMzcuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Night at the Movies</h4>
+            <span class="department">Shore Life &nbsp; | &nbsp; </span> <span>John Hardy</span>
+            <p>Once upon a time, in a world not really that far away, a couple of hours of Wookies, Bellas, Edwards, Corleones, Doras, Bonds, Voldermonts and Velociraptors was just a harmlessly fun night out. Now, a couple of hours with Elsa, Katniss, Haymitch and Optim</p>
+            <a href="/articles/82/Night-at-the-Movies">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwODE4NTA4NjIuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Delectable Games</h4>
+            <span class="department">At the Table &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>Linger Lodge and Jack Dusty still do it the all-natural, Old Florida way. </p>
+            <a href="/articles/59/Delectable-Games">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwODQ0MzA0NzQuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Body Mechanics</h4>
+            <span class="department">Body and Health &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>Replacing old parts and shoring up the weak spots.</p>
+            <a href="/articles/60/Body-Mechanics">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTExNDQ0NzAuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Wanderlust</h4>
+            <span class="department">Cargo &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>An exotic excursion within reach. </p>
+            <a href="/articles/61/Wanderlust">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTQyMTk4MDUuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Art of Tart</h4>
+            <span class="department">Pantry &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>Autumn’s scarlet starlet rolls in with the cooler weather, making bold cameos in the sweetest treats.</p>
+            <a href="/articles/65/Art-of-Tart">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTIwMDMyNjcuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Magic of the Musical</h4>
+            <span class="department">Culture City &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>Like moths to the flame, musicals draw us to the stage, but why? </p>
+            <a href="/articles/62/Magic-of-the-Musical">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTI4NTI1MTQuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Using Tile at Home</h4>
+            <span class="department">Design Notebook &nbsp; | &nbsp; </span> <span>Ashley Farlow</span>
+            <p>Patterned Tile for a Wallpaper Effect</p>
+            <a href="/articles/63/Using-Tile-at-Home">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTM2NTIxNjAuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>First Look</h4>
+            <span class="department">Dress Code &nbsp; | &nbsp; </span> <span>Rochelle&#8200;Nigri</span>
+            <p>You have finally bitten the bullet and set up an online dating profile. Long-term, short-term, boredom, only you know your end game. But if you think you may want a second date, then set the tone and knock it out of the park with what you wear to date num</p>
+            <a href="/articles/64/First-Look">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTUxMzI0MDMuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Personal Development</h4>
+            <span class="department">In Brief &nbsp; | &nbsp; </span> <span>Jacob Ogles</span>
+            <p>It’s hard to believe that 20 years ago Lakewood Ranch was just undeveloped ranch land. </p>
+            <a href="/articles/66/Personal-Development">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAwOTU4MDc3MTAuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Rosemary Hall Way</h4>
+            <span class="department">In Studio &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>Exploring creativity within the walls of Hall Architects.       </p>
+            <a href="/articles/67/Rosemary-Hall-Way">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAxMDA2NDg2ODIuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Stage Presence</h4>
+            <span class="department">Nest &nbsp; | &nbsp; </span> <span>Anna Rachel Rich</span>
+            <p>Expert tips to sell your home in less time for more money. </p>
+            <a href="/articles/68/Stage-Presence">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAxMDA5MjkyMjMuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Locally Brewed</h4>
+            <span class="department">On Tap &nbsp; | &nbsp; </span> <span>Phil Lederer</span>
+            <p>It’s no secret that this year has seen Sarasota and Bradenton dive full-force into the craft beer scene with multiple breweries opening shop and within a short period of time becoming entrenched in the cultural and economic landscape. Foodies and brewhead</p>
+            <a href="/articles/69/Locally-Brewed">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAxMDEyMjc1NzcuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Repping the Asolo Rep</h4>
+            <span class="department">On Board &nbsp; | &nbsp; </span> <span>Jacob Ogles</span>
+            <p>Plenty of Sarasotans each yeaR enjoy the works put on stage by the talents at the Asolo Repertory Theatre, but a handful have devoted a more significant chunk of their own lives toward keeping the institution artistically relevant and financially strong. </p>
+            <a href="/articles/70/Repping-the-Asolo-Rep">Read More &raquo;</a>
+		</div>	
+	</div>
+		<div class="grid_object" style="background-image:url('/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfYXJ0aWNsZXMvMjAxNDEwMzAxMDE4MDc0MzYuanBn&w=240&h=240&crop=1')">
+		<div>
+			<h4>Open House Savvy</h4>
+            <span class="department">Shorelife &nbsp; | &nbsp; </span> <span>John Hardy</span>
+            <p>Rules of the Real Estate Road.</p>
+            <a href="/articles/71/Open-House-Savvy">Read More &raquo;</a>
+		</div>	
+	</div>
+	</div>
+<div id="hp_left">
+	<div id="hp_col1">
+			
+			<a href="http://www.srqmag.com/clients/52/assets/c52_digdata/20140917182622973.pdf" target="_blank"><img class="sponsored_content_left" src="/clients/52/assets/c52_sponsored_content/20140922152615604.jpg"/></a>
+				
+			<a href="http://www.srqsb2.com" target="_blank"><img class="sponsored_content_left" src="/clients/52/assets/c52_sponsored_content/20141104094532645.jpg"/></a>
+				
+			<a href="https://www.surveymonkey.com/s/bestofsrq" target="_blank"><img class="sponsored_content_left" src="/clients/52/assets/c52_sponsored_content/20141105172507433.jpg"/></a>
+					<div class="section_label">Sponsored Content</div>
+		<h3 class="cameo">CAMEO</h3>
+					<div class="hp_news">
+                <span class="hp_news_category">Home Builders</span>
+                <span class="hp_news_date">8.5.14</span>
+				                <a href="/cameos/7/Home-Design-Style-Survey"><img src="/clients/52/assets/c52_cameos/20140805140359265.jpg"/></a>
+                                <h4 class="hp_news_title"><a href="/cameos/7/Home-Design-Style-Survey">Home Design Style Survey</a></h4>
+                <p class="hp_news_subtitle"><a href="/cameos/7/Home-Design-Style-Survey">Results in from Murray Homes Design Style Survey</a></p>
+			</div>
+						<div class="hp_news">
+                <span class="hp_news_category">Restaurants</span>
+                <span class="hp_news_date">8.5.14</span>
+				                <a href="/cameos/6/Bouillabaisse-Special-For-Two-in-August"><img src="/clients/52/assets/c52_cameos/20140805135453139.jpg"/></a>
+                                <h4 class="hp_news_title"><a href="/cameos/6/Bouillabaisse-Special-For-Two-in-August">Bouillabaisse Special For Two in August</a></h4>
+                <p class="hp_news_subtitle"><a href="/cameos/6/Bouillabaisse-Special-For-Two-in-August">Join Pomona Bistro and Wine Bar for a Special Dinner for Two</a></p>
+			</div>
+						<div class="hp_news">
+                <span class="hp_news_category">Business</span>
+                <span class="hp_news_date">7.1.14</span>
+				                <a href="/cameos/4/Blalock-Walters-Recognition"><img src="/clients/52/assets/c52_cameos/20140701184544781.jpg"/></a>
+                                <h4 class="hp_news_title"><a href="/cameos/4/Blalock-Walters-Recognition">Blalock Walters Recognition</a></h4>
+                <p class="hp_news_subtitle"><a href="/cameos/4/Blalock-Walters-Recognition">Jonathan Fleece and Jenifer Schembri Winners of Florida Trend's Legal Elite </a></p>
+			</div>
+						<div class="hp_news">
+                <span class="hp_news_category">Events</span>
+                <span class="hp_news_date">6.30.14</span>
+				                <a href="/cameos/2/Sunsets-at-Selby"><img src="/clients/52/assets/c52_cameos/20140701214309569.jpg"/></a>
+                                <h4 class="hp_news_title"><a href="/cameos/2/Sunsets-at-Selby">Sunsets at Selby</a></h4>
+                <p class="hp_news_subtitle"><a href="/cameos/2/Sunsets-at-Selby">Selby Gardens Extending Evening Hours</a></p>
+			</div>
+						<div class="hp_news">
+                <span class="hp_news_category">Shopping</span>
+                <span class="hp_news_date">6.26.14</span>
+				                <a href="/cameos/5/Summer-for-the-Guys"><img src="/clients/52/assets/c52_cameos/20140503092913134.jpg"/></a>
+                                <h4 class="hp_news_title"><a href="/cameos/5/Summer-for-the-Guys">Summer for the Guys</a></h4>
+                <p class="hp_news_subtitle"><a href="/cameos/5/Summer-for-the-Guys">Shopping for the coolest prints to grace the beach.</a></p>
+			</div>
+				</div>
+	<div id="hp_col2">
+
+		 	
+			<div class="hp_latest">
+				<div class="hp_latest_title">
+					<div class="hpl_date">Mon<br/>12/1</div>
+					<span class="hpl_social">
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','FB');"><img src="/clients/52/images/soc_fb.png"/></a>
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','TW');"><img src="/clients/52/images/soc_tw.png"/></a>
+						<!-- <a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','');"><img src="/clients/52/images/soc_insta.png"/></a> -->
+					</span>
+					<span class="hpl_category">Retail</span>
+				</div>
+								<img class="feature" src="http://www.srqmagazine.com/clients/52/images/srqdaily/content/20141130222102280.jpg"/>
+								<div class="hpl_title">Cyber Monday Projections</div>
+				<div class="hpl_snippet">
+					Some 126.9 million shoppers in the United States will shop online today for Cyber Monday, according to a survey released by the National Retail Federation. A bulk of those, according to the survey, will take advantage of deals early in the day, with the biggest pluralities of consumers planning to shop...					<a class="hpl_more" href="http://www.srqmagazine.com/SRQ-Daily?mID=228">Read More &rsaquo;</a>
+				</div>
+				<div style="clear:both"></div>	
+			</div>
+				
+			<div class="hp_latest">
+				<div class="hp_latest_title">
+					<div class="hpl_date">Mon<br/>12/1</div>
+					<span class="hpl_social">
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','FB');"><img src="/clients/52/images/soc_fb.png"/></a>
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','TW');"><img src="/clients/52/images/soc_tw.png"/></a>
+						<!-- <a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','');"><img src="/clients/52/images/soc_insta.png"/></a> -->
+					</span>
+					<span class="hpl_category">Architecture</span>
+				</div>
+								<img class="feature" src="http://www.srqmagazine.com/clients/52/images/srqdaily/content/20141130224758733.jpg"/>
+								<div class="hpl_title">Halflants Pichette Projects Innovate in Use of Space</div>
+				<div class="hpl_snippet">
+					Sarasota-based architecture firm Halflants and Pichette Studio for Modern Architecture picked up a pair of honors from the American Institute of Architects last month at the Tampa Bay Chapter award ceremony. The firm saw residential work praised both in the multi-family and single-family home categories,...					<a class="hpl_more" href="http://www.srqmagazine.com/SRQ-Daily?mID=228">Read More &rsaquo;</a>
+				</div>
+				<div style="clear:both"></div>	
+			</div>
+				
+			<div class="hp_latest">
+				<div class="hp_latest_title">
+					<div class="hpl_date">Mon<br/>12/1</div>
+					<span class="hpl_social">
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','FB');"><img src="/clients/52/images/soc_fb.png"/></a>
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','TW');"><img src="/clients/52/images/soc_tw.png"/></a>
+						<!-- <a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=228','');"><img src="/clients/52/images/soc_insta.png"/></a> -->
+					</span>
+					<span class="hpl_category">Philanthropy</span>
+				</div>
+								<div class="hpl_title">Christopher Card, Lutheran Services Florida</div>
+				<div class="hpl_snippet">
+					Dealing with guardianship over aging citizens in Sarasota, Manatee and DeSoto counties keeps workers at Lutheran Services Florida busy year-round, and especially during the holiday season when resources for the year are strained and physical and emotional needs run especially high. We spoke with Christopher...					<a class="hpl_more" href="http://www.srqmagazine.com/SRQ-Daily?mID=228">Read More &rsaquo;</a>
+				</div>
+				<div style="clear:both"></div>	
+			</div>
+				
+			<div class="hp_latest">
+				<div class="hp_latest_title">
+					<div class="hpl_date">Sat<br/>11/29</div>
+					<span class="hpl_social">
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=163','FB');"><img src="/clients/52/images/soc_fb.png"/></a>
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=163','TW');"><img src="/clients/52/images/soc_tw.png"/></a>
+						<!-- <a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=163','');"><img src="/clients/52/images/soc_insta.png"/></a> -->
+					</span>
+					<span class="hpl_category">KUDOS</span>
+				</div>
+								<img class="feature" src="http://www.srqmagazine.com/clients/52/images/srqdaily/content/20141126150927618.jpg"/>
+								<div class="hpl_title"> Goodwill Manasota Team Member Wins Special Olympics Gold Medal</div>
+				<div class="hpl_snippet">
+					Richard &ldquo;Adam&rdquo; Bell, a donor greeter and sales floor associate at Goodwill Manasota, recently won a gold medal at the Special Olympics after weightlifting 147.5 lbs. Adam, who has competed in the Special Olympics for the past 10 years, won his first gold medal on November 16 at this year&rsquo;s...					<a class="hpl_more" href="http://www.srqmagazine.com/SRQ-Daily?mID=163">Read More &rsaquo;</a>
+				</div>
+				<div style="clear:both"></div>	
+			</div>
+				
+			<div class="hp_latest">
+				<div class="hp_latest_title">
+					<div class="hpl_date">Sat<br/>11/29</div>
+					<span class="hpl_social">
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=163','FB');"><img src="/clients/52/images/soc_fb.png"/></a>
+						<a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=163','TW');"><img src="/clients/52/images/soc_tw.png"/></a>
+						<!-- <a href="javascript:socialShareIt('http://www.srqmagazine.com/SRQ-Daily?mID=163','');"><img src="/clients/52/images/soc_insta.png"/></a> -->
+					</span>
+					<span class="hpl_category">SOON</span>
+				</div>
+								<div class="hpl_title">It's Going To Be A "White Christmas" At Sarasota Opera</div>
+				<div class="hpl_snippet">
+					As a continuation of its popular &ldquo;HD at the Opera House&rdquo; series, Sarasota Opera will be hosting two showings of the 1954 classic &ldquo;White Christmas&rdquo; starring Bing Crosby and Danny Kaye. The showings will be on Friday, December 12 at 7pm and again on Saturday, December 13 at 1:30pm...					<a class="hpl_more" href="http://www.srqmagazine.com/SRQ-Daily?mID=163">Read More &rsaquo;</a>
+				</div>
+				<div style="clear:both"></div>	
+			</div>
+				</div>
+</div>
+<div id="hp_right">
+		
+	    <div class="sponsored_content_right">
+	    	    <!--<img src="/_images/assets/c52_sponsored_content/?w=305"/>-->
+	    <h3 class="sidebar">SB2: Business of Philanthropy</h3>
+	    <p>Join us on December 8, 2014 at 11:30 am at the IMG Academy Golf Club for SB2: The Business of Philanthropy. The discussion will explore recent trends of effective philanthropic efforts and oversight of the business of philanthropy. Learn from our panelists' commentary on notable philanthropic initiatives within in the region. Esteemed panelists include: Bob Blalock, Blalock Walters, P.A.; Veronica Brady, Gulf Coast Community Foundation; Jay Clarkson, CS&L CPAs; Julie Lyman, Community Foundation of Sarasota County; Jeff Troiano, Williams Parker Harrison Dietz & Getzen. Jeff McMullan of Seaside Bank will serve as opening presenter. Purchase tickets at www.srqsb2.com</p>
+	    <p><a class="gray_button" href="www.srqsb2.com" target="_blank">Read More &rsaquo;</a></p>
+	    	    </div>
+	    <br />
+			
+	    <div class="sponsored_content_right">
+	     <img src="/clients/52/assets/c52_sponsored_content/20140917180923959.jpg" style="width:300px;height:auto"/>	    <!--<img src="/_images/assets/c52_sponsored_content/20140917180923959.jpg?w=305"/>-->
+	    <h3 class="sidebar">SRQ Home of the Year Call for Entries</h3>
+	    <p>You are invited to participate in the 11th SRQ Annual Home of the Year competition brought to you by SRQ magazine. Our panel of expert judges will review entries based on innovation, functionality and overall design aesthetic to name SRQ's Home of the Year Platinum, Gold and Silver awards. Local professionals are invited to submit their best work in home design by the Wednesday, December 11,2014 deadline. Winners will be featured in a special awards supplement in the March 2015 issue.</p>
+	    <p><a class="gray_button" href="http://www.srqmagazine.com/clients/52/assets/c52_digdata/20140917182622973.pdf" target="_blank">Read More &rsaquo;</a></p>
+	    	    </div>
+	    <br />
+				
+
+<h3 class="sidebar">Inside The Brand</h3>
+<div id="inside_the_brand">
+	<h4 class="sidebar">Special Opportunity: Reach Boomers This February!</h4>
+	<p><span class="latest">Latest Post</span> Navigating the road ahead isn&#8217;t exactly easy this day in age. For boomers with aging parents and older children, planning and preparation for the future often takes a back seat. SRQ Magazine presents Boomers and Caregivers, a roundtable showcasing businesses that assist boomers in maneuvering areas of health and wellness, caregiving, finances, wealth management, aging in [&#8230;]</p>
+	<p><a class="gray_button" href="http://srqinsidethebrand.com/?p=1385" target="_blank">Read More &rsaquo;</a></p>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="container">
+		</div>	
+<div class="srq_events">
+			<div class="srq_event sponsored_event">
+			<img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQxMDI4MTIxNjMwMTU0LmpwZw==&w=200&h=140&crop=1"/>
+			<div class="srq_event_date">
+				Oct 15 -  Dec 15, 2014			</div>
+			Shoes of Freedom		</div>
+				<div class="srq_event sponsored_event">
+			<img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQxMDE3MTMxNTE0MzU3LmpwZw==&w=200&h=140&crop=1"/>
+			<div class="srq_event_date">
+				Nov 1 -  Feb 19, 2015			</div>
+			The Art of the Violin		</div>
+				<div class="srq_event sponsored_event">
+			<img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQxMTA0MTAyMTEyNDcyLmpwZw==&w=200&h=140&crop=1"/>
+			<div class="srq_event_date">
+				 Dec 4, 2014			</div>
+			Hear & Now Concert Series Premier		</div>
+				<div class="srq_event sponsored_event">
+			<img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQxMDE3MTM0NjIyODA4LmpwZw==&w=200&h=140&crop=1"/>
+			<div class="srq_event_date">
+				Dec 5-7, 2014			</div>
+			Voices of Fuzion		</div>
+				<div class="srq_event sponsored_event">
+			<img src="/images/thumbimage.php?image=L3Zhci93d3cvdmhvc3RzL3NycW1hZ2F6aW5lLmNvbS9odHRwZG9jcy9jbGllbnRzLzUyL2Fzc2V0cy9jNTJfZXZlbnRzLzIwMTQxMDI0MTEwMTAwMjM3LmpwZw==&w=200&h=140&crop=1"/>
+			<div class="srq_event_date">
+				 Dec 10, 2014			</div>
+			The Colors of Christmas		</div>
+		</div>
+
+<div class="hori-divider2"></div>
+<div id="round_tables_container" style="position:relative;">
+    <div id="prev_rt"></div>
+    <div id="round_tables">
+        <a href="/marketing-features/11/Giving-From-the-Heart"><img src="/clients/52/assets/c52_marketing_features/20141201162052441.jpg"/></a><a href="/marketing-features/9/HouseHome-Insight"><img src="/clients/52/assets/c52_marketing_features/20141031150421679.jpg"/></a><a href="/marketing-features/10/Greater-Sarasota-Chamber-Annual-Report"><img src="/clients/52/assets/c52_marketing_features/20141031150337248.jpg"/></a><a href="/marketing-features/8/Regional-Business-Leaders"><img src="/clients/52/assets/c52_marketing_features/20140828153008243.jpg"/></a><a href="/marketing-features/7/Honoring-Veterans"><img src="/clients/52/assets/c52_marketing_features/20140701121552109.jpg"/></a><a href="/marketing-features/5/Local-Green-Leaders"><img src="/clients/52/assets/c52_marketing_features/20140701110014561.jpg"/></a><a href="/marketing-features/6/Art-of-Dentistry"><img src="/clients/52/assets/c52_marketing_features/20140701121344364.jpg"/></a><a href="/marketing-features/1/Women-In-Business"><img src="/clients/52/assets/c52_marketing_features/20140425163738646.jpg"/></a><a href="/marketing-features/2/Leaders-in-Education"><img src="/clients/52/assets/c52_marketing_features/20140425164225816.jpg"/></a>    </div>
+    <div id="next_rt"></div>
+</div>
+<script type="text/javascript">
+<!--
+
+
+$(function() {
+	$('#maincontent').carouFredSel({
+        items               : 5,
+        scroll : {
+            items           : 1,
+            easing          : "elastic",
+            duration        : 1000,                         
+            pauseOnHover    : true
+        }
+    });	
+	
+	$('#round_tables').carouFredSel({
+        items               : 3,
+		height				: 521,
+        scroll	:	{
+            items           : 1,
+            /*easing          : "elastic",*/
+            duration        : 1000,                         
+            pauseOnHover    : true
+        },
+		auto	:	{
+			play			: false
+		},
+		prev 	:	{
+			button			: "#prev_rt"
+		},
+		next	:	{
+			button			: "#next_rt"
+		}
+    });
+});
+
+
+$(function() {
+	$('#header_nav').mouseover(function() {
+		$('#sidenav').addClass('active');	
+	});	
+	$('#header_nav').mouseout(function() {
+		$('#sidenav').removeClass('active');	
+	});	
+	
+	$('.sponsored_event').click(function() {
+		loadFancyBox('/_ajax/sponsoredEvents');	
+	});
+});
+
+-->
+</script>
+		
+	</div> <!--container-->
+</div>		
+<div id="prefooter">
+	<div class="container">
+		<div class="prefooter_item connect">
+			<h3>CONNECT</h3>
+			<p><a href="/subscribe">Subscribe to the Magazine</a>
+			<p><a href="/contact-us">Contact Us</a>
+			<h4>FOLLOW US</h4>
+			<a href="https://www.facebook.com/SRQmagazine" target="_blank"><img src="/clients/52/images/soc_fb.png"/></a>
+			<a href="https://twitter.com/srqchirps" target="_blank"><img src="/clients/52/images/soc_tw.png"/></a>
+			<!--<a href="#"><img src="/clients/52/images/soc_insta.png"/></a>-->
+		</div>
+		<div class="prefooter_item give_back">
+			<h3>SRQ GIVES BACK</h3>
+			<p>SRQ Media supports regional
+			charitable, cultural and education 
+			organization and not-profits
+			throughout the year with custom
+			programs and sponsorships.
+			
+			</p>
+			<a class="large_link" href="/srq-gives-back">Learn More</a>
+
+		</div>
+		<div class="prefooter_item engage">
+			<h3>INSIDE THE BRAND</h3>
+			<h4>LATEST POST</h4>
+	<p>Navigating the road ahead isn&#8217;t exactly easy this day in age. For boomers with aging parents and...</p>
+	<a class="large_link" href="http://srqinsidethebrand.com/?p=1385" target="_blank">Read More &rsaquo;</a>
+
+		</div>
+		<div class="prefooter_item learnmore">
+			<h3>LEARN MORE</h3>
+			<a href="/about-us">About Us</a><a href="/our-platforms">Our Platforms</a>
+            <a href="/advertise">Advertise</a><a href="/jobs">Jobs</a>		
+			<a href="/internships">Internships</a><a href="/faqs">FAQs</a>
+			<a href="/terms-of-use">Terms of Use</a><a href="/privacy-policy">Privacy Policy</a>
+		</div>
+		<div class="prefooter_item rightside"></div>
+	</div>
+</div>
+<div id="footer">
+	<div class="container">
+		<div id="stay-engaged">
+			<div id="fb_share">
+				<iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/SRQmagazine&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=130516620471405" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+			</div>
+			<div id="tw_share">
+				<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+		</div>
+		<a href="javascript:subscribeDaily()" id="get_daily"></a>
+		<img src="/clients/52/images/get-the-newsletter.png" id="gn_headline"/>
+		<form id="get_newsletter_form">
+			
+			<input type="text" placeholder="Enter your email address" value="" name="email_address" id="nf_email_address"/>
+		</form>
+		<a href="javascript:subscribeDaily()" id="nl_signup"></a>
+		<div id="copyright">
+			<b>LIVE LOCAL</b> &copy; TRAFALGER COMMUNICATIONS<br/>
+			POWERED BY <b><a href="http://www.sarasotawebdesign.com" target="_blank">SARASOTA WEB DESIGN</a></b>
+		</div>	
+	</div>
+</div>	
+
+
+<script type="text/javascript">
+<!--
+
+var current_hidden_content = false;
+
+function showNavSection(section_id) {
+	$('.hidden_dropdown').slideUp('fast');
+	if(current_hidden_content==section_id) current_hidden_content = false;
+	else {
+		$('#'+section_id+'_content').slideDown(800);
+		current_hidden_content=section_id;
+	}
+	/*
+	if($('#'+section_id+'_content').html()=='') {
+		$('#hidden_dropdown').html("<center><img src='/images/ajax-loader-large.gif' style='margin:20px auto'/></center>");	
+		$.get("/_ajax/getNavSection?section_id="+section_id, function(data) {
+			$('#'+section_id+'_content').html(data);
+		});
+	}
+	*/
+}
+
+function subscribeDaily() {
+	var em_addr = $('#get_newsletter_form #nf_email_address').val();
+	loadFancyBox("/_ajax/handleSubscriptions?dowhat=load_form&email_address="+em_addr);
+}
+
+function submitSubscriptions() {
+	$('#daily_subscribe_form *').removeClass('inputerror');
+	$.post("/_ajax/handleSubscriptions?dowhat=populate", $('#daily_subscribe_form').serializeArray(),
+		function(data) {
+			eval(data);
+		});	
+}
+
+$(function() {
+	$('#menu2 a').click(function() {
+		showNavSection($(this).attr('id'));	
+	});
+	
+	});
+
+
+
+-->
+</script>
+
+<div id="ui_dialog" title="Dialog Title" style="display:none"></div>
+
+
+
+
+	
+
+
+
+</body>
+</html>	

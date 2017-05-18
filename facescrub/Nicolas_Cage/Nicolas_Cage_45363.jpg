@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+
+<!--[if IE 6]>
+	<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+	<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+	<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 9]>
+	<html id="ie9" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if (gt IE 9) | (!IE)  ]><!-->
+	<html  lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8" />
+
+<title>Page Not Found - SlapCaption.com</title>
+
+<link rel="shortcut icon" href="http://localhost/wordpress/wp-content/uploads/builder-favicon/nmvMIo.ico" />
+
+<link rel="stylesheet" href="http://www.slapcaption.com/wp-content/themes/Builder/lib/builder-core/css/reset.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.slapcaption.com/wp-content/themes/Builder-SlapCapJun2014/style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.slapcaption.com/wp-content/uploads/it-file-cache/builder-layouts/5397a17e0834d.css?version=f667d6a64c37afcf63474fff6b5612e8" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.slapcaption.com/wp-content/themes/Builder-SlapCapJun2014/style-mobile.css" type="text/css" media="only screen and (max-width: 500px)" />
+<link rel="stylesheet" href="http://www.slapcaption.com/wp-content/themes/Builder/lib/builder-core/css/structure.css?ver=2" type="text/css" media="screen" />
+
+<!--[if lt IE 7]>
+	<script src="http://www.slapcaption.com/wp-content/themes/Builder/lib/builder-core/js/dropdown.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="http://www.slapcaption.com/wp-content/themes/Builder/lib/builder-core/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.slapcaption.com/xmlrpc.php" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - SlapCaption.com" />
+<meta property="og:site_name" content="SlapCaption.com" />
+<meta property="og:image" content="http://www.slapcaption.com/wp-content/plugins/wp-lol/image/empty.png" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="SlapCaption.com &raquo; Feed" href="http://www.slapcaption.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SlapCaption.com &raquo; Comments Feed" href="http://www.slapcaption.com/comments/feed/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    (function() {
+      var shr = document.createElement('script');
+      shr.setAttribute('data-cfasync', 'false');
+      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript'; shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var site_id = '4ae90fffc8352169af74aebd80e231a0';
+        var page_config = {"apps":{"share_buttons":{"get_share_counts":  function(url, services, cb) {
+    Shareaholic.Utils.ajax({
+      cache: true,
+      cache_ttl: '1 minute',
+      url: 'http://www.slapcaption.com/wp-admin/admin-ajax.php',
+      data: { action: 'shareaholic_share_counts_api', url: url, services: services },
+      success: function(res) {
+        if(res && res.data) {
+          cb(res.data, true);
+        }
+      }
+    })
+  }}}};
+        try { Shareaholic.init(site_id, page_config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='SlapCaption.com' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:site_id' content='4ae90fffc8352169af74aebd80e231a0' />
+<meta name='shareaholic:wp_version' content='7.5.0.0' />
+
+<!-- Shareaholic Content Tags End -->
+<link rel='stylesheet' id='foobox-min-css'  href='http://www.slapcaption.com/wp-content/plugins/fooboxV2/css/foobox.min.css?ver=2.3.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='socialfans-widget-style-css'  href='http://www.slapcaption.com/wp-content/plugins/socialfans-counter/assets/css/socialfans-style.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-basic-css'  href='http://www.slapcaption.com/wp-content/plugins/ubermenu/standard/styles/basic.css?ver=2.4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-custom-css'  href='http://www.slapcaption.com/wp-content/plugins/ubermenu/custom/custom.css?ver=2.4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-dark-css'  href='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-default-css'  href='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-css'  href='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-thumbnails-css'  href='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wdfb_style-css'  href='http://www.slapcaption.com/wp-content/plugins/wpmu-dev-facebook/css/wdfb.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='it-builder-style-5397a3ef262a0-css'  href='http://www.slapcaption.com/wp-content/uploads/builder-style-manager/slapcap062014.css?ver=5.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.slapcaption.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SfcounterObject = {"ajaxurl":"http:\/\/www.slapcaption.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/socialfans-counter/assets/js/socialfans-script.js?ver=3.1'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.8.4'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.8.4'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.8.4'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.8.4'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.8.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.slapcaption.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.slapcaption.com/wp-includes/wlwmanifest.xml" /> 
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"PYA2k1a0Sn00Ew", domain:"slapcaption.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=PYA2k1a0Sn00Ew" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52539398-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script src='http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/js/jquery-1.8.3.min.js'></script><script> var loljQuery = jQuery.noConflict(); </script><script src='http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/js/main.js'></script><script src='http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/js/jquery.fineuploader-3.6.0.min.js'></script><script src='http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/js/lol_popup.js'></script>
+        <script type="text/javascript">
+            var ajaxurl = 'http://www.slapcaption.com/wp-admin/admin-ajax.php';
+            var fileSizeLimit = parseInt();
+        </script>
+    <script type="text/javascript">var _wdfb_ajaxurl="http://www.slapcaption.com/wp-admin/admin-ajax.php";var _wdfb_root_url="http://www.slapcaption.com/wp-content/plugins/wpmu-dev-facebook";</script><meta property='fb:app_id' content='1525188771038434' />
+<style type="text/css">
+
+</style>
+<!-- UberMenu CSS - Controlled through UberMenu Options Panel 
+================================================================ -->
+<style type="text/css" id="ubermenu-style-generator-css">
+/* Image Text Padding */
+#megaMenu .ss-nav-menu-with-img > a > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > a > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > a > .wpmega-item-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-item-description{
+  padding-left: 23px;
+}
+
+
+/**** UberMenu Sticky CSS ****/
+#megaMenu.ubermenu-sticky{ margin: 0 !important; z-index:1000; position:fixed !important; top: 0px; bottom: auto !important; -webkit-transition:none; -moz-transition:none; transition:none; }
+#megaMenu ul.megaMenu li.um-sticky-only{ display: none !important; }#megaMenu-sticky-wrapper #megaMenu.ubermenu-sticky li.um-sticky-only{ display: block !important; }#megaMenu ul.megaMenu li.um-unsticky-only{ display: block !important; }#megaMenu-sticky-wrapper #megaMenu.ubermenu-sticky li.um-unsticky-only{ display: none !important; }
+/* Expand Menu Bar */ 
+#megaMenu.ubermenu-sticky{ left: 0; right:auto; width: 100%; border-radius: 0; }
+/* Center Inner Menu */ 
+#megaMenu.ubermenu-sticky ul.megaMenu{ padding-left:2px; margin: 0 auto; float:none; max-width: 940px; }
+#megaMenu.megaMenuHorizontal ul.megaMenu > li:first-child > a{ box-shadow:none; }	
+</style>
+<!-- end UberMenu CSS -->
+		
+			
+</head>
+<body id="builder-layout-5397a17e0834d" class="error404 builder-responsive builder-template-404 builder-view-404 builder-view-post-88668">
+<div class="builder-container-background-wrapper">
+<div class="builder-container-outer-wrapper">
+<div class="builder-container" id="builder-container-5397a17e0834d">
+<div class="builder-module-background-wrapper builder-module-html-background-wrapper builder-module-1-background-wrapper builder-module-html-1-background-wrapper builder-module-top-background-wrapper builder-module-before-navigation-background-wrapper default-module-style-background-wrapper" id="builder-module-5397a4b5231c8-background-wrapper">
+<div class="builder-module-outer-wrapper builder-module-html-outer-wrapper builder-module-1-outer-wrapper builder-module-html-1-outer-wrapper builder-module-top-outer-wrapper builder-module-before-navigation-outer-wrapper default-module-style-outer-wrapper" id="builder-module-5397a4b5231c8-outer-wrapper">
+<div class="builder-module builder-module-html builder-module-1 builder-module-html-1 builder-module-top builder-module-before-navigation default-module-style clearfix" id="builder-module-5397a4b5231c8">
+<div class="builder-module-block-outer-wrapper builder-module-element-outer-wrapper builder-module-column-1-outer-wrapper left clearfix">
+<div class="builder-module-block builder-module-element builder-module-column-1 clearfix">
+
+
+    <img  class="lol-popup-button" style='max-width:400px;cursor: pointer;' src="http://www.slapcaption.com/wp-content/uploads/2014/06/e59d28e6c9630f1307f5e90dbb5105c4_LogoAndClick3.png" alt=""/>
+
+<div class="lol_popup_wrap">
+    <img class="close_popup" src="http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/image/close-button-large.png">
+    <style type="text/css">
+        .image {
+            float: left;
+            max-width: 500px;
+        }
+        .color{
+
+            background-color: #DFF0D8;
+            height: 20px;
+            position: relative;
+            top: -24px;
+            width: 100%;
+            z-index:10;
+
+        }
+        .size{
+            position:relative;
+            z-index: 99;
+            text-align: center
+        }
+        #jquery-wrapped-fine-uploader{
+            display:none;
+        }
+    </style>
+    <style type="text/css"></style>
+
+    <div class="wp-lol-wrap">
+
+
+    
+        <div class="selector svertical_form" style='margin-bottom:10px'>
+            <div class="srow">
+                <div class="scol6">
+                    <label>Select type</label>
+                    <select class="form-control select-type">
+                        <option value='image'>Image</option>
+                        <option value='video'>Video</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    
+    <div class="video-body" style='display:none'>
+        <h3 style='margin-bottom:20px;' >Adding Video</h3>
+        <div class="srow">
+
+            <div class="scol-6">
+                <form class="form-horizontal new-video" action='' method='post' role="form">
+
+                    <div class="srow">
+                        <div class="scol6">
+                            <label for="inputEmail1" class="col-lg-3 control-label">Title</label>
+                            <div class="col-lg-9">
+                                <input type="title"  name='title' class="form-control video_field" id="inputEmail1" placeholder="Title">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="srow">
+                        <div class="scol6">
+                            <label for="inputEmail1" class="col-lg-3 control-label">Video url</label>
+                            <div class="col-lg-9">
+                                <input type="url" name='url'  class="form-control video_field" id="inputEmail1" placeholder="Url">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="srow">
+                        <div class="scol6">
+                            <label for="inputEmail1" class="col-lg-3 control-label">Category</label>
+                            <div class="col-lg-9">
+                                <select name='cat' id='cat' class='video_field' >
+	<option class="level-0" value="1">People&nbsp;&nbsp;(1,090)</option>
+	<option class="level-0" value="3">Cats&nbsp;&nbsp;(1,241)</option>
+	<option class="level-0" value="24">Dogs&nbsp;&nbsp;(273)</option>
+	<option class="level-0" value="25">Animals&nbsp;&nbsp;(199)</option>
+	<option class="level-0" value="29">WTF&nbsp;&nbsp;(83)</option>
+	<option class="level-0" value="37">De/Motivational&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="39">Fail&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="42">KneeSlappers&nbsp;&nbsp;(16)</option>
+	<option class="level-0" value="44">Kids&nbsp;&nbsp;(0)</option>
+	<option class="level-0" value="45">Slap This! (blank pics)&nbsp;&nbsp;(0)</option>
+</select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="srow">
+                        <div class="scol3">
+                            <button class="save_video">Save Video</button>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+    <div class="wrap image-body">
+
+    <div class="select-image">
+
+        <div class="span3 new-img">
+
+            <div id="jquery-wrapped-fine-uploader">
+
+            </div>
+        </div>
+
+        <button type="button" class="btn btn-success upload_img">Upload image</button>
+
+        <!--Getting from gallery -->
+        <div class="galleryPop">
+            <div class="gphead">
+            </div>
+            <div class="glbody"></div>
+        </div>
+
+    </div>
+    <div class="main-image">
+    <div id="unprev" class="image">
+                    <img class="selectedImage" style='width:100%' name="test" src="http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/image/empty.png" alt=""/>
+            </div>
+    <div class="setting">
+
+
+
+    <form class="svertical_form">
+
+    <div class="srow">
+        <div class="scol12">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Image title (Required)</label>
+                <input type="text" name="imageTitle" class="imageTitle form-control" />
+            </div>
+
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Top</label>
+                <input type="text" name="textTop" class="textTop form-control" />
+            </div>
+        </div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Font Size</label>
+                <input type="text" value='30' name="fsizeTop" class="fsizeTop form-control" />
+            </div>
+        </div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Position</label>
+                <table class="set">
+                    <tr class='topText'><td><div  position="left" class=" left"></div></td>
+                        <td><div  position="center" class="activePosiotion  center"></div></td>
+                        <td ><div position="right" class="right"></div></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Middle</label>
+                <input type="text" name="textMiddle" class="textMiddle form-control" />
+            </div>
+        </div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Font Size</label>
+                <input type="text" value='30' name="fsizeMiddle" class="fsizeMiddle form-control" />
+            </div>
+        </div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Position</label>
+                <table class="set">
+                    <tr class='middleText'><td><div  position="left" class=" left"></div></td>
+                        <td><div  position="center" class="activePosiotion  center"></div></td>
+                        <td ><div position="right" class="right"></div></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Bottom</label>
+                <input type="text" name="textBottom" class="textBottom form-control" />
+            </div>
+        </div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Font Size</label>
+                <input type="text" value='30' name="fsizeBottom" class="fsizeBottom form-control" />
+            </div>
+        </div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <table class="set">
+                    <label for="exampleInputEmail">Position</label>
+                    <tr class='bottomText'><td><div  position="left" class=" left"></div></td>
+                        <td><div  position="center" class="activePosiotion  center"></div></td>
+                        <td ><div position="right" class="right"></div></td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol6">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Categories</label>
+                <select name='select_name' id='select_name' class='form-control' >
+	<option class="level-0" value="1">People</option>
+	<option class="level-0" value="3">Cats</option>
+	<option class="level-0" value="24">Dogs</option>
+	<option class="level-0" value="25">Animals</option>
+	<option class="level-0" value="29">WTF</option>
+	<option class="level-0" value="37">De/Motivational</option>
+	<option class="level-0" value="39">Fail</option>
+	<option class="level-0" value="42">KneeSlappers</option>
+	<option class="level-0" value="44">Kids</option>
+	<option class="level-0" value="45">Slap This! (blank pics)</option>
+</select>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="srow">
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Font</label>
+                <select class="font select form-control">
+                    <option value="impact">Impact</option>
+                    <option value="arial">Arial</option>
+                    <option value="courier-new">Courier New</option>
+                    <option value="verdana">Verdana</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Effects</label>
+                <select class="effect select form-control">
+                    <option value="outline">Outline</option>
+                    <option value="dropshadow">Dropshadow</option>
+                    <option value="glow">Glow</option>
+
+                </select>
+            </div>
+        </div>
+        <div class="scol2">&nbsp;</div>
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Text visibility</label>
+                <input type="text" style='width:60px;' value="100" class="visibility text form-control"/>
+            </div>
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol3">
+            <div class="scol-wrap">
+                <label for="exampleInputEmail">Text color</label>
+                <select class="text-color select form-control">
+                    <option value="0">White</option>
+                    <option value="1">Black</option>
+                    <option value="2">Blue</option>
+                    <option value="3">Green</option>
+                    <option value="4">Red</option>
+                    <option value="5">Yellow</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol9">
+            <div class="srow">
+                <div class="scol3">
+                    <input type="checkbox" class="bold"/>
+                    <label>Bold</label>
+                </div>
+                <div class="scol3">
+                    <input type="checkbox" class="italic"/>
+                    <label>Italic</label>
+                </div>
+                <div class="scol3">
+                    <input type="checkbox" class="underline"/>
+                    <label style="padding:0;">Underline</label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="srow" style="margin-bottom:30px;">
+        <div class="scol3">
+            <button class="preview btn btn-info">Preview</button>
+        </div>
+    </div>
+
+    <legend style="font-weight:bold">Save It and Share</legend>
+
+    <!--<div class="srow">
+        <div class="scol12">
+            <label for="exampleInputEmail">Your name (Required)</label>
+            <input type="text" class="name1 form-control" name="yname" />
+        </div>
+    </div>
+
+    <div class="srow">
+        <div class="scol12">
+            <label for="exampleInputEmail">Your email (Required)</label>
+            <input type="text" class="email1 form-control" name="email" />
+
+        </div>
+    </div>-->
+
+
+    <div class="srow">
+        <div class="scol3">
+                            <img  class="savebtn" style='max-width:400px;cursor: pointer;' src="http://www.slapcaption.com/wp-content/uploads/2014/05/2039e775bef8cd8af156c06735b69ff5_SlapItBig2.png" alt=""/>
+                    </div>
+    </div>
+
+    </form>
+
+
+    </div>
+
+
+
+    <div class="social">
+
+    </div>
+    <div class="clear"></div>
+    </div>
+    <div class="text-options"></div>
+
+
+    <div class="fullImage">
+
+    </div>
+    <div class="backgroundIMG">
+
+    </div>
+    </div>
+
+
+    </div>
+
+</div><p style="align:center;">
+
+</p>
+</div>
+</div>
+<div class="builder-module-block-outer-wrapper builder-module-sidebar-outer-wrapper builder-module-column-2-outer-wrapper right clearfix">
+<div class="builder-module-block builder-module-sidebar builder-module-column-2 builder-module-sidebar-1-right builder-module-sidebar-with-element sidebar right clearfix">
+<div class="widget-wrapper widget-wrapper-single single widget-wrapper-1 clearfix">
+<div class="widget-background-wrapper" id="cyclone-slider-widget-2-background-wrapper"><div class="widget widget-1 widget-single clearfix widget_cyclone-slider-widget" id="cyclone-slider-widget-2"><div tabindex="0" class="cycloneslider cycloneslider-template-standard cycloneslider-width-responsive" id="cycloneslider-headerslides1-1" style="max-width:740px" > <div class="cycloneslider-slides cycle-slideshow" data-cycle-allow-wrap="true" data-cycle-dynamic-height="off" data-cycle-auto-height="740:150" data-cycle-auto-height-easing="null" data-cycle-auto-height-speed="250" data-cycle-delay="0" data-cycle-easing="" data-cycle-fx="fadeout" data-cycle-hide-non-active="true" data-cycle-log="false" data-cycle-next="#cycloneslider-headerslides1-1 .cycloneslider-next" data-cycle-pager="#cycloneslider-headerslides1-1 .cycloneslider-pager" data-cycle-pause-on-hover="false" data-cycle-prev="#cycloneslider-headerslides1-1 .cycloneslider-prev" data-cycle-slides="&gt; div" data-cycle-speed="1000" data-cycle-swipe="false" data-cycle-tile-count="7" data-cycle-tile-delay="100" data-cycle-tile-vertical="true" data-cycle-timeout="10000" > <div class="cycloneslider-slide cycloneslider-slide-image" > <img src="http://www.slapcaption.com/wp-content/uploads/2014/07/NewSlapCap1.png" alt="" title="" /> </div> <div class="cycloneslider-slide cycloneslider-slide-image" > <img src="http://www.slapcaption.com/wp-content/uploads/2014/07/PostYourOwn1.png" alt="" title="" /> </div> </div> </div></div></div></div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="builder-module-background-wrapper builder-module-navigation-background-wrapper builder-module-2-background-wrapper builder-module-navigation-1-background-wrapper builder-module-middle-background-wrapper builder-module-navigation-last-background-wrapper builder-module-before-html-background-wrapper builder-module-after-html-background-wrapper default-module-style-background-wrapper" id="builder-module-5397a4e6cbfe5-background-wrapper">
+<div class="builder-module-outer-wrapper builder-module-navigation-outer-wrapper builder-module-2-outer-wrapper builder-module-navigation-1-outer-wrapper builder-module-middle-outer-wrapper builder-module-navigation-last-outer-wrapper builder-module-before-html-outer-wrapper builder-module-after-html-outer-wrapper default-module-style-outer-wrapper" id="builder-module-5397a4e6cbfe5-outer-wrapper">
+<div class="builder-module builder-module-navigation builder-module-2 builder-module-navigation-1 builder-module-middle builder-module-navigation-last builder-module-before-html builder-module-after-html default-module-style clearfix builder-module-navigation-custom-menu builder-module-navigation-custom-menu-id-41" id="builder-module-5397a4e6cbfe5">
+<div class="builder-module-block-outer-wrapper builder-module-element-outer-wrapper builder-module-column-1-outer-wrapper single clearfix">
+<div class="builder-module-block builder-module-element builder-module-column-1">
+<div id="megaMenu" class="megaMenuContainer megaMenu-nojs megaMenuHorizontal megaResponsive megaResponsiveToggle wpmega-withjs megaMenuOnHover megaFullWidth wpmega-noconflict megaMinimizeResiduals megaResetStyles themeloc-"><div id="megaMenuToggle" class="megaMenuToggle">Menu&nbsp; <span class="megaMenuToggle-icon"></span></div><ul id="megaUber" class="megaMenu"><li id="menu-item-85178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home ss-nav-menu-item-0 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/"><span class="wpmega-link-title">Home</span></a></li><li id="menu-item-85221" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-1 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/animals/"><span class="wpmega-link-title">Animals</span></a></li><li id="menu-item-85179" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/cats/"><span class="wpmega-link-title">Cats</span></a></li><li id="menu-item-85181" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/dogs/"><span class="wpmega-link-title">Dogs</span></a></li><li id="menu-item-88548" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/kids/"><span class="wpmega-link-title">Kids</span></a></li><li id="menu-item-85180" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-5 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/people/"><span class="wpmega-link-title">People</span></a></li><li id="menu-item-88546" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-6 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/fail/"><span class="wpmega-link-title">Fail</span></a></li><li id="menu-item-88547" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-7 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/demotivational/"><span class="wpmega-link-title">De/Motivational</span></a></li><li id="menu-item-85223" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-8 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/wtf/"><span class="wpmega-link-title">WTF</span></a></li><li id="menu-item-88549" class="menu-item menu-item-type-taxonomy menu-item-object-category ss-nav-menu-item-9 ss-nav-menu-item-depth-0 ss-nav-menu-reg um-flyout-align-center"><a href="http://www.slapcaption.com/category/slapthis/"><span class="wpmega-link-title">Slap This! (blank pics)</span></a></li></ul></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="builder-module-background-wrapper builder-module-html-background-wrapper builder-module-3-background-wrapper builder-module-html-2-background-wrapper builder-module-middle-background-wrapper builder-module-html-last-background-wrapper builder-module-before-content-background-wrapper builder-module-after-navigation-background-wrapper default-module-style-background-wrapper" id="builder-module-53bcac4dbf5a5-background-wrapper">
+<div class="builder-module-outer-wrapper builder-module-html-outer-wrapper builder-module-3-outer-wrapper builder-module-html-2-outer-wrapper builder-module-middle-outer-wrapper builder-module-html-last-outer-wrapper builder-module-before-content-outer-wrapper builder-module-after-navigation-outer-wrapper default-module-style-outer-wrapper" id="builder-module-53bcac4dbf5a5-outer-wrapper">
+<div class="builder-module builder-module-html builder-module-3 builder-module-html-2 builder-module-middle builder-module-html-last builder-module-before-content builder-module-after-navigation default-module-style clearfix" id="builder-module-53bcac4dbf5a5">
+<div class="builder-module-block-outer-wrapper builder-module-element-outer-wrapper builder-module-column-1-outer-wrapper left clearfix">
+<div class="builder-module-block builder-module-element builder-module-column-1 clearfix">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- SlapCapTop1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4118702232762838"
+     data-ad-slot="9405017905"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<div class="builder-module-block-outer-wrapper builder-module-sidebar-outer-wrapper builder-module-column-2-outer-wrapper right clearfix">
+<div class="builder-module-block builder-module-sidebar builder-module-column-2 builder-module-sidebar-1-right builder-module-sidebar-with-element sidebar right clearfix">
+<div class="widget-wrapper widget-wrapper-single single widget-wrapper-1 clearfix">
+    <div class="sf-widget-holder" style="width: 195px !important;" >
+        
+
+<div class="" data-hide_numbers="0" data-show_total="0">
+  
+                                                              <div class="sf-block sf-view sf-view-three  sf-col-lg-3 sf-col-md-3 sf-col-sm-3 sf-col-xs-3" data-social="facebook" >
+                  <div class="sf-front sf-bg-facebook">
+                        <a class="sf-dark-color"  href="javascript:void(0);" target="_blank" rel="nofollow">
+              <i class="-sf-icon-facebook "></i>
+                              <div class="sf-spe sf-dark-bg"></div>
+                <span class="sf-social-count sf-dark-color">50.0k</span>
+                <div class="clearfix"></div>
+                <small class="sf-dark-color"></small>
+                          </a>
+          </div>
+          <div class="sf-back sf-mask ">
+            <a href="http://www.facebook.com/slapcaption" class="sf-join btn  btn-xs shake shake-slow sf-bg-facebook sf-dark-color" target="_blank" rel="nofollow">Like</a>
+          </div>
+            </div><!-- End sf-block -->
+
+                                                              <div class="sf-block sf-view sf-view-three  sf-col-lg-3 sf-col-md-3 sf-col-sm-3 sf-col-xs-3" data-social="pinterest" >
+                  <div class="sf-front sf-bg-pinterest">
+                        <a class="sf-dark-color"  href="javascript:void(0);" target="_blank" rel="nofollow">
+              <i class="-sf-icon-pinterest "></i>
+                              <div class="sf-spe sf-dark-bg"></div>
+                <span class="sf-social-count sf-dark-color">2.5k</span>
+                <div class="clearfix"></div>
+                <small class="sf-dark-color"></small>
+                          </a>
+          </div>
+          <div class="sf-back sf-mask ">
+            <a href="http://www.pinterest.com/slapcaption" class="sf-join btn  btn-xs shake shake-slow sf-bg-pinterest sf-dark-color" target="_blank" rel="nofollow">Follow</a>
+          </div>
+            </div><!-- End sf-block -->
+
+                                                              <div class="sf-block sf-view sf-view-three  sf-col-lg-3 sf-col-md-3 sf-col-sm-3 sf-col-xs-3" data-social="twitter" >
+                  <div class="sf-front sf-bg-twitter">
+                        <a class="sf-dark-color"  href="javascript:void(0);" target="_blank" rel="nofollow">
+              <i class="-sf-icon-twitter "></i>
+                              <div class="sf-spe sf-dark-bg"></div>
+                <span class="sf-social-count sf-dark-color">1.5k</span>
+                <div class="clearfix"></div>
+                <small class="sf-dark-color"></small>
+                          </a>
+          </div>
+          <div class="sf-back sf-mask ">
+            <a href="http://www.twitter.com/slapcaption" class="sf-join btn  btn-xs shake shake-slow sf-bg-twitter sf-dark-color" target="_blank" rel="nofollow">Follow</a>
+          </div>
+            </div><!-- End sf-block -->
+
+                                                              <div class="sf-block sf-view sf-view-three  sf-col-lg-3 sf-col-md-3 sf-col-sm-3 sf-col-xs-3" data-social="weheartit" >
+                  <div class="sf-front sf-bg-weheartit">
+                        <a class="sf-dark-color"  href="javascript:void(0);" target="_blank" rel="nofollow">
+              <i class="-sf-icon-weheartit-1 "></i>
+                              <div class="sf-spe sf-dark-bg"></div>
+                <span class="sf-social-count sf-dark-color">1.4k</span>
+                <div class="clearfix"></div>
+                <small class="sf-dark-color"></small>
+                          </a>
+          </div>
+          <div class="sf-back sf-mask ">
+            <a href="http://weheartit.com/SlapIt" class="sf-join btn  btn-xs shake shake-slow sf-bg-weheartit sf-dark-color" target="_blank" rel="nofollow">Follow</a>
+          </div>
+            </div><!-- End sf-block -->
+
+  
+      <div style="clear: both;"></div>
+</div>    </div><!-- End Widget Holder -->
+        
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="builder-module-background-wrapper builder-module-content-background-wrapper builder-module-4-background-wrapper builder-module-content-1-background-wrapper builder-module-middle-background-wrapper builder-module-content-last-background-wrapper builder-module-before-footer-background-wrapper builder-module-after-html-background-wrapper default-module-style-background-wrapper" id="builder-module-5397a54a47245-background-wrapper">
+<div class="builder-module-outer-wrapper builder-module-content-outer-wrapper builder-module-4-outer-wrapper builder-module-content-1-outer-wrapper builder-module-middle-outer-wrapper builder-module-content-last-outer-wrapper builder-module-before-footer-outer-wrapper builder-module-after-html-outer-wrapper default-module-style-outer-wrapper" id="builder-module-5397a54a47245-outer-wrapper">
+<div class="builder-module builder-module-content builder-module-4 builder-module-content-1 builder-module-middle builder-module-content-last builder-module-before-footer builder-module-after-html default-module-style clearfix" id="builder-module-5397a54a47245">
+<div class="builder-module-block-outer-wrapper builder-module-element-outer-wrapper builder-module-column-1-outer-wrapper left clearfix">
+<div class="builder-module-block builder-module-element builder-module-column-1 clearfix">
+
+
+<div class='loop'><div class='loop-content'><div id="post-88668" class="post-88668 post type-post status-publish format-standard has-post-thumbnail hentry category-animals"><div class='entry-header'><h2 class="entry-title"><a href='http://www.slapcaption.com/suprise/'>SUPRISE</a></h2><!--/.entry-title--><div class='entry-utility'>Posted in: <a href="http://www.slapcaption.com/category/animals/" rel="category tag">Animals</a>.....On:November 23, 2014 7:54 pm </div><!--/.entry-utility--><div class='entry-meta'>Comments (join on in!): <a href="http://www.slapcaption.com/suprise/#respond" title="Comment on SUPRISE"><span class="leave-reply">Got one?</span></a></div><!--/.entry-meta--></div><div class='entry-content'><p><img src='http://www.slapcaption.com/wp-content/uploads/2014/11/SUPRISE.jpg' alt='SUPRISE' /></br>Derpy be like:SUPRISE!!!!!!!  I be like wanna muffin??Derpy be like again:MUFFIN!!!!!!</p>
+</div></div><div id="post-88666" class="post-88666 post type-post status-publish format-standard has-post-thumbnail hentry category-people"><div class='entry-header'><h2 class="entry-title"><a href='http://www.slapcaption.com/yikes/'>Yikes</a></h2><!--/.entry-title--><div class='entry-utility'>Posted in: <a href="http://www.slapcaption.com/category/people/" rel="category tag">People</a>.....On:November 22, 2014 9:31 am </div><!--/.entry-utility--><div class='entry-meta'>Comments (join on in!): <a href="http://www.slapcaption.com/yikes/#respond" title="Comment on Yikes"><span class="leave-reply">Got one?</span></a></div><!--/.entry-meta--></div><div class='entry-content'><p><img src='http://www.slapcaption.com/wp-content/uploads/2014/11/Yikes.jpg' alt='Yikes' /></br>YIKES!!!  </p>
+</div></div><div id="post-88663" class="post-88663 post type-post status-publish format-standard has-post-thumbnail hentry category-cats"><div class='entry-header'><h2 class="entry-title"><a href='http://www.slapcaption.com/kitty-cone-shame/'>kitty cone of shame</a></h2><!--/.entry-title--><div class='entry-utility'>Posted in: <a href="http://www.slapcaption.com/category/cats/" rel="category tag">Cats</a>.....On:November 22, 2014 8:14 am </div><!--/.entry-utility--><div class='entry-meta'>Comments (join on in!): <a href="http://www.slapcaption.com/kitty-cone-shame/#respond" title="Comment on kitty cone of shame"><span class="leave-reply">Got one?</span></a></div><!--/.entry-meta--></div><div class='entry-content'><p><a href="http://www.slapcaption.com/wp-content/uploads/2014/11/kitty-cone-of-shame.jpg"><img class="aligncenter size-full wp-image-88664" src="http://www.slapcaption.com/wp-content/uploads/2014/11/kitty-cone-of-shame.jpg" alt="kitty cone of shame" width="417" height="567" data-id="88664" /></a></p>
+</div></div><div id="post-88648" class="post-88648 post type-post status-publish format-standard has-post-thumbnail hentry category-people"><div class='entry-header'><h2 class="entry-title"><a href='http://www.slapcaption.com/too-fly/'>Too Fly</a></h2><!--/.entry-title--><div class='entry-utility'>Posted in: <a href="http://www.slapcaption.com/category/people/" rel="category tag">People</a>.....On:November 21, 2014 8:33 pm </div><!--/.entry-utility--><div class='entry-meta'>Comments (join on in!): <a href="http://www.slapcaption.com/too-fly/#respond" title="Comment on Too Fly"><span class="leave-reply">Got one?</span></a></div><!--/.entry-meta--></div><div class='entry-content'><p><img src='http://www.slapcaption.com/wp-content/uploads/2014/11/-Too-Fly.jpg' alt=' Too Fly' /></br>Yes Office  I Am Too Fly</p>
+</div></div><div id="post-88646" class="post-88646 post type-post status-publish format-standard has-post-thumbnail hentry category-cats"><div class='entry-header'><h2 class="entry-title"><a href='http://www.slapcaption.com/rawr/'>Rawr</a></h2><!--/.entry-title--><div class='entry-utility'>Posted in: <a href="http://www.slapcaption.com/category/cats/" rel="category tag">Cats</a>.....On:November 20, 2014 8:00 pm </div><!--/.entry-utility--><div class='entry-meta'>Comments (join on in!): <a href="http://www.slapcaption.com/rawr/#respond" title="Comment on Rawr"><span class="leave-reply">Got one?</span></a></div><!--/.entry-meta--></div><div class='entry-content'><p><img src='http://www.slapcaption.com/wp-content/uploads/2014/11/Rawr.jpg' alt='Rawr' /></br>I am a cat ghost so&#8230;.  RAWWWWWWWR!!!!!!!!!!!</p>
+</div></div></div><!-- .loop-content --><div class='loop-footer'><div class='loop-utility'>	
+				<div id="nav-below" class="navigation loop-utility loop-utility-below">
+					<div class="nav-previous"><a href="http://www.slapcaption.com/wp-content/uploads/2013/02/Nicolas-Cage.jpg/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+			</div><!-- .loop-meta-below -->
+</div><!-- .loop-footer -->
+</div><!-- .loop -->
+
+</div>
+</div>
+<div class="builder-module-block-outer-wrapper builder-module-sidebar-outer-wrapper builder-module-column-2-outer-wrapper right clearfix">
+<div class="builder-module-block builder-module-sidebar builder-module-column-2 builder-module-sidebar-1-right builder-module-sidebar-with-element sidebar right clearfix">
+<div class="widget-wrapper widget-wrapper-single single widget-wrapper-1 clearfix">
+<div class="widget-background-wrapper" id="text-4-background-wrapper"><div class="widget widget-1 widget-single clearfix widget_text" id="text-4">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- SlapCapSide1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-4118702232762838"
+     data-ad-slot="7349751503"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+		</div></div></div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="builder-module-background-wrapper builder-module-footer-background-wrapper builder-module-5-background-wrapper builder-module-footer-1-background-wrapper builder-module-bottom-background-wrapper builder-module-last-background-wrapper builder-module-footer-last-background-wrapper builder-module-after-content-background-wrapper default-module-style-background-wrapper" id="builder-module-53f552c859b7b-background-wrapper">
+<div class="builder-module-outer-wrapper builder-module-footer-outer-wrapper builder-module-5-outer-wrapper builder-module-footer-1-outer-wrapper builder-module-bottom-outer-wrapper builder-module-last-outer-wrapper builder-module-footer-last-outer-wrapper builder-module-after-content-outer-wrapper default-module-style-outer-wrapper" id="builder-module-53f552c859b7b-outer-wrapper">
+<div class="builder-module builder-module-footer builder-module-5 builder-module-footer-1 builder-module-bottom builder-module-last builder-module-footer-last builder-module-after-content default-module-style clearfix" id="builder-module-53f552c859b7b">
+<div class="builder-module-block-outer-wrapper builder-module-element-outer-wrapper builder-module-column-1-outer-wrapper single clearfix">
+<div class="builder-module-block builder-module-element builder-module-column-1 clearfix">
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script><div id='fb-root'></div><script type='text/javascript'>
+	         FB.init({
+	            appId: '1525188771038434',
+	            status: true,
+	            cookie: true,
+	            xfbml: true,
+	            oauth: true
+	         });
+	      </script>	<div class="alignleft">
+		<strong>SlapCaption.com</strong><br />
+		Copyright &copy; 2014 All Rights Reserved	</div>
+	<div class="alignright">
+		<a href="http://ithemes.com/purchase/builder-theme/" title="iThemes Builder">iThemes Builder</a> by <a href="http://ithemes.com/" title="iThemes WordPress Themes">iThemes</a><br />Powered by <a href="http://wordpress.org">WordPress</a>	</div>
+	<link rel='stylesheet' id='style1-css'  href='http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/css/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style2-css'  href='http://www.slapcaption.com/wp-content/plugins/wp-lol/assets/css/lol_popup.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.slapcaption.com/wp-includes/js/hoverIntent.min.js?ver=r7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"hoverIntent","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"on","windowsClick":"on","iOScloseButton":"on","loadGoogleMaps":"off","repositionOnLoad":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/ubermenu/core/js/ubermenu.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/themes/Builder/lib/builder-core/lib/responsive/js/jquery.fitvids-max-width-modification.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/themes/Builder/lib/builder-core/lib/responsive/js/init-fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/fooboxV2/js/foobox.min.js?ver=2.3.2.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uberMenuStickySettings = {"expand_menu_bar":"1","offset":"0","mobile":"","scroll_context":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.slapcaption.com/wp-content/plugins/ubermenu-sticky/ubermenu.sticky.js?ver=4.0.1'></script>
+<script type="text/javascript">/* Run FooBox (v2.3.2.11) */
+(function( FOOBOX, $, undefined ) {
+  FOOBOX.o = {style: "fbx-metro", wordpress: { enabled: true }, deeplinking : { enabled: true, prefix: "foobox" }, showButtons:false, showCount:false, effect: 'fbx-effect-1', images: {  showCaptions:false }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"],.jig-customLink', affiliate : { enabled: false }, slideshow: { enabled:false }, social: { enabled: true, excludes: [], position: 'fbx-topleft fbx-stacked', links: [ { css: 'fbx-facebook', title: 'Facebook', url: 'https://www.facebook.com/dialog/feed?app_id=1472388839648578&link={url}&picture={img}&caption={title}&description={desc}&redirect_uri=http%3A%2F%2Fwww.slapcaption.com' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-google-plus', title: 'Google+', url: 'https://plus.google.com/share?url={url-ne}' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-twitter', title: 'Twitter', url: 'https://twitter.com/share?url={url}&text={title}&via=slapcaption' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-pinterest', title: 'Pinterest', url: 'https://pinterest.com/pin/create/bookmarklet/?media={img!}&url={url}&is_video={is_video}&description={title}' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-tumblr', title: 'Tumblr', url: 'http://www.tumblr.com/share/photo?source={img}&click_thru={url}&caption={title}%20-%20{desc}' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-stumble-upon', title: 'StumbleUpon', url: 'http://www.stumbleupon.com/submit?url={url}&title={title}' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-email', title: 'Email', url: 'mailto:friend@example.com?subject={title}&body={desc}%20-%20{url}' , titleSource: 'custom', titleCustom: 'Another goodie from Slapcation.com!' }, { css: 'fbx-download', excludes: ['video', 'iframe', 'html'], title: 'Download Original Image', url: '{img-ne}' } ] }, modalClass: "fbx-arrows-4 fbx-spinner-7"};
+  FOOBOX.init = function() {
+    $(".fbx-link").removeClass("fbx-link");
+    $(".jigFooBoxConnect").foobox($.extend(true, {}, FOOBOX.o, { alwaysInit: true }));
+    $(".foobox, [target=\"foobox\"]").foobox($.extend(true, {}, FOOBOX.o, { alwaysInit: true }));
+
+  };
+}( window.FOOBOX = window.FOOBOX || {}, jQuery ));
+
+jQuery(function() {
+
+  FOOBOX.init();
+  jQuery(document).trigger("foobox-after-init");
+
+});
+</script>
+<script type="text/javascript">
+var infolinks_pid = 2183710;
+var infolinks_wsid = 1;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 3/39 queries in 0.153 seconds using disk
+Object Caching 2034/2171 objects using disk
+
+ Served from: www.slapcaption.com @ 2014-11-24 18:24:51 by W3 Total Cache -->

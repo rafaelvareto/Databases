@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="http://cdn.scahw.com.au/resources/shared/css/layout.css" />
+	<link rel="stylesheet" type="text/css" href="mySiteStyle.css" />
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://cdn.scahw.com.au/resources/today/css/ie.css" />
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<!-- HTML5 Enabling Script -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="page-not-found">
+	<div>
+		<h1><a href="#">Page Not Found</a></h1>
+		<section>
+			<h2>Ok, that's really awkward!</h2>
+			<p>We seem to have misplaced the page you were looking for. It was probably removed or eaten by our dog.</p>
+			<p>Stay right there, because we're going to send you back to the <span class="mySiteName"></span> Homepage.</p>
+		</section>
+	</div>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://cdn.scahw.com.au/resources/shared/js/script.js"></script>
+	<script type="text/javascript" src="http://cdn.scahw.com.au/resources/shared/js/404.js"></script>
+</body>
+</html>

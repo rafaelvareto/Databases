@@ -1,0 +1,1251 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+<title>The Scruffy Nerf Herder</title>
+<meta name="description" content="Entertainment website for fans, geeks, and everyone in between." /><meta name="keywords" content="Film, TV, Entertainment, Reviews, News, Scruffy Nerf Herder" />
+<link rel="alternate" type="application/rss+xml" title="The Scruffy Nerf Herder RSS Feed" href="http://thescruffynerfherder.com/feed/" />
+<link rel="alternate" type="application/atom+xml" title="The Scruffy Nerf Herder Atom Feed" href="http://thescruffynerfherder.com/feed/atom/" />
+<link rel="pingback" href="http://thescruffynerfherder.com/xmlrpc.php" />
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" media="all"/>
+<link href="http://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet" type="text/css" media="all"/>
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" media="all"/>
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://thescruffynerfherder.com/wp-content/themes/warwick/css/ie7style.css" media="all" />
+<![endif]-->
+ <!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://thescruffynerfherder.com/wp-content/themes/warwick/css/ie8style.css" media="all" />
+<script type="text/javascript" src="http://thescruffynerfherder.com/wp-content/themes/warwick/js/respond.min.js"></script>
+<![endif]-->
+ <!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="http://thescruffynerfherder.com/wp-content/themes/warwick/css/ie9style.css" media="all" />
+<![endif]-->
+
+<style type="text/css">
+</style>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="The Scruffy Nerf Herder &raquo; Feed" href="http://thescruffynerfherder.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Scruffy Nerf Herder &raquo; Comments Feed" href="http://thescruffynerfherder.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Scruffy Nerf Herder &raquo; Home Comments Feed" href="http://thescruffynerfherder.com/home/feed/" />
+	
+<style type="text/css">
+	h1, h2, h3, h4, h5, h6, #top_title_box, .widget_title, .widget_title_two, #home_carousel .jcarousel-skin-tango .carousel_post h1 a, .home_posts_title h2 { font-family:Oswald; }
+	.featured_area_content_text, #home_content, #container, .post_one_column h1, .post_mini_one_column h1, .post_two_column h1, .post_three_column h1, .video_widget { font-family:Open Sans; }	
+    
+	h1, h2, h3, h4, h5, h6 { color: #!important; }
+	.site_title h1 { color: #!important; } 
+	.site_title h1:hover { color: #!important; } 
+	a { color: #!important; }
+	a:hover, .post_one_column h1 a:hover, .post_two_column h1 a:hover, .post_three_column h1 a:hover, .jcarousel-skin-tango .post_three_column h1 a:hover, .post_mini_one_column h1 a:hover, .post h1 a:hover, .post_category a:hover, .post_comments a:hover { color: #!important; }
+
+	.right-heading h3 { color: #!important; } 
+
+	.footer-heading h3 { color: #!important; } 
+	.right-widget li a{ color: #000000!important; }
+	.right-widget li a:hover { color: #!important; }
+	.footer-widget li a { color: #!important; }
+	.footer-widget li a:hover { color: #!important; }
+	#crumbs, #crumbs a{ color: #!important; }
+	#crumbs a:hover { color: #!important; }
+	
+	
+	#header, #dc_jqaccordion_widget-7-item ul ul li a { background-color: #!important; } 
+	
+	#mainMenu ul li a { color: #!important; } 
+	#mainMenu ul li a:hover, #mainMenu ul li.current-menu-parent > a, #mainMenu ul li.current_page_item > a, #mainMenu ul li.current-menu-ancestor > a, #mainMenu ul li.current-menu-item > a, #mainMenu ul li a:hover { color: #!important; } 
+	#mainMenu ul li.current-menu-parent > a, #mainMenu ul li.current_page_item > a, #mainMenu ul li.current-menu-ancestor > a, #mainMenu ul li.current-menu-item > a, #mainMenu ul li a:hover { background: #e01631!important; } 
+    #mainMenu ul li.current-menu-parent > a, #mainMenu ul li.current_page_item > a, #mainMenu ul li.current-menu-ancestor > a, #mainMenu ul li.current-menu-item > a, #mainMenu ul li a:hover { color: #!important; } 	
+	#mainMenu.ddsmoothmenu ul li ul li a { color: #!important; } 
+	#mainMenu.ddsmoothmenu ul li ul li a:hover { color: #!important; } 
+	#mainMenu.ddsmoothmenu ul li ul li a, #mainMenu.ddsmoothmenu ul li ul li.current-menu-ancestor > a, #mainMenu.ddsmoothmenu ul li ul li.current-menu-item > a { background: #!important; } 
+	#mainMenu.ddsmoothmenu ul li ul li a:hover { background: #!important; } 
+	#secondaryMenu ul a, #signin_box a.signin, #login_box a.login, #login_box a, #signin_menu, #login_menu, #lost_pas a { color: #!important; } 
+	
+	.post_format { background-color: #!important; } 
+	.post_format_video { background-color: #!important; } 
+	.post_format_image { background-color: #!important; } 
+	
+	
+	.footer-heading h3 { background: #!important; } 
+
+	#footer_box, .footer-heading h3 { background: #!important; }
+	#footer_bottom { background: #!important; }
+	
+	.single_title h1 { font-size: 27px!important; } 
+    
+	#sidemenu li a.open, #sidemenu li a:hover, #sidemenu li:first-child a.open { background-color: #f23535!important; }
+	#header, .archive_title h3, .post, #similar-post .similar_posts, .archive_title_bot h3, .right-heading { border-color: #f23535!important; }
+	.first_word { color: #f23535!important; } 
+
+	
+	
+	
+</style>
+
+<link rel='stylesheet' id='usr-style-css'  href='http://thescruffynerfherder.com/wp-content/plugins/universal-star-rating/includes/usr_style.php?px=30&#038;usrver=1.9.2&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mmm_mega_main_menu-css'  href='http://thescruffynerfherder.com/wp-content/plugins/mega_main_menu/src/css/cache.skin.css?ver=1399127354' type='text/css' media='all' />
+<link rel='stylesheet' id='tp_twitter_plugin_css-css'  href='http://thescruffynerfherder.com/wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='ssbaFont-css'  href='//fonts.googleapis.com/css?family=Indie+Flower&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mm_icomoon-css'  href='http://thescruffynerfherder.com/wp-content/plugins/mega_main_menu/src/css/external/icomoon.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mm_font-awesome-css'  href='http://thescruffynerfherder.com/wp-content/plugins/mega_main_menu/src/css/external/font-awesome.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://thescruffynerfherder.com/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='http://thescruffynerfherder.com/wp-content/uploads/js_composer/custom.css?ver=4.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://thescruffynerfherder.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='my-style-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/style.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/css/shortcodes.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='creamsoda_ticker-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/css/creamsoda_ticker.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/css/prettyPhoto.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tipTip-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/css/tipTip.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/css/woo-custom.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://thescruffynerfherder.com/wp-content/themes/warwick/css/responsive.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thescruffynerfherder.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thescruffynerfherder.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='canonical' href='http://thescruffynerfherder.com/' />
+<link rel='shortlink' href='http://wp.me/P4Bodp-lP' />
+<style type="text/css">	.ssba {
+											
+											
+											
+											
+										}
+										.ssba img		
+										{ 	
+											width: 35px !important;
+											padding: 6px;
+											border:  0;
+											box-shadow: none !important;
+											display: inline !important;
+											vertical-align: middle;
+										}
+										.ssba, .ssba a		
+										{
+											text-decoration:none;
+											background: none;
+											font-family: Indie Flower;
+											font-size: 	20px;
+											
+											
+										}</style>
+<!-- BEGIN GADWP v4.3.6 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-52003040-1', 'auto');  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+<link rel="shortcut icon" type="image/x-icon" href="http://thescruffynerfherder.com/wp-content/uploads/2014/05/TSNH-Logo-Favicon.png" /><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://thescruffynerfherder.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://thescruffynerfherder.com/wp-content/uploads/2014/05/cinema-chairs.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="The Scruffy Nerf Herder" />
+<meta property="og:description" content="For Fans, Geeks and Everyone in Between" />
+<meta property="og:url" content="http://thescruffynerfherder.com/" />
+<meta property="og:site_name" content="The Scruffy Nerf Herder" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta name="twitter:site" content="@TScruffyNH" />
+<meta name="twitter:card" content="summary" />
+
+<!--[if gte IE 9]>
+	<style type="text/css">
+		.#mega_main_menu,
+		.#mega_main_menu *
+		{
+			filter: none;
+		}
+	</style>
+<![endif]-->
+</head>
+
+
+<body class="home page page-id-1353 page-template page-template-frontpage-php custom-background wpb-js-composer js-comp-ver-4.3.4 vc_responsive">
+
+<div id="all_content">
+
+
+
+
+<div id="header_top_menu">
+	
+<script type="text/javascript">
+jQuery(document).ready(function($){  
+   
+$('.demo').csTicker({
+tickerMode: 'mini', 
+tickerTitle: 'Hot News', 
+autoAnimate: true,
+speed: 600 
+});
+
+});
+</script>
+	
+	<div class="demo">
+	<ul>
+	
+						
+		
+    	
+	
+	<li data-link="http://thescruffynerfherder.com/2014/11/24/breaking-star-wars-the-force-awakens-trailer-coming-to-selected-cinemas-this-weekend/" data-title="BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!" data-featured="true"></li>
+
+		
+	
+	<li data-link="http://thescruffynerfherder.com/2014/11/19/news-reel-chris-pratt-for-cowboy-ninja-viking-x-men-apocalypse-casting-lego-batman-movie-luther-us-series/" data-title="News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series" data-featured="true"></li>
+
+		
+	
+	<li data-link="http://thescruffynerfherder.com/2014/11/18/rumor-star-wars-the-force-awakens-trailer-coming-soon/" data-title="Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!" data-featured="true"></li>
+
+		
+	
+	<li data-link="http://thescruffynerfherder.com/2014/11/12/news-reel-apes-sequel-my-big-fat-greek-wedding-2-de-niro-for-david-o-russells-joy-the-hobbit-the-battle-of-the-five-armies-tv-spot-new-mordecai-trailer/" data-title="News Reel: &#8216;Apes Sequel&#8217;, &#8216;My Big Fat Greek Wedding 2&#8242;, De Niro for David O. Russell&#8217;s &#8216;Joy&#8217;, &#8216;The Hobbit: The Battle of the Five Armies&#8217; TV Spot, New &#8216;Mordecai&#8217; Trailer" data-featured="true"></li>
+
+	 
+          
+           
+	</ul>
+	</div>
+	
+    	
+</div>
+
+
+
+	
+	
+
+<div id="header">
+<div class="inner">
+
+    	<div id="title_box_full">
+		
+		
+	    <a href="http://thescruffynerfherder.com">
+		    		    <img src="http://thescruffynerfherder.com/wp-content/uploads/2014/05/TSNH-Title-2.jpg" alt="Logo" id="logo"/>
+	    </a>
+	  
+	 	
+    </div>
+
+
+    	
+	
+	
+	<div id="menu_box">
+    
+<div id="mega_main_menu" class="mega_main_menu nav_menu main-menu primary_style-flat icons-left first-lvl-align-left first-lvl-separator-smooth language_direction-ltr direction-horizontal responsive-enable mobile_minimized-enable dropdowns_animation-none version-2-0-0 include-logo include-search no-woo_cart no-buddypress">
+	<div class="menu_holder">
+	<div class="fullwidth_container"></div><!-- class="fullwidth_container" -->
+		<div class="menu_inner">
+			<span class="nav_logo">
+				<a class="logo_link" href="http://thescruffynerfherder.com" title="The Scruffy Nerf Herder"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/05/TSNH-Logo-Menu.png" alt="The Scruffy Nerf Herder" /></a>
+				<a class="mobile_toggle">
+					<span class="mobile_button">
+						Menu &nbsp;
+						<span class="symbol_menu">&equiv;</span>
+						<span class="symbol_cross">&#x2573;</span>
+					</span><!-- class="mobile_button" -->
+				</a>
+			</span><!-- /class="nav_logo" -->
+				<ul id="mega_main_menu_ul" class="mega_main_menu_ul">
+<li id="menu-item-2762" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1353 current_page_item menu-item-2762 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://thescruffynerfherder.com/" class="item_link  with_icon" tabindex="0">
+		<i class="im-icon-home-3"></i> 
+		<span class="link_content">
+			<span class="link_text">
+			Home
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-2845" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2845 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://thescruffynerfherder.com/category/reviews/" class="item_link  with_icon" tabindex="0">
+		<i class="im-icon-checkmark-3"></i> 
+		<span class="link_content">
+			<span class="link_text">
+			Reviews
+			</span>
+		</span>
+	</a>
+	<ul class="mega_dropdown">
+	<li id="menu-item-2846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2846 default_dropdown default_style drop_to_right submenu_default_width columns">
+		<a href="http://thescruffynerfherder.com/category/reviews/film-reviews/" class="item_link  disable_icon" tabindex="0">
+			<i class=""></i> 
+			<span class="link_content">
+				<span class="link_text">
+				Film Reviews
+				</span>
+			</span>
+		</a>
+	</li>
+	<li id="menu-item-2847" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2847 default_dropdown default_style drop_to_right submenu_default_width columns">
+		<a href="http://thescruffynerfherder.com/category/reviews/tvreviews/" class="item_link  disable_icon" tabindex="0">
+			<i class=""></i> 
+			<span class="link_content">
+				<span class="link_text">
+				TV Reviews
+				</span>
+			</span>
+		</a>
+	</li>
+	</ul><!-- /.mega_dropdown -->
+</li>
+<li id="menu-item-2844" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2844 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://thescruffynerfherder.com/category/news/" class="item_link  with_icon" tabindex="0">
+		<i class="im-icon-stack-4"></i> 
+		<span class="link_content">
+			<span class="link_text">
+			News
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-2843" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2843 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://thescruffynerfherder.com/category/features/" class="item_link  with_icon" tabindex="0">
+		<i class="im-icon-pen-5"></i> 
+		<span class="link_content">
+			<span class="link_text">
+			Features
+			</span>
+		</span>
+	</a>
+</li>
+<li id="menu-item-2758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2758 default_dropdown default_style drop_to_right submenu_default_width columns1">
+	<a href="http://thescruffynerfherder.com/contact/" class="item_link  with_icon" tabindex="0">
+		<i class="fa-icon-envelope"></i> 
+		<span class="link_content">
+			<span class="link_text">
+			Contact
+			</span>
+		</span>
+	</a>
+</li>
+	<li class="nav_search_box">
+	<form method="get" id="mega_main_menu_searchform" action="http://thescruffynerfherder.com/">
+		<i class="im-icon-search-3 icosearch"></i>
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+		<input type="text" class="field" name="s" id="s" />
+	</form>
+	</li><!-- class="nav_search_box" -->
+</ul>
+		</div><!-- /class="menu_inner" -->
+	</div><!-- /class="menu_holder" -->
+</div><!-- /id="mega_main_menu" -->    </div>
+	
+	
+</div>	
+</div>
+
+<div class="clear"></div>
+
+
+
+
+<div id="main_content" class="home_page"> 
+
+<div class="inner">
+
+
+
+<div id="fwslider">
+    <div class="slider_container">
+
+						
+		
+    	
+		
+            <div class="slide"> 
+            	
+	        	     	<img alt="Recap: ‘Star Wars Rebels’ “Gathering Forces”" src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Rebels-Cover-1240x500.jpg" />
+			
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+					
+					<div class="slide_time">November 24, 2014</div>
+                 
+                    <h1 class="title"><a href="http://thescruffynerfherder.com/2014/11/24/recap-star-wars-rebels-gathering-forces/" title="Recap: ‘Star Wars Rebels’ “Gathering Forces”">Recap: ‘Star Wars Rebels’ “Gathering Forces” &raquo;</a></h1>
+
+                    <p class="description">	                
+	                The first two part episode concludes in the latest episode of 'Star Wars Rebels'	
+	                </p>
+            
+                   <a href="http://thescruffynerfherder.com/2014/11/24/recap-star-wars-rebels-gathering-forces/" class="readmore" title="Recap: ‘Star Wars Rebels’ “Gathering Forces”">Read more...</a>
+     
+                   </div>
+                </div>
+        
+            </div>
+     
+        	
+		
+            <div class="slide"> 
+            	
+	        	     	<img alt="Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”" src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Homeland-Cover-1240x500.jpg" />
+			
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+					
+					<div class="slide_time">November 24, 2014</div>
+                 
+                    <h1 class="title"><a href="http://thescruffynerfherder.com/2014/11/24/recap-homeland-s4e9-theres-something-else-going-on/" title="Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”">Recap: ‘Homeland’ S4E9 “There’s Something Else Going On” &raquo;</a></h1>
+
+                    <p class="description">	                
+	                The prisoner exchange is set up and Dennis is caught, but Haqqani has something else in mind for the CIA and their embassy.	
+	                </p>
+            
+                   <a href="http://thescruffynerfherder.com/2014/11/24/recap-homeland-s4e9-theres-something-else-going-on/" class="readmore" title="Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”">Read more...</a>
+     
+                   </div>
+                </div>
+        
+            </div>
+     
+        	
+		
+            <div class="slide"> 
+            	
+	        	     	<img alt="‘Mr. Turner’ Review" src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover5-1240x500.jpg" />
+			
+                <div class="slide_content">
+                    <div class="slide_content_wrap">
+					
+					<div class="slide_time">November 22, 2014</div>
+                 
+                    <h1 class="title"><a href="http://thescruffynerfherder.com/2014/11/22/mr-turner-review/" title="‘Mr. Turner’ Review">‘Mr. Turner’ Review &raquo;</a></h1>
+
+                    <p class="description">	                
+	                Timothy Spall gives the performance of his career as one of Britain's most renowned artists in Mike Leigh's 'Mr. Turner'	
+	                </p>
+            
+                   <a href="http://thescruffynerfherder.com/2014/11/22/mr-turner-review/" class="readmore" title="‘Mr. Turner’ Review">Read more...</a>
+     
+                   </div>
+                </div>
+        
+            </div>
+     
+         
+              
+           
+
+        </div>
+
+        <div class="timers"></div>
+
+        <div class="slidePrev"><span></span></div>
+        <div class="slideNext"><span></span></div>
+
+</div> 
+
+
+
+
+
+	
+
+
+
+
+
+<script type="text/javascript">
+(function($){ 
+$(window).load(function(){ 
+   
+var carousel = $("#home_car_short");
+
+carousel.carouFredSel({
+    width: "100%",
+    height: "auto",
+    responsive: true,
+    auto: true,
+	auto : {
+		pauseDuration: 5000,
+	},
+	pagination	: "#home_car_pag",
+    scroll: {
+        items: 1,
+        fx: 'scroll',							
+	    pauseOnHover: true
+    },
+    duration: 1000,
+    swipe: {
+        onTouch: true,
+        onMouse: true
+    },
+    items: {
+        visible    : {
+                min    : 1,
+                max    : 1
+            },
+    },
+    onCreate : function () {
+        $(window).on('resize', function(){
+            carousel.parent().add(carousel).css('height', carousel.children().first().height() + 'px');
+        }).trigger('resize');
+    }
+});  
+
+
+var carousel = $("#home_car_short2");
+
+carousel.carouFredSel({
+    width: "100%",
+    height: "auto",
+    responsive: true,
+    auto: true,
+	auto : {
+		pauseDuration: 5000,
+	},
+	pagination	: "#home_car_pag2",
+    scroll: {
+        items: 1,
+        fx: 'scroll',							
+	    pauseOnHover: true
+    },
+    duration: 1000,
+    swipe: {
+        onTouch: true,
+        onMouse: true
+    },
+    items: {
+        visible    : {
+                min    : 1,
+                max    : 1
+            },
+    },
+    onCreate : function () {
+        $(window).on('resize', function(){
+            carousel.parent().add(carousel).css('height', carousel.children().first().height() + 'px');
+        }).trigger('resize');
+    }
+});  
+
+})
+})(jQuery);
+</script>
+
+
+
+
+<div id="home_car_box">
+
+<div class="image_carousel">
+<div id="home_car_short">
+
+ 					
+		
+    	
+
+    <div class="image_carousel_post">
+
+    	
+		<img alt="BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!" src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Star-Wars-7-Cover-730x300.jpg" />
+	
+    <a href="http://thescruffynerfherder.com/2014/11/24/breaking-star-wars-the-force-awakens-trailer-coming-to-selected-cinemas-this-weekend/" title="BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!">
+	<h1 class="car_image_caption">
+	<div class="slide_time">November 24, 2014</div>
+	<div class="car_head">BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend! &raquo;</div>
+	<div class="clear"></div>
+	<div class="car_cat">news</div>
+	</h1>
+	</a>
+
+    </div>
+
+    	
+
+    <div class="image_carousel_post">
+
+    	
+		<img alt="News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series" src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover4-730x300.jpg" />
+	
+    <a href="http://thescruffynerfherder.com/2014/11/19/news-reel-chris-pratt-for-cowboy-ninja-viking-x-men-apocalypse-casting-lego-batman-movie-luther-us-series/" title="News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series">
+	<h1 class="car_image_caption">
+	<div class="slide_time">November 19, 2014</div>
+	<div class="car_head">News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series &raquo;</div>
+	<div class="clear"></div>
+	<div class="car_cat">news</div>
+	</h1>
+	</a>
+
+    </div>
+
+    	
+
+    <div class="image_carousel_post">
+
+    	
+		<img alt="Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!" src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Star-Wars-7-Cover-730x300.jpg" />
+	
+    <a href="http://thescruffynerfherder.com/2014/11/18/rumor-star-wars-the-force-awakens-trailer-coming-soon/" title="Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!">
+	<h1 class="car_image_caption">
+	<div class="slide_time">November 18, 2014</div>
+	<div class="car_head">Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon! &raquo;</div>
+	<div class="clear"></div>
+	<div class="car_cat">news</div>
+	</h1>
+	</a>
+
+    </div>
+
+     
+       
+
+</div>
+
+<div class="pagination" id="home_car_pag"></div>
+
+</div>
+
+		
+		
+		
+		
+<div class="image_carousel">
+<div id="home_car_short2">
+
+    					
+		
+    	
+
+    <div class="image_carousel_post">
+
+    	
+		<img alt="Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions" src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Mockingjay-Cover-730x300.jpg" />
+
+    <a href="http://thescruffynerfherder.com/2014/11/20/podcast-the-hunger-games-mockingjay-part-1-initial-reactions/" title="Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions">
+	<h1 class="car_image_caption">
+	<div class="slide_time">November 20, 2014</div>
+	<div class="car_head">Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions &raquo;</div>
+	<div class="clear"></div>
+	<div class="car_cat">features</div>
+	</h1>
+	</a>
+	
+    </div>
+
+    	
+
+    <div class="image_carousel_post">
+
+    	
+		<img alt="Podcast: &#8216;Interstellar&#8217; Initial Reactions" src="http://thescruffynerfherder.com/wp-content/uploads/2014/09/Cover12-730x300.jpg" />
+
+    <a href="http://thescruffynerfherder.com/2014/11/07/podcast-interstellar-initial-reactions/" title="Podcast: &#8216;Interstellar&#8217; Initial Reactions">
+	<h1 class="car_image_caption">
+	<div class="slide_time">November 7, 2014</div>
+	<div class="car_head">Podcast: &#8216;Interstellar&#8217; Initial Reactions &raquo;</div>
+	<div class="clear"></div>
+	<div class="car_cat">features</div>
+	</h1>
+	</a>
+	
+    </div>
+
+    	
+
+    <div class="image_carousel_post">
+
+    	
+		<img alt="Top Films to see this Awards Season" src="http://thescruffynerfherder.com/wp-content/uploads/2014/09/Cover6-730x300.jpg" />
+
+    <a href="http://thescruffynerfherder.com/2014/09/10/top-films-to-see-this-awards-season/" title="Top Films to see this Awards Season">
+	<h1 class="car_image_caption">
+	<div class="slide_time">September 10, 2014</div>
+	<div class="car_head">Top Films to see this Awards Season &raquo;</div>
+	<div class="clear"></div>
+	<div class="car_cat">features</div>
+	</h1>
+	</a>
+	
+    </div>
+
+     
+       
+
+</div>
+
+<div class="pagination" id="home_car_pag2"></div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+	
+
+<div class="clear"></div>
+
+<div id="home_content"  class="home_with_sidebar"  >	
+
+
+
+	<div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+			 <div class="wpb_content_element wpb_animate_when_almost_visible wpb_bottom-to-top vc_align_left"> <div class="home_posts_title Classic" style="background: #f22929;"><h2><a href="http://thescruffynerfherder.com/category/reviews/filmreviews/" style="color: #f22929;">Film Reviews</a></h2> <img class="tag_corner" src="http://thescruffynerfherder.com/wp-content/themes/warwick/images/car_title_tag.png" alt="" /> <a class="car_title_tag" href="http://thescruffynerfherder.com/category/reviews/filmreviews/">film-reviews</a>    </div> <div class="clear"></div>
+		<div class="photo" style="background-image: url(http://thescruffynerfherder.com/wp-content/uploads/2014/05/Film-Background.jpg);" data-stellar-background-ratio="0.5"><div class="photo_bg"><div class="showbiz-container whitebg sb-retro-skin" style="background: #f22929; border-color: #f22929;"><div class="showbiz-navigation sb-nav-retro">
+	<a class="showbiz_left_film-reviews sb-navigation-left"><i class="sb-icon-left-open"></i></a>
+	<a class="showbiz_right_film-reviews sb-navigation-right"><i class="sb-icon-right-open"></i></a>
+	<div class="sbclear"></div>
+	</div>
+
+	<div class="showbiz" data-left=".showbiz_left_film-reviews" data-right=".showbiz_right_film-reviews">
+
+	<div class="overflowholder">
+
+	<ul><li class="sb-retro-skin" style="border-color: #f22929;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/22/mr-turner-review/" title="Permalink to ‘Mr. Turner’ Review"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover5-410x300.jpg" alt="‘Mr. Turner’ Review" title="‘Mr. Turner’ Review" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/22/mr-turner-review/" title="Permalink to ‘Mr. Turner’ Review">‘Mr. Turner’ Review</a></div>
+		            <div class="showbiz-description">Timothy Spall gives the performance of his career as one of Britain's most renowned artists in Mike Leigh's 'Mr. Turner'</div>
+	                </div><div class="home_posts_time" style="background: #f22929;">22 November</div></li><li class="sb-retro-skin" style="border-color: #f22929;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/21/the-hunger-games-mockingjay-part-1-review/" title="Permalink to ‘The Hunger Games: Mockingjay Part 1’ Review"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Mockingjay-Cover-410x300.jpg" alt="‘The Hunger Games: Mockingjay Part 1’ Review" title="‘The Hunger Games: Mockingjay Part 1’ Review" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/21/the-hunger-games-mockingjay-part-1-review/" title="Permalink to ‘The Hunger Games: Mockingjay Part 1’ Review">‘The Hunger Games: Mockingjay Part 1’ Review</a></div>
+		            <div class="showbiz-description">Katniss Everdeen must become the revolution's Mockingjay or the Capitol wins and she loses Peeta forever.</div>
+	                </div><div class="home_posts_time" style="background: #f22929;">21 November</div></li><li class="sb-retro-skin" style="border-color: #f22929;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/15/the-imitation-game-review/" title="Permalink to ‘The Imitation Game’ Review"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover21-410x300.jpg" alt="‘The Imitation Game’ Review" title="‘The Imitation Game’ Review" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/15/the-imitation-game-review/" title="Permalink to ‘The Imitation Game’ Review">‘The Imitation Game’ Review</a></div>
+		            <div class="showbiz-description">Alan Turing was hired to crack the Nazi Enigma code, and his story is a tragedy out of the ashes of a classified triumph</div>
+	                </div><div class="home_posts_time" style="background: #f22929;">15 November</div></li><li class="sb-retro-skin" style="border-color: #f22929;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/14/quick-review-the-imitation-game/" title="Permalink to Quick Review: ‘The Imitation Game’"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/QR-Cover-410x300.jpg" alt="Quick Review: ‘The Imitation Game’" title="Quick Review: ‘The Imitation Game’" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/14/quick-review-the-imitation-game/" title="Permalink to Quick Review: ‘The Imitation Game’">Quick Review: ‘The Imitation Game’</a></div>
+		            <div class="showbiz-description">Our initial thoughts on 'The Imitation Game'</div>
+	                </div><div class="home_posts_time" style="background: #f22929;">14 November</div></li><li class="sb-retro-skin" style="border-color: #f22929;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/09/interstellar-review/" title="Permalink to ‘Interstellar’ Review"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover2-410x300.jpg" alt="‘Interstellar’ Review" title="‘Interstellar’ Review" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/09/interstellar-review/" title="Permalink to ‘Interstellar’ Review">‘Interstellar’ Review</a></div>
+		            <div class="showbiz-description">Christopher Nolan's space odyssey is realized in the epic, visually stunning 'Interstellar'</div>
+	                </div><div class="home_posts_time" style="background: #f22929;">09 November</div></li><li class="sb-retro-skin" style="border-color: #f22929;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/10/31/nightcrawler-review/" title="Permalink to ‘Nightcrawler’ Review"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Cover11-410x300.jpg" alt="‘Nightcrawler’ Review" title="‘Nightcrawler’ Review" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/10/31/nightcrawler-review/" title="Permalink to ‘Nightcrawler’ Review">‘Nightcrawler’ Review</a></div>
+		            <div class="showbiz-description">Jake Gyllenhaal gives a creepy, thrilling performance as nightcrawler Lou Bloom in Dan Gilroy's 'Nightcrawler'</div>
+	                </div><div class="home_posts_time" style="background: #f22929;">31 October</div></li></ul><div class="sbclear"></div>
+	</div> 
+	<div class="sbclear"></div>
+	</div>
+		</div></div></div></div>
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+			 <div class="wpb_content_element wpb_animate_when_almost_visible wpb_bottom-to-top vc_align_left"> <div class="home_posts_title Classic" style="background: #555555;"><h2><a href="http://thescruffynerfherder.com/category/reviews/tvreviews/" style="color: #555555;">TV Reviews</a></h2> <img class="tag_corner" src="http://thescruffynerfherder.com/wp-content/themes/warwick/images/car_title_tag.png" alt="" /> <a class="car_title_tag" href="http://thescruffynerfherder.com/category/reviews/tvreviews/">tvreviews</a>    </div> <div class="clear"></div>
+		<div class="photo" style="background-image: url(http://thescruffynerfherder.com/wp-content/uploads/2014/05/TV.jpg);" data-stellar-background-ratio="0.5"><div class="photo_bg"><div class="showbiz-container whitebg sb-retro-skin" style="background: #555555; border-color: #555555;"><div class="showbiz-navigation sb-nav-retro">
+	<a class="showbiz_left_tvreviews sb-navigation-left"><i class="sb-icon-left-open"></i></a>
+	<a class="showbiz_right_tvreviews sb-navigation-right"><i class="sb-icon-right-open"></i></a>
+	<div class="sbclear"></div>
+	</div>
+
+	<div class="showbiz" data-left=".showbiz_left_tvreviews" data-right=".showbiz_right_tvreviews">
+
+	<div class="overflowholder">
+
+	<ul><li class="sb-retro-skin" style="border-color: #555555;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/24/recap-star-wars-rebels-gathering-forces/" title="Permalink to Recap: ‘Star Wars Rebels’ “Gathering Forces”"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Rebels-Cover-410x300.jpg" alt="Recap: ‘Star Wars Rebels’ “Gathering Forces”" title="Recap: ‘Star Wars Rebels’ “Gathering Forces”" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/24/recap-star-wars-rebels-gathering-forces/" title="Permalink to Recap: ‘Star Wars Rebels’ “Gathering Forces”">Recap: ‘Star Wars Rebels’ “Gathering Forces”</a></div>
+		            <div class="showbiz-description">The first two part episode concludes in the latest episode of 'Star Wars Rebels'</div>
+	                </div><div class="home_posts_time" style="background: #555555;">24 November</div></li><li class="sb-retro-skin" style="border-color: #555555;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/24/recap-homeland-s4e9-theres-something-else-going-on/" title="Permalink to Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Homeland-Cover-410x300.jpg" alt="Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”" title="Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/24/recap-homeland-s4e9-theres-something-else-going-on/" title="Permalink to Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”">Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”</a></div>
+		            <div class="showbiz-description">The prisoner exchange is set up and Dennis is caught, but Haqqani has something else in mind for the CIA and their embassy.</div>
+	                </div><div class="home_posts_time" style="background: #555555;">24 November</div></li><li class="sb-retro-skin" style="border-color: #555555;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/18/recap-star-wars-rebels-empire-day/" title="Permalink to Recap: ‘Star Wars Rebels’ “Empire Day”"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Rebels-Cover-410x300.jpg" alt="Recap: ‘Star Wars Rebels’ “Empire Day”" title="Recap: ‘Star Wars Rebels’ “Empire Day”" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/18/recap-star-wars-rebels-empire-day/" title="Permalink to Recap: ‘Star Wars Rebels’ “Empire Day”">Recap: ‘Star Wars Rebels’ “Empire Day”</a></div>
+		            <div class="showbiz-description">The Empire shows off its new toy only to have it blown up by the rebels in "Empire Day"</div>
+	                </div><div class="home_posts_time" style="background: #555555;">18 November</div></li><li class="sb-retro-skin" style="border-color: #555555;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/17/recap-the-newsroom-s3e2-run/" title="Permalink to Recap: ‘The Newsroom’ S3E2 “Run”"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Newsroom-Cover-410x300.jpg" alt="Recap: ‘The Newsroom’ S3E2 “Run”" title="Recap: ‘The Newsroom’ S3E2 “Run”" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/17/recap-the-newsroom-s3e2-run/" title="Permalink to Recap: ‘The Newsroom’ S3E2 “Run”">Recap: ‘The Newsroom’ S3E2 “Run”</a></div>
+		            <div class="showbiz-description">Neal faces the consequences of his inadvertent crime in 'The Newsroom's latest episode "Run"</div>
+	                </div><div class="home_posts_time" style="background: #555555;">17 November</div></li><li class="sb-retro-skin" style="border-color: #555555;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/17/recap-homeland-s4e8-halfway-to-a-donut/" title="Permalink to Recap: ‘Homeland’ S4E8 “Halfway to a Donut”"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Homeland-Cover-410x300.jpg" alt="Recap: ‘Homeland’ S4E8 “Halfway to a Donut”" title="Recap: ‘Homeland’ S4E8 “Halfway to a Donut”" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/17/recap-homeland-s4e8-halfway-to-a-donut/" title="Permalink to Recap: ‘Homeland’ S4E8 “Halfway to a Donut”">Recap: ‘Homeland’ S4E8 “Halfway to a Donut”</a></div>
+		            <div class="showbiz-description">'Homeland' returns to suspenseful TV as Saul escapes and Carrie must extract him from enemy hands</div>
+	                </div><div class="home_posts_time" style="background: #555555;">17 November</div></li><li class="sb-retro-skin" style="border-color: #555555;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/11/recap-star-wars-rebels-out-of-darkness/" title="Permalink to Recap: ‘Star Wars Rebels’ “Out of Darkness”"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/10/Rebels-Cover-410x300.jpg" alt="Recap: ‘Star Wars Rebels’ “Out of Darkness”" title="Recap: ‘Star Wars Rebels’ “Out of Darkness”" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/11/recap-star-wars-rebels-out-of-darkness/" title="Permalink to Recap: ‘Star Wars Rebels’ “Out of Darkness”">Recap: ‘Star Wars Rebels’ “Out of Darkness”</a></div>
+		            <div class="showbiz-description">'Rebels' has taken a week away from the Empire and the big story to bring us another team building episode</div>
+	                </div><div class="home_posts_time" style="background: #555555;">11 November</div></li></ul><div class="sbclear"></div>
+	</div> 
+	<div class="sbclear"></div>
+	</div>
+		</div></div></div></div>
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+			 <div class="wpb_content_element wpb_animate_when_almost_visible wpb_bottom-to-top vc_align_left"> <div class="home_posts_title Classic" style="background: #0087ef;"><h2><a href="http://thescruffynerfherder.com/category/news/" style="color: #0087ef;">News</a></h2> <img class="tag_corner" src="http://thescruffynerfherder.com/wp-content/themes/warwick/images/car_title_tag.png" alt="" /> <a class="car_title_tag" href="http://thescruffynerfherder.com/category/news/">news</a>    </div> <div class="clear"></div>
+		<div class="photo" style="background-image: url(http://thescruffynerfherder.com/wp-content/uploads/2014/05/News1.jpg);" data-stellar-background-ratio="0.5"><div class="photo_bg"><div class="showbiz-container whitebg sb-retro-skin" style="background: #0087ef; border-color: #0087ef;"><div class="showbiz-navigation sb-nav-retro">
+	<a class="showbiz_left_news sb-navigation-left"><i class="sb-icon-left-open"></i></a>
+	<a class="showbiz_right_news sb-navigation-right"><i class="sb-icon-right-open"></i></a>
+	<div class="sbclear"></div>
+	</div>
+
+	<div class="showbiz" data-left=".showbiz_left_news" data-right=".showbiz_right_news">
+
+	<div class="overflowholder">
+
+	<ul><li class="sb-retro-skin" style="border-color: #0087ef;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/24/breaking-star-wars-the-force-awakens-trailer-coming-to-selected-cinemas-this-weekend/" title="Permalink to BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Star-Wars-7-Cover-410x300.jpg" alt="BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!" title="BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/24/breaking-star-wars-the-force-awakens-trailer-coming-to-selected-cinemas-this-weekend/" title="Permalink to BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!">BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!</a></div>
+		            <div class="showbiz-description">Disney/Lucasfilm announce the unusual premier for 'Star Wars: The Force Awakens' debut trailer</div>
+	                </div><div class="home_posts_time" style="background: #0087ef;">24 November</div></li><li class="sb-retro-skin" style="border-color: #0087ef;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/19/news-reel-chris-pratt-for-cowboy-ninja-viking-x-men-apocalypse-casting-lego-batman-movie-luther-us-series/" title="Permalink to News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover4-410x300.jpg" alt="News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series" title="News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/19/news-reel-chris-pratt-for-cowboy-ninja-viking-x-men-apocalypse-casting-lego-batman-movie-luther-us-series/" title="Permalink to News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series">News Reel: Chris Pratt for &#8216;Cowboy Ninja Viking&#8217;, &#8216;X-Men: Apocalypse&#8217; Casting, &#8216;LEGO Batman&#8217; Movie, &#8216;Luther&#8217; US Series</a></div>
+		            <div class="showbiz-description">News Reel: Wednesday November 19</div>
+	                </div><div class="home_posts_time" style="background: #0087ef;">19 November</div></li><li class="sb-retro-skin" style="border-color: #0087ef;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/18/rumor-star-wars-the-force-awakens-trailer-coming-soon/" title="Permalink to Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Star-Wars-7-Cover-410x300.jpg" alt="Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!" title="Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/18/rumor-star-wars-the-force-awakens-trailer-coming-soon/" title="Permalink to Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!">Rumor: &#8216;Star Wars: The Force Awakens&#8217; Trailer Coming Soon!</a></div>
+		            <div class="showbiz-description">Rumor: The plot of the first teaser trailer for 'Star Wars Episode VII: The Force Awakens' has been revealed</div>
+	                </div><div class="home_posts_time" style="background: #0087ef;">18 November</div></li><li class="sb-retro-skin" style="border-color: #0087ef;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/12/news-reel-apes-sequel-my-big-fat-greek-wedding-2-de-niro-for-david-o-russells-joy-the-hobbit-the-battle-of-the-five-armies-tv-spot-new-mordecai-trailer/" title="Permalink to News Reel: &#8216;Apes Sequel&#8217;, &#8216;My Big Fat Greek Wedding 2&#8242;, De Niro for David O. Russell&#8217;s &#8216;Joy&#8217;, &#8216;The Hobbit: The Battle of the Five Armies&#8217; TV Spot, New &#8216;Mordecai&#8217; Trailer"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover3-410x300.jpg" alt="News Reel: &#8216;Apes Sequel&#8217;, &#8216;My Big Fat Greek Wedding 2&#8242;, De Niro for David O. Russell&#8217;s &#8216;Joy&#8217;, &#8216;The Hobbit: The Battle of the Five Armies&#8217; TV Spot, New &#8216;Mordecai&#8217; Trailer" title="News Reel: &#8216;Apes Sequel&#8217;, &#8216;My Big Fat Greek Wedding 2&#8242;, De Niro for David O. Russell&#8217;s &#8216;Joy&#8217;, &#8216;The Hobbit: The Battle of the Five Armies&#8217; TV Spot, New &#8216;Mordecai&#8217; Trailer" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/12/news-reel-apes-sequel-my-big-fat-greek-wedding-2-de-niro-for-david-o-russells-joy-the-hobbit-the-battle-of-the-five-armies-tv-spot-new-mordecai-trailer/" title="Permalink to News Reel: &#8216;Apes Sequel&#8217;, &#8216;My Big Fat Greek Wedding 2&#8242;, De Niro for David O. Russell&#8217;s &#8216;Joy&#8217;, &#8216;The Hobbit: The Battle of the Five Armies&#8217; TV Spot, New &#8216;Mordecai&#8217; Trailer">News Reel: &#8216;Apes Sequel&#8217;, &#8216;My Big Fat Greek Wedding 2&#8242;, De Niro for David O. Russell&#8217;s &#8216;Joy&#8217;, &#8216;The Hobbit: The Battle of the Five Armies&#8217; TV Spot, New &#8216;Mordecai&#8217; Trailer</a></div>
+		            <div class="showbiz-description">News Reel: Wednesday November 12</div>
+	                </div><div class="home_posts_time" style="background: #0087ef;">12 November</div></li><li class="sb-retro-skin" style="border-color: #0087ef;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/06/star-wars-episode-vii-title-revealed/" title="Permalink to &#8216;Star Wars&#8217; Episode VII Title Revealed!"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/08/Logo-410x300.jpeg" alt="&#8216;Star Wars&#8217; Episode VII Title Revealed!" title="&#8216;Star Wars&#8217; Episode VII Title Revealed!" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/06/star-wars-episode-vii-title-revealed/" title="Permalink to &#8216;Star Wars&#8217; Episode VII Title Revealed!">&#8216;Star Wars&#8217; Episode VII Title Revealed!</a></div>
+		            <div class="showbiz-description">The official title for 'Star Wars' Episode VII has been revealed!</div>
+	                </div><div class="home_posts_time" style="background: #0087ef;">06 November</div></li><li class="sb-retro-skin" style="border-color: #0087ef;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/06/podcast-star-wars-episode-vii-rumors/" title="Permalink to Podcast: &#8216;Star Wars&#8217; Episode VII Rumors [Updated!]"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Cover-410x300.jpg" alt="Podcast: &#8216;Star Wars&#8217; Episode VII Rumors [Updated!]" title="Podcast: &#8216;Star Wars&#8217; Episode VII Rumors [Updated!]" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/06/podcast-star-wars-episode-vii-rumors/" title="Permalink to Podcast: &#8216;Star Wars&#8217; Episode VII Rumors [Updated!]">Podcast: &#8216;Star Wars&#8217; Episode VII Rumors [Updated!]</a></div>
+		            <div class="showbiz-description">We take a look at the plot rumors surrounding 'Star Wars' Episode VII and discuss how they could fit into the universe</div>
+	                </div><div class="home_posts_time" style="background: #0087ef;">06 November</div></li></ul><div class="sbclear"></div>
+	</div> 
+	<div class="sbclear"></div>
+	</div>
+		</div></div></div></div>
+		</div> 
+	</div> 
+</div><div class="vc_row wpb_row vc_row-fluid">
+	<div class="vc_col-sm-12 wpb_column vc_column_container">
+		<div class="wpb_wrapper">
+			
+			 <div class="wpb_content_element wpb_animate_when_almost_visible wpb_bottom-to-top vc_align_left"> <div class="home_posts_title Classic" style="background: #f4b300;"><h2><a href="http://thescruffynerfherder.com/category/features/" style="color: #f4b300;">Features</a></h2> <img class="tag_corner" src="http://thescruffynerfherder.com/wp-content/themes/warwick/images/car_title_tag.png" alt="" /> <a class="car_title_tag" href="http://thescruffynerfherder.com/category/features/">features</a>    </div> <div class="clear"></div>
+		<div class="photo" style="background-image: url(http://thescruffynerfherder.com/wp-content/uploads/2014/05/Features1.jpg);" data-stellar-background-ratio="0.5"><div class="photo_bg"><div class="showbiz-container whitebg sb-retro-skin" style="background: #f4b300; border-color: #f4b300;"><div class="showbiz-navigation sb-nav-retro">
+	<a class="showbiz_left_features sb-navigation-left"><i class="sb-icon-left-open"></i></a>
+	<a class="showbiz_right_features sb-navigation-right"><i class="sb-icon-right-open"></i></a>
+	<div class="sbclear"></div>
+	</div>
+
+	<div class="showbiz" data-left=".showbiz_left_features" data-right=".showbiz_right_features">
+
+	<div class="overflowholder">
+
+	<ul><li class="sb-retro-skin" style="border-color: #f4b300;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/20/podcast-the-hunger-games-mockingjay-part-1-initial-reactions/" title="Permalink to Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/11/Mockingjay-Cover-410x300.jpg" alt="Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions" title="Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/20/podcast-the-hunger-games-mockingjay-part-1-initial-reactions/" title="Permalink to Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions">Podcast: &#8216;The Hunger Games: Mockingjay Part 1&#8242; Initial Reactions</a></div>
+		            <div class="showbiz-description">Our initial reactions to 'The Hunger Games: Mockingjay Part 1'</div>
+	                </div><div class="home_posts_time" style="background: #f4b300;">20 November</div></li><li class="sb-retro-skin" style="border-color: #f4b300;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/07/podcast-interstellar-initial-reactions/" title="Permalink to Podcast: &#8216;Interstellar&#8217; Initial Reactions"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/09/Cover12-410x300.jpg" alt="Podcast: &#8216;Interstellar&#8217; Initial Reactions" title="Podcast: &#8216;Interstellar&#8217; Initial Reactions" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/11/07/podcast-interstellar-initial-reactions/" title="Permalink to Podcast: &#8216;Interstellar&#8217; Initial Reactions">Podcast: &#8216;Interstellar&#8217; Initial Reactions</a></div>
+		            <div class="showbiz-description">Our initial reactions to Chris Nolan's highly anticipated 'Interstellar'</div>
+	                </div><div class="home_posts_time" style="background: #f4b300;">07 November</div></li><li class="sb-retro-skin" style="border-color: #f4b300;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/09/10/top-films-to-see-this-awards-season/" title="Permalink to Top Films to see this Awards Season"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/09/Cover6-410x300.jpg" alt="Top Films to see this Awards Season" title="Top Films to see this Awards Season" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/09/10/top-films-to-see-this-awards-season/" title="Permalink to Top Films to see this Awards Season">Top Films to see this Awards Season</a></div>
+		            <div class="showbiz-description">Here is our rundown of the top films to look forward to this coming awards season.</div>
+	                </div><div class="home_posts_time" style="background: #f4b300;">10 September</div></li><li class="sb-retro-skin" style="border-color: #f4b300;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/09/05/showrunners-the-art-of-running-a-show-review/" title="Permalink to ‘Showrunners: The Art of Running a Show’"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/09/Cover2-410x300.jpg" alt="‘Showrunners: The Art of Running a Show’" title="‘Showrunners: The Art of Running a Show’" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/09/05/showrunners-the-art-of-running-a-show-review/" title="Permalink to ‘Showrunners: The Art of Running a Show’">‘Showrunners: The Art of Running a Show’</a></div>
+		            <div class="showbiz-description">Our review of 'Showrunners: The Art of Running a TV show', the companion book to Des Doyle's upcoming documentary of the same name.</div>
+	                </div><div class="home_posts_time" style="background: #f4b300;">05 September</div></li><li class="sb-retro-skin" style="border-color: #f4b300;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/08/12/robin-williams-and-his-best-performances/" title="Permalink to Robin Williams and his Best Performances"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/08/Robin-Williams1-410x300.jpg" alt="Robin Williams and his Best Performances" title="Robin Williams and his Best Performances" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/08/12/robin-williams-and-his-best-performances/" title="Permalink to Robin Williams and his Best Performances">Robin Williams and his Best Performances</a></div>
+		            <div class="showbiz-description">Out of a career that spanned over 30 years, here is our list of the performances that defined Robin Williams'.</div>
+	                </div><div class="home_posts_time" style="background: #f4b300;">12 August</div></li><li class="sb-retro-skin" style="border-color: #f4b300;"><div class="mediaholder"><a class="link_title" href="http://thescruffynerfherder.com/2014/08/04/marvel-best-and-worst/" title="Permalink to Marvel: Best and Worst"><div class="mediaholder_image_box"><img src="http://thescruffynerfherder.com/wp-content/uploads/2014/08/Marvel-Cover-410x300.jpg" alt="Marvel: Best and Worst" title="Marvel: Best and Worst" /></div></a><div class="post_format"></div>
+					
+					
+					
+					
+				
+					
+					</div>	<div class="detailholder">
+		            <div class="showbiz-title"><a class="link_title" href="http://thescruffynerfherder.com/2014/08/04/marvel-best-and-worst/" title="Permalink to Marvel: Best and Worst">Marvel: Best and Worst</a></div>
+		            <div class="showbiz-description">Our list of Marvel's Phase 1 and 2 films from Best to Worst.</div>
+	                </div><div class="home_posts_time" style="background: #f4b300;">04 August</div></li></ul><div class="sbclear"></div>
+	</div> 
+	<div class="sbclear"></div>
+	</div>
+		</div></div></div></div>
+		</div> 
+	</div> 
+</div>
+<div class="wpInsert wpInsertInPostAd wpInsertBelow" style="margin: 5px; padding: 0px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Below Post Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7380563158808291"
+     data-ad-slot="6342883566"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+ 	
+	
+</div>
+
+
+
+<div id="sidebar-right" class="mosaicflow" data-item-selector=".right-widget" data-min-item-width="210">
+
+<div class="right-widget"><div class="right-heading"><div class="side_feat_icon"></div><h3>Follow Us!</h3></div> <div class="clear"></div><div id="fb-root"></div>
+<script>
+	(function(d){
+		var js, id = 'facebook-jssdk';
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script');
+		js.id = id;
+		js.async = true;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		d.getElementsByTagName('head')[0].appendChild(js);
+	}(document));
+</script>
+<!-- SFPlugin by topdevs -->
+<!-- Like Box Code START -->
+<div class="sfp-container">
+	<div class="fb-like-box"
+		data-href="http://www.facebook.com/TScruffyNH"
+		data-width="319"
+		data-height=""
+		data-colorscheme="light"
+		data-show-faces="true"
+		data-show-border="true"
+		data-stream="false" 
+		data-header="true">
+	</div>
+</div>
+<!-- Like Box Code END --></div><div class="right-widget"><div class="right-heading"><div class="side_feat_icon"></div><h3>Twitter Feed</h3></div> <div class="clear"></div>
+						<div class="tp_recent_tweets">
+							<ul><li><span>Recap: ‘Star Wars Rebels’ “Gathering Forces” <a href="http://t.co/8mRAUkvRRw" target="_blank">http://t.co/8mRAUkvRRw</a></span><br /><a class="twitter_time" target="_blank" href="http://twitter.com/TScruffyNH/statuses/537010048191320065">48 minutes ago</a></li><li><span>Recap: ‘Homeland’ S4E9 “There’s Something Else Going On” <a href="http://t.co/7SLvVC4Qe9" target="_blank">http://t.co/7SLvVC4Qe9</a></span><br /><a class="twitter_time" target="_blank" href="http://twitter.com/TScruffyNH/statuses/536939108610764801">5 hours ago</a></li><li><span>BREAKING: ‘Star Wars: The Force Awakens’ Trailer coming to selected cinemas this weekend! <a href="http://t.co/Ctyo8GaNTP" target="_blank">http://t.co/Ctyo8GaNTP</a></span><br /><a class="twitter_time" target="_blank" href="http://twitter.com/TScruffyNH/statuses/536904774440861696">7 hours ago</a></li><li><span>‘Mr. Turner’ Review <a href="http://t.co/tn767ruAQZ" target="_blank">http://t.co/tn767ruAQZ</a></span><br /><a class="twitter_time" target="_blank" href="http://twitter.com/TScruffyNH/statuses/536187535559376896">2 days ago</a></li>
+							</ul>
+						</div></div><div class="right-widget"><div class="wpInsert wpInsertAdWidget" style="margin: 5px; padding: 0px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar Right -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7380563158808291"
+     data-ad-slot="3110215567"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>		<div class="right-widget">		<div class="right-heading"><div class="side_feat_icon"></div><h3>Recent Posts</h3></div> <div class="clear"></div>		<ul>
+					<li>
+				<a href="http://thescruffynerfherder.com/2014/11/24/recap-star-wars-rebels-gathering-forces/">Recap: ‘Star Wars Rebels’ “Gathering Forces”</a>
+						</li>
+					<li>
+				<a href="http://thescruffynerfherder.com/2014/11/24/recap-homeland-s4e9-theres-something-else-going-on/">Recap: ‘Homeland’ S4E9 “There’s Something Else Going On”</a>
+						</li>
+					<li>
+				<a href="http://thescruffynerfherder.com/2014/11/24/breaking-star-wars-the-force-awakens-trailer-coming-to-selected-cinemas-this-weekend/">BREAKING: &#8216;Star Wars: The Force Awakens&#8217; Trailer coming to selected cinemas this weekend!</a>
+						</li>
+					<li>
+				<a href="http://thescruffynerfherder.com/2014/11/22/mr-turner-review/">‘Mr. Turner’ Review</a>
+						</li>
+					<li>
+				<a href="http://thescruffynerfherder.com/2014/11/21/the-hunger-games-mockingjay-part-1-review/">‘The Hunger Games: Mockingjay Part 1’ Review</a>
+						</li>
+				</ul>
+		</div><div class="right-widget"><div class="right-heading"><div class="side_feat_icon"></div><h3>Categories</h3></div> <div class="clear"></div>		<ul>
+	<li class="cat-item cat-item-33"><a href="http://thescruffynerfherder.com/category/features/" >Features</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://thescruffynerfherder.com/category/reviews/film-reviews/" >Film Reviews</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://thescruffynerfherder.com/category/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://thescruffynerfherder.com/category/reviews/" >Reviews</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://thescruffynerfherder.com/category/reviews/tvreviews/" >TV Reviews</a>
+</li>
+		</ul>
+</div><div class="right-widget"><div class="wpInsert wpInsertAdWidget" style="margin: 5px; padding: 0px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Scruffy Nerf Herder Main -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7380563158808291"
+     data-ad-slot="8371346762"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div> 	
+
+</div>
+	
+ 
+	
+</div>
+</div>	
+
+<div class="clear"></div>
+	
+<div class="clear"></div>
+
+
+<div id="footer_box"> 
+
+	<div class="inner">	
+    
+<div id="sidebar-footer" class="mosaicflow" data-item-selector=".footer-widget" data-min-item-width="250">
+ 
+<div class="footer-widget"><div class="footer-heading"><div class="side_feat_icon"></div><h3>Categories</h3><span></span></div>		<ul>
+	<li class="cat-item cat-item-33"><a href="http://thescruffynerfherder.com/category/features/" >Features</a> (22)
+</li>
+	<li class="cat-item cat-item-35"><a href="http://thescruffynerfherder.com/category/reviews/film-reviews/" >Film Reviews</a> (51)
+</li>
+	<li class="cat-item cat-item-34"><a href="http://thescruffynerfherder.com/category/news/" >News</a> (90)
+</li>
+	<li class="cat-item cat-item-32"><a href="http://thescruffynerfherder.com/category/reviews/" >Reviews</a> (103)
+</li>
+	<li class="cat-item cat-item-36"><a href="http://thescruffynerfherder.com/category/reviews/tvreviews/" >TV Reviews</a> (52)
+</li>
+		</ul>
+</div><div class="footer-widget"><div class="footer-heading"><div class="side_feat_icon"></div><h3>Spread the word</h3><span></span></div><!-- Simple Share Buttons Adder (4.8) simplesharebuttons.com --><div class="ssba"><div style="text-align:left"><a class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=http://thescruffynerfherder.com/"  target="_blank" ><img src="http://thescruffynerfherder.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png" title="Facebook" class="ssba" alt="Share on Facebook" /></a><a class="ssba_twitter_share" href="http://twitter.com/share?url=http://thescruffynerfherder.com/&amp;text=Home+"  target="_blank" ><img src="http://thescruffynerfherder.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png" title="Twitter" class="ssba" alt="Tweet about this on Twitter" /></a><a class="ssba_tumblr_share" href="http://www.tumblr.com/share/link?url=thescruffynerfherder.com/&amp;name=Home"  target="_blank" ><img src="http://thescruffynerfherder.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/tumblr.png" title="tumblr" class="ssba" alt="Share on Tumblr" /></a><a class="ssba_google_share" href="https://plus.google.com/share?url=http://thescruffynerfherder.com/"  target="_blank" ><img src="http://thescruffynerfherder.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/google.png" title="Google+" class="ssba" alt="Share on Google+" /></a><a class="ssba_email_share" href="mailto:?Subject=Home&amp;Body=%20http://thescruffynerfherder.com/"><img src="http://thescruffynerfherder.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/email.png" title="Email" class="ssba" alt="Email this to someone" /></a></div></div></div><div class="footer-widget"><div class="footer-heading"><div class="side_feat_icon"></div><h3>Archives</h3><span></span></div>		<ul>
+	<li><a href='http://thescruffynerfherder.com/2014/11/'>November 2014</a></li>
+	<li><a href='http://thescruffynerfherder.com/2014/10/'>October 2014</a></li>
+	<li><a href='http://thescruffynerfherder.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://thescruffynerfherder.com/2014/08/'>August 2014</a></li>
+	<li><a href='http://thescruffynerfherder.com/2014/07/'>July 2014</a></li>
+	<li><a href='http://thescruffynerfherder.com/2014/06/'>June 2014</a></li>
+	<li><a href='http://thescruffynerfherder.com/2014/05/'>May 2014</a></li>
+		</ul>
+</div><div class="footer-widget"><div class="footer-heading"><div class="side_feat_icon"></div><h3>Meta</h3><span></span></div>			<ul>
+						<li><a href="http://thescruffynerfherder.com/wp-login.php">Log in</a></li>
+			<li><a href="http://thescruffynerfherder.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://thescruffynerfherder.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</div> 	
+
+</div>
+    </div>
+   
+</div>
+
+
+<div id="footer_bottom"> 
+
+    <div id="secondaryMenu" class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-2767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2767"><a href="http://thescruffynerfherder.com/contact/">Contact</a></li>
+</ul></div>
+
+    <div id="credit">     
+	 &copy; 	  All rights reserved 2014 -
+	  <a href="http://thescruffynerfherder.com" title="The Scruffy Nerf Herder">The Scruffy Nerf Herder</a>.
+	  &nbsp;  Designed <a href="http://themeforest.net/user/RoyalwpThemes/portfolio?ref=RoyalwpThemes" target="blank"> by RoyalwpThemes</a>
+    </div>	
+
+
+</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function($){
+	$(".tagcloud a").hover(function() {
+    $(this).animate({ backgroundColor: "#f23535" }, 200);
+    },function() {
+    $(this).animate({ backgroundColor: "#444" }, 200);
+    });
+});
+</script>
+
+</div>
+
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-52003040-1");pageTracker._trackPageview();</script>	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201448'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2014Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.totemticker.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/plugins/js_composer/assets/lib/jquery-waypoints/waypoints.min.js?ver=4.3.4'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.columnizer.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/carousel.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/creamsoda_ticker.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/carousel_plugins.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider-min.js?ver=4.3.4'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/ddsmoothmenu.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-includes/js/hoverIntent.min.js?ver=r7'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.easing.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.mosaicflow.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.color.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.prettyPhoto.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.tipTip.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/modernizr.custom.46884.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/css_browser_selector.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/custom.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/plugins/mega_main_menu/src/js/frontend/menu_functions.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/fwslider.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.stellar.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/themes/warwick/js/jquery.carouFredSel.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://thescruffynerfherder.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.3.4'></script>
+
+	<script src="http://stats.wp.com/e-201448.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.2.1',blog:'68016567',post:'1353',tz:'0'});
+	var load_cmc = function(){linktracker_init(68016567,1353,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
+
+

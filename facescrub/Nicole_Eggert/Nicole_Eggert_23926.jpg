@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+
+	<title>Test	</title>
+	
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>	   
+	<meta name="generator" content="WordPress 2.7.1"/> <!-- leave this for stats -->
+	
+	<link rel="stylesheet" href="http://www.everythingy.com/blog/wp-content/themes/themasterplan_tma_v1.4/tma/A.style.css.pagespeed.cf.WDhur2aCoA.css" type="text/css" media="screen, projection"/>
+	
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="http://www.everythingy.com/blog/wp-content/themes/themasterplan_tma_v1.4/tma/ie.css" type="text/css" media="screen, projection">
+	<![endif]-->
+	
+	<link rel="alternate" type="application/rss+xml" title="Test RSS Feed" href="http://www.everythingy.com/blog/?feed=rss2"/>
+	<link rel="pingback" href="http://www.everythingy.com/blog/xmlrpc.php"/>
+	
+	<link rel="shortcut icon" href="http://www.everythingy.com/blog/wp-content/themes/themasterplan_tma_v1.4/tma/images/favicon2.ico"/>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript">$j=jQuery.noConflict(true);</script>
+
+
+		
+	<meta name='robots' content='noindex,nofollow'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.everythingy.com/blog/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.everythingy.com/blog/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 2.7.1"/>
+
+	
+
+</head>
+
+<body onload="document.getElementById('search_keywords').focus();">   <!--start body-->
+	<div class="container">   <!--start container-->		<div id="header" class="column span-14" align=center>
+		
+			<!-- <div id="logo" class="column first">
+			
+				<div class="title">
+					<div><a href="http://www.everythingy.com/blog/">Test</a></div>
+					<div class="desc">Just another WordPress weblog</div>					
+				</div> -->
+		
+			<!--<a href="http://www.everythingy.com/blog/" title="Just another WordPress weblog: Home" class="sitelogo"></a>-->
+			
+			<!-- </div> -->
+			<div id="homead" class="column span-10">
+			</div>
+
+		</div>
+
+ 
+
+
+		<div class="column span-14">
+		
+		<div id="search" class="column span-11">
+			<div id="search-box" class="column span-11">
+				<!-- Google Search -->
+				<div id="bar_google" class="search-form">
+					<div id="poweredbygoogle" class="column first">
+						<a href="http://www.everythingy.com/blog/search/" title="Search powered by Google">
+							<img src="http://www.everythingy.com/blog/wp-content/themes/themasterplan_tma_v1.4/tma/images/xgoogle.png.pagespeed.ic.CJTl2BOtGy.png" alt="Search powered by Google"/>
+						</a>
+					</div>
+					<a href="#" class="bar-active bar">Web</a>
+
+					<form action="http://www.everythingy.com/blog/search/" id="cse-search-box">
+
+					<input type="hidden" name="page_id" value="3"/>
+					<input type="hidden" name="cx" value="006823040655017009559:zbzi0qrsplm"/>
+					<input type="hidden" name="cof" value="FORID:10"/>
+					<input type="hidden" name="ie" value="UTF-8"/>
+							
+					<div><label for="search_keywords" class="none">Search for:</label>
+					<input type="text" name="q" id="search_keywords" class="searchbox"/>
+						
+					<label for="searchsubmit" class="none">Go</label>
+					<input type="image" id="searchsubmit" class="submit_input" alt="" name="sa" src="http://www.everythingy.com/images/xbtn-form-go.gif.pagespeed.ic.r2Cdw9Id6V.png"/></div>
+							
+					</form>
+					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+				</div>
+
+			</div>
+		</div>
+			<div id="weather" class="column span-6 hidden">
+				<h3 class="mast4">Weather Forecast</h3>
+				<img src="http://www.everythingy.com/blog/wp-content/themes/themasterplan_tma_v1.4/tma/images/xweather.png.pagespeed.ic.XBmAnVqYA1.png" alt="Weather forecast - Cloudy"/>
+				<span id="forecast-place">Orlando, FL</span> <span id="forecast-temp">70</span> &deg;F | &deg;C
+			</div>
+		</div>  
+		
+
+		
+		
+		
+		<!--end header-->
+<!-- proudly rendered by header.php -->
+
+        <div id="home_content" class="column span-14">   <!-- start home_content -->
+        
+            <div id="home_left" class="column span-9 first">   <!-- start home_left -->
+            
+        
+        </div>   <!-- end home_content -->        
+        
+<!-- proudly presented by footer.php -->
+		<div id="footerad" class="column span-14">
+				<div id="ad_banner_top" class="column last">
+	<!-- Insert your ad code here. Make sure the ad size is 728 x 90.  -->
+  		<iframe src="/jsiframe.php?cURL=http%3A%2F%2Fbanner.resulthost.org%2Fadtag%3Fsource_id%3D2941%26width%3D728%26height%3D90&w=728&h=90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="728" height="90"></iframe>
+	<!-- // END -->
+</div>
+
+				</div>
+        <div id="footer" class="column span-14">
+
+        </div>
+
+
+    </div>   <!--end container-->
+
+    <!-- WordPress theme by Arun Kale / www.themasterplan.in | Download it at http://themasterplan.in/tma/ -->
+
+<script type="text/javascript" language="javascript">//<![CDATA[
+var tabarr=new Array('google','ebay','Amazon');function bar_toggle(imgindex)
+{for(var i=0;i<tabarr.length;i++)
+{var tab=tabarr[i];if(imgindex==tab)
+{document.getElementById("bar_"+tab).style.display="block";}
+else
+{document.getElementById("bar_"+tab).style.display="none";}}}
+//]]></script>
+
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0002/3108.js"></script>
+
+<script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">try{var pageTracker=_gat._getTracker("UA-10794505-1");pageTracker._trackPageview();}catch(err){}</script>
+
+</body>
+</html>
+<!-- proudly presented by home.php -->
+<!-- WP Super Cache is installed but broken. The path to wp-cache-phase1.php in wp-content/advanced-cache.php must be fixed! -->

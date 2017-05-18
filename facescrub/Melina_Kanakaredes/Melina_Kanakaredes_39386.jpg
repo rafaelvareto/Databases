@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html class="no-js" xmlns="//www.w3.org/1999/xhtml" lang="en-US">
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="en-US"><![endif]-->
+
+<head>
+
+	<!-- Basic Page Needs
+  	================================================== -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Virtue Foundation</title>
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	
+	<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok2v=1613a3a185/"},atok:"f86dad9fe79391dee698888f7420fbb6",petok:"7bf87a3f7fe92966289d539d39fbea674aeb7c82-1417571095-1800",zone:"virtuefoundation.org",rocket:"0",apps:{"ga_key":{"ua":"UA-12221388-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok2v=919620257c/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="alternate" type="application/rss+xml" title="Virtue Foundation &raquo; Feed" href="http://virtuefoundation.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Virtue Foundation &raquo; Comments Feed" href="http://virtuefoundation.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Virtue Foundation &raquo; Home Comments Feed" href="http://virtuefoundation.org/home/feed/" />
+<link rel='stylesheet' id='style-css'  href='http://virtuefoundation.org/wp/wp-content/themes/virtue/style.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://virtuefoundation.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://virtuefoundation.org/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<link rel='canonical' href='http://virtuefoundation.org/' />
+<link rel='shortlink' href='http://virtuefoundation.org/' />
+
+		
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12221388-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+
+<body class="home page page-id-4 page-template page-template-template-home-php custom-background">
+	
+	<!-- Content
+	================================================== -->
+
+	<div id="content" class="container content">
+
+	<!-- Header
+	================================================== -->
+	<header id="header">
+
+		<div class="container">
+
+			<div id="brand" class="brand float-left">
+				
+				<div class="logo clearfix">
+
+					
+					
+						<a class="site-title" href="http://virtuefoundation.org">
+							<img src="//virtuefoundation.org/wp/wp-content/uploads/2014/05/virtue-foundation-logo.png" alt="logo"/>
+						</a>
+
+					
+				</div>
+				
+				<div class="site-description clearfix">
+					<h2>Institute for Innovation and Philanthropy</h2>
+				</div>
+				
+			</div>
+
+			<div class="float-right">
+				
+				<div class="actions clearfix">
+					
+					<div class="socials">
+						<a class="twitter" href="https://twitter.com/virtueorg"><span class="fa fa-twitter"></span></a>
+						<a class="facebook" href="https://www.facebook.com/pages/Virtue-Foundation/150098621711417"><span class="fa fa-facebook"></span></a>
+					</div>
+
+					<a href="https://virtuefoundation.org/donate" class="donate">DONATE</a>
+
+				</div>
+
+				<form action="http://virtuefoundation.org/" id="searchform" class="clearfix" method="get">
+    <div>
+    	<label class="screen-reader-text" for="s">Search for:</label>
+		<input type="text" name="s" id="s" placeholder="Search..." />
+    </div>
+</form>
+			</div>
+		</div>
+
+	</header>
+	
+	<div id="navigation">
+
+		<div class="container">
+
+			<nav id="primary-nav" class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item menu-item-20"><a href="http://virtuefoundation.org/">Home</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://virtuefoundation.org/about/">About</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://virtuefoundation.org/news-media/">News &#038; Media</a></li>
+</ul></nav>
+			<nav id="secondary-nav" class="menu-secondary-container"><ul id="menu-secondary" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://virtuefoundation.org/healthcare/">Healthcare</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://virtuefoundation.org/education/">Education</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://virtuefoundation.org/empowerment/">Empowerment</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://virtuefoundation.org/justice/">Justice</a></li>
+</ul></nav>
+		</div>
+
+	</div>
+
+<div id="main" class="clearfix">
+
+	<!-- home slider -->
+	
+<div id="home-slider" class="flexslider">
+	<ul class="slides">
+
+		
+				
+		<li class="slide clickable" data-url="/wp/driving-solutions-for-women-and-girls/">
+
+			<img src="http://www.virtuefoundation.org/wp/media/homepage/driving-solutions-in-tumu.jpg" alt="">
+
+			<div class="slide-caption">
+				<div class="inner">
+
+					<h4>Driving Solutions for Women and Girls</h4>
+
+					<div class="text">
+
+						Virtue Foundation partners with Toyota and Women in the World to help improve medical care in Tumu, Ghana.
+						
+													<a href="/wp/driving-solutions-for-women-and-girls/" class="read-more">Watch Video</a>
+												
+					</div>
+
+				</div>
+			</div>
+
+		</li>
+
+		
+				
+		<li class="slide clickable" data-url="/wp/project/data-mapping-sustainable-development/">
+
+			<img src="/wp/media/homepage/data-mapping.jpg" alt="">
+
+			<div class="slide-caption">
+				<div class="inner">
+
+					<h4>Data Mapping for Sustainable Development</h4>
+
+					<div class="text">
+
+						Virtue Foundation is developing a smart web-based technology that allows for data driven decisions to yield the highest impact interventions and thus accelerate sustainable development.
+						
+													<a href="/wp/project/data-mapping-sustainable-development/" class="read-more">Watch Video</a>
+												
+					</div>
+
+				</div>
+			</div>
+
+		</li>
+
+		
+				
+		<li class="slide clickable" data-url="/wp/project/mongolia/">
+
+			<img src="/wp/media/homepage/mongolia-healthcare-initiative.jpg" alt="">
+
+			<div class="slide-caption">
+				<div class="inner">
+
+					<h4>Mongolia Healthcare Initiative</h4>
+
+					<div class="text">
+
+						For the last 6 years, we have been bringing life-saving, sight-restoring and other operations to Mongolians while educating local surgeons and healthcare professionals.
+						
+													<a href="/wp/project/mongolia/" class="read-more">Watch Video</a>
+												
+					</div>
+
+				</div>
+			</div>
+
+		</li>
+
+		
+				
+		<li class="slide clickable" data-url="/wp/project/ghana/">
+
+			<img src="/wp/media/homepage/ghana-surgery.jpg" alt="">
+
+			<div class="slide-caption">
+				<div class="inner">
+
+					<h4>Institute for Innovation & Philanthropy in Ghana</h4>
+
+					<div class="text">
+
+						Our mission is to increase awareness, inspire action and render assistance through healthcare, education, justice, and empowerment initiatives.
+						
+													<a href="/wp/project/ghana/" class="read-more">Learn More</a>
+												
+					</div>
+
+				</div>
+			</div>
+
+		</li>
+
+		
+				
+		<li class="slide clickable" data-url="/wp/project/digital-storytelling-initiative/">
+
+			<img src="/wp/media/homepage/digital-storytelling-initiative.jpg" alt="">
+
+			<div class="slide-caption">
+				<div class="inner">
+
+					<h4>Digital Storytelling Initiative</h4>
+
+					<div class="text">
+
+						A 21st Century curriculum for the classroom focused on philanthropy, community service and civic responsibility where students use technology and tell their stories through video.
+						
+													<a href="/wp/project/digital-storytelling-initiative/" class="read-more">Watch Videos</a>
+												
+					</div>
+
+				</div>
+			</div>
+
+		</li>
+
+				
+	</ul>
+</div>
+	<div class="content-home">
+		
+		<div class="highlights">
+			
+			<h3>Highlights</h3>
+			
+			
+			
+			    <article class="post-471 post type-post status-publish format-standard has-post-thumbnail hentry category-update tag-mongolia featured">
+	
+		<div class="featured-image">
+		<a href="http://virtuefoundation.org/2014/05/mongolia-healthcare-initiative-surgical-and-teaching-mission-2014/">
+			<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2014/06/mongolia-2014-400x260.jpg" class="attachment-featured wp-post-image" alt="mongolia-2014" />		</a>
+	</div>
+		
+	<div class="content">
+		<a href="http://virtuefoundation.org/2014/05/mongolia-healthcare-initiative-surgical-and-teaching-mission-2014/" class="post-title-a">
+			<h4 class="post-title">Mongolia Healthcare Initiative: Surgical and Teaching Mission 2014</h4>
+		</a>
+
+		The Virtue Foundation has returned from it’s sixth Surgical and Teaching Mission in Mongolia. This year, the mission team travelled to Mongolia in two groups, a smaller team in April, and a larger team in May.<a href="http://virtuefoundation.org/2014/05/mongolia-healthcare-initiative-surgical-and-teaching-mission-2014/" class="excerpt-read-more-link">Read More</a>		
+	</div>
+
+</article><article class="post-450 post type-post status-publish format-standard has-post-thumbnail hentry category-update tag-ghana-healthcare featured">
+	
+		<div class="featured-image">
+		<a href="http://virtuefoundation.org/2013/11/medical-mission-to-tumu-district-hospital/">
+			<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2013/11/tumu2014-400x260-1405750663.jpg" class="attachment-featured wp-post-image" alt="tumu2014" />		</a>
+	</div>
+		
+	<div class="content">
+		<a href="http://virtuefoundation.org/2013/11/medical-mission-to-tumu-district-hospital/" class="post-title-a">
+			<h4 class="post-title">Medical Mission to Tumu District Hospital</h4>
+		</a>
+
+		From November 17th to 22nd, 2013, our volunteer Virtue Foundation medical team travelled to Tumu, Northern Ghana as part of Virtue Foundation’s Model Institute for Innovation and Philanthropy, Ghana Healthcare Initiative.<a href="http://virtuefoundation.org/2013/11/medical-mission-to-tumu-district-hospital/" class="excerpt-read-more-link">Read More</a>		
+	</div>
+
+</article><article class="post-67 post type-post status-publish format-standard has-post-thumbnail hentry category-event tag-women featured">
+	
+		<div class="featured-image">
+		<a href="http://virtuefoundation.org/2013/06/melanne-verveer-honored-at-our-inaugural-dinner-gala/">
+			<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2014/02/melanne-verveer-honored-at-our-2013-fundraising-event-400x260-1391905697.jpg" class="attachment-featured wp-post-image" alt="melanne-verveer-honored-at-our-2013-fundraising-event" />		</a>
+	</div>
+		
+	<div class="content">
+		<a href="http://virtuefoundation.org/2013/06/melanne-verveer-honored-at-our-inaugural-dinner-gala/" class="post-title-a">
+			<h4 class="post-title">Ambassador Melanne Verveer honored at our Inaugural Dinner Gala</h4>
+		</a>
+
+		On June 11, 2013, we  honored the first United States Ambassador-at-Large for Global Women's Issues Melanne Verveer at our annual fundraiser. A long-time champion for women's empowerment, Verveer is an innovative thought leader working tirelessly for gender equality and women and girls' rights globally.<a href="http://virtuefoundation.org/2013/06/melanne-verveer-honored-at-our-inaugural-dinner-gala/" class="excerpt-read-more-link">Read More</a>		
+	</div>
+
+</article><article class="post-60 post type-post status-publish format-standard has-post-thumbnail hentry category-update tag-un tag-women featured">
+	
+		<div class="featured-image">
+		<a href="http://virtuefoundation.org/2013/03/dr-joseph-salim-invited-to-speak-at-the-united-nations/">
+			<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2014/02/dr-joseph-salim-invited-to-speak-at-the-united-nations-400x260.jpg" class="attachment-featured wp-post-image" alt="dr-joseph-salim-invited-to-speak-at-the-united-nations" />		</a>
+	</div>
+		
+	<div class="content">
+		<a href="http://virtuefoundation.org/2013/03/dr-joseph-salim-invited-to-speak-at-the-united-nations/" class="post-title-a">
+			<h4 class="post-title">Dr. Joseph Salim Invited to Speak at the United Nations</h4>
+		</a>
+
+		Our President and Co-Founder Dr. Joseph Salim was invited to present at the U.S. State Department's "Global Initiative – Women in Action" International Visitor Leadership Program, which took place on March 16, 2013 at the United Nations in New York City.<a href="http://virtuefoundation.org/2013/03/dr-joseph-salim-invited-to-speak-at-the-united-nations/" class="excerpt-read-more-link">Read More</a>		
+	</div>
+
+</article><article class="post-57 post type-post status-publish format-standard has-post-thumbnail hentry category-update featured">
+	
+		<div class="featured-image">
+		<a href="http://virtuefoundation.org/2013/03/dr-ebby-elahi-receives-mt-sinais-award-for-outstanding-service-to-the-international-community/">
+			<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2013/03/ebby-elahi-receives-mt-sinais-award-400x260.jpg" class="attachment-featured wp-post-image" alt="ebby-elahi-receives-mt-sinais-award" />		</a>
+	</div>
+		
+	<div class="content">
+		<a href="http://virtuefoundation.org/2013/03/dr-ebby-elahi-receives-mt-sinais-award-for-outstanding-service-to-the-international-community/" class="post-title-a">
+			<h4 class="post-title">Dr. Ebby Elahi receives Mt. Sinai&#8217;s Award for Outstanding Service to the International Community</h4>
+		</a>
+
+		On March 5, 2013, the Auxiliary Board and its Young Women's Division recognized Virtue's Director of International Programming and Global Health Dr. Ebby Elahi for his leading role in improving global health.<a href="http://virtuefoundation.org/2013/03/dr-ebby-elahi-receives-mt-sinais-award-for-outstanding-service-to-the-international-community/" class="excerpt-read-more-link">Read More</a>		
+	</div>
+
+</article><article class="post-38 post type-post status-publish format-standard has-post-thumbnail hentry category-update tag-china featured">
+	
+		<div class="featured-image">
+		<a href="http://virtuefoundation.org/2012/05/dr-larovere-accompanies-secretary-clinton-and-ambassador-verveer-as-official-delegate-on-us-state-department-visit-to-china/">
+			<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2012/05/hillary-clinton-china2-400x260.jpg" class="attachment-featured wp-post-image" alt="hillary-clinton-china2" />		</a>
+	</div>
+		
+	<div class="content">
+		<a href="http://virtuefoundation.org/2012/05/dr-larovere-accompanies-secretary-clinton-and-ambassador-verveer-as-official-delegate-on-us-state-department-visit-to-china/" class="post-title-a">
+			<h4 class="post-title">Dr. LaRovere accompanies Secretary Clinton and Ambassador Verveer as official delegate on U.S. State Department Visit to China</h4>
+		</a>
+
+		In May 2012, Vice President and Co-Founder Dr. Joan LaRovere visited China as part of the official delegation for the third People-to-People Exchange.<a href="http://virtuefoundation.org/2012/05/dr-larovere-accompanies-secretary-clinton-and-ambassador-verveer-as-official-delegate-on-us-state-department-visit-to-china/" class="excerpt-read-more-link">Read More</a>		
+	</div>
+
+</article>
+			
+		</div>
+
+		<div id="sidebar">
+    <div class="widget"><h6>Stay Updated</h6>
+		<div class="mailchimp">
+			
+			<div class="text">
+				By signing up on our mailing list, you'll become a part of the Virtue Foundation community and will receive important updates on our initiatives as well as invitations to events.			</div> 
+			
+			<form action="http://virtuefoundation.us2.list-manage1.com/subscribe/post?u=a42425a7111a6c0042c28d1ca&amp;id=596dc1f9c9" method="post">
+				
+				<input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="first name">
+				<input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="last name">
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="email">
+				<div style="position: absolute; left: -5000px;"><input type="text" name="b_a42425a7111a6c0042c28d1ca_596dc1f9c9" value=""></div>
+
+				<button class="submit">Sign up</button>
+
+			</form>
+			
+		</div>
+
+		</div><div class="widget"><h6>Downloads</h6>			<div class="textwidget"><div class="downloads">
+
+ 	<a href="/wp/media/pdfs/Virtue_Foundation_PressKit.pdf" class="download">
+ 		<div>
+			<img src="http://virtuefoundation.org/wp/media/assets/pdf-icon.png" alt="">
+		</div>
+		<div class="title">Virtue Foundation Press Kit</div>
+	</a>
+
+ 	<a href="/wp/media/pdfs/Combating-Acid-Violence-Report.pdf" class="download">
+ 		<div>
+			<img src="http://virtuefoundation.org/wp/media/assets/pdf-icon.png" alt="">
+		</div>
+		<div class="title">Combating Acid Violence: An In-Depth Report</div>
+	</a>
+
+ 	<a href="/wp/media/pdfs/Senior-Roundtable-Report-Women-Judiciary.pdf" class="download">
+ 		<div>
+			<img src="http://virtuefoundation.org/wp/media/assets/pdf-icon.png" alt="">
+		</div>
+		<div class="title">Senior Roundtable on Women and the Judiciary</div>
+	</a>
+
+ 	<a href="/wp/media/pdfs/Sustainable-Development-Impact-of-Women-Judges.pdf" class="download">
+ 		<div>
+			<img src="http://virtuefoundation.org/wp/media/assets/pdf-icon.png" alt="">
+		</div>
+		<div class="title">Sustainable Development, Rule of Law, and the Impact of Women Judgesa</div>
+	</a>
+</div>
+	 </div>
+		</div><div class="widget">
+		<div class="featured-videos">
+			
+			<div class="text">
+				
+									
+					<div class="video">
+						
+												<div class="thumbnail">
+							<a href="http://virtuefoundation.org/2013/06/a-message-from-tina-brown/">
+								<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2013/06/message-from-tina-brown-400x260.jpg" class="attachment-featured wp-post-image" alt="message-from-tina-brown" />								<div class="play">
+									<span class="fa fa-play"></span>
+								</div>
+							</a>
+						</div>
+						
+						<div class="title">
+							<a href="http://virtuefoundation.org/2013/06/a-message-from-tina-brown/">
+								A Message from Tina Brown							</a>
+						</div>
+
+						<div class="content">
+							Tina Brown, former Editor-in-Chief of Newsweek & The Daily Beast, discusses Virtue Foundation's work in the areas of Acid Violence and Women Empowerment. 						</div>
+
+					</div>
+
+									
+					<div class="video">
+						
+												<div class="thumbnail">
+							<a href="http://virtuefoundation.org/2007/03/a-message-from-laura-bush/">
+								<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2014/06/laura-bush-message-400x260.jpg" class="attachment-featured wp-post-image" alt="laura-bush-message" />								<div class="play">
+									<span class="fa fa-play"></span>
+								</div>
+							</a>
+						</div>
+						
+						<div class="title">
+							<a href="http://virtuefoundation.org/2007/03/a-message-from-laura-bush/">
+								A Message from Laura Bush							</a>
+						</div>
+
+						<div class="content">
+													</div>
+
+					</div>
+
+									
+					<div class="video">
+						
+												<div class="thumbnail">
+							<a href="http://virtuefoundation.org/2007/03/a-message-from-celine-dion/">
+								<img width="400" height="260" src="http://virtuefoundation.org/wp/wp-content/uploads/2011/06/celine-dion-message-400x260.jpg" class="attachment-featured wp-post-image" alt="celine-dion-message" />								<div class="play">
+									<span class="fa fa-play"></span>
+								</div>
+							</a>
+						</div>
+						
+						<div class="title">
+							<a href="http://virtuefoundation.org/2007/03/a-message-from-celine-dion/">
+								A Message from Celine Dion							</a>
+						</div>
+
+						<div class="content">
+													</div>
+
+					</div>
+
+				
+				
+			</div>
+			
+		</div>
+
+		</div></div>
+
+	</div>
+
+	
+</div>		<div id="footer" class="clearfix">
+	<div class="footer-left">
+		<div class="footer-logo">
+			<img src="http://virtuefoundation.org/wp/wp-content/themes/virtue/assets/images/footer-logo.png" alt="">
+		</div>
+		1040 First Ave. Suite 116 New York, NY 10022 • Tel: 212-355-2227<br/>
+		Copyright © 2002-2014 <a href="http://virtuefoundation.org">Virtue Foundation</a>. All Rights Reserved.<br/>
+		www.virtuefoundation.org <a href="http://virtuefoundation.org/wp/terms-of-use">Terms of Use</a>	</div>
+	<div class="footer-right">
+		<nav id="footer-nav" class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-248"><a href="http://virtuefoundation.org/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-250"><a href="http://virtuefoundation.org/about#objectives">Objectives</a></li>
+	<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><a href="http://virtuefoundation.org/about#principles">Principles</a></li>
+	<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a href="http://virtuefoundation.org/about#committees">Committees</a></li>
+	<li id="menu-item-1337" class="btn btn-donate menu-item menu-item-type-post_type menu-item-object-page menu-item-1337"><a href="https://virtuefoundation.org/donate/">Donate</a></li>
+</ul>
+</li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-253"><a href="http://virtuefoundation.org/news-media/">News &#038; Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-255"><a href="http://virtuefoundation.org/category/update/">Updates</a></li>
+	<li id="menu-item-256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-256"><a href="http://virtuefoundation.org/category/video/">Videos</a></li>
+	<li id="menu-item-257" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-257"><a href="http://virtuefoundation.org/category/event/">Events</a></li>
+	<li id="menu-item-254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-254"><a href="http://virtuefoundation.org/category/press/">Press</a></li>
+</ul>
+</li>
+<li id="menu-item-258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-258"><a href="#">Global Initiatives</a>
+<ul class="sub-menu">
+	<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="http://virtuefoundation.org/healthcare/">Healthcare</a></li>
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="http://virtuefoundation.org/education/">Education</a></li>
+	<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="http://virtuefoundation.org/empowerment/">Empowerment</a></li>
+	<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="http://virtuefoundation.org/justice/">Justice</a></li>
+</ul>
+</li>
+</ul></nav>	</div>
+</div>		
+	</div><!-- end #content -->
+
+	<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-content/themes/virtue/assets/javascripts/jquery.easydropdown.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-content/themes/virtue/assets/javascripts/jquery.flexslider.js?ver=2.1'></script>
+<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-content/themes/virtue/assets/javascripts/jquery.fancybox.js?ver=2.1.5'></script>
+<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-content/themes/virtue/assets/javascripts/jquery.fitvids.js?ver=1.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdvars = {"site_title":"Virtue Foundation","templateurl":"http:\/\/virtuefoundation.org\/wp\/wp-content\/themes\/virtue\/","ajaxurl":"https:\/\/virtuefoundation.org\/wp\/wp-admin\/admin-ajax.php","swfPath":"http:\/\/virtuefoundation.org\/wp\/wp-content\/themes\/virtue\/js","is_page":"1","is_front_page":"1","is_paged":"","is_home":"","is_single":"","is_archive":"","home_url":"http:\/\/virtuefoundation.org","home_root":"\/","stripePublishableKey":"pk_live_9QksVEes0I8nFbYuHiu4hPTn"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://virtuefoundation.org/wp/wp-content/themes/virtue/assets/javascripts/global.js?ver=1.0.1'></script>
+
+<!-- End Document
+================================================== -->
+
+<!-- Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12221388-1', 'virtuefoundation.com');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

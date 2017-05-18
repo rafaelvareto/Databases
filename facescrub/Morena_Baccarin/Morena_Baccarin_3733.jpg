@@ -1,0 +1,46 @@
+    <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANHZLSNGAhe0lWbSycFlY7t3c4tFHP+Epw8naGgm3CR8CftAihnB7Jkt+vFmvIf3BV/p3RpOrZ/XbZsX9uh0m9UCAwEAAQ==_B16AAnoHqb1DjoAewFs7QEg/MSdiilX8XJguXJ+xoWa3CShEq2VazkUUQ7pvMIw7p7ObeDD3kpNyERBrZedaFg=="> 
+
+<head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Hqwallpapers4free.com</title>
+            <script type="text/javascript">;
+        if(self != top) top.location.href = 'http://'+location.hostname+'/?redir=frame&uid=hqwallpapers4free547e6451c68031.34072500';
+        </script>
+        <script type="text/javascript" src="http://return.uk.domainnamesales.com/return_js.php?d=hqwallpapers4free.com&s=1417569361"></script>
+
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript">
+        function GetParam(name) {
+            var match = new RegExp(name +  
+                "=*([^&]+)*", "i").exec(location.search);   
+            if (match == null)             
+                match = new RegExp(name + "=(.+)", "i").exec(location.search);  
+            if (match == null) return null;             
+                match = match + "";           
+            //**convert match to a string       
+            result = match.split(",");          
+            return decodeURIComponent(result[1]);     
+        }  
+
+        function logStatus(type) {   
+            $.ajax({         
+                cache: false, 
+                global: false,  
+                async: true,    
+                type: "POST",  
+                url: '/logpstatus.php',
+                data: {uid: GetParam('uid'), type: type}  
+            });                
+        }        
+    </script>
+
+    </head>
+    <frameset cols="1,*,1" border=0>
+        <frame name="top" src="tg.php?uid=hqwallpapers4free547e6451c68031.34072500" scrolling=no frameborder=0 noresize framespacing=0 marginwidth=0 marginheight=0>
+        <frame src="search_caf.php?uid=hqwallpapers4free547e6451c68031.34072500&src=hydra&abp=1&country=US" scrolling="auto" framespacing=0 marginwidth=0 marginheight=0 noresize>
+        <frame src="page.php?hqwallpapers4free547e6451c68031.34072500"></frame>
+    </frameset>
+    <noframes>
+            </noframes>
+</html>
+

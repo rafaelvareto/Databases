@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title>Find Online Schools and Campus Degree Programs Fast</title>
+	
+
+<link rel="stylesheet" type="text/css" href="/theme/default/css/widget_Results_updated.css" />
+<!-- Headings -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700' rel='stylesheet' type='text/css'>
+<!-- Text -->
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+<!-- Core stylesheets do not remove -->
+	<link href="/css/edusearchcom/bootstrap/bootstrap-responsive.min.css" rel="stylesheet" />
+   <link href="/css/edusearchcom/bootstrap/bootstrap.css" rel="stylesheet" />
+   <link href="/css/edusearchcom/bootstrap/bootstrap-theme.css" rel="stylesheet" />
+   <link href="/css/edusearchcom/icons.css" rel="stylesheet" />
+
+   <!-- Plugins stylesheets -->
+   <link href="/js/edusearchcom/plugins/forms/uniform/uniform.default.css" rel="stylesheet" /> 
+
+
+ <!-- Force IE9 to render in normal mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/js/edusearchcom/html5shiv.js"></script>
+      <script src="/js/edusearchcom/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/edusearchcom/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/edusearchcom/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/edusearchcom/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/img/edusearchcom/ico/apple-touch-icon-57-precomposed.png">
+	<link rel="shortcut icon" href="/img/edusearchcom/ico/favicon.png">
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Important plugins put in all pages -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+    <script src="/js/edusearchcom/bootstrap/bootstrap.js"></script> 
+    <script src="/js/edusearchcom/conditionizr.min.js"></script>   
+    <script src="/js/edusearchcom/plugins/core/nicescroll/jquery.nicescroll.min.js"></script>
+    <script src="/js/edusearchcom/plugins/core/jrespond/jRespond.min.js"></script>
+    <script src="/js/edusearchcom/jquery.genyxAdmin.js"></script>
+
+    <!-- Form plugins -->
+    <script src="/js/edusearchcom/plugins/forms/uniform/jquery.uniform.min.js"></script>
+    <script src="/js/edusearchcom/plugins/forms/wizard/jquery.form.js"></script>
+    <script src="/js/edusearchcom/plugins/forms/wizard/jquery.form.wizard.js"></script>
+    <script src="/js/edusearchcom/plugins/forms/validation/jquery.validate.js"></script>
+	
+    <!-- Init plugins -->
+    <script src="/js/edusearchcom/app.js"></script><!-- Core js functions -->
+
+    <script src="/js/edusearchcom/pages/form-wizard.js"></script><!-- Init plugins only for page -->
+
+	<!-- app stylesheets -->
+    <link href="/css/edusearchcom/app.css" rel="stylesheet" />
+
+
+ 	<!-- Plugins stylesheets -->
+    <link href="/js/edusearchcom/plugins/forms/uniform/uniform.default.css" rel="stylesheet" />
+
+</head>
+<body>
+	<div class="collapse navbar-collapse" id="navbar-to-collapse">  
+		<a class="navbar-brand" href="dashboard.html"><img src="/img/edusearchcom/logo.png" alt="Genyx admin" class="img-responsive"></a>  
+	</div>	
+	
+<script type="text/javascript">
+function toggle(element) {
+    document.getElementById(element).style.display = (document.getElementById(element).style.display == "none") ? "" : "none";
+}
+</script>
+
+
+	<div id="backgroundContent">
+		<div id="contentWrapper">
+				<style>
+	table ul li{
+		list-style:none;
+	}
+	.table tbody>tr>td.vert-align
+	{
+	    vertical-align: middle;
+	}
+</style>
+
+<div id="topBar">
+<div id="topBarGradient">
+
+</div>
+<div id="wrapper">
+	
+<div id="content">
+	<div style="width:95%;margin: 0 auto;">
+	<style>
+	#wrapper{
+		margin: 20px 0 0;
+	}
+	
+	#form_wrapper{
+		width:80%;
+		margin:50px auto;
+	}
+	
+	.panel-body ul li{
+		list-style:none;
+	}
+	
+	#footer{
+		text-align:center;
+	}
+	
+	#buttonBox{
+		text-align:center;
+	}
+	
+	#navbar-to-collapse{
+		background:#0088cc;
+	}
+	
+	#footer p{
+		margin: 0;
+	}
+	
+	.pagination{
+		text-align:center !important;
+	}
+</style>
+<div class="wrapper">
+<div class="container-fluid">
+<div class="row">
+	<div class="col-lg-6">
+		<img src="/img/edusearchcom/hero.png" alt="School Finder" class="img-responsive" style="max-height:312px;">
+	</div>
+<div class="col-lg-6">
+<!--END NEW FORM-->
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+<!--                 <h4>Search for schools using School Finder Below.</h4> -->
+				<h4>Find your options with the School Finder Below.</h4>
+         
+            </div><!-- End .panel-heading -->
+            <div class="panel-body">
+<!-- 	 <form id="" class="form-horizontal" role="form">
+ -->
+	
+	
+		<form class="form-horizontal" role="form" id="/searchForm" method="get" action="/search" accept-charset="utf-8"> 		<div class="msg"></div><input type="hidden" name="category" options="" onChange="ESNI.aoiChange(this.value);" empty="All Areas" id="category" /><input type="hidden" name="degree" options="" empty="All Degrees" id="degree" /><div class="esnWidgetGroup2"><ul><li class="widgetQuestion1"><label for="channel">Program of Interest</label><select name="channel" id="channel">
+<option value="">All Programs</option>
+<optgroup label="Business">
+<option value="BUS.ACCT">Accounting</option>
+<option value="BUS.UNDERGRAD">Business (Undergraduate)</option>
+<option value="BUS.ADMIN">Business Administration</option>
+<option value="BUS.MGMT">Business Mangement</option>
+<option value="BUS.FINANCE">Finance</option>
+<option value="BUS.GRAD">Graduate Business Degrees</option>
+<option value="BUS.HOSP">Hospitality &amp; Tourism Management</option>
+<option value="BUS.HR">Human Resources</option>
+<option value="BUS.INSURANCE">Insurance Industries</option>
+<option value="BUS.MKTG">Marketing</option>
+<option value="BUS.OFFICE">Office Administration</option>
+<option value="BUS.MGMT.PROJECT">Project Management</option>
+<option value="BUS.REALESTATE">Real Estate Education</option>
+</optgroup>
+<optgroup label="Design">
+<option value="DESIGN.ARCHITECTURE">Architecture</option>
+<option value="DESIGN.GRAPHIC">Art &amp; Graphic Design</option>
+<option value="DESIGN.FASHION">Fashion Design</option>
+<option value="DESIGN.INTERIOR">Interior Design</option>
+<option value="DESIGN.LANDSCAPE">Landscape Design</option>
+</optgroup>
+<optgroup label="Education">
+<option value="EDU.ADULT">Adult Education</option>
+<option value="EDU.CHILD">Childhood Development</option>
+<option value="EDU.UNDERGRAD">Education (Undergraduate)</option>
+<option value="EDU.GRAD">Graduate Degrees in Education</option>
+<option value="EDU.COMM">Journalism, Communication &amp; Writing</option>
+<option value="EDU.LIBERAL">Liberal Studies</option>
+<option value="EDU.PSYCH">Psychology, Sociology &amp; Counseling</option>
+</optgroup>
+<optgroup label="Health, Beauty &amp; Wellness">
+<option value="SPA.BEAUTY">Beauty &amp; Cosmetology</option>
+<option value="SPA.FITNESS">Fitness &amp; Nutrition</option>
+<option value="SPA.ALL">Wellness</option>
+</optgroup>
+<optgroup label="Healthcare">
+<option value="MED.TECH.ANESTHESIA">Anesthesia Technology</option>
+<option value="MED.NURSING.BSN">Bachelor&#039;s Degrees in Nursing (BSN)</option>
+<option value="MED.NURSING.CNA">Certified Nursing Assistant (CNA)</option>
+<option value="MED.TECH.LAB">Clinic &amp; Lab Technology</option>
+<option value="MED.ASSISTING.DENTAL">Dental Assistant</option>
+<option value="MED.HYGIENE.DENTAL">Dental Hygiene</option>
+<option value="MED.TECH.DIALYSIS">Dialysis Technology</option>
+<option value="MED.TECH.EMERGENCY">EMT, Paramedic &amp; Fire Technology</option>
+<option value="MED.GERONTOLOGY">Gerontology &amp; Aging Studies</option>
+<option value="MED.NURSING.GRAD">Graduate Nurse (MS &amp; PhD)</option>
+<option value="MED.ADMIN.HEALTHCARE">Healthcare Administration</option>
+<option value="MED.TECH.ALL">Healthcare Technician</option>
+<option value="MED.THERAPY.MASSAGE">Massage Therapy</option>
+<option value="MED.ASSISTING.MEDICAL">Medical Assistant</option>
+<option value="MED.ADMIN.BILLING">Medical Billing &amp; Coding</option>
+<option value="MED.ADMIN.TRANSCRIPTION">Medical Transcription</option>
+<option value="MED.NURSING.ALL">Nursing Programs</option>
+<option value="MED.TECH.PATIENT">Patient Care Technology</option>
+<option value="MED.TECH.PHARMACY">Pharmacy Technology</option>
+<option value="MED.TECH.PHLEBOTOMY">Phlebotomy Technology</option>
+<option value="MED.THERAPY.PHYSICAL">Physical &amp; Occupational Therapy</option>
+<option value="MED.ASSIST.PHYSICIAN">Physician&#039;s Assistant</option>
+<option value="MED.NURSING.LPN">Practical &amp; Vocational Nurse (LPN/LVN)</option>
+<option value="MED.NURSING.RN">Registerd Nurse (AAS/AS/RN)</option>
+<option value="MED.THERAPY.RESPIRATORY">Respiratory Therapy</option>
+<option value="MED.TECH.SURGICAL">Surgical Technology</option>
+<option value="MED.TECH.ULTRASOUND">Ultrasound Technology</option>
+<option value="MED.TECH.VET">Veterinary Technology</option>
+<option value="MED.TECH.XRAY">X-Ray Technology</option>
+</optgroup>
+<optgroup label="Legal Studies">
+<option value="LGL.CR">Court Reporter</option>
+<option value="LGL.CJ">Criminal Justice</option>
+<option value="LGL.ALL.GRAD">Graduate Legal Degrees</option>
+<option value="LGL.ALL">Legal</option>
+<option value="LGL.PARALEGAL">Paralegal &amp; Legal Assistant</option>
+<option value="LGL.PUBLICSECTOR">Politics &amp; Public Administration</option>
+<option value="LGL.ALL.UNDERGRAD">Undergraduate Legal Degrees</option>
+</optgroup>
+<optgroup label="Technology">
+<option value="TEC.DESIGN.GAME">3D &amp; Game Design</option>
+<option value="TEC.DESIGN.AUDIOVIDEOPHOTO">Audio, Photo &amp; Video</option>
+<option value="TEC.PROGRAMMING">Computer Science &amp; Programming</option>
+<option value="TEC.INFOSYS">Information Systems</option>
+<option value="TEC.IT">Information Technology</option>
+<option value="TEC.NETWORKING">Network Administration</option>
+<option value="TEC.DESIGN.SOFTWARE">Software Design</option>
+<option value="TEC.DESIGN.WEB">Web Design</option>
+</optgroup>
+<optgroup label="Undecided">
+</optgroup>
+<optgroup label="Vocational &amp; Trade">
+<option value="VOC.AUTO">Automotive Technology</option>
+<option value="VOC.AVIATION">Aviation</option>
+<option value="VOC.CONSTRUCTION">Construction &amp; Heavy Industry</option>
+<option value="VOC.CULINARY">Culinary</option>
+<option value="VOC.HVAC">Heating, Ventilation, &amp; A/C Repair</option>
+<option value="VOC.CULINARY.MGMT">Restaurant &amp; Culinary Management</option>
+<option value="VOC.ALL">Vocational</option>
+</optgroup>
+</select></li><li class="widgetQuestion2"><div class="input select"><label for="type">School Type</label><select name="type" id="type">
+<option value="">All Types</option>
+<option value="ONLINE,CRSP">Online</option>
+<option value="GROUND">Campus</option>
+</select></div></li><li class="widgetQuestion3"><div class="input text"><label for="inputZip">Zip/Postal</label><input name="zip" type="text" id="inputZip" class="form-control" /></div></li></ul><div class="clear"></div></div>
+		<div id="buttonBox">
+			<input class="btn btn-primary" id="submitButton" type="submit" value="Submit" /> <!--button text in value-->
+		</div>
+</form>
+</div><!-- End .panel-body -->
+</div><!-- End .widget -->
+</div><!-- End .col-lg-12  --> 
+
+</div>
+</div><!-- End .col-lg-6  -->  
+	
+</div>
+</div>	</div
+		
+		   </table>
+
+	<!-- <div class="center" style="margin: 10px 0 20px;">
+		<div class="pagination">
+		<ul class="pagination">
+		<li><a href="#">&larr; Previous</a></li>
+		<li class="active">
+		 <a href="#">1</a>
+		</li>
+		<li><a href="#">2</a></li>
+		<li><a href="#">3</a></li>
+		<li><a href="#">4</a></li>
+		<li><a href="#">Next &rarr;</a></li>
+		</ul>
+		</div>
+	</div>
+	 -->
+
+
+
+	</div><!-- End .widget --> 
+
+</div><!-- End .col-lg-12  -->
+</div><!-- End .row-fluid  -->
+
+
+<div class="clear"></div>
+
+
+<style>
+#search_Results{
+	visibility: hidden;
+}
+</style>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+	    // Handler for .ready() called.
+	    $('html, body').animate({
+	        scrollTop: $('#search_Results').offset().top
+	    }, 'slow');
+	});
+</script>
+<script type="text/javascript">
+		function showIt() {
+			document.getElementById("search_Results").style.visibility = "visible";
+		}
+		setTimeout("showIt()", 1350); // after 1.25 sec
+</script>
+<script type="text/javascript">
+		jQuery(window).bind("load resize",function(e){
+		    if ($(window).width() < 700) {
+					jQuery( ".firstHead .in" ).switchClass( "firstHead in","firstHead firstPanel_2");
+		         	jQuery( ".firstHead .firstPanel_1" ).switchClass( "firstHead firstPanel_1","firstHead collapsed");
+					jQuery( ".firstHead .firstPanel_2" ).switchClass( "firstHead firstPanel_2","firstHead collapse");
+					
+		    } else {
+					jQuery( ".firstHead .firstPanel_2" ).switchClass( "firstHead firstPanel_2","firstHead in");
+		         	jQuery( ".firstHead .collapsed").switchClass( "firstHead collapsed","firstHead firstPanel_1");
+					jQuery( ".firstHead .collapse").switchClass( "firstHead collapse","firstHead firstPanel_2");
+			
+		    }
+		});
+</script>
+
+
+
+
+ <!-- RIGHT COLUMN CONTENT -->
+		</div>
+	</div><div class="clear"></div>
+	<div id="footer">
+    	<p id="footerLinks">
+    	<a href="http://www.esninteractive.com" target="_blank">An ESN Interactive Product</a> 
+    	&#58;&#58; <a href="http://clients.edusearch.com" target="_blank">Clients</a>
+    	&#58;&#58; <a href="http://www.edusearch.com/privacy/" target="_blank">Privacy Policy</a> 
+		<p id="copyRight">&copy;2014 EduSearch Network Inc. all rights reserved.</p>
+    </div>
+
+
+
+    <!-- ESN PageLoad Script -->
+	<div id="83893469003249862"></id>
+	<script src="http://monitor.edusearch.com/m/m.js"></script>
+	<noscript><img src="http://monitor.edusearch.com/collectors/get.gif"></noscript>
+
+</body>
+</html>

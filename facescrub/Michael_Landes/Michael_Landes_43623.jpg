@@ -1,0 +1,510 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--[if IE 7]>                  <html class="ie7 no-js" lang="en">     <![endif]-->
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="en">     <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="not-ie no-js" lang="en">  <!--<![endif]-->
+
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<title>The Artists Partnership leading UK acting agency </title>
+	
+	<meta name="description" content="The Artists Partnership is a leading UK agency representing top British and International Talent">
+    <meta name="keywords" content="male actors, female actors,female voice actors,casting directors,voice actors">	
+    <meta name="author" content="The Artists Partnership">
+	<meta name="google-site-verification" content="p9-joxkZD39yNzVadr1TXmjea9Al5xDKZ5BPl6Loz6k" />
+	<!--[if !lte IE 6]><!-->
+		<link rel="stylesheet" href="css/style.css" media="screen" />
+
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,300,800,700,400italic|PT+Serif:400,400italic" />
+		
+	
+	<!--<![endif]-->
+
+	<!--[if lte IE 6]>
+		<link rel="stylesheet" href="//universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+	<![endif]-->
+
+	<!-- HTML5 Shiv + detect touch events -->
+	   <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47424144-1', 'theartistspartnership.co.uk');
+  ga('send', 'pageview');
+
+</script>
+<script src="js/modernizr.custom.js"></script>
+
+
+ <meta name="msvalidate.01" content="FB014D28F7B77748AE0C9E005D9C92CF" />
+</head>
+<body>
+
+<header id="header" class="container clearfix">
+
+	<a href="index.asp" title="the artists partnership" id="logo">
+		<img src="img/logo.png" alt="the artists partnership" width="320" height="132" >
+	</a>
+
+	
+	<nav id="main-nav">
+    <ul>
+    
+   <li><a href="#" title="ACTORS">ACTORS</a> 
+        <ul> <li><a href="/maleactors/1/1/" title="MALE ACTORS">MALE</a> </li>  
+        <li><a href="/femaleactors/2/2/" title="FEMALE ACTORS">FEMALE</a></li>
+        </ul></li>
+        
+        
+                
+        <li><a href="/voiceoverartists.asp" title="VOICE OVER">VOICE</a>
+       
+        </li>
+        <li><a href="/directors.asp" title="DIRECTORS">DIRECTORS / WRITERS</a></li>
+        <li><a href="/contactus.asp" title="CONTACT US">CONTACT</a></li>        
+		<li><a href="/news.asp" title="NEWS">NEWS</a>
+          	<ul>
+               <li><a href="/news/5/" title="Awards">DEVELOPMENT NEWS</a></li>
+                <li><a href="/news/2/" title="Awards">AWARDS</a></li>
+                <li><a href="/news/3/" title="This weeks TV">THIS WEEKS TV AND RADIO</a></li>
+           <li><a href="/news/1/" title="Theatre News">THEATRE NEWS</a></li>
+                <li><a href="/news/4/" title="This weeks TV">FILM AND TELEVISION NEWS</a></li>
+                 <li><a href="/marcusevans/marcusevansreviews.asp" title="marcus evans entertainment reviews">REVIEWS</a></li>
+             
+                
+
+
+        	</ul>
+		</li>     
+      </ul>
+         
+          </NAV>
+         
+                    
+            
+      
+      
+      
+       
+       
+    
+      
+       
+       
+            
+            
+    
+    </ul>
+  </div>
+
+<script type="text/javascript" src="/jquery.top.js"></script>
+<script type="text/javascript" src="/jquerytopmenu.js"></script><!-- end #main-nav -->
+	
+</header><!-- end #header -->
+
+<section id="content" class="container clearfix"> 
+  <h3 class="slogan align-center" >A leading UK agency representing top British and International Talent</h3>
+ 
+
+  <section id="features-slider" class="ss-slider" >
+    
+  <article class="slide">
+    
+    <img src="uploads/intothewoods.bmp" alt="the artists partnership Into The Woods: Emily Blunt" class="slide-bg-image" />
+    
+    <div class="slide-button">
+      <span class="dropcap">1</span>
+      <h5>Into The Woods: Emily Blunt</h5>
+      <span class="description"></span>
+      </div>
+    
+    <div class="slide-content">
+      <h2>Into The Woods: Emily Blunt</h2>
+      <p>Emily Blunt stars in the hugely anticipated big screen adaptation of Stephen Sondheim's fairytale musical.
+</p>
+      <p><a class="button" title="Into The Woods: Emily Blunt" href="/newsdetail/1/">Read More</a></p>
+      </div>
+    
+  </article><!-- end .slide (Easily Customisable) -->
+      
+  <article class="slide">
+    
+    <img src="uploads/behindtheb.bmp" alt="the artists partnership Behind the Beautiful Forevers: Anjili Mohindra" class="slide-bg-image" />
+    
+    <div class="slide-button">
+      <span class="dropcap">2</span>
+      <h5>Behind the Beautiful Forevers: Anjili Mohindra</h5>
+      <span class="description"></span>
+      </div>
+    
+    <div class="slide-content">
+      <h2>Behind the Beautiful Forevers: Anjili Mohindra</h2>
+      <p>Anjili stars in David Hare's new play based on Katherine Boo's bestselling book, directed by Rufus Norris. At the National Theatre until the 13th April 2014.</p>
+      <p><a class="button" title="Behind the Beautiful Forevers: Anjili Mohindra" href="/newsdetail/2/">Read More</a></p>
+      </div>
+    
+  </article><!-- end .slide (Easily Customisable) -->
+      
+  <article class="slide">
+    
+    <img src="uploads/rememberme.bmp" alt="the artists partnership Remember Me: Julia Sawalha and Noreen Kershaw" class="slide-bg-image" />
+    
+    <div class="slide-button">
+      <span class="dropcap">3</span>
+      <h5>Remember Me: Julia Sawalha and Noreen Kershaw</h5>
+      <span class="description"></span>
+      </div>
+    
+    <div class="slide-content">
+      <h2>Remember Me: Julia Sawalha and Noreen Kershaw</h2>
+      <p>The new supernatural BBC1 drama stars our Julia Sawalha and Noreen Kershaw. Begins this Sunday 23rd November at 9pm</p>
+      <p><a class="button" title="Remember Me: Julia Sawalha and Noreen Kershaw" href="/newsdetail/3/">Read More</a></p>
+      </div>
+    
+  </article><!-- end .slide (Easily Customisable) -->
+      
+  <article class="slide">
+    
+    <img src="uploads/shakespeareinlove.JPG" alt="the artists partnership Shakespeare in Love: Lucy Briggs-Owen & Ian Bartholomew" class="slide-bg-image" />
+    
+    <div class="slide-button">
+      <span class="dropcap">4</span>
+      <h5>Shakespeare in Love: Lucy Briggs-Owen & Ian Bartholomew</h5>
+      <span class="description"></span>
+      </div>
+    
+    <div class="slide-content">
+      <h2>Shakespeare in Love: Lucy Briggs-Owen & Ian Bartholomew</h2>
+      <p>Lucy Briggs-Owen plays Viola and Ian Bartholomew plays Tilney in the critically acclaimed musical of the Oscar Winning film.</p>
+      <p><a class="button" title="Shakespeare in Love: Lucy Briggs-Owen & Ian Bartholomew" href="/newsdetail/4/">Read More</a></p>
+      </div>
+    
+  </article><!-- end .slide (Easily Customisable) -->
+      <!-- end .slide (Unique & Clean) -->
+		
+  </section><!-- end #features-slider --><h6 class="section-title">Welcome to the Artists Partnership <!-- AddThis Button BEGIN -->
+     </h6> 
+  
+  <p>A  leading UK agency representing top British and International Talent with links  throughout the world. We represent actors,  directors and writers in all areas of the industry. Through our own Literary and Development Department and marcus evans  entertainment, we have substantial backing to develop film, television and  theatre projects.        
+<h1 style="font-size:12px;"><strong>THE ARTISTS PARTNERSHIP</strong></h1>
+<p>ROGER  CHARTERIS | ANNALISA GORDON | SASKIA MULDER | GILLY SANGUINETTI |  ZOE STOKER | ROBERT TAYLOR | JAN THORNTON<br />
+ </p>
+	
+ 
+
+  </p><h6 class="section-title">Latest From The Artists Partnership</h6>
+
+	<ul class="post-carousel">
+
+		
+
+		<li>	<h2><a href="aboutus.asp" title="about the artist partnership" >
+			  WHO WE ARE
+			  </a>
+			  
+		  </h2>
+		
+		
+		  <div class="entry-meta">
+		    
+		   <a href="aboutus.asp" title="the artist partnership">
+		      <span class="post-format">Permalink</span>
+	        </a>
+		    
+		    
+		    
+	      </div><!-- end .entry-meta -->
+		  
+		  <div class="entry-body" >
+		    
+		   <a href="aboutus.asp" title="the artist partnership">
+	       <h5 class="title">We are a leading UK talent agency</h5>
+	        </a>
+		    
+		    <p>Our  eight agents represent actors, writers and directors in all areas of the  industry. We have a new and burgeoning Literary and Development Department and additionally cover Branding, Endorsements and Special projects with our clients. <br />
+<br />
+At The Artists Partnership, we welcome  applications for work experience placements; for further details on how to  apply please contact our Office Manager <br />
+<a href="mailto:kaye@theartistspartnership.co.uk"><strong>Kaye Freeman</strong></a><br />
+
+</p>
+		    
+	      </div><!-- end .entry-body -->
+		  
+	  </li >
+
+	
+<li class="clearfix" >
+			<h2  ><a href="aboutus.asp" title="what the artist partnership do">
+		    WHAT WE DO
+			  </a>
+			  
+	    </h2>
+	
+	  
+	    <div class="entry-meta">
+	      
+	      <a href="aboutus.asp" title="what the artist partnership do">
+	        <span class="post-format">Permalink</span>
+          </a>
+	      
+	      
+	      
+      </div><!-- end .entry-meta -->
+	    
+	    <div class="entry-body">
+	      
+	     <a href="aboutus.asp" title="what the artist partnership do">
+	        <h5 class="title">Film, television and theatre production</h5>
+          </a>
+	      
+	      <p>We  work for our clients across Film, Television, Theatre, Commercials, Radio and  Voiceover. Through our own Literary and Development Department and marcus evans  entertainment, we have substantial backing to develop film, television and  theatre projects.</p>
+</div><!-- end .entry-body -->
+	    
+      </li>
+
+		<li style=" width:400px; margin-top:40px;" >
+      <a class="twitter-timeline"  href="https://twitter.com/TheAPartnership"  data-widget-id="428100626493362176">Tweets by @TheAPartnership</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+
+
+
+		 <!-- end .entry-body -->
+
+		</li>
+
+		 <li >
+
+
+
+
+ 
+
+
+
+			<div class="entry-meta">
+
+				<a href="newsdetail.asp?NewsID=116" title="the artist partnership News">
+					<span class="post-format link">Permalink</span>
+				</a>
+
+			 
+
+			</div><!-- end .entry-meta -->
+
+		<div class="entry-body">
+
+				<a href="newsdetail.asp?NewsID=116" title="the artist partnership news">
+					<h5 class="title">REMEMBER ME - JULIA SAWALHA AND NOREEN KERSHAW
+                    
+                    </h5>
+				</a>
+
+			  <p>The new supernatural BBC1 drama stars our Julia Sawalha and Noreen Kershaw. Begins this Sunday 23rd November at 9pm.
+              </p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+ <li >
+
+
+
+
+ 
+
+
+
+			<div class="entry-meta">
+
+				<a href="newsdetail.asp?NewsID=115" title="the artist partnership News">
+					<span class="post-format link">Permalink</span>
+				</a>
+
+			 
+
+			</div><!-- end .entry-meta -->
+
+		<div class="entry-body">
+
+				<a href="newsdetail.asp?NewsID=115" title="the artist partnership news">
+					<h5 class="title">MARCO POLO TRAILER 
+                    
+                    </h5>
+				</a>
+
+			  <p>This landmark  production features our AMR WAKED and lands on Netflix in December.
+              </p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+ <li >
+
+
+
+
+ 
+
+
+
+			<div class="entry-meta">
+
+				<a href="newsdetail.asp?NewsID=114" title="the artist partnership News">
+					<span class="post-format link">Permalink</span>
+				</a>
+
+			 
+
+			</div><!-- end .entry-meta -->
+
+		<div class="entry-body">
+
+				<a href="newsdetail.asp?NewsID=114" title="the artist partnership news">
+					<h5 class="title">FULL PADDINGTON TRAILER ARRIVES
+                    
+                    </h5>
+				</a>
+
+			  <p>The full trailer for the adorable PADDINGTON BEAR is here, with our Madeleine Harris as Lucy Brown. 
+              </p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+ <li >
+
+
+
+
+ 
+
+
+
+			<div class="entry-meta">
+
+				<a href="newsdetail.asp?NewsID=113" title="the artist partnership News">
+					<span class="post-format link">Permalink</span>
+				</a>
+
+			 
+
+			</div><!-- end .entry-meta -->
+
+		<div class="entry-body">
+
+				<a href="newsdetail.asp?NewsID=113" title="the artist partnership news">
+					<h5 class="title">A POET IN NEW YORK SCREENS ON BBC AMERICA
+                    
+                    </h5>
+				</a>
+
+			  <p>The acclaimed drama, focusing on Dylan Thomas' last trip to New York stars NAOMI EVERSON as the photographer Rollie McKenna and will air at 8pm ET on the 29th October.<img src="/uploads/poetnewyork.bmp" alt="The acclaimed drama, focusing on Dylan Thomas' last trip to New York stars NAOMI EVERSON as the photographer Rollie McKenna and will air at 8pm ET on the 29th October." align="left"  style=" max-width:180px;" />
+              </p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+ 
+		
+	</ul><!-- end .post-carousel -->
+	
+</section><!-- end #content -->
+
+
+
+	<footer id="footer" class="clearfix">
+
+	<div class="container">
+
+		<div class="three-fourth">
+
+			<nav id="footer-nav" class="clearfix">
+
+				<ul>
+					<li><a href="index.asp" title="Artist Partnership Home">Home</a></li>
+					<li><a href="/maleactors/1/1/" title="Artist Partnership Male">Male Actors</a></li>
+					<li><a href="/femaleactors/2/2/" title="Artist Partnership Male Actors">Female Actors</a></li>
+                    	<li><a href="/voiceoverartists.asp" title="Artist Partnership voice over artists">Voice</a></li>
+					<li><a href="/Directors.asp" title="Artist Partnership directors and writers">Directors and Writers</a></li>
+				
+                    <li><a href="/contactus.asp" title="Artist Partnership contact us">Contact</a></li>
+                    <li><a href="/news.asp" title="Artist Partnership news">News</a></li>
+                    <li><a href="http://www.marcusevans.com" title="marcus evans">marcusevans.com</a></li>
+				</ul>
+				
+			</nav><!-- end #footer-nav -->
+
+			<ul class="contact-info">
+				<li class="address">101 Finsbury Pavement, London, EC2A 1RS
+</li>
+				<li class="phone">(020) 7439 1456</li>
+				<li class="email"><a href="mailto:kaye@theartistspartnership.co.uk">email@theartistspartnership.co.uk
+</a></li>
+			</ul><!-- end .contact-info -->
+			
+		</div><!-- end .three-fourth -->
+
+		<div class="one-third last">
+
+			<span class="title">Stay connected</span>
+
+ <!-- AddThis Button BEGIN -->
+   <div class="addthis_toolbox addthis_default_style  addthis_32x32_style"  >
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=patch0732"></script>
+<!-- AddThis Button END -->
+</div>    
+		</div><!-- end .one-fourth.last -->
+		
+	</div><!-- end .container -->
+
+</footer><!-- end #footer -->
+
+<footer id="footer-bottom" class="clearfix">
+
+	<div class="container">
+
+		<ul>
+			<li>The Artists Partnership &copy; 2014</li>
+		
+		
+	  </ul>
+
+	</div><!-- end .container -->
+
+</footer>
+<!-- end #footer-bottom -->
+
+<!--[if !lte IE 6]><!-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.7.1.min.js"><\/script>')</script>
+	<!--[if lt IE 9]> <script src="js/selectivizr-and-extra-selectors.min.js"></script> <![endif]-->
+	<script src="js/respond.min.js"></script>
+<script src="js/jquery.easing-1.3.min.js"></script>
+	<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/jquery.smartStartSlider.min.js"></script>
+	<script src="js/jquery.jcarousel.min.js"></script>
+	<script src="js/jquery.cycle.all.min.js"></script>
+	<script src="js/jquery.isotope.min.js"></script>
+
+<script src="js/jquery.gmap.min.js"></script>
+	<script src="js/jquery.touchSwipe.min.js"></script>
+	<script src="js/custom.js"></script>
+<!--<![endif]-->
+</body>
+</html>

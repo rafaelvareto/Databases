@@ -1,0 +1,378 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+ <script type="text/javascript" src="/templates/theartisangroup/js/jquery.min.js"></script>
+<script type="text/javascript"> $.curCSS = function (element, attrib, val) {
+    $(element).css(attrib, val);
+}; </script>
+<link rel="stylesheet" type="text/css" href="/templates/theartisangroup/css/jquery-ui.css">
+  <base href="http://theartisangroup.org/gallery/image%253Fformat%253Draw%2526type%253Dimg%2526id%253D501&amp;" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="the artisan group, artisan group, celebrity gifting, gift lounge, gbk, gbk productions, celebrity seeding, product placement, celebrity product placement, celebrity gift lounge, swag bags, celebrity swag bags, celebrity gifting suites, celebrity gift bags, the golden globes, the oscars, celebrities, american music awards, the grammys, kids choice awards, mtv, mtv movie awards, the academy awards, primetime emmy awards, emmy awards, gift suites, cmas, country music awards, cannes film festival" />
+  <meta name="description" content="The Artisan Group is an exclusive juried group of talented artisans who collectively provides a lovely sampling of our hand-crafted products to celebrities at Hollywood's best Gift Lounges." />
+  <title>Gallery</title>
+  <link href="http://theartisangroup.org/component/search/?Itemid=3&amp;format=opensearch" rel="search" title="Search The Artisan Group" type="application/opensearchdescription+xml" />
+  <link href="/templates/theartisangroup/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/menus.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/modules.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/body/fabricboard.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/theartisangroup/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="http://theartisangroup.org/modules/mod_socialmedialinks/style.css" type="text/css" />
+  <style type="text/css">
+.wrapper { width: 960px; }
+
+  </style>
+  <script src="/templates/theartisangroup/warp/libraries/jquery/jquery.js" type="t" defer="defer" async="async"></script>
+  <script src="http://theartisangroup.org/templates/theartisangroup/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/templates/theartisangroup/warp/js/warp.js" type="text/javascript"></script>
+  <script src="/templates/theartisangroup/warp/js/accordionmenu.js" type="text/javascript"></script>
+  <script src="/templates/theartisangroup/js/dropdownmenu.js" type="text/javascript"></script>
+  <script src="/templates/theartisangroup/js/template.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+var Warp = Warp || {}; Warp.Settings = {"color":null,"itemColor":null};jQuery(document).ready(function()
+				{
+					jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+				});
+  </script>
+
+<link rel="apple-touch-icon" href="/templates/theartisangroup/apple_touch_icon.png" />
+
+
+<meta name="google-site-verification" content="" />
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-31097903-1']);
+_gaq.push(['_trackPageview']);
+
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+<!-- Asynchonous Google Analytics Plugin by PB Web Development -->
+
+</head>
+
+<body id="page" class="yoopage right   ">
+	
+	
+	<div id="page-header">
+		<div class="page-header-t">
+			<div class="page-header-b">
+				<div class="wrapper floatholder">
+		
+					<div id="header">
+							
+						<div id="toolbar1">
+							<div class="floatbox ie_fix_floats">
+							
+																<div id="date">
+									Wednesday, 03 December 2014								</div>
+											
+										
+											
+							</div>
+						</div>
+		
+						<div id="headerbar">
+							<div class="floatbox ie_fix_floats">
+								<div class="mod-headerbar ">
+	<div class="module">
+	
+				<div class="badge-soldier"></div>			
+		<div class="box-1">
+			<div class="box-2">
+				<div class="box-3 deepest">
+										<h3 class="header"><span class="header-2"><span class="header-3">Member's<span class="color"> Area</span></span></span></h3>
+										<form action="http://theartisangroup.org/apply-to-group/login" method="post" id="login-form" class="cbLoginForm" style="margin:0px;">
+<fieldset class="userdata"><p id="form-login-username"><span><input type="text" name="username" id="mod_login_username" class="inputbox input-medium" size="14" style="background-image:url(http://theartisangroup.org/modules/mod_cblogin/mod_cblogin/username.png); background-repeat: no-repeat; background-position: 0px 0px; padding-left: 30px; min-height: 18px;width:auto;"  title="Username or email" /></span></p><p id="form-login-password"><span><input type="password" name="passwd" id="mod_login_password" class="inputbox input-medium" size="14" style="background-image:url(http://theartisangroup.org/modules/mod_cblogin/mod_cblogin/password.png); background-repeat: no-repeat; background-position: 0px 0px; padding-left: 30px; min-height: 18px;width:auto;"  title="Password" /></span></p><input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="english" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cDovL3RoZWFydGlzYW5ncm91cC5vcmcvZ2FsbGVyeS9pbWFnZSUzRmZvcm1hdCUzRHJhdyUyNnR5cGUlM0RpbWclMjZpZCUzRDUwMSZhbXA7" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_75835ae0_3d84940c_c206271d8c9498394fd876028cf2b287" />
+<input type="hidden" name="remember" value="yes" /><span class="cbLoginButtonSpan"><input type="submit" name="Submit" class="button" value="Login" style="min-height:20px;padding-left:30px;cursor:pointer;background-image:url(http://theartisangroup.org/modules/mod_cblogin/mod_cblogin/login.png);background-position:0 0;background-repeat:no-repeat;width:auto;" /></span></fieldset><ul class="cbLoginLinksList"><li class="cbLostLoginLi"><a href="http://theartisangroup.org/apply-to-group/lostpassword" class="mod_login">Forgot login?</a></li><li class="cbLostLoginLi"><a href="http://theartisangroup.org/apply-to-group/registers" class="mod_login">Register</a></li></ul></form>				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>							</div>
+						</div>
+		
+												<div id="menu">
+							<ul class="nav menu">
+<li class="item-20"><a href="/" >Home</a></li><li class="item-19"><a href="/about-us" >About Us</a></li><li class="item-3 current active"><a href="/gallery" >Gallery</a></li><li class="item-238"><a href="/events" >Events</a></li><li class="item-5"><a href="/apply-to-group" >Apply to Group</a></li><li class="item-61"><a href="/faq" >FAQ</a></li></ul>
+						</div>
+									
+								
+						<div id="logo">
+							
+
+<div class="custom"  >
+	<p class="header"><img style="vertical-align: top; border: 0; margin: 0px;" src="/templates/theartisangroup/images/logo_new.png" alt="logo" width="564" height="200" border="0" /></p></div>
+						</div>
+									
+												<div id="search">
+							<form action="index.php" method="post">
+	<div class="module-search">
+				
+		<input name="searchword" maxlength="20" alt="Search" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />
+
+				
+	</div>
+
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+</form>						</div>
+									
+								
+					</div>
+					<!-- header end -->
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="page-body">
+		<div class="wrapper floatholder">
+			
+			
+			<div id="middle">
+				<div class="background">
+
+										<div id="breadcrumbs">
+						<div class = "breadcrumbs" >
+<a href="/" class="pathway">Home</a> <img src="/templates/theartisangroup/images/system/arrow.png" alt="" /> <span>Gallery</span></div>
+					</div>
+					
+										<div id="left">
+						<div id="left_container" class="clearfix">
+							<div class="mod-note ">
+	<div class="module">
+	
+		<div class="badge badge-magnetorange"></div>				
+		<div class="box-t1">
+			<div class="box-t2"></div>
+		</div>
+		
+		<div class="box-1">
+			<div class="box-2 deepest">
+									<h3 class="header"><span class="header-2"><span class="header-3">Follow<span class="color"> Us</span></span></span></h3>
+								<div class="smile" style="text-align: center "> <a style="margin:2px;" rel="nofollow" href="http://www.facebook.com/theartisangroup" target="_blank"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/facebook.png " alt="Facebook" title="Follow us on Facebook" /></a><a style="margin:2px;" rel="nofollow" href="http://www.twitter.com/theartisangroup" target="_blank"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/twitter.png " alt="Twitter" title="Follow us on Twitter" /></a><a style="margin:2px;" rel="nofollow" href="http://www.instagram.com/theartisangroup" target="_blank"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/instagram.png " alt="Instagram" title="Follow us on Instagram" /></a><a style="margin:2px;" rel="nofollow" href="http://pinterest.com/theartisangroup/" target="_blank"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/pinterest.png " alt="Pinterest" title="Follow us on Pinterest" /></a><a style="margin:2px;" rel="nofollow" href="http://theartisangroup.org/blog/" target="_blank"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/wordpress.png " alt="Wordpress" title="Follow us on Wordpress" /></a>
+	</div>
+    <div class="clr"></div>
+			</div>
+		</div>
+			
+		<div class="box-b1">
+			<div class="box-b2">
+				<div class="box-b3"></div>
+			</div>
+		</div>
+		
+	</div>
+</div><div class="mod-note ">
+	<div class="module">
+	
+						
+		<div class="box-t1">
+			<div class="box-t2"></div>
+		</div>
+		
+		<div class="box-1">
+			<div class="box-2 deepest">
+								<div class="smile" style="text-align: center "> <a style="margin:2px;" rel="nofollow" href="/sponsors" target="_self"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/sponsors.png " alt="Sponsors" title="Visit Our Sponsors" /></a>
+	</div>
+    <div class="clr"></div>
+			</div>
+		</div>
+			
+		<div class="box-b1">
+			<div class="box-b2">
+				<div class="box-b3"></div>
+			</div>
+		</div>
+		
+	</div>
+</div><div class="mod-note ">
+	<div class="module">
+	
+						
+		<div class="box-t1">
+			<div class="box-t2"></div>
+		</div>
+		
+		<div class="box-1">
+			<div class="box-2 deepest">
+								<div class="smile" style="text-align: center "> <a style="margin:2px;" rel="nofollow" href="http://theartisangroup.org/blog/category/as-seen-on-tv" target="_blank"><img src="http://theartisangroup.org/modules/mod_socialmedialinks/icons/default/size4/as-seen-on-tv_rgb_5.jpg " alt="As-seen-on-tv_rgb_5" title="Visit Our As-seen-on-tv_rgb_5" /></a>
+	</div>
+    <div class="clr"></div>
+			</div>
+		</div>
+			
+		<div class="box-b1">
+			<div class="box-b2">
+				<div class="box-b3"></div>
+			</div>
+		</div>
+		
+	</div>
+</div><div class="mod-print ">
+	<div class="module">
+	
+		<div class="badge badge-magnetwhite"></div>				
+		<div class="box-t1">
+			<div class="box-t2"></div>
+		</div>
+		
+		<div class="box-1">
+			<div class="box-2">
+				<div class="box-3 deepest">
+										<h3 class="header"><span class="header-2"><span class="header-3">Events</span></span></h3>
+										<div class="scevents style-print badge-magnetwhite">
+		<ul>
+			<li><a href="/component/simplecalendar/908-events/25-golden-globes?Itemid=3">GBK's 2015 Golden Globes Celebrity Gift Lounge</a> (01.09.15)</li>
+		</ul>
+	</div>				</div>
+			</div>
+		</div>
+
+		<div class="box-b1">
+			<div class="box-b2">
+				<div class="box-b3"></div>
+			</div>
+		</div>
+		
+	</div>
+</div><div class="mod-postit2 ">
+	<div class="module">
+	
+						
+		<div class="box-t1">
+			<div class="box-t2"></div>
+		</div>
+		
+		<div class="box-1">
+			<div class="box-2 deepest">
+									<h3 class="header"><span class="header-2"><span class="header-3">Artisan<span class="color"> Group News</span></span></span></h3>
+								<div class="newsflash">
+
+	<h4 class="newsflash-title">
+			<a href="/news/4-welcome">
+			Welcome to The Artisan Group!</a>
+		</h4>
+
+
+
+
+<p style="text-align: center;"><a href="http://joom.ag/Bzqb" target="_blank"></a></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><strong style="font-size: 11px;"><em style="font-family: 'Book Antiqua'; font-size: medium; text-align: center;"><span style="font-size: xx-small;">The Artisan Group</span></em><em style="font-family: 'Book Antiqua'; font-size: medium; text-align: center;"><span style="font-size: xx-small;"> is not in any way associated with The Academy of Motion Picture Arts and Sciences (The Oscars, or The Academy Awards), The Hollywood Foreign Press Association (The Golden Globes), MTV, The Cannes Film Festival, NY Fashion Week, or The Academy of Television Arts &amp; Sciences (The Emmys or The Primetime Emmys).</span></em></strong></p>
+</div>
+			</div>
+		</div>
+			
+		<div class="box-b1">
+			<div class="box-b2">
+				<div class="box-b3"></div>
+			</div>
+		</div>
+		
+	</div>
+</div>						</div>
+					</div>
+					<!-- left end -->
+							
+					<div id="main">
+						<div id="main_container" class="clearfix">
+						
+							<div class="main-tr">
+								<div class="main-t">
+									<div class="main-pin"></div>
+								</div>
+							</div>
+		
+							<div class="main-r">
+								<div class="main-m">
+			
+													
+									<div id="mainmiddle" class="floatbox">
+				
+																
+										<div id="content">
+											<div id="content_container" class="clearfix">
+				
+												
+												<div class="floatbox">
+													
+<div id="system-message-container">
+<dl id="system-message">
+<dt class="error">Error</dt>
+<dd class="error message">
+	<ul>
+		<li>Unpublished</li>
+	</ul>
+</dd>
+</dl>
+</div>
+												</div>
+				
+																
+											</div>
+										</div>
+										<!-- content end -->
+				
+									</div>
+									<!-- mainmiddle end -->
+				
+												
+								</div>
+							</div>
+		
+							<div class="main-bl">
+								<div class="main-br">
+									<div class="main-b"></div>
+								</div>
+							</div>
+		
+						</div>
+					</div>
+					<!-- main end -->
+		
+				</div>
+			</div>
+			<!-- middle end -->
+			
+			
+			<div id="footer">
+				<div class="floatbox"><a class="anchor" href="#page"></a></div>
+				<div class="footer-bg">
+
+<div class="custom"  >
+	<center>
+<p style="color: #757678;">Copyright © 2014 The Artisan Group<sup>®</sup>. All Rights Reserved.</p>
+</center></div>
+</div>
+							</div>
+			<!-- footer end -->
+	
+		</div>
+	</div>
+	
+</body>
+</html>

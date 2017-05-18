@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Thing" class="squarespace-damask" lang="en-US">
+<head>
+
+  <!-- r4183 -->
+  <!-- This is Squarespace. --><!-- trek-fm -->
+<base href="">
+<meta charset="utf-8" />
+<title>Trek.fm</title>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+<meta property="og:site_name" content="Trek.fm"/>
+<meta property="og:title" content="Trek.fm"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Trek.fm"/>
+<meta name="description" content="" />
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-39269b892356dcd614153561403e22ad-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/commerce-b2e77dd7a0ca0b16a7ef2b6d7fe1740e-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//static.squarespace.com/universal/styles-compressed/commerce-e58be4bacdeeed35e8138bacd73aa12c-min.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script type="text/javascript" data-sqs-type="dynamic-assets-loader">(function() {(function(a){try{if(window.top!=window&&window.top.Squarespace&&window.top.Squarespace.frameAvailable){window.top.Squarespace.frameAvailable(window,SQUARESPACE_ROLLUPS);return}}catch(d){console.error(d)}window.__dynamicAssetLoaderErrorLogger=function(a){var b=new XMLHttpRequest;b.open("GET","/api/rollups/error?path="+encodeURIComponent(a.src||a.href)+"&page="+encodeURIComponent(window.location.href),!0);b.send()};for(var c in a){if(a[c].js)for(var b=0;b<a[c].js.length;b++)document.write('<script type="text/javascript" src="'+
+a[c].js[b]+'" onerror="__dynamicAssetLoaderErrorLogger(this)">\x3c/script>');if(a[c].css)for(b=0;b<a[c].css.length;b++)document.write('<link rel="stylesheet" type="text/css" href="'+a[c].css[b]+'" onerror="__dynamicAssetLoaderErrorLogger(this)" />')}})(SQUARESPACE_ROLLUPS);
+})();</script>
+<script>Static.SQUARESPACE_CONTEXT = {"rollups":{"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-3d296132f5773d0024056c9449cffd92-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-a33dc0dcbfb8acf7b97a44d24944de65-min.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e1db8ee387298b95f8b521ea202d5fa4-min.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-0eeb350021efe00540fbb65b276d3701-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-81e4a3e332c86b01d3775efb218affa3-min.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-3aa353dc0ac8992256671d29344cf512-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-f8fd100a225e287465f9a2e4e6723495-min.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-b305e9d0613e2bace43cbe4f787e1893-min.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-67073476a1985644e993d4d017d79a71-min.js"}},"pageType":100,"website":{"id":"4ff44f9bc4aa4a0dd8ca3ab3","identifier":"trek-fm","contentModifiedOn":1417550786764,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Asia/Tokyo","machineTimeZoneOffset":32400000,"timeZoneOffset":32400000,"timeZoneAbbr":"JST","siteTitle":"Trek.fm","siteDescription":"","location":{"mapZoom":12.0,"mapLat":40.7207559,"mapLng":-74.00076130000002,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"shareButtonOptions":{"8":true,"1":true,"5":true,"7":true,"2":true,"3":true,"4":true,"6":true},"authenticUrl":"http://www.trek.fm","baseUrl":"http://www.trek.fm","primaryDomain":"www.trek.fm","socialAccounts":[{"serviceId":4,"userId":"161864402","userName":"trekfm","screenname":"Trek.fm","addedOn":1342147017832,"profileUrl":"https://twitter.com/trekfm","iconUrl":"http://a0.twimg.com/profile_images/1540400135/Trek-fm-45-Avatar-B_normal.jpg","collectionId":"4fff89c9e4b0cc94843148b4","iconEnabled":true,"serviceName":"twitter"},{"serviceId":2,"userId":"623879326","userName":"cbryanjones","screenname":"Trek.fm","addedOn":1381128681078,"profileUrl":"http://www.facebook.com/trekfm","iconUrl":"http://graph.facebook.com/623879326/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":21,"userId":"102640437668109556838","screenname":"Christopher Jones","addedOn":1381129142481,"profileUrl":"https://plus.google.com/b/111883436194977499532/communities/112234184609993954336","iconUrl":"https://lh3.googleusercontent.com/-4SfWDvdZ6t0/AAAAAAAAAAI/AAAAAAAAAKw/BpZommUS53s/photo.jpg","iconEnabled":true,"serviceName":"google"}],"typekitId":"poz4iwk","statsMigrated":true,"imageMetadataProcessingEnabled":false},"websiteSettings":{"id":"4ff44f9bc4aa4a0dd8ca3ab4","websiteId":"4ff44f9bc4aa4a0dd8ca3ab3","type":"Business","subject":"Entertainment","subjects":[{"systemSubject":"other","otherSubject":"Entertainment"}],"country":"US","state":"","markdownMode":false,"simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"lastAgreedTermsOfService":2,"defaultPostFormat":"%t","commentLikesAllowed":true,"commentAnonAllowed":false,"commentThreaded":true,"commentApprovalRequired":true,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","homepageTitleFormat":"","collectionTitleFormat":"%c","itemTitleFormat":"%i","commentsEnabled":false,"allowSquarespacePromotion":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"useLightCart":false,"showNoteField":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"storeState":3,"stripeConnected":false,"isLive":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1},"websiteCloneable":false,"subscribed":false,"appDomain":"squarespace.com","secureDomain":"https://trek-fm.squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"16:9 Widescreen","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true"},"templateId":"4f73704924acb4f1e8095afa","pageFeatures":[1],"impersonatedSession":false,"isFacebookTab":false,"tzData":{"zones":[[540,"Japan","J%sT",null]],"rules":{"Japan":[]}}}; SquarespaceFonts.loadViaContext(); Squarespace.load(window); </script>
+
+<script type="text/javascript" src="//use.typekit.com/poz4iwk.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Anaheim:400|Glegoo:400,400italic,700normal,700italic"/>
+<!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><script src="//static.squarespace.com"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static.squarespace.com/static/sitecss/4ff44f9bc4aa4a0dd8ca3ab3/333/4f73704924acb4f1e8095afa/4ff4588cc4aaee93616d11f8/4183/1416923071050/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<!-- Begin SpeakPipe code -->
+<script type="text/javascript">
+(function(d){
+var app = d.createElement('script'); app.type = 'text/javascript'; app.async = true;
+var pt = ('https:' == document.location.protocol ? 'https://' : 'http://');
+app.src = pt + 'www.speakpipe.com/loader/a6fv2ybjvgzcu0199r6yhq2e2xvoftn8.js'; 
+var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(app, s);
+})(document);
+</script>
+<!-- End SpeakPipe code --><script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-24429528-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><!-- End of Squarespace Headers -->
+
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+	
+</head>
+
+<body id="not-found" class="header-display-center-stacked fixed-header-position-off post-author-on sidebar-display-left   gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-169-widescreen gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link      opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square button-style-default button-corner-style-square native-currency-code-usd not-found-page mobile-style-available social-on social-icon-style-round logo-site-title">
+
+	
+	  <div class="mobile-nav clear">
+			
+<div class="show-nav"></div>
+
+<nav class="nav clear" data-content-field="navigation">
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/" class="page-collection"><span>Home</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/podcasts/" class="blog-collection"><span>Podcasts</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+
+			
+				<a href="http://trekfm.squarespace.com/captains-log/" class="external-link"><span>Articles</span></a>
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+
+			
+				<a href="http://trekfm.squarespace.com/hyperchannel/" class="external-link"><span>News</span></a>
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+
+			
+				<a href="https://www.facebook.com/groups/290762531128298/" class="external-link"><span>Discussion</span></a>
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/contact/" class="page-collection"><span>Contact</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/submit-news/" class="page-collection"><span>Submit News</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/advertise/" class="page-collection"><span>Advertise</span></a>
+			
+
+			
+
+		
+	</div>
+	
+</nav>
+
+
+	  </div>
+	
+
+	  <header id="header">
+
+	    <div class="wrapper clear">
+
+				
+	      <div id="logo" data-content-field="site-title">
+	        <h1>
+	        	<a href="/">
+	        		
+	        		<div class="site-title">Trek.fm</div>
+	        	</a>
+	      	</h1>
+	      </div>
+	      <script>
+	        Y.use('squarespace-ui-base', function(Y) {
+	          Y.one("#logo h1").plug(Y.Squarespace.TextShrink, {
+	            parentEl: Y.one('#logo')
+	          });
+	        });
+	      </script>
+
+	      
+	      
+	      
+	     	
+
+	     	<div class="primary-nav clear">
+	    		
+<div class="show-nav"></div>
+
+<nav class="nav clear" data-content-field="navigation">
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/" class="page-collection"><span>Home</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/podcasts/" class="blog-collection"><span>Podcasts</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+
+			
+				<a href="http://trekfm.squarespace.com/captains-log/" class="external-link"><span>Articles</span></a>
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+
+			
+				<a href="http://trekfm.squarespace.com/hyperchannel/" class="external-link"><span>News</span></a>
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+
+			
+				<a href="https://www.facebook.com/groups/290762531128298/" class="external-link"><span>Discussion</span></a>
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/contact/" class="page-collection"><span>Contact</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/submit-news/" class="page-collection"><span>Submit News</span></a>
+			
+
+			
+
+		
+	</div>
+	
+
+	<div class="nav-link">
+
+		
+
+			
+				<a href="/advertise/" class="page-collection"><span>Advertise</span></a>
+			
+
+			
+
+		
+	</div>
+	
+</nav>
+
+
+	    	</div>
+
+	    </div>
+	  </header>
+
+	  <div id="site" class="clear">
+	    <div class="wrapper clear">
+
+	    	<div id="content" class="clear">
+	    		<div class="wrapper clear" data-content-field="main-content">
+
+				    <!-- // CATEGORY NAV -->
+				    
+
+	    			<p>We couldn't find the page you were looking for. This is either because:</p><ul><li>There is an error in the URL entered into your web browser. Please check the URL and try again.</li><li>The page you are looking for has been moved or deleted.</li></ul><p>You can return to our homepage by <a href="/">clicking here</a>, or you can try searching for the content you are seeking by <a href="javascript:Y.Squarespace.Singletons.Search.show();">clicking here</a>.</p>
+	    		</div>
+	    	</div>
+
+		  	<div id="sidebar" class="clear">
+		  		<div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Sidebar Content" data-type="block-field" data-updated-on="1416218535732" id="sqs-layout-sidebar"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block search-block sqs-block-search" data-block-type="33" id="block-6df015651ee2c255efd6"><div class="sqs-block-content"><div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="true" data-collection="" boost_title="10">
+  <div class="spinner-wrapper"></div>
+  <input type="search" class="search-input" value="" placeholder="Search"/>
+</div></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1410791145713_15354"><div class="sqs-block-content">
+	<div class="image-block-outer-wrapper layout-caption-hidden ">
+	
+		<div class="intrinsic" style="max-width:100.0px;">
+			
+				<a href="https://itunes.apple.com/us/artist/trek.fm/id473080815?mt=2" >
+			
+				<div style="padding-bottom:100.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="">
+					<noscript><img src="http://static.squarespace.com/static/4ff44f9bc4aa4a0dd8ca3ab3/t/5454cf83e4b0a883ffdde8cb/1414844291630/itunes-icon.png"  alt="itunes-icon.png"  /></noscript><img class="thumb-image" alt="itunes-icon.png" data-src="http://static.squarespace.com/static/4ff44f9bc4aa4a0dd8ca3ab3/t/5454cf83e4b0a883ffdde8cb/1414844291630/itunes-icon.png" data-image="http://static.squarespace.com/static/4ff44f9bc4aa4a0dd8ca3ab3/t/5454cf83e4b0a883ffdde8cb/1414844291630/itunes-icon.png" data-image-dimensions="100x100" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5454cf83e4b0a883ffdde8cb" data-type="image" />
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1410791145713_18496"><div class="sqs-block-content">
+<div class="sqs-block-button-container--center">
+	<a href="https://itunes.apple.com/us/artist/trek.fm/id473080815?mt=2" class="sqs-block-button-element--small sqs-block-button-element" >Subscribe in iTunes</a>
+</div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-8bd72bcfd0ac324b8b5f"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-0ffafafe8ef69644c62f"><div class="sqs-block-content">
+	<div class="image-block-outer-wrapper layout-caption-hidden ">
+	
+		<div class="intrinsic" style="max-width:50.0px;">
+			
+				<a href="http://<a href="#" onclick="_speakpipe_open_widget(); return false;" >
+			
+				<div style="padding-bottom:128.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="">
+					<noscript><img src="http://static.squarespace.com/static/4ff44f9bc4aa4a0dd8ca3ab3/t/524e01bfe4b055fcea8d5555/1380843967286/voicemail-icon.png"  alt="voicemail-icon.png"  /></noscript><img class="thumb-image" alt="voicemail-icon.png" data-src="http://static.squarespace.com/static/4ff44f9bc4aa4a0dd8ca3ab3/t/524e01bfe4b055fcea8d5555/1380843967286/voicemail-icon.png" data-image="http://static.squarespace.com/static/4ff44f9bc4aa4a0dd8ca3ab3/t/524e01bfe4b055fcea8d5555/1380843967286/voicemail-icon.png" data-image-dimensions="50x64" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="524e01bfe4b055fcea8d5555" data-type="image" />
+				</div>
+			
+				</a>
+			
+
+			
+
+		</div>
+	
+	</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d369b5e8a48ce4d40d46"><div class="sqs-block-content"><h3 class="text-align-center"><a href="http://&lt;a href=&quot;#&quot; onclick=&quot;_speakpipe_open_widget(); return false;">Send us a voicemail</a>&nbsp;</h3><p class="text-align-center">Share your thoughts on our shows!&nbsp;</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-fabd48ad8c304b33f19f"><div class="sqs-block-content"><hr /></div></div></div></div></div>
+		  	</div>
+
+	  	</div>
+	  </div>
+
+	  <footer id="footer">
+
+	    <div class="wrapper social-on clear">
+	      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1414763926233" id="sqs-layout-footer"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block search-block sqs-block-search" data-block-type="33" id="block-yui_3_17_2_1_1414758113873_90923"><div class="sqs-block-content"><div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="true" data-collection="" boost_title="10">
+  <div class="spinner-wrapper"></div>
+  <input type="search" class="search-input" value="" placeholder="Search"/>
+</div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-6cf921fc41ad7c965653"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9123aa4967e46c38b5c8"><div class="sqs-block-content"><p class="text-align-center">© 2010 - 2014 Trek.fm |&nbsp;STAR TREK and related marks are trademarks of CBS Studios Inc. All Rights Reserved.<br />Trek.fm is not endorsed by nor affiliated with CBS Studios Inc.<br /> </p></div></div></div></div></div>
+	      
+					
+			    <div id="sqs-social" data-content-field="connected-accounts">
+			      <a href="https://twitter.com/trekfm" target="_blank" title="Trek.fm" class="social-twitter"></a><a href="http://www.facebook.com/trekfm" target="_blank" title="Trek.fm" class="social-facebook"></a><a href="https://plus.google.com/b/111883436194977499532/communities/112234184609993954336" target="_blank" title="Christopher Jones" class="social-google"></a>
+			    </div>
+					
+				
+	    </div>
+
+			<script src="//cdn.moot.it/1/moot.min.js"></script><script type="text/javascript" data-sqs-type="imageloader">(function() {var SQUARESPACE_SIZES=[1500,1E3,750,500,300,100],IMAGE_LOADING_CLASS="loading",ImageLoader=new function(){this.load=function(a,b){function c(a,b,c){var d=new Image;d.onload=b;d.onerror=c;d.src=a}a.getDOMNode&&(a=a.getDOMNode());var d=this._getDataFromNode(a,b),e=!(!d.dimensions||!d.dimensions.width||!d.dimensions.height),l=d.load+"";if("false"===l)return!1;var g=d.mode;if(e&&("fit"==g||"fill"==g)){g=a.parentNode;if(!g)return console.error("Not doing anything, parentNode not found."),!1;if(!this.refresh(a,
+b,g))return!1}var n=this._intendToLoad(a,d);if("string"==typeof n&&"viewport"!==l){var m=this.getUrl(n,d),d=a.getAttribute("data-image-resolution");a.getAttribute("src")!==m&&this.isValidResolution(n,d)&&(a.onload=function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("data-image-resolution",n)},!a.getAttribute("src")&&-1===a.className.indexOf(IMAGE_LOADING_CLASS)&&(a.className+=(a.className?" ":"")+IMAGE_LOADING_CLASS),!a.getAttribute("src")&&e?a.setAttribute("src",
+m):c(m,function(){e?a.setAttribute("src",m):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),ImageLoader.load(a,b))},function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();a.setAttribute("src",m)}));return!0}return n};this.refresh=function(a,b,c){a.getDOMNode&&(a=a.getDOMNode());c&&c.getDOMNode&&(c=c.getDOMNode());c=c||a.parentNode;if(!c)return console.error("Not doing anything, parentNode not found."),!1;var d=this._getDataFromNode(a,b),e=c.offsetWidth,l=c.offsetHeight;
+b=d.mode;if("none"!=b){var g=d.dimensions.width,n=d.dimensions.height,m=g/n,q=e/l;if(d.fixedRatio)"fill"==b&&q>m||"fit"==b&&q<m?(h=100,k=100*(q/m),r=(100-k)*d.focalPoint.y,p=0):(h=100*(m/q),k=100,r=0,p=(100-h)*d.focalPoint.x),a.style.top=r+"%",a.style.left=p+"%",a.style.width=h+"%",a.style.height=k+"%";else{var f;"fill"===b?f=m>q?l/n:e/g:"fit"===b&&(f=m<q?l/n:e/g);!d.stretch&&("fit"==b&&1<f)&&(f=1);var h=Math.ceil(g*f),k=Math.ceil(n*f);if(0===h||0===k)return!1;var p,r;"fill"===b?(p=Math.min(Math.max(e/
+2-h*d.focalPoint.x,e-h),0),r=Math.min(Math.max(l/2-k*d.focalPoint.y,l-k),0)):"fit"===b&&(f=d.fitAlignment,p=f.left?0:f.right?e-h:h<e?(e-h)/2:0,r=f.top?0:f.bottom?l-k:k<l?(l-k)/2:0,"inline"==this._getStyle(a,"display")&&(a.style.fontSize="0px"),this._resetAlt(a,function(){h-=a.offsetHeight-a.clientHeight;k-=a.offsetWidth-a.clientWidth}));a.style.top=Math.ceil(r)+"px";a.style.left=Math.ceil(p)+"px";a.style.width=Math.ceil(h)+"px";a.style.height=Math.ceil(k)+"px"}p=this._getStyle(c,"position");a.style.position=
+"relative"==p?"absolute":"relative";if("fill"==b&&(b=this._getStyle(c,"overflow"),!b||"hidden"!=b))c.style.overflow="hidden";return!0}};this._intendToLoad=function(a,b){function c(c,d){"none"===b.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(c)),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,c),f=parseFloat(e);if(!f||isNaN(f))e=g._getStyle(a,"max-"+c,"max"+(c.substr(0,1).toUpperCase()+c.substr(1))),f=parseFloat(e);if(0===d||e)switch(g._stringType(e)){case "percentage":d=
+parseInt(e,10)/100*l["offset"+c.substr(0,1).toUpperCase()+c.substr(1)];break;case "number":d=parseInt(e,10)}!f&&(0!==d&&!a.getAttribute("src"))&&(d=0);return d}b=b||this._getDataFromNode(a);if(!b.source)return!1;var d=a.offsetWidth,e=a.offsetHeight,l=a.parentNode,g=this;this._resetAlt(a,function(){d=c("width",d);e=c("height",e)});0===d&&0===e?(d=b.dimensions.width,e=b.dimensions.height):0===d?d=this.getDimensionForValue("width",e,b):0===e&&(e=this.getDimensionForValue("height",d,b));"viewport"===
+b.load&&(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.getSquarespaceSize(d,e,b)};this._getDataFromNode=function(a,b){b=b||{};var c={focalPoint:{x:0.5,y:0.5},dimensions:{width:null,height:null},mode:"none",fitAlignment:{center:!0},load:"true",stretch:!0,fixedRatio:!1};if(b.focalPoint)c.focalPoint=b.focalPoint;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)c.focalPoint={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(b.dimensions)c.dimensions=
+b.dimensions;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)c.dimensions={width:parseInt(d[0],10),height:parseInt(d[1],10)};b.mode?c.mode=b.mode:a.parentNode&&(d=a.parentNode.className,-1!==d.indexOf("content-fill")?c.mode="fill":-1!==d.indexOf("content-fit")&&(c.mode="fit"));if("fit"===c.mode&&a.parentNode&&(d=b.fitAlignment||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))c.fitAlignment={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),
+center:-1!==d.indexOf("center"),right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};if(b.load)c.load=b.load;else if(d=a.getAttribute("data-load"))c.load=d;if("undefined"!==typeof b.stretch)c.stretch=b.stretch;else if(d=a.getAttribute("data-image-stretch"))c.stretch="true"===d?!0:!1;c.source=b.source?b.source:a.getAttribute("data-src");if(c.source&&(-1!==c.source.indexOf("squarespace.com")||-1!==c.source.indexOf("squarespace.net"))&&"http:"===c.source.substr(0,5)&&"https"===window.location.protocol.substr(0,
+5))c.source=c.source.replace("http://","https://");if(b.fixedRatio)c.fixedRatio=b.fixedRatio;else if(d=a.getAttribute("data-fixed-ratio"))c.fixedRatio="true"==d;return c};this._stringType=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this._getStyle=function(a,b,c){var d;a.currentStyle?d=a.currentStyle[c||b]:window.getComputedStyle&&(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(b));return d};this._isVisible=function(a){a=
+a.getBoundingClientRect();return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.getSquarespaceSize=function(a,b,c){a=Math.max(b/(c.dimensions.height/c.dimensions.width),a);"number"==typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(b=1;b<SQUARESPACE_SIZES.length&&!(a>SQUARESPACE_SIZES[b]);b++);return SQUARESPACE_SIZES[b-1]+"w"};this.getDimensionForValue=function(a,b,c){var d=c.dimensions.width;c=c.dimensions.height;return"width"==a?
+d/c*b:"height"==a?c/d*b:NaN};this.getUrl=function(a,b){var c=b.source;return a&&("/"==c[0]||-1!=c.indexOf("squarespace.com")||-1!=c.indexOf("squarespace.net"))?(-1===c.indexOf("format="+a)&&(c=c+(-1!==c.indexOf("?")?"&":"?")+"format="+a),window.Static&&(window.Static.IN_BACKEND&&-1===c.indexOf("storage=local"))&&(c+="&storage=local"),c):b.source};this.isValidResolution=function(a,b){a=parseInt(a,10);b=parseInt(b,10);return isNaN(a)||isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var c=a.getAttribute("alt"),
+d=c&&0<c.length&&!a.getAttribute("src");if(d){var e=a.style.display;a.removeAttribute("alt");a.style.display="none";a.offsetHeight+0;a.style.display=e}b.call(this);d&&a.setAttribute("alt",c)}};window.ImageLoader=ImageLoader;var siteCSSHandle,loopHandle,imagesTimer=50;function ancestorHasClass(a,b){return"undefined"!==typeof a.className&&-1!==a.className.indexOf(b)?!0:a.parentNode?ancestorHasClass(a.parentNode,b):!1}
+var hasAttr=function(a,b){return a.hasAttribute?a.hasAttribute(b):!!a.attributes[b]},getAttr=function(a,b){return a.getAttribute?a.getAttribute(b):a.attributes[b]};function init(){var a=document.images;if(0<a.length)for(var b=0,c=a.length;b<c;b++)(hasAttr(a[b],"data-image")||hasAttr(a[b],"data-src"))&&"false"!==getAttr(a[b],"data-load")+""&&ImageLoader.load(a[b])}init();window.YUI&&YUI.add("squarespace-imageloader",function(a){});
+})();</script>
+<script>Squarespace.afterBodyLoad(Y);</script>
+
+	  </footer>
+		
+		<script type="text/javascript" src="https://static.squarespace.com/static/ta/4f54f979e4b03dfa00ec2fc1/4183/scripts/combo/?site.js"></script>
+	  
+
+</body>
+</html>

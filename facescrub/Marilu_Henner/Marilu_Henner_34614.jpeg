@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!-- Mobile Specific ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+
+    <!-- Title Tag ======================================================== -->
+    <title>Page not found - </title>
+
+    <!-- Browser Specical Files =========================================== -->
+    <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->  
+    <!--[if lt IE 9]> <link rel='stylesheet' id=''  href='http://healthyceleb.com/wp-content/themes/magazon-wp/ie8.css' type='text/css' media='all' /><![endif]--> 
+
+    <!-- Site Favicon ===================================================== -->
+        
+    <!-- WP HEAD ========================================================== -->
+    <meta name='OBKey' content='QCGMstFItjIlBJVGiCfKqQ==' />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://healthyceleb.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://healthyceleb.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsr-socialbuttons-css'  href='/wp-content/plugins/wp-socializer/public/css/wp-socializer-buttons-css.css?ver=2.4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='st_style-css'  href='/wp-content/themes/magazon-wp/style.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='/wp-content/themes/magazon-wp/assets/css/font-awesome.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ddsmoothmenu-css'  href='/wp-content/themes/magazon-wp/assets/css/ddsmoothmenu.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='/wp-content/themes/magazon-wp/assets/css/flexslider.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='/wp-content/themes/magazon-wp/assets/css/responsive.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_css-css'  href='/wp-content/themes/magazon-wp/custom.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1'></script>
+
+<!--WP Socializer v2.4.9.8 - Scripts Loader-->
+<script type="text/javascript">
+var wu=["https://platform.twitter.com/widgets.js","https://connect.facebook.net/en_US/all.js#xfbml=1","https://apis.google.com/js/plusone.js","https://platform.linkedin.com/in.js","https://platform.stumbleupon.com/1/widgets.js"],wc=5;
+function wpsrload(){ for(var i=0;i<wc;i++){wpsrasync(wu[i]);} }
+function wpsrasync(u){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=u;var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(a,s);} wpsrload();
+</script>
+<!--End WP Socializer - Scripts Loader-->
+
+	<!-- Clean Archives Reloaded v3.2.0 | http://www.viper007bond.com/wordpress-plugins/clean-archives-reloaded/ -->
+	<style type="text/css">.car-collapse .car-yearmonth { cursor: s-resize; } </style>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+			jQuery(document).ready(function() {
+				jQuery('.car-collapse').find('.car-monthlisting').hide();
+				jQuery('.car-collapse').find('.car-monthlisting:first').show();
+				jQuery('.car-collapse').find('.car-yearmonth').click(function() {
+					jQuery(this).next('ul').slideToggle('fast');
+				});
+				jQuery('.car-collapse').find('.car-toggler').click(function() {
+					if ( 'Expand All' == jQuery(this).text() ) {
+						jQuery(this).parent('.car-container').find('.car-monthlisting').show();
+						jQuery(this).text('Collapse All');
+					}
+					else {
+						jQuery(this).parent('.car-container').find('.car-monthlisting').hide();
+						jQuery(this).text('Expand All');
+					}
+					return false;
+				});
+			});
+		/* ]]> */
+	</script>
+
+
+<style type="text/css">
+
+body{ 
+    font-family: 'Helvetica'; 
+                    font-size: 15px;
+            line-height: 22px;
+            
+}
+</style>
+
+<style type="text/css">
+
+.post-title,.widget-post-title{ 
+    font-family: 'Helvetica'; 
+        font-style: normal;
+            font-style: normal;
+            font-weight: bold;
+                    
+}
+</style>
+
+<style type="text/css">
+
+.st-category-heading,.category .page-title,.search .page-title,.archive .page-title{ 
+    font-family: 'Georgia'; 
+        font-style: normal;
+            font-style: normal;
+            font-weight: bold;
+                    
+}
+</style>
+    
+    <style type="text/css">
+      /************** Predefined Colors ********************/
+        .primary-nav ul li a:hover,.primary-nav ul li.current-menu-item > a,.primary-nav ul li a:hover,.primary-nav ul li.current-menu-item > a,.carousel-post-meta,.read-more-button,.list-tabbed li.list-tabbed-active a,table#wp-calendar thead > tr > th,table#wp-calendar td#today,.carousel-wrapper .flex-direction-nav .flex-prev:hover,.carousel-wrapper .flex-direction-nav .flex-next:hover,.subs_submit:hover,.tagcloud a:hover,.author-text b,#submit,.page-tags a:hover,.categories a,.thumb-slider-wrapper .flex-direction-nav .flex-next:hover,.thumb-slider-wrapper .flex-direction-nav .flex-prev:hover,.review-score-over, .review-total-score-wrapper .right,.inside-post-slider .flex-direction-nav .flex-next:hover,.inside-post-slider .flex-direction-nav .flex-prev:hover,.inside-post-slider .flex-control-nav li a.flex-active,.inside-post-slider .flex-control-nav li a:hover,.btn.color,.btn:hover,.tab-title li.current,.acc-title-active,.acc-title:hover,.toggle-title:hover,.toggle_current,.st-pagination .page-current,.st-pagination li a:hover,.carousel-next:hover,.carousel-prev:hover,.content input[type=submit], .bg_color:hover, .button, a.button, .page-numbers.current{
+   background-color: #CCCCCC;
+   -webkit-transition: all .2s linear;
+   -moz-transition: all .2s linear;
+   -o-transition: all .2s linear;
+   transition: all .2s linear;
+}
+.footer-wrapper li.widget-post-wrapper:hover .widget-post-thumb img,.flickr_badge_image a img:hover{
+    border: 1px solid #CCCCCC;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear;
+}
+    </style>
+    <style type="text/css">body {background:  #CCCCCC; }</style>
+<!--  ST CSS EDITOR -->
+ <style type="text/css">
+boxed-mode{overflow: hidden;}
+.sidebar .widget-post-meta,.related-recent-post-wrapper .widget-post-meta{display: none}
+h3 {font-size: 18px;line-height: 20px;}
+.page-content a{color: #047DA5;font-weight: bold;}
+.page-content a:hover{color: #047DA5;text-decoration: underline;}
+</style>
+
+
+</head>
+<body class="error404">
+    <div class="body-outer-wrapper">
+        <div class="body-wrapper boxed-mode">
+            <div class="header-outer-wrapper b30">
+                <div class="top-nav-outer-wrapper">
+                    <div class="top-nav-wrapper container">
+                        <div class="row">
+                            <a href="#" id="top-nav-mobile" class="top-nav-close">
+                                <span></span>
+                            </a>
+                            <div class="top-nav-left">
+                                <nav id="top-nav-id" class="top-nav slideMenu">
+                                    <ul id="menu-top-menu-pages" class="menu"><li id="menu-item-6134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6134"><a href="/advertise-here/">Advertise Here</a></li>
+<li id="menu-item-6133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6133"><a href="/archives/">Archives</a></li>
+<li id="menu-item-6135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6135"><a href="/sitemap/">Sitemap</a></li>
+<li id="menu-item-6137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6137"><a href="/contact-us/">Contact Us</a></li>
+</ul>                                </nav>
+                            </div>                            
+                            <div class="top-nav-right text-right right">
+                               
+								                                <div class="search-block right">
+                                    <form action="http://healthyceleb.com" method="get" id="searchform">
+                                        <input id="s" onblur="if (this.value == '') {this.value = 'SEARCH...';}" onfocus="if (this.value == 'SEARCH...') {this.value = '';}" value="SEARCH..." name="s" type="text">
+                                        <input class="search-submit" value="Search" type="submit">
+                                    </form>
+                                </div>
+                                                                
+                                
+                                 <div class="social-block right">
+                                    <ul>
+                                                                                                                        <li><a class="icon-facebook"  target="_blank"  href="https://www.facebook.com/HealthyCeleb" title="Facebook"></a></li>
+                                                                                                                        <li><a class="icon-google-plus"  target="_blank"  href="https://plus.google.com/+Healthyceleb/posts" title="Google Plus"></a></li>
+                                                                                                                          <li><a class="icon-twitter"  target="_blank"  href="https://twitter.com/HealthyCeleb" title="Twitter"></a></li>
+                                                                                                                                                                  <li><a class="icon-pinterest"  target="_blank"  href="http://pinterest.com/healthyceleb/" title="Pinterest"></a></li>
+                                        
+                                                                                    <li><a class="icon-rss"  target="_blank"  href="http://feeds.feedburner.com/healthyceleb" title="RSS"></a></li>
+                                        
+                                    </ul>
+                                </div>
+                                <div class="clear"></div>
+                            
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div> <!-- END .top-nav-outer-wrapper -->
+                <div class="logo-outer-wrapper">
+                    <div class="logo-wrapper container">
+                        <div class="row">
+                            <div class="twelve columns">
+                                                                <div class="logo-left" style="padding:20px 0px 20px 0px">
+                                    <h1>
+                                      <a href="http://healthyceleb.com">
+                                                                            <img src="http://healthyceleb.com/wp-content/uploads/2014/09/HealthyCeleb1.png" alt="Logo"></a>
+                                                                            </a>
+                                    </h1>
+                                </div>
+                                <div class="logo-right-widget right">
+                                    <div class="logo-right-ads">
+                                        <div id="text-11" class="widget-container widget_text">			<div class="textwidget"><iframe src="http://www5.smartadserver.com/call/pubif/56921/428839/24762/M/[timestamp]/[target]?" width='728' height='90' marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></div>
+		</div>                                    </div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div> <!-- END .logo-outer-wrapper -->
+
+                <div class="primary-nav-outer-wrapper">
+                    <div class="primary-nav-wrapper container">
+                        <div class="row">
+                            <div class="twelve columns nav-wrapper">
+                                <a href="#" id="primary-nav-mobile-a" class="primary-nav-close">
+                                    <span></span>
+                                    Navigation                                </a>
+                                <nav id="primary-nav-mobile"></nav>
+
+                                <nav id="primary-nav-id" class="primary-nav slideMenu">
+                                    <ul id="menu-top-nav-bar" class="menu"><li id="menu-item-1283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1283" color="1175f0"><a href="http://healthyceleb.com">Home</a></li>
+<li id="menu-item-1285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1285" color="22ab27"><a href="/category/statistics/">Statistics</a>
+<ul class="sub-menu">
+	<li id="menu-item-1290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1290" color="22ab27"><a href="/category/statistics/bodybuilder/">Bodybuilder</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1648" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1648" color="22ab27"><a href="/category/statistics/bodybuilder/male-bodybuilder/">Male</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1295"><a href="/category/statistics/wrestlers/">Wrestlers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1649"><a href="/category/statistics/wrestlers/male-wrestlers/">Male</a></li>
+		<li id="menu-item-2906" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2906"><a href="/category/statistics/wrestlers/female-wrestlers/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1328"><a href="/category/statistics/singer/">Singer</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1348"><a href="/category/statistics/singer/male-singer/">Male</a></li>
+		<li id="menu-item-1347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1347"><a href="/category/statistics/singer/female-singer/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1292"><a href="/category/statistics/filmstars/">Filmstars</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1294"><a href="/category/statistics/filmstars/male/">Male</a></li>
+		<li id="menu-item-1293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1293"><a href="/category/statistics/filmstars/female-filmstars/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2197"><a href="/category/statistics/tv-stars/">TV Stars</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3881"><a href="/category/statistics/tv-stars/male-tv-stars/">Male</a></li>
+		<li id="menu-item-2198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2198"><a href="/category/statistics/tv-stars/female-tv-stars/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1311"><a href="/category/statistics/model/">Model</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4035"><a href="/category/statistics/model/male-model/">Male</a></li>
+		<li id="menu-item-1346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1346"><a href="/category/statistics/model/female-model/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-4592"><a href="/category/statistics/sports-stars/">Sports Stars</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5750"><a href="http://healthyceleb.com/category/statistics/sports-stars/male-sports-stars">Male</a></li>
+		<li id="menu-item-16006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16006"><a href="/category/statistics/sports-stars/female-sports-stars/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10496"><a href="/category/statistics/news-anchor/">News Anchor</a></li>
+	<li id="menu-item-13862" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13862"><a href="/category/statistics/socialite/">Socialite</a></li>
+	<li id="menu-item-10557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10557"><a href="/category/statistics/director-producer/">Director/Producer</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10592"><a href="/category/statistics/director-producer/male-director/">Male</a></li>
+		<li id="menu-item-10586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10586"><a href="/category/statistics/director-producer/female-director/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15283"><a href="/category/statistics/dancer/">Dancer</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15285"><a href="/category/statistics/dancer/male-dancer/">Male</a></li>
+		<li id="menu-item-15284" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15284"><a href="/category/statistics/dancer/female-dancer/">Female</a></li>
+	</ul>
+</li>
+	<li id="menu-item-22399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22399"><a href="/category/statistics/other-statistics/">Others</a></li>
+</ul>
+</li>
+<li id="menu-item-7964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7964" color="f07211"><a href="/category/health/">Health</a>
+<ul class="sub-menu">
+	<li id="menu-item-1286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1286" color="f07211"><a href="/category/health/diet/">Diet</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10245"><a href="/category/health/diet/bodybuilder-diet/">Bodybuilder</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10246"><a href="/category/health/diet/bodybuilder-diet/male-bodybuilder-diet/">Male</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10303"><a href="/category/health/diet/wrestlers-diet/">Wrestlers</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10285"><a href="/category/health/diet/wrestlers-diet/male-wrestlers-diet/">Male</a></li>
+			<li id="menu-item-10284" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10284"><a href="/category/health/diet/wrestlers-diet/female-wrestlers-diet/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10300"><a href="/category/health/diet/singer-diet/">Singer</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10275"><a href="/category/health/diet/singer-diet/male-singer-diet/">Male</a></li>
+			<li id="menu-item-10274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10274"><a href="/category/health/diet/singer-diet/female-singer-diet/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10247"><a href="/category/health/diet/filmstars-diet/">Filmstars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10249"><a href="/category/health/diet/filmstars-diet/male-filmstars-diet/">Male</a></li>
+			<li id="menu-item-10248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10248"><a href="/category/health/diet/filmstars-diet/female-filmstars-diet/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10302"><a href="/category/health/diet/tvstars/">TV Stars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10283"><a href="/category/health/diet/tvstars/male-tvstars/">Male</a></li>
+			<li id="menu-item-10282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10282"><a href="/category/health/diet/tvstars/female-tvstars/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10299"><a href="/category/health/diet/model-diet/">Model</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10273"><a href="/category/health/diet/model-diet/male-model-diet/">Male</a></li>
+			<li id="menu-item-10272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10272"><a href="/category/health/diet/model-diet/female-model-diet/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10301"><a href="/category/health/diet/sportsstars/">Sports Stars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10291"><a href="/category/health/diet/sportsstars/male-sportsstars/">Male</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10502"><a href="/category/health/diet/politicians/">Politicians</a></li>
+		<li id="menu-item-10599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10599"><a href="/category/health/diet/others-diet/">Others</a></li>
+		<li id="menu-item-11244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11244"><a href="/category/health/diet/dictionary/">Dictionary</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10307"><a href="/category/health/workout/">Workout</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10258" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10258"><a href="/category/health/workout/bodybuilder-workout/">Bodybuilder</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10288"><a href="/category/health/workout/bodybuilder-workout/male-bodybuilder-workout/">Male</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10298"><a href="/category/health/workout/wrestlers-workout/">Wrestlers</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10287"><a href="/category/health/workout/wrestlers-workout/male-wrestlers-workout/">Male</a></li>
+			<li id="menu-item-10286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10286"><a href="/category/health/workout/wrestlers-workout/female-wrestlers-workout/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10295"><a href="/category/health/workout/singer-workout/">Singer</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10271"><a href="/category/health/workout/singer-workout/male-singer-workout/">Male</a></li>
+			<li id="menu-item-10270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10270" color="000000"><a href="/category/health/workout/singer-workout/female-singer-workout/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10259"><a href="/category/health/workout/filmstars-workout/">Filmstars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10269"><a href="/category/health/workout/filmstars-workout/male-filmstars-workout/">Male</a></li>
+			<li id="menu-item-10268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10268"><a href="/category/health/workout/filmstars-workout/female-filmstars-workout/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10297"><a href="/category/health/workout/tvstars-workout/">TV Stars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10279"><a href="/category/health/workout/tvstars-workout/male-tvstars-workout/">Male</a></li>
+			<li id="menu-item-10278" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10278"><a href="/category/health/workout/tvstars-workout/female-tvstars-workout/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10294"><a href="/category/health/workout/model-workout/">Model</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10267"><a href="/category/health/workout/model-workout/male-model-workout/">Male</a></li>
+			<li id="menu-item-10266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10266"><a href="/category/health/workout/model-workout/female-model-workout/">Female</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10296"><a href="/category/health/workout/sportsstars-workout/">Sports Stars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-10292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10292"><a href="/category/health/workout/sportsstars-workout/male-sportsstars-workout/">Male</a></li>
+		</ul>
+</li>
+		<li id="menu-item-10501" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10501"><a href="/category/health/workout/politicians-workout/">Politicians</a></li>
+		<li id="menu-item-10342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10342"><a href="/category/health/workout/others-workout/">Others</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10250" color="15c4db"><a href="/category/celeb/">Celeb</a>
+<ul class="sub-menu">
+	<li id="menu-item-10305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10305"><a href="/category/celeb/products/">Products</a></li>
+</ul>
+</li>
+<li id="menu-item-10253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10253" color="e00daf"><a href="/category/magazine/">FITNESS</a></li>
+<li id="menu-item-10293" class="menu-item menu-item-type- menu-item-object- menu-item-10293" color="fa1919"><a>Videos</a></li>
+</ul>                                    <div class="clear"></div>
+                                </nav>
+                                                                <form id="nav-searchform" method="get" action="http://healthyceleb.com">
+                                        <div class="iw">
+                                        	<input type="submit" value="Search" class="search-submit">
+                                        	<input type="text" name="s" value="" placeholder="SEARCH..." class="s closed">
+                                        	
+                                        </div>
+                                    </form>   
+                                                                
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div><!-- END .primary-nav-outer-wrapper -->
+            </div> <!-- END .header-outer-wrapper-->
+            
+            
+            
+            <div class="main-outer-wrapper mt30">
+			    <div class="main-wrapper container">
+			        <div class="row row-wrapper">
+			            <div class="page-wrapper twelve columns b0">
+			                <div class="row">
+            
+            
+            
+            
+            
+            
+            <div class="page-wrapper twelve columns right-sidebar b0">
+    
+    <div class="row">
+        <div class="content-wrapper eight columns b0">
+            <div class="content clearfix">
+    <div class="row t30">
+        <div class="six columns text-center b0">
+            <div class="class-404">
+                404            </div>
+        </div>
+        <div class="six columns b0">
+            <h1>Oops, Page not found.</h1>
+            <p>
+                 We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of these options:                </p>
+                <ul class="normal-list">
+                    <li><a href="http://healthyceleb.com" title="">Go to homepage</a></li>
+                </ul>
+            <p></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div><div class="row">
+<div class="six columns b0">
+<script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=300X250&cwpid=550356&cwwidth=300&cwheight=250&cwpnet=1&cwtagid=140486"></script>
+</div>
+<div class="six columns b0">
+<script type="text/javascript">var vclk_options = {sid:69016,media_id:6,media_type:8,version:"1.3"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=69016&media_id=6&media_type=8&version=1.3&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=69016&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=69016&m=6&tp=8&d=s&c=1&vcm_acv=1.3" width="300" height="250" border="1"></a></noscript>
+</div>
+<div class="clear"></div>
+</div>        </div>
+         
+        <div class="right-sidebar-wrapper four columns b0">
+            <div class="right-sidebar sidebar">
+                <div id="text-7" class="widget-container widget_text">			<div class="textwidget"><iframe src="http://www5.smartadserver.com/call/pubif/56921/428839/25314/S/[timestamp]/[target]?" width='300' height='250' marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></div>
+		</div><div id="stsocialsconnect-2" class="widget-container widget_stsocialsconnect">        <div class="connect-widget-wrapper">
+                <h3 class="connect-widget-title">STAY UPDATED</h3>
+                <div class="connect-widget-form">
+                    <p>Get the latest publications of Healthy Celeb delivered straight to your inbox, no spam we promise</p>
+                    
+                    
+                    
+                    
+                    <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="_blank" >
+                     
+                    <input type="text" class="subs_input" name="email" value="Your Email Address..." onfocus="if (this.value == 'Your Email Address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your Email Address...';}">
+                    <input type="hidden" value="healthyceleb" name="uri"/>
+                    <input type="hidden" name="loc" value="en_US"/>
+                    <input type="submit" value="Subscribe" class="subs_submit">
+                  
+                   </form>
+                   					                   
+                   
+                    
+                </div>
+                <div class="connect-widget-social">
+                    <a class="connect-rss" href="http://feeds.feedburner.com/healthyceleb"><strong>RSS</strong>Subscribe</a>
+                                         <a class="connect-twitter" twitter-id="HealthyCeleb" one-text="Follower" plural-text="Followers" href="https://twitter.com/HealthyCeleb">
+                        <strong class="num">0</strong>
+                        <span class="txt">Followers</span>
+                    </a>
+                                                            <a class="connect-facebook last" facebook-id="HealthyCeleb" one-text="Like" plural-text="Likes" href="https://www.facebook.com/HealthyCeleb">
+                        <strong class="num"></strong>
+                        <span class="txt"></span>
+                    </a>
+                                        
+                </div>
+            </div>
+        </div>        <div class="widget-content widget-container">
+                    <div class="content-tabbed">
+                        <div class="list-tabbed-container">
+                            <ul class="list-tabbed clearfix">
+                                                             <li class="list-tabbed-active"><a for-tab="popular" href="#">POPULAR</a></li>
+                                                              <li class=""><a for-tab="recent" href="#">RECENT</a></li>
+                                                              <li class=""><a for-tab="comments" href="#">DISCUSSION</a></li>
+                                                          </ul>
+                        </div>
+                        <div class="tabbed_content_container">
+                        
+                                                          <div  style="display: block;"   class="tabbed_content popular"  >
+                                <div id="" class="widget-container  ">            <ul class="po_re_container">
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/alia-bhatt-height-weight-body-statistics/3516" title="Permalink to Alia Bhatt Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/alia-bhatt-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/alia-bhatt-height-weight-body-statistics/3516" title="Alia Bhatt Height Weight Body Statistics">Alia Bhatt Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">October 29, 2012 - <span>241 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/salman-khan-height-weight-body-statistics/559" title="Permalink to Salman Khan Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/Salman-Khan-Being-Human1-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/salman-khan-height-weight-body-statistics/559" title="Salman Khan Height Weight Body Statistics">Salman Khan Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">June 13, 2012 - <span>227 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/deepika-padukone-height-weight-body-statistics/764" title="Permalink to Deepika Padukone Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/deepika-padukone-vogue-photoshoot1-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/deepika-padukone-height-weight-body-statistics/764" title="Deepika Padukone Height Weight Body Statistics">Deepika Padukone Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">June 27, 2012 - <span>128 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/kate-upton-height-weight-body-statistics/875" title="Permalink to Kate Upton Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/Kate-Upton-Red-Dress-hot-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/kate-upton-height-weight-body-statistics/875" title="Kate Upton Height Weight Body Statistics">Kate Upton Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">July 1, 2012 - <span>110 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/katrina-kaif-height-weight-body-statistics/454" title="Permalink to Katrina Kaif Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/Katrina_Kaif_Hot_look1-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/katrina-kaif-height-weight-body-statistics/454" title="Katrina Kaif Height Weight Body Statistics">Katrina Kaif Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">June 7, 2012 - <span>106 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/sonakshi-sinha-height-weight-body-statistics/476" title="Permalink to Sonakshi Sinha Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/Sonakshi-Sinha-Weight-And-Height1-50x50.png" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/sonakshi-sinha-height-weight-body-statistics/476" title="Sonakshi Sinha Statistics">Sonakshi Sinha Statistics</a></h3>
+                        		<span class="widget-post-meta">June 8, 2012 - <span>99 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/justin-bieber-height-weight-body-statistics/1384" title="Permalink to Justin Bieber Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/07/Justin-Bieber-in-2012-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/justin-bieber-height-weight-body-statistics/1384" title="Justin Bieber Height Weight Body Statistics">Justin Bieber Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">July 20, 2012 - <span>97 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/selena-gomez-height-weight-body-statistics/1057" title="Permalink to Selena Gomez Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/06/Selena-Gomez-2013-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/selena-gomez-height-weight-body-statistics/1057" title="Selena Gomez Height Weight Body Statistics">Selena Gomez Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">July 11, 2012 - <span>88 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/celebrity-diets-how-it-helps-them-to-lose-weight/5550" title="Permalink to Celebrity Diets: How it helps them to lose weight"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2013/03/Celebrity-Diets-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/celebrity-diets-how-it-helps-them-to-lose-weight/5550" title="Celebrity Diets: How it helps them to lose weight">Celebrity Diets: How it helps them to lose weight</a></h3>
+                        		<span class="widget-post-meta">February 15, 2013 - <span>86 Comments</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                             <div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/jennifer-lawrence-height-weight-body-statistics/3773" title="Permalink to Jennifer Lawrence Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2012/11/Jennifer-Lawrence-as-katniss-everdeen-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/jennifer-lawrence-height-weight-body-statistics/3773" title="Jennifer Lawrence Height Weight Body Statistics">Jennifer Lawrence Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">November 11, 2012 - <span>64 Comments</span></span>
+                        	</div>
+                        </li>
+                             </ul>
+            </div>                             </div>
+                                                          <div  class="tabbed_content recent"  >
+                                <div id="" class="single-recent-content ">            <ul class="po_re_container">
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/peyton-meyer-height-weight-body-statistics/28524" title="Permalink to Peyton Meyer Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/12/Peyton-Meyer-during-Blake-Michaels-18th-Birthday-at-Riviera-31-on-August-9-2014-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/peyton-meyer-height-weight-body-statistics/28524" title="Peyton Meyer Height Weight Body Statistics">Peyton Meyer Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">December 2, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/hrithik-roshan-height-weight-body-statistics/28466" title="Permalink to Hrithik Roshan Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Hrithik-Roshan-weight-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/hrithik-roshan-height-weight-body-statistics/28466" title="Hrithik Roshan Height Weight Body Statistics">Hrithik Roshan Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">December 1, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/romola-garai-height-weight-body-statistics/28476" title="Permalink to Romola Garai Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/12/Romola-Garai-height-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/romola-garai-height-weight-body-statistics/28476" title="Romola Garai Height Weight Body Statistics">Romola Garai Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">December 1, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/callie-bundy-workout-routine-diet-plan/28375" title="Permalink to Callie Bundy Workout Routine and Diet Plan"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Callie-Bundy-kickboxing-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/callie-bundy-workout-routine-diet-plan/28375" title="Callie Bundy Workout Routine and Diet Plan">Callie Bundy Workout Routine and Diet Plan</a></h3>
+                        		<span class="widget-post-meta">November 30, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/justin-deeley-height-weight-body-statistics/28436" title="Permalink to Justin Deeley Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Justin-Deeley-body-shirtless-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/justin-deeley-height-weight-body-statistics/28436" title="Justin Deeley Height Weight Body Statistics">Justin Deeley Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">November 30, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/rupert-grint-height-weight-body-statistics/28419" title="Permalink to Rupert Grint Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Rupert-Grint-eyes-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/rupert-grint-height-weight-body-statistics/28419" title="Rupert Grint Height Weight Body Statistics">Rupert Grint Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">November 29, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/taylar-hender-height-weight-body-statistics/28399" title="Permalink to Taylar Hender Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Taylar-Hender-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/taylar-hender-height-weight-body-statistics/28399" title="Taylar Hender Height Weight Body Statistics">Taylar Hender Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">November 29, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/g-hannelius-height-weight-body-statistics/28373" title="Permalink to G. Hannelius Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Genevieve-Hannelius-at-Creative-Arts-Emmy-Awards-2014-306x160-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/g-hannelius-height-weight-body-statistics/28373" title="G. Hannelius Height Weight Body Statistics">G. Hannelius Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">November 28, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/alice-matos-diet-plan-workout-routine/28216" title="Permalink to Alice Matos Diet Plan Workout Routine"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Alice-Matos-doing-squats-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/alice-matos-diet-plan-workout-routine/28216" title="Alice Matos Diet Plan Workout Routine">Alice Matos Diet Plan Workout Routine</a></h3>
+                        		<span class="widget-post-meta">November 28, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                                        
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                              <span class="had-thumb">
+						<a href="http://healthyceleb.com/rose-leslie-height-weight-body-statistics/28349" title="Permalink to Rose Leslie Height Weight Body Statistics"  rel="bookmark" ><img alt="" src="/wp-content/uploads/2014/11/Rose-Leslie-at-HBO-Game-Of-Thrones-Press-Line-at-Comic-Con-2014-50x50.jpg" ></a>                           		
+                        </span>                              </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/rose-leslie-height-weight-body-statistics/28349" title="Rose Leslie Height Weight Body Statistics">Rose Leslie Height Weight Body Statistics</a></h3>
+                        		<span class="widget-post-meta">November 27, 2014 - <span>0 Comment</span></span>
+                        	</div>
+                        </li>
+                             </ul>
+            </div>                             </div>
+                                                          <div  class="tabbed_content comments"  >
+                                <div id="" class="single-recent-comments ">            <ul class="recent-comments num-10">
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/rowan-blanchard-height-weight-body-statistics/24530#comment-219305" title="">Rowan Blanchard Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">you are disgusting..................kidding mahn u right they are...</div>
+                        		<span class="widget-post-meta">December 3, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/rowan-blanchard-height-weight-body-statistics/24530#comment-219305">Shannon Shaan</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/selena-gomez-height-weight-body-statistics/1057#comment-219300" title="">Selena Gomez Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">I thing the reason why people are hating on Selena because they are...</div>
+                        		<span class="widget-post-meta">December 3, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/selena-gomez-height-weight-body-statistics/1057#comment-219300">Shannon Shaan</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/deepika-padukone-height-weight-body-statistics/764#comment-219288" title="">Deepika Padukone Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">hi deepika.!.
+i like ur figure. ..i just want to bcm as u...</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/deepika-padukone-height-weight-body-statistics/764#comment-219288">haseena</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/arjun-kapoor-height-weight-body-statistics/9189#comment-219221" title="">Arjun Kapoor Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">Arjun I am your biggest fan
+I love you
+I want to meet you
+I am...</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/arjun-kapoor-height-weight-body-statistics/9189#comment-219221">Mahrukh</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/taylor-swift-height-weight-body-statistics/924#comment-219174" title="">Taylor Swift Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">If Taylor Swift's hip to waist ratio is correct, she'd have one of...</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/taylor-swift-height-weight-body-statistics/924#comment-219174">Sam</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/akshay-kumar-height-weight-body-statistics/22899#comment-219045" title="">Akshay Kumar Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">boss</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/akshay-kumar-height-weight-body-statistics/22899#comment-219045">Vipin kumar</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/ross-lynch-height-weight-body-statistics/16248#comment-218952" title="">Ross Lynch Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">Well it says on here he's a christian but I don't know for sure,all I...</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/ross-lynch-height-weight-body-statistics/16248#comment-218952">CANDISR5</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/ross-lynch-height-weight-body-statistics/16248#comment-218943" title="">Ross Lynch Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">Told you Justin[older brother]that he's not gay!!!!!</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/ross-lynch-height-weight-body-statistics/16248#comment-218943">CANDISR5</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/ross-lynch-height-weight-body-statistics/16248#comment-218942" title="">Ross Lynch Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">I'm so happy he's a CHRISTIAN!So am I!I love everything about...</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/ross-lynch-height-weight-body-statistics/16248#comment-218942">CANDISR5</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                                       
+                        <li class="widget-post-wrapper">
+                        		<div class="widget-post-thumb">
+                                    <img alt='' src='http://0.gravatar.com/avatar/?d=wavatar&#038;s=50' class='avatar avatar-50 photo avatar-default' height='50' width='50' />                                </div>
+                        	<div class="widget-post-content">
+                        		<h3 class="widget-post-title"><a  href="http://healthyceleb.com/deepika-padukone-height-weight-body-statistics/764#comment-218864" title="">Deepika Padukone Height Weight Body Statistics</a></h3>
+                                <div class="conment-sub-content">i love you plz Deepika</div>
+                        		<span class="widget-post-meta">December 2, 2014 - 
+                                 <span>
+                                                                        <b class="author_name">
+                                  
+                                    <a rel="me" href="http://healthyceleb.com/deepika-padukone-height-weight-body-statistics/764#comment-218864">Amarjeet</a>
+                                   
+                                    </b>
+                                 </span>
+                                </span>
+                        	</div>
+                        </li>
+                             </ul>
+            </div>                             </div>
+                                                 
+                        </div>
+                    </div>
+                </div>
+        
+        <div id="text-10" class="widget-container widget_text">			<div class="textwidget"><iframe src="http://www5.smartadserver.com/call/pubif/56921/428839/24954/S/[timestamp]/[target]?" width='160' height='600' marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></div>
+		</div><div id="tag_cloud-2" class="widget-container widget_tag_cloud"><h3 class="widgettitle">SEARCH BY TOPIC</h3><div class="tagcloud"><a href='/tag/actor/' class='tag-link-439' title='186 topics' style='font-size: 16.6153846154pt;'>Actor</a>
+<a href='/tag/actress/' class='tag-link-237' title='512 topics' style='font-size: 20pt;'>Actress</a>
+<a href='/tag/american/' class='tag-link-176' title='721 topics' style='font-size: 21.1538461538pt;'>American</a>
+<a href='/tag/aries/' class='tag-link-1832' title='21 topics' style='font-size: 9.46153846154pt;'>Aries</a>
+<a href='/tag/australian/' class='tag-link-258' title='65 topics' style='font-size: 13.1538461538pt;'>Australian</a>
+<a href='/tag/b-cup-size/' class='tag-link-253' title='13 topics' style='font-size: 8pt;'>B Cup Size</a>
+<a href='/tag/bikram-yoga/' class='tag-link-496' title='13 topics' style='font-size: 8pt;'>Bikram Yoga</a>
+<a href='/tag/bodybuilder/' class='tag-link-75' title='14 topics' style='font-size: 8.23076923077pt;'>Bodybuilder</a>
+<a href='/tag/brazilian/' class='tag-link-247' title='23 topics' style='font-size: 9.76923076923pt;'>Brazilian</a>
+<a href='/tag/british/' class='tag-link-230' title='46 topics' style='font-size: 12pt;'>British</a>
+<a href='/tag/canadian/' class='tag-link-193' title='54 topics' style='font-size: 12.5384615385pt;'>Canadian</a>
+<a href='/tag/cancer/' class='tag-link-147' title='25 topics' style='font-size: 10pt;'>Cancer</a>
+<a href='/tag/capricorn/' class='tag-link-1818' title='14 topics' style='font-size: 8.23076923077pt;'>Capricorn</a>
+<a href='/tag/comedian/' class='tag-link-521' title='15 topics' style='font-size: 8.38461538462pt;'>Comedian</a>
+<a href='/tag/dancer/' class='tag-link-210' title='43 topics' style='font-size: 11.7692307692pt;'>Dancer</a>
+<a href='/tag/diet/' class='tag-link-4' title='446 topics' style='font-size: 19.5384615385pt;'>Diet</a>
+<a href='/tag/english/' class='tag-link-305' title='160 topics' style='font-size: 16.1538461538pt;'>English</a>
+<a href='/tag/female-filmstars/' class='tag-link-88' title='341 topics' style='font-size: 18.6153846154pt;'>Female</a>
+<a href='/tag/film-producer/' class='tag-link-376' title='17 topics' style='font-size: 8.84615384615pt;'>Film Producer</a>
+<a href='/tag/filmstars/' class='tag-link-86' title='203 topics' style='font-size: 16.9230769231pt;'>Filmstars</a>
+<a href='/tag/french/' class='tag-link-394' title='20 topics' style='font-size: 9.30769230769pt;'>French</a>
+<a href='/tag/gemini/' class='tag-link-1744' title='17 topics' style='font-size: 8.84615384615pt;'>Gemini</a>
+<a href='/tag/indian/' class='tag-link-190' title='88 topics' style='font-size: 14.1538461538pt;'>Indian</a>
+<a href='/tag/leo/' class='tag-link-1738' title='22 topics' style='font-size: 9.61538461538pt;'>Leo</a>
+<a href='/tag/libra/' class='tag-link-283' title='15 topics' style='font-size: 8.38461538462pt;'>Libra</a>
+<a href='/tag/low-carb/' class='tag-link-1473' title='14 topics' style='font-size: 8.23076923077pt;'>Low Carb</a>
+<a href='/tag/magazine/' class='tag-link-17' title='13 topics' style='font-size: 8pt;'>Magazine</a>
+<a href='/tag/male/' class='tag-link-87' title='137 topics' style='font-size: 15.6153846154pt;'>Male</a>
+<a href='/tag/model/' class='tag-link-89' title='399 topics' style='font-size: 19.1538461538pt;'>Model</a>
+<a href='/tag/pisces/' class='tag-link-290' title='21 topics' style='font-size: 9.46153846154pt;'>Pisces</a>
+<a href='/tag/rapper/' class='tag-link-80' title='18 topics' style='font-size: 9pt;'>Rapper</a>
+<a href='/tag/sagittarius/' class='tag-link-244' title='21 topics' style='font-size: 9.46153846154pt;'>Sagittarius</a>
+<a href='/tag/singer/' class='tag-link-90' title='358 topics' style='font-size: 18.8461538462pt;'>Singer</a>
+<a href='/tag/songwriter/' class='tag-link-438' title='37 topics' style='font-size: 11.3076923077pt;'>Songwriter</a>
+<a href='/tag/sports-illustrated-swimsuit/' class='tag-link-573' title='15 topics' style='font-size: 8.38461538462pt;'>Sports Illustrated Swimsuit</a>
+<a href='/tag/sports-stars/' class='tag-link-418' title='14 topics' style='font-size: 8.23076923077pt;'>Sports Stars</a>
+<a href='/tag/stats/' class='tag-link-31' title='941 topics' style='font-size: 22pt;'>Stats</a>
+<a href='/tag/taurus/' class='tag-link-250' title='32 topics' style='font-size: 10.8461538462pt;'>Taurus</a>
+<a href='/tag/tv-personality/' class='tag-link-329' title='53 topics' style='font-size: 12.4615384615pt;'>TV Personality</a>
+<a href='/tag/tv-presenter/' class='tag-link-831' title='24 topics' style='font-size: 9.92307692308pt;'>TV Presenter</a>
+<a href='/tag/tv-stars/' class='tag-link-160' title='109 topics' style='font-size: 14.8461538462pt;'>TV Stars</a>
+<a href='/tag/victorias-secret/' class='tag-link-289' title='41 topics' style='font-size: 11.6153846154pt;'>Victoria's Secret</a>
+<a href='/tag/weight-loss/' class='tag-link-467' title='32 topics' style='font-size: 10.8461538462pt;'>Weight Loss</a>
+<a href='/tag/workout/' class='tag-link-10' title='436 topics' style='font-size: 19.4615384615pt;'>Workout</a>
+<a href='/tag/yoga/' class='tag-link-814' title='18 topics' style='font-size: 9pt;'>Yoga</a></div>
+</div><div id="text-9" class="widget-container widget_text">			<div class="textwidget"><script type="text/javascript">
+var infolinks_pid = 251815;
+var infolinks_wsid = 3;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script></div>
+		</div><div id="text-12" class="widget-container widget_text">			<div class="textwidget"><p><iframe width="300" height="250"  src="http://healthyceleb.com/pubgalaxy/300x250.html" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true"></iframe></p>
+</div>
+		</div>                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+   
+</div>
+
+              </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div> <!-- END .main-outer-wrapper -->
+
+
+<div class="footer-outer-wrapper">
+                            <div class="footer-wrapper container">
+                    <div class="row">
+                    	<div class="three columns">
+                        	                        </div>
+                        <div class="three columns">
+                          	                        </div>
+                        <div class="three columns">
+                                                    </div>
+                        <div class="three columns">
+                                                 </div>
+                        <div class="clear"></div>    
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                
+                
+                <div class="copyright-outer-wrapper">
+                    <div class="copyright-wrapper container">
+                        <div class="row clearfix">
+                            <div class="copyright-left left b20">
+                                                            	<nav class="footer-nav">
+                            		<ul id="menu-footer-menu" class="menu"><li id="menu-item-6144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6144"><a href="/about-us/">About Us</a></li>
+<li id="menu-item-6146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6146"><a href="/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-6141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6141"><a href="/archives/">Archives</a></li>
+<li id="menu-item-6139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6139"><a href="/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-6142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6142"><a href="/advertise-here/">Advertise Here</a></li>
+<li id="menu-item-6143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6143"><a href="/sitemap/">Sitemap</a></li>
+<li id="menu-item-13576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13576"><a href="/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-6145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6145"><a href="/contact-us/">Contact Us</a></li>
+</ul>                            	</nav>
+                                                            </div>
+                                                        <div class="copyright-right right b20 text-right">
+                            	&copy; 2012-2014 <a href="http://healthyceleb.com">Healthy Celeb</a>                            </div>
+                                                        <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div> <!-- END .body-wrapper -->
+    </div> <!-- END .body-outer-wrapper -->
+    <div id="sttotop" class="bg_color"><i class="icon-angle-up"></i></div><script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/healthyceleb.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-socializer/public/js/wp-socializer-bookmark-js.js?ver=2.4.9.8'></script>
+<script type='text/javascript' src='/wp-content/themes/magazon-wp/assets/js/jquery.fitvids.js?ver=2.6'></script>
+<script type='text/javascript' src='/wp-content/themes/magazon-wp/assets/js/jquery.flexslider.js?ver=2.6'></script>
+<script type='text/javascript' src='/wp-content/themes/magazon-wp/assets/js/ddsmoothmenu.js?ver=2.6'></script>
+<script type='text/javascript' src='/wp-content/themes/magazon-wp/assets/js/jquery.carouFredSel-6.2.0-packed.js?ver=6.0.2'></script>
+<script type='text/javascript' src='/wp-content/themes/magazon-wp/assets/js/jquery.imagesloaded.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='/wp-content/themes/magazon-wp/assets/js/custom.js?ver=2.6'></script>
+<!-- Google Analytics Tag Starts -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32662603-1']);
+  _gaq.push(['_setDomainName', 'healthyceleb.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Google Analytics Tag Ends -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-akXd0N6UkeHfw"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-akXd0N6UkeHfw.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag --><script>
+jQuery(document).ready(function(){
+var a = jQuery("#twitter-widget-1").attr("src");
+a = decodeURIComponent(a);
+var arr = a.split('&url=');
+console.log(arr);
+newulr = arr[0]+"&url="+document.URL;
+console.log(newulr);
+jQuery("#twitter-widget-1").attr("src",encodeURI(newulr));
+});
+</script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: healthyceleb.com @ 2014-12-03 07:10:44 by W3 Total Cache -->

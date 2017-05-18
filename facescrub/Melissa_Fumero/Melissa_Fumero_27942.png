@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="723i5UonWFwyrRyJuAWYONYVg8HF6l0zWnqS-w_Y0yc" />
+<!--mclude wp-content/plugins/WebFxLogger/cacheInit.php-->
+<!--/mclude-->
+
+<title>Page not found | Manolith</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/manolith/style.css" />
+<link rel="shortcut icon" href="/wp-content/themes/manolith/images/favicon.ico" />
+<link rel="pingback" href="http://www.manolith.com/xmlrpc.php" />
+
+
+<script type="text/javascript">
+var TB_pluginPath = 'http://www.manolith.com/wp-content/plugins/tweet-blender', TB_C_pluginPath = 'http://www.manolith.com/wp-content/plugins/tweet-blender-charts';
+var TB_config = {
+'widget_show_photos':true,
+'widget_show_source':true,
+'widget_show_header':true,
+'general_link_screen_names':true,
+'general_link_hash_tags':true,
+'general_link_urls':true,
+'widget_check_sources':true,
+'widget_show_user':true,
+'ajax_url':'http://www.manolith.com/wp-admin/admin-ajax.php'
+}</script>
+<link rel="alternate" type="application/rss+xml" title="Manolith &raquo; Feed" href="http://www.manolith.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Manolith &raquo; Comments Feed" href="http://www.manolith.com/comments/feed/" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2719505-7']);
+				            _gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel='stylesheet' id='contact-form-7-css'  href='http://www.manolith.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.manolith.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.63' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://www.manolith.com/wp-content/plugins/slideshow-gallery/css/colorbox.css?ver=1.3.19' type='text/css' media='all' />
+<link rel='stylesheet' id='tb-css-css'  href='http://www.manolith.com/wp-content/plugins/tweet-blender/css/tweets.css?ver=3.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.manolith.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.manolith.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/sharebar/js/sharebar.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://a.postrelease.com/serve/load.js?async=true&#038;ver=3.8.5'></script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/slideshow-gallery/js/gallery.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.manolith.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.manolith.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.5" />
+	<!-- AdTruth -->
+	<script type="text/javascript" src="http://www.manolith.com/wp-content/plugins/trace_user_tracker//js/userprefsat.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+			if (document.cookie.indexOf("userprefsdi=") >= 0 && document.cookie.indexOf("userprefsdilc=") >= 0) {
+				var e = new Date(Date.parse(tDiDreadCookie("userprefsdilc")));
+				var t = tDiDreadCookie("userprefsdi");
+				var n = new Date;
+				var r = new Date(n.getTime() - 7 * 24 * 60 * 60 * 1e3);
+				if (e >= r) 
+					return;
+				else {
+					tDiDsetCookie("userprefsdip", t, 1096);
+					tDiDdelCookie("userprefsdi")
+				}
+			}
+			var payload = {};
+			
+			var extraParams = {};
+			
+						payload.extraParams = extraParams;
+			payload.PageViews = [{"Url": window.location.href.replace('"', '\\"') ,  "Referrer": document.referrer.replace('"', '\\"') }];
+			payload.JavaScriptPayload = fortyone.collect();
+			
+			if (document.cookie.indexOf("userprefsdip=") >= 0){
+				payload.PreviousDeviceID = tDiDreadCookie("userprefsdip");
+			}
+	
+			jQuery.post(
+				  "http://www.manolith.com/wp-content/plugins/trace_user_tracker//userprefsat.php",
+				  payload,
+				  function(data) {
+					//alert(data);				  
+				  }
+				);
+			
+		});
+		
+		function tDiDreadCookie(name) {
+			var nameEQ = escape(name) + "=";
+			var ca = document.cookie.split(';');
+			for (var i = 0; i < ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+				if (c.indexOf(nameEQ) == 0) return unescape(c.substring(nameEQ.length, c.length));
+			}
+			return null;
+		}
+		
+		function tDiDsetCookie(e, t, n) {
+			var r = new Date;
+			r.setDate(r.getDate() + n);
+			var i = t + (n == null ? "" : "; expires=" + r.toUTCString());
+			document.cookie = e + "=" + i
+		}
+		
+		function tDiDdelCookie(e) {
+			document.cookie = e + "=; expires=Thu, 01 Jan 1970 00:00:01 GMT;"
+		}		
+	</script>
+	<!-- /Adtruth -->
+	<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.manolith.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+
+<script type="text/javascript">
+	function $(x){return document.getElementById(x);}	
+	onWindowLoadRun_v = function(func) {
+	    // Run function 'func' at window.onload after other (previously set) handlers have fired. 
+	    if (typeof window.addEventListener != 'undefined') {
+	        // moz, saf1.2, ow5b6.1
+	        window.addEventListener('load', func, false);
+	    } else if (typeof document.addEventListener != 'undefined') {
+	        // MSN/OSX, op7.50, saf1.2, ow5b6.1
+	        document.addEventListener('load', func, false);
+	    } else if (typeof window.attachEvent != 'undefined') {
+	        // ie5.0w, ie5.5w, ie6w
+	        window.attachEvent('onload', func);
+	    } else {
+	        if (typeof window.onload == 'function') {
+	            // Add 'func' to existing handlers
+	            var oldonload = window.onload;
+	            window.onload = function() {
+	                oldonload();
+	                func();
+	            };
+	        } else {
+	            window.onload = func;
+	        }
+	    }
+	}
+	includeVoxant = function(){
+		var emb = document.createElement("embed");
+		var v = $("voxant");
+		
+		if(v){
+			/*emb.setAttribute("id","swfclipP157950");
+			emb.setAttribute("width","640");
+			emb.setAttribute("height","300");
+			emb.setAttribute("src","http://player.grabnetworks.com/swf/cube.swf?a=P157950&m=1492761");
+			emb.setAttribute("allowScriptAccess","always");
+			emb.setAttribute("base",".");
+			emb.setAttribute("wmode","transparent");
+			emb.setAttribute("allowfullscreen","true");
+
+			v.appendChild(emb);*/
+			v.innerHTML = "<object id=\"swfclipP157950\" width=\"640\" height=\"300\" data=\"http://player.grabnetworks.com/swf/cube.swf?a=P157950&m=1492761\" type=\"application/x-shockwave-flash\"><param name=\"movie\" value=\"http://player.grabnetworks.com/swf/cube.swf?a=P157950&m=1492761\"/><param name=\"allowScriptAccess\" value=\"always\"/><param name=\"base\" value=\".\" /><param name=\"wmode\" value=\"transparent\"/><param name=\"allowfullscreen\" value=\"true\"/></object>";
+		}
+	}
+	onWindowLoadRun_v(includeVoxant);
+</script>
+<!-- Twitter Embedded Tweets Script -->
+<script charset="utf-8" type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+</head>
+
+<body class="error404">
+<div id="wrapper" class="hfeed">
+	<div id="header" class="opensearchserver.ignore">    	
+		<div id="masthead">
+            <div class="logo-stars-left"></div>
+            <div class="logo-stars-right"></div>
+            <div class="guuurl"></div>
+            <div id="branding" role="banner">
+                <div id="site-title">
+                    <span>
+                        <a href="/" title="Manolith" rel="home">Manolith</a>
+                    </span>
+                </div>				
+            </div><!-- #branding -->
+            <div id="search">				
+               <form role="search" method="get" id="searchform" class="searchform" action="/sitesearch/searchresults/" >
+				<div><label class="screen-reader-text" for="s"></label>
+				<input type="text" value="" name="keywords" id="s" />
+				<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+				</form>
+            </div>
+					</div><!-- #masthead --> 
+       
+	     
+		
+			<div class="skyscraper" style="width:160px;height:600px;">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Manolith Skyscraper 160x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-9467586861738328"
+     data-ad-slot="5527288001"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			
+			</div>
+		
+				
+	   
+</div><!-- #header -->
+	<div id="main">
+
+	<div id="container">
+		<div id="content" role="main">
+
+			<div id="post-0" class="post error404 not-found">
+				<h1 class="entry-title">Not Found</h1>
+				<div class="entry-content">
+					<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+					<form role="search" method="get" id="searchform" class="searchform" action="http://www.manolith.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>				</div><!-- .entry-content -->
+			</div><!-- #post-0 -->
+
+		</div><!-- #content -->
+
+	<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+    <!-- #content -->
+    
+<div id="primary" class="widget-area opensearchserver.ignore" role="complementary">	   
+    <ul class="xoxo" class="widget-container">
+    	
+		<li class="widget-container">
+        	<h3 class="widget-title">Chickolith</h3>
+			      		
+            <a href="http://www.manolith.com/2013/12/09/la-critics-awards-cate-blanchett-and-adele-exarchopoulos-tie-for-best-actress/" title="Permalink to LA Critics Awards: Cate Blanchett and Adele Exarchopoulos Tie For Best Actress" rel="bookmark" class="chickolith-link"><img width="86" height="86" src="http://www.manolith.com/wp-content/uploads//2013/12/20131208-211106-100x100.jpg" class="chickolith-img wp-post-image" alt="20131208-211106.jpg" /><img src="/wp-content/themes/manolith/images/photo-overlay.png" class="photo-overlay" /></a>
+                  		
+            <a href="http://www.manolith.com/2013/12/01/persepolis-and-my-awkward-aikido-class-in-inschia/" title="Permalink to Persepolis and My Awkward Aikido Class in Ischia" rel="bookmark" class="chickolith-link"><img width="86" height="86" src="http://www.manolith.com/wp-content/uploads//2013/11/persepolis-100x100.jpg" class="chickolith-img wp-post-image" alt="persepolis" /><img src="/wp-content/themes/manolith/images/photo-overlay.png" class="photo-overlay" /></a>
+                  		
+            <a href="http://www.manolith.com/2013/11/22/m-i-a-hilarious-interview-on-the-colbert-report/" title="Permalink to M.I.A.&#8217;s Hilarious Interview on The Colbert Report" rel="bookmark" class="chickolith-link"><img width="86" height="86" src="http://www.manolith.com/wp-content/uploads//2013/11/130924-mia-matangi-cover-art-super-bowl-nfl-100x100.jpg" class="chickolith-img wp-post-image" alt="130924-mia-matangi-cover-art-super-bowl-nfl" /><img src="/wp-content/themes/manolith/images/photo-overlay.png" class="photo-overlay" /></a>
+                  		
+            <a href="http://www.manolith.com/2013/10/08/the-saturday-night-live-awards-for-s39-e2-miley-cyrus/" title="Permalink to The Saturday Night Live Awards for S39 E2 (Miley Cyrus)" rel="bookmark" class="chickolith-link"><img width="86" height="86" src="http://www.manolith.com/wp-content/uploads//2013/10/Screen-Shot-2013-10-07-at-10.56.48-PM-100x100.png" class="chickolith-img wp-post-image" alt="Screen Shot 2013-10-07 at 10.56.48 PM" /><img src="/wp-content/themes/manolith/images/photo-overlay.png" class="photo-overlay" /></a>
+                  		
+            <a href="http://www.manolith.com/2013/09/18/pamela-andersons-snapdragon-20-years-later/" title="Permalink to Pamela Anderson&#8217;s Snapdragon: 20 Years Later" rel="bookmark" class="chickolith-link"><img width="86" height="86" src="http://www.manolith.com/wp-content/uploads//2013/09/Pamela_Anderson_3-100x100.jpg" class="chickolith-img wp-post-image" alt="Pamela_Anderson_3" /><img src="/wp-content/themes/manolith/images/photo-overlay.png" class="photo-overlay" /></a>
+                  		
+            <a href="http://www.manolith.com/2013/09/17/the-films-of-john-cassavetes-a-poor-mans-guide/" title="Permalink to The Films of John Cassavetes: A Poor Man&#8217;s Guide" rel="bookmark" class="chickolith-link"><img width="86" height="86" src="http://www.manolith.com/wp-content/uploads//2013/09/Screen-Shot-2013-09-16-at-6.27.26-PM-100x100.png" class="chickolith-img wp-post-image" alt="Screen Shot 2013-09-16 at 6.27.26 PM" /><img src="/wp-content/themes/manolith/images/photo-overlay.png" class="photo-overlay" /></a>
+                    </li>        
+        <li class="widget-container">
+        	<h3 class="widget-title">Manolithic Videos</h3>
+			                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2013/12/03/review-ron-burgundy-razzles-and-dazzles-in-north-dakota-news-broadcast/" title="" rel="bookmark" class="latest-stories-img"><img width="50" height="50" src="http://www.manolith.com/wp-content/uploads//2013/12/0342-100x100.png" class="attachment-50x50 wp-post-image" alt="0342" /><!--<img src="/wp-content/themes/manolith/images/entry-video-image.png" class="video-overlay" />--></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2013/12/03/review-ron-burgundy-razzles-and-dazzles-in-north-dakota-news-broadcast/">REVIEW: Ron Burgundy Razzles and Dazzles in North Dakota News Broadcast</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2013/12/02/poor-folk-a-video-about-saint-petersburg/" title="" rel="bookmark" class="latest-stories-img"><img width="50" height="50" src="http://www.manolith.com/wp-content/uploads//2013/12/PoorFolk-100x100.jpg" class="attachment-50x50 wp-post-image" alt="PoorFolk" /><!--<img src="/wp-content/themes/manolith/images/entry-video-image.png" class="video-overlay" />--></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2013/12/02/poor-folk-a-video-about-saint-petersburg/">Poor Folk: A Video About Saint-Petersburg</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2013/11/05/top-10-meaningless-or-deceptive-tv-ads/" title="" rel="bookmark" class="latest-stories-img"><img width="50" height="50" src="http://www.manolith.com/wp-content/uploads//2013/11/smashed-tv-SAFE-100x100.jpg" class="attachment-50x50 wp-post-image" alt="smashed tv SAFE" /><!--<img src="/wp-content/themes/manolith/images/entry-video-image.png" class="video-overlay" />--></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2013/11/05/top-10-meaningless-or-deceptive-tv-ads/">Top 10 Meaningless or Deceptive TV Ads</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2013/10/02/one-on-one-with-70s-porn-icon-seka-exclusive/" title="" rel="bookmark" class="latest-stories-img"><img width="50" height="50" src="http://www.manolith.com/wp-content/uploads//2013/10/5-100x100.jpg" class="attachment-50x50 wp-post-image" alt="5" /><!--<img src="/wp-content/themes/manolith/images/entry-video-image.png" class="video-overlay" />--></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2013/10/02/one-on-one-with-70s-porn-icon-seka-exclusive/">One on One with 70&#8242;s Porn Icon &#8220;Seka&#8221; (Exclusive)</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2013/09/20/new-zealand-plumber-pranks-brother-makes-every-faucet-a-beer-tap-video/" title="" rel="bookmark" class="latest-stories-img"><img width="50" height="50" src="http://www.manolith.com/wp-content/uploads//2013/09/beer-tap-plumbing-100x100.jpg" class="attachment-50x50 wp-post-image" alt="beer-tap-plumbing" /><!--<img src="/wp-content/themes/manolith/images/entry-video-image.png" class="video-overlay" />--></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2013/09/20/new-zealand-plumber-pranks-brother-makes-every-faucet-a-beer-tap-video/">New Zealand Plumber Pranks Brother, Makes Every Faucet a Beer Tap (VIDEO)</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                	
+        </li>
+        		   
+        <li id="text-3" class="widget-container widget_text"><h3 class="widget-title">Follow Us</h3>			<div class="textwidget"><div class="follow-us">
+<a href="http://www.manolith.com/feed"  class="rss-icon">RSS</a>
+<a href="http://www.twitter.com/manolith" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.twitter.com']);" class="twitter-icon"></a>
+<a href="http://www.facebook.com/manolith" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com']);" class="facebook-icon">Facebook</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style=" left: -5000px; position: absolute; top: 0;">Where to buy <a href="http://noveltytshirts.org" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://noveltytshirts.org']);">Novelty T-Shirts for Men</a> online?</div></div>
+		</li>            	    <li class="widget-container">
+                <h3 class="widget-title">Latest Stories</h3>			
+				                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2014/01/27/the-key-differences-between-the-activex-and-javabeans-frameworks/" title="Permalink to The Key Differences between the ActiveX and JavaBeans Frameworks" rel="bookmark" class="latest-stories-img"></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2014/01/27/the-key-differences-between-the-activex-and-javabeans-frameworks/">The Key Differences between the ActiveX and JavaBeans Frameworks</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2014/01/27/how-to-avoid-the-most-common-online-scams/" title="Permalink to How to Avoid the Most Common Online Scams" rel="bookmark" class="latest-stories-img"></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2014/01/27/how-to-avoid-the-most-common-online-scams/">How to Avoid the Most Common Online Scams</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2014/01/27/tips-for-getting-the-most-out-of-mapping-tools/" title="Permalink to Tips for Getting the Most Out of Mapping Tools" rel="bookmark" class="latest-stories-img"></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2014/01/27/tips-for-getting-the-most-out-of-mapping-tools/">Tips for Getting the Most Out of Mapping Tools</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2014/01/27/understanding-the-details-of-u-verse-services-from-att/" title="Permalink to Understanding the Details of UVerse Services from AT&amp;T" rel="bookmark" class="latest-stories-img"></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2014/01/27/understanding-the-details-of-u-verse-services-from-att/">Understanding the Details of UVerse Services from AT&amp;T</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                                <div class="latest-stories">
+                    <div class="latest-stories-left">
+                        <a href="http://www.manolith.com/2014/01/27/refinishing-teak-furniture-and-loving-the-results/" title="Permalink to Refinishing Teak Furniture and Loving the Results" rel="bookmark" class="latest-stories-img"></a>
+                    </div>
+                    <div class="latest-stories-right">
+                        <h3 class="latest-stories-title"><a href="http://www.manolith.com/2014/01/27/refinishing-teak-furniture-and-loving-the-results/">Refinishing Teak Furniture and Loving the Results</a></h3>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                			
+	        </li>
+            </ul>
+</div>
+    <div class="clear"></div>
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo" class="opensearchserver.ignore">
+		<span>Copyright &copy; 2014</span>|<a href="/privacy-policy/" rel="nofollow">Privacy Policy</a>|<a href="/terms-of-service/" rel="nofollow">Terms of Use</a>|<a href="/contact-us/" rel="nofollow">Contact Us</a>|<a href="/about/" rel="nofollow">About Us</a>
+	</div><!-- #footer -->
+    <div class="clear"></div>
+</div><!-- #wrapper -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TB_labels = {"no_config":"No configuration settings found","twitter_logo":"Twitter Logo","kino":"Development by Kirill Novitchenko","refresh":"Refresh","no_sources":"Twitter sources to blend are not defined","no_global_config":"Cannot retrieve Tweet Blender configuration options","version_msg":"Powered by Tweet Blender plugin v{0} blending {1}","limit_msg":"You reached Twitter API connection limit","no_tweets_msg":"No tweets found for {0}","loading_msg":"Loading tweets...","time_past":"{0} {1} ago","time_future":"in {0} {1}","second":"second","seconds":"seconds","minute":"minute","minutes":"minutes","hour":"hour","hours":"hours","day":"day","days":"days","week":"week","weeks":"weeks","month":"month","months":"months","year":"year","years":"years","check_fail":"Check failed","limit_num":"Max is {0}\/hour","limit_left":"You have {0} left","from":"from","reply":"reply","follow":"follow","limit_reset":"Next reset","view_more":"view more"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/tweet-blender/js/lib.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/tweet-blender/js/main.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.49.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.manolith.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.manolith.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.manolith.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.63'></script>
+</body>
+</html>
+	</div><!-- #container -->
