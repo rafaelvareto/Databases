@@ -1,0 +1,900 @@
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        
+
+        <title>nationmaster.com</title>
+
+        <meta name="description" content="" />
+        <meta name="author" content="">
+        <meta name="viewport" content="width=device-width,initial-scale=1, user-scalable=no">
+
+        
+        
+
+        
+
+        
+            
+            <meta property="og:image" content="http://tfw.cachefly.net/nm/nm_app/pix/home-hero-stats.png">
+        
+
+        
+            <link rel="stylesheet" href="http://tfw.cachefly.net/nm/nm_app/css/bootstrap.min.css">
+            <link rel="stylesheet" href="http://tfw.cachefly.net/nm/nm_app/css/select2.css">
+            <link rel="stylesheet" href="http://tfw.cachefly.net/nm/nm_app/css/style.css">
+        
+
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery-1.10.2.min.js"></script>
+
+        <script type='text/javascript'>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-317061-1']);
+
+            
+                
+                
+                    _gaq.push([
+                        '_setCustomVar',
+                        1,
+                        'split_ad',
+                        'yes',
+                        3]);
+                
+            
+                
+                
+                    _gaq.push([
+                        '_setCustomVar',
+                        2,
+                        'split_cachefly',
+                        'on',
+                        3]);
+                
+            
+                
+                
+            
+                
+                
+                    _gaq.push([
+                        '_setCustomVar',
+                        4,
+                        'split_cmp_new_combos',
+                        'yes',
+                        3]);
+                
+            
+
+            // Track ga pageview when DOM is ready, meaning all inline js has
+            // executed. That way it's impossible when _trackPageview request
+            // sent but e.g. _setCustomVar is set only after that.
+            $(function() {
+                _gaq.push(['_trackPageview']);
+            });
+
+            
+            
+
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+
+            var _mfq = _mfq || [];
+            (function() {
+                var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+                mf.src = "//cdn.mouseflow.com/projects/c07a3afc-a8ca-44ca-a1b2-69101c659583.js";
+                document.getElementsByTagName("head")[0].appendChild(mf);
+            })();
+
+            
+
+            
+            
+            
+            var PATHS = {
+                'watermark': "http://tfw.cachefly.net/nm/nm_app/pix/watermark.png"
+            };
+
+            var VARS = {
+                'signup_url': "/account/signup/",
+                'track_url': "/track",
+                'page_survey_url': "/page-survey",
+                'vote_up_url': "/so/vote-up",
+                'vote_down_url': "/so/vote-down",
+                'sidebar_ajax_url': "/sidebar",
+                'sidebar_country_profile_url': "/country-info/profiles/obj-placeholder",
+                'sidebar_country_cat_url': "/country-info/profiles/obj-placeholder/cat-placeholder",
+                'sidebar_group_url': "/country-info/groups/obj-placeholder",
+                'sidebar_group_cat_url': "/country-info/groups/obj-placeholder/cat-placeholder",
+                'sidebar_countries_compare_url': "/country-info/compare/obj1-placeholder/obj2-placeholder",
+                'sidebar_countries_compare_cat_url': "/country-info/compare/obj1-placeholder/obj2-placeholder/cat-placeholder",
+                'sidebar_countries_catstat_url': "/country-info/stats/stat-placeholder",
+                'graph_search_cache': "/graph-search-cache",
+                'graph_search_local': "/graph-search-local"
+            };
+        </script>
+
+        <script type='text/javascript'>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            (function() {
+                var gads = document.createElement('script');
+                gads.async = true;
+                gads.type = 'text/javascript';
+                var useSSL = 'https:' == document.location.protocol;
+                gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(gads, node);
+            })();
+        </script>
+
+        <script type='text/javascript'>
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/1003355/NM_728*90', [728, 90], 'div­gpt­ad­1411535735200­0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+        </script>
+
+        <script type='text/javascript'>
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/1003355/NM_Sky_ROS_160*600', [160, 600], 'div­gpt­ad­1411536061265­0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+        </script>
+
+        
+        
+    </head>
+
+    <body>
+        
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId: '684695858243162',
+                status: true,
+                xfbml: true
+            });
+
+            FB.Event.subscribe('edge.create', function(url, el) {
+                // Track GA even when user likes nm on fb
+                if ($(el).attr('data-nm-bottom')) {
+                    _gaq.push(['_trackEvent', 'Link click', 'Bottom FB follow us', location.pathname]);
+                }
+            });
+        };
+
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <header class="header">
+        <!-- Navbar -->
+        <nav class="navbar navbar-default nav-shadow navbar-fixed-top transition" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                
+                    <a href="/account/login/" class="btn-tool login"><i class="icn icn-user"></i></a>
+                
+
+
+
+                <a class="navbar-brand" href="/"><img src="http://tfw.cachefly.net/nm/nm_app/pix/logo-nationmaster%402x.jpg" width="265" height="50" alt="NationMaster"></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories <b class="caret"></b></a>
+
+                            <ul class="dropdown-menu">
+                                
+                                
+                                    <li><a href="/country-info/stats/Agriculture"><i class="icn sect-agriculture"></i>Agriculture</a></li>
+                                
+                                    <li><a href="/country-info/stats/Background"><i class="icn sect-background"></i>Background</a></li>
+                                
+                                    <li><a href="/country-info/stats/Conflict"><i class="icn sect-conflict"></i>Conflict</a></li>
+                                
+                                    <li><a href="/country-info/stats/Cost-of-living"><i class="icn sect-cost-of-living"></i>Cost of living</a></li>
+                                
+                                    <li><a href="/country-info/stats/Crime"><i class="icn sect-crime"></i>Crime</a></li>
+                                
+                                    <li><a href="/country-info/stats/Culture"><i class="icn sect-culture"></i>Culture</a></li>
+                                
+                                    <li><a href="/country-info/stats/Disasters"><i class="icn sect-disasters"></i>Disasters</a></li>
+                                
+                                    <li><a href="/country-info/stats/Economy"><i class="icn sect-economy"></i>Economy</a></li>
+                                
+                                    <li><a href="/country-info/stats/Education"><i class="icn sect-education"></i>Education</a></li>
+                                
+                                    <li><a href="/country-info/stats/Energy"><i class="icn sect-energy"></i>Energy</a></li>
+                                
+                                    <li><a href="/country-info/stats/Environment"><i class="icn sect-environment"></i>Environment</a></li>
+                                
+                                    <li><a href="/country-info/stats/Geography"><i class="icn sect-geography"></i>Geography</a></li>
+                                
+                                    <li><a href="/country-info/stats/Government"><i class="icn sect-government"></i>Government</a></li>
+                                
+                                    <li><a href="/country-info/stats/Health"><i class="icn sect-health"></i>Health</a></li>
+                                
+                                    <li><a href="/country-info/stats/Industry"><i class="icn sect-industry"></i>Industry</a></li>
+                                
+                                    <li><a href="/country-info/stats/Labor"><i class="icn sect-labor"></i>Labor</a></li>
+                                
+                                    <li><a href="/country-info/stats/Language"><i class="icn sect-language"></i>Language</a></li>
+                                
+                                    <li><a href="/country-info/stats/Lifestyle"><i class="icn sect-lifestyle"></i>Lifestyle</a></li>
+                                
+                                    <li><a href="/country-info/stats/Media"><i class="icn sect-media"></i>Media</a></li>
+                                
+                                    <li><a href="/country-info/stats/Military"><i class="icn sect-military"></i>Military</a></li>
+                                
+                                    <li><a href="/country-info/stats/People"><i class="icn sect-people"></i>People</a></li>
+                                
+                                    <li><a href="/country-info/stats/Religion"><i class="icn sect-religion"></i>Religion</a></li>
+                                
+                                    <li><a href="/country-info/stats/Sports"><i class="icn sect-sports"></i>Sports</a></li>
+                                
+                                    <li><a href="/country-info/stats/Terrorism"><i class="icn sect-terrorism"></i>Terrorism</a></li>
+                                
+                                    <li><a href="/country-info/stats/Transport"><i class="icn sect-transport"></i>Transport</a></li>
+                                
+                                    <li><a href="/country-info/stats/Travel"><i class="icn sect-travel"></i>Travel</a></li>
+                                
+                                    <li><a href="/country-info/stats/Weather"><i class="icn sect-weather"></i>Weather</a></li>
+                                
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="navbar_text_countries"><span class="navbar_text_changer">Countries A-Z</span> <b class="caret"></b></a>
+
+                            <ul class="dropdown-menu header-dropdown-dynsize">
+                                
+                                
+                                    <li item_index="c">
+                                    <a href="/country-info/profiles/Argentina"><b class="flag flag-ar"></b>Argentina</a>
+                                </li>
+                                
+                                    <li item_index="cc">
+                                    <a href="/country-info/profiles/Australia"><b class="flag flag-au"></b>Australia</a>
+                                </li>
+                                
+                                    <li item_index="ccc">
+                                    <a href="/country-info/profiles/Brazil"><b class="flag flag-br"></b>Brazil</a>
+                                </li>
+                                
+                                    <li item_index="cccc">
+                                    <a href="/country-info/profiles/Canada"><b class="flag flag-ca"></b>Canada</a>
+                                </li>
+                                
+                                    <li item_index="ccccc">
+                                    <a href="/country-info/profiles/China"><b class="flag flag-cn"></b>China</a>
+                                </li>
+                                
+                                    <li item_index="cccccc">
+                                    <a href="/country-info/profiles/Egypt"><b class="flag flag-eg"></b>Egypt</a>
+                                </li>
+                                
+                                    <li item_index="ccccccc">
+                                    <a href="/country-info/profiles/France"><b class="flag flag-fr"></b>France</a>
+                                </li>
+                                
+                                    <li item_index="cccccccc">
+                                    <a href="/country-info/profiles/Germany"><b class="flag flag-de"></b>Germany</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccc">
+                                    <a href="/country-info/profiles/Greece"><b class="flag flag-gr"></b>Greece</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccc">
+                                    <a href="/country-info/profiles/India"><b class="flag flag-in"></b>India</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccc">
+                                    <a href="/country-info/profiles/Ireland"><b class="flag flag-ie"></b>Ireland</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccc">
+                                    <a href="/country-info/profiles/Israel"><b class="flag flag-il"></b>Israel</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccc">
+                                    <a href="/country-info/profiles/Italy"><b class="flag flag-it"></b>Italy</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccccc">
+                                    <a href="/country-info/profiles/Japan"><b class="flag flag-jp"></b>Japan</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccccc">
+                                    <a href="/country-info/profiles/Mexico"><b class="flag flag-mx"></b>Mexico</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccccccc">
+                                    <a href="/country-info/profiles/Norway"><b class="flag flag-no"></b>Norway</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccccccc">
+                                    <a href="/country-info/profiles/Philippines"><b class="flag flag-ph"></b>Philippines</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccccccccc">
+                                    <a href="/country-info/profiles/Russia"><b class="flag flag-ru"></b>Russia</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccccccccc">
+                                    <a href="/country-info/profiles/South-Africa"><b class="flag flag-za"></b>South Africa</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccccccccccc">
+                                    <a href="/country-info/profiles/Soviet-Union"><b class="flag flag-"></b>Soviet Union</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccccccccccc">
+                                    <a href="/country-info/profiles/Spain"><b class="flag flag-es"></b>Spain</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccccccccccccc">
+                                    <a href="/country-info/profiles/Sweden"><b class="flag flag-se"></b>Sweden</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccc">
+                                    <a href="/country-info/profiles/United-Kingdom"><b class="flag flag-gb"></b>United Kingdom</a>
+                                </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccc">
+                                    <a href="/country-info/profiles/United-States"><b class="flag flag-us"></b>United States</a>
+                                </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccc">
+                                    <a href="/country-info/profiles/Yugoslavia"><b class="flag flag-"></b>Yugoslavia</a>
+                                </li>
+                                
+
+                                <li><a href="/country-info/profiles">... All countries</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="navbar_text_stats"><span class="navbar_text_changer">Top stats</span> <b class="caret"></b></a>
+                            <ul class="dropdown-menu header-dropdown-dynsize">
+                                
+                                
+                                    <li item_index="c">
+                                        <a href="/country-info/stats/Cost-of-living/Average-monthly-disposable-salary/After-tax"><i class="icn sect-cost-of-living"></i>Disposable income</a>
+                                    </li>
+                                
+                                    <li item_index="cc">
+                                        <a href="/country-info/stats/Crime/Murders-with-firearms-per-million"><i class="icn sect-crime"></i>Gun murder rate</a>
+                                    </li>
+                                
+                                    <li item_index="ccc">
+                                        <a href="/country-info/stats/Crime/Prisoners"><i class="icn sect-crime"></i>Prisoners</a>
+                                    </li>
+                                
+                                    <li item_index="cccc">
+                                        <a href="/country-info/stats/Crime/Suicide-rates/Suicide-rate-%28both-sexes%29"><i class="icn sect-crime"></i>Suicide rate</a>
+                                    </li>
+                                
+                                    <li item_index="ccccc">
+                                        <a href="/country-info/stats/Crime/Violent-crime/Murder-rate"><i class="icn sect-crime"></i>Murder rate</a>
+                                    </li>
+                                
+                                    <li item_index="cccccc">
+                                        <a href="/country-info/stats/Crime/Violent-crime/Rapes-per-million-people"><i class="icn sect-crime"></i>Rapes</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccc">
+                                        <a href="/country-info/stats/Economy/Debt/Government-debt/Public-debt%2C-share-of-GDP"><i class="icn sect-economy"></i>Public debt</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccc">
+                                        <a href="/country-info/stats/Economy/GDP"><i class="icn sect-economy"></i>GDP</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccc">
+                                        <a href="/country-info/stats/Economy/GDP-per-capita"><i class="icn sect-economy"></i>GDP per capita</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccc">
+                                        <a href="/country-info/stats/Economy/Population-below-poverty-line"><i class="icn sect-economy"></i>Poverty</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccc">
+                                        <a href="/country-info/stats/Economy/Unemployment-rate"><i class="icn sect-economy"></i>Unemployment rate</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccc">
+                                        <a href="/country-info/stats/Education/Compulsary-education-duration"><i class="icn sect-education"></i>Education duration</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccc">
+                                        <a href="/country-info/stats/Education/Public-spending-on-education%2C-total/%25-of-GDP"><i class="icn sect-education"></i>Education spending</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccc">
+                                        <a href="/country-info/stats/Geography/Area/Comparative"><i class="icn sect-geography"></i>Land (comparative)</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccc">
+                                        <a href="/country-info/stats/Geography/Area/Land"><i class="icn sect-geography"></i>Land size</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccc">
+                                        <a href="/country-info/stats/Health/Births-and-maternity/Total-fertility-rate"><i class="icn sect-health"></i>Fertility rate</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccc">
+                                        <a href="/country-info/stats/Health/Diseases/Cancer/Cancer-death-rate-%28per-100%2C000-population%29"><i class="icn sect-health"></i>Cancer death rate</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccc">
+                                        <a href="/country-info/stats/Media/Internet/Internet-users-per-thousand-people"><i class="icn sect-media"></i>Internet usage</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccc">
+                                        <a href="/country-info/stats/People/Ethnic-groups"><i class="icn sect-people"></i>Ethnic groups</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccc">
+                                        <a href="/country-info/stats/People/Marriage%2C-divorce-and-children/Total-divorces-per-thousand-people"><i class="icn sect-people"></i>Divorce rate</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccc">
+                                        <a href="/country-info/stats/People/Obesity/Adult-obesity-rate"><i class="icn sect-people"></i>Obesity rates</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccc">
+                                        <a href="/country-info/stats/People/Population"><i class="icn sect-people"></i>Population</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccc">
+                                        <a href="/country-info/stats/Religion/Religions"><i class="icn sect-religion"></i>Religions</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccc">
+                                        <a href="/country-info/stats/Travel/Inbound-tourism/Arrivals"><i class="icn sect-travel"></i>Tourist arrivals</a>
+                                    </li>
+                                
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Groups <b class="caret"></b></a>
+                            <ul class="dropdown-menu header-dropdown-dynsize">
+                                
+                                
+                                    <li item_index="c">
+                                        <a href="/country-info/groups/Catholic-countries">Catholic countries</a>
+                                    </li>
+                                
+                                    <li item_index="cc">
+                                        <a href="/country-info/groups/Christian-countries">Christian countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccc">
+                                        <a href="/country-info/groups/Cold-countries">Cold countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccc">
+                                        <a href="/country-info/groups/Densely-populated-countries">Densely populated countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccccc">
+                                        <a href="/country-info/groups/East-Asia-and-Pacific">East Asia and Pacific</a>
+                                    </li>
+                                
+                                    <li item_index="cccccc">
+                                        <a href="/country-info/groups/Eastern-Europe">Eastern Europe</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccc">
+                                        <a href="/country-info/groups/Emerging-markets">Emerging markets</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccc">
+                                        <a href="/country-info/groups/English-speaking-countries">English speaking countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccc">
+                                        <a href="/country-info/groups/Europe">Europe</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccc">
+                                        <a href="/country-info/groups/European-Union">European Union</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccc">
+                                        <a href="/country-info/groups/Eurozone">Eurozone</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccc">
+                                        <a href="/country-info/groups/failed-states">failed states</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccc">
+                                        <a href="/country-info/groups/Former-British-colonies">Former British colonies</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccc">
+                                        <a href="/country-info/groups/Former-French-colonies">Former French colonies</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccc">
+                                        <a href="/country-info/groups/Former-Soviet-republics">Former Soviet republics</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccc">
+                                        <a href="/country-info/groups/Former-Spanish-colonies">Former Spanish colonies</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccc">
+                                        <a href="/country-info/groups/Former-Yugoslavian-countries-">Former Yugoslavian countries </a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccc">
+                                        <a href="/country-info/groups/Group-of-7-countries-%28G7%29">Group of 7 countries (G7)</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccc">
+                                        <a href="/country-info/groups/Heavily-indebted-countries">Heavily indebted countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccc">
+                                        <a href="/country-info/groups/High-income-OECD-countries">High income OECD countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Hot-countries">Hot countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Island-countries">Island countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Landlocked-countries">Landlocked countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Latin-America-and-Caribbean">Latin America and Caribbean</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Least-Developed-Countries">Least Developed Countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Middle-Eastern-and-North-Africa">Middle Eastern and North Africa</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Military-base">Military base</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Muslim-countries">Muslim countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/NATO-countries">NATO countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Non--religious-countries">Non-religious countries</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/OPEC-countries">OPEC countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Potential-Future-EU-Members" rel="nofollow">Potential Future EU Members</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Religious-countries">Religious countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/South-and-Central-Asia" rel="nofollow">South and Central Asia</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/South-Asia">South Asia</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Southern-Europe" rel="nofollow">Southern Europe</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Sparsely-populated-countries" rel="nofollow">Sparsely populated countries</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Sub--Saharan-Africa">Sub-Saharan Africa</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Tourist-destinations">Tourist destinations</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/UK-and-its-territories" rel="nofollow">UK and its territories</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Uninhabited-areas" rel="nofollow">Uninhabited areas</a>
+                                    </li>
+                                
+                                    <li item_index="cccccccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/Western-Europe" rel="nofollow">Western Europe</a>
+                                    </li>
+                                
+                                    <li item_index="ccccccccccccccccccccccccccccccccccccccccccc">
+                                        <a href="/country-info/groups/World">World</a>
+                                    </li>
+                                
+
+                                <li><a href="/country-info/groups">... All groups</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="top-bar-search">
+                        <form method="get" class="form form-search" action="/search">
+                            <button class="btn btn-primary btn-search" type="button"><i class="icn icn-searchlt"></i></button>
+                            <div class="input-wrapper">
+                                <input id="searchterm" name="q" type="text" placeholder="Search stats &amp; facts" class="form-control">
+                            </div>
+                        </form>
+                    </li>
+                    
+                        <li class="hidden-xs"><a href="/account/login/" class="btn-tool login">Log In</a></li>
+                    
+
+                    <li><a href="#" class="btn-tool print">Print</a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </nav>
+        <!-- End Navbar -->
+
+        <!-- Search Panel -->
+        <div class="search-panel droppanel">
+            <a href="#" class="btn-close">×</a>
+
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="main-searcg">
+                        <div class="searchbox">
+                            <form action="/search" method="get" class="form form-search">
+                                <fieldset>
+                                    <!-- Text input-->
+                                    <div class="control-group">
+                                        <div class="controls">
+                                            <input id="searchterm" name="q" type="text" placeholder="Search NationMaster..." class="form-control input-search">
+                                        </div>
+                                    </div>
+
+                                    <!-- Button -->
+                                    <div class="control-group">
+                                        <div class="controls">
+                                            <button id="searchbtn" name="searchbtn" class="btn btn-primary btn-search"><i class="icn icn-arrowright"></i></button>
+                                        </div>
+                                    </div>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Search Panel -->
+    </header>
+
+    
+
+    
+    <div class="box404">
+        <div class="message404">
+            <img src="/static/nm_app/pix/404-hero.png" width="374" height="217" alt="404 Error: The page you're looking for can't be found">
+
+            <h2>Ups... it’s not here.</h2>
+
+            <p class="subhead">(also known as Error 404)</p>
+            <p>Sorry, the page you requested could not be found. You can do our site search or just go back to the <a href="/">homepage</a> and start fresh.</p>
+
+            <span class="line-delimiter"></span>
+
+            <!-- Search bar -->
+            <div class="bigsearch">
+                <div class="row-fluid">
+                    <div class="col-md-12">
+                        <div class="searchbox">
+                            <form action="/search" class="form form-search">
+                                <fieldset>
+                                    <input id="searchtermbig" name="q" type="text" placeholder="Search NationMaster..." class="form-control input-search">
+                                    <button id="searchbtnbig" name="searchbtnbig" class="btn btn-primary btn-search">SEARCH<i class="icn icn-arrowright"></i></button>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Search bar -->
+        </div>
+    </div>
+
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="row no-print">
+
+          <!-- Footer Menu -->
+          <div class="col-md-4">
+            <div class="row">
+              <div class="col-md-6">
+                <ul class="list-unstyled foomenu">
+                  <li><a href="/country-info/stats">Categories</a></li>
+                  <li><a href="/country-info/profiles">Countries A-Z</a></li>
+                  <li><a href="/lesson-plans">Lesson plans</a></li>
+                  <li><a href="/reviews">Reviews</a></li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <ul class="list-unstyled foomenu">
+                  <li><a href="/about">About</a></li>
+                  <li><a href="/faq">Student FAQ</a></li>
+                  <li><a href="/contact-us">Contact</a></li>
+                  <li><a href="/blog/">Blog</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- End Footer Menu -->
+
+          <div class="col-md-4">
+
+          </div>
+
+          <!-- Footer Social -->
+          <div class="col-md-4">
+            <ul class="list-unstyled footsoc pull-right">
+              <li><a href="https://www.facebook.com/pages/NationMaster/194615633896750 " class="fb transition">Facebook</a></li>
+              <li><a href="https://twitter.com/nationmaster" class="tw transition">Twitter</a></li>
+              <li><a href="https://plus.google.com/b/106408528167588353932/" class="go transition">Google+</a></li>
+            </ul>
+          </div>
+          <!-- End Footer Social -->
+
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <p class="copy">© Copyright NationMaster.com 2003-2014. </p>
+          </div>
+          <div class="col-md-6">
+            <p class="copy pull-right">
+                All Rights Reserved. Usage implies agreement with <a href="/terms">terms</a>.
+
+                
+            </p>
+          </div>
+        </div>
+
+        
+      </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Embed modal -->
+    <div class="modal fade" id="modal-embed">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Embed content</h4>
+          </div>
+          <div class="modal-body">
+            <p>Add NationMaster content to your website. Copy code below and paste it into your website.</p>
+            <form class="form form-embed">
+            <fieldset>
+
+            <!-- Text input-->
+            <div class="control-group">
+              <div class="controls">
+                <input id="embedcode" name="embedcode" type="text" class="form-control input-embed">
+              </div>
+            </div>
+            </fieldset>
+            </form>
+
+            <div class="embed-content"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Embed modal -->
+
+    
+    <div class="modal fade" id="modal-fb">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h1 class="modal-title" style="font-weight: bold;">Like us on Facebook</h1>
+                </div>
+
+                <div class="modal-body" style="height: 200px;">
+                    <table style="width: 100%; height: 100%; padding-bottom: 10px;">
+                        <tr>
+                            <td style="vertical-align: middle">
+                                <div class="fb-like-inactive"
+                                     data-href="https://www.facebook.com/nationmaster"
+                                     data-width="350"
+                                     data-layout="standard"
+                                     data-action="like"
+                                     data-show-faces="false"
+                                     data-share="false"></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/bootstrap.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery.tablesorter.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery.tablesorter.pager.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery.sparkline.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/highcharts.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery-jvectormap-1.2.2.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery-jvectormap-world-mill-en.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery.zclip.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/select2/select2.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery.validate.min.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/jquery-scrollspy.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/custom.js"></script>
+        <script src="http://tfw.cachefly.net/nm/nm_app/js/sidebar.js"></script>
+
+        
+        
+    </body>
+</html>

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Page not found | Quiver: The Green Arrow Podcast</title>
+        
+
+
+	<!-- METAS -->
+    <meta name="keywords" content="Quiver: The Green Arrow Podcast" />
+	<meta name="description" content="Join Amanda and Mike as they geek out about the CW show Arrow, and pretty much any tangent that" />
+    <meta name="author" content="Quiver: The Green Arrow Podcast" />
+    
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" media="all" href="http://quiverpodcast.com/wp-content/themes/strings/css/main.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://quiverpodcast.com/wp-content/themes/strings/css/player/style.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://quiverpodcast.com/wp-content/themes/strings/css/prettyPhoto.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://quiverpodcast.com/wp-content/themes/strings/css/nivo-slider.css" />
+        <link href='http://fonts.googleapis.com/css?family=Cutive' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+	.cutive .gfont{font-family: 'Cutive', serif;; }
+	</style>
+	    
+	
+    <style type="text/css">
+/* THEME COLORS */
+::-moz-selection { background: #208208; color: #FFFFFF; text-shadow: none; }
+::selection { background: #208208; color: #FFFFFF; text-shadow: none; }
+#sidebar .major_sep, #footer .major_sep, .major_sep{	border-left:40px solid #208208; }
+#login_subscribe .color_button{	background:#208208 url(http://quiverpodcast.com/wp-content/themes/strings/images/gradient-30.png) repeat-x left bottom; }
+#navigation li a:hover{ border-bottom:3px solid #208208; }
+#navigation ul ul a:hover{border-bottom:1px solid #208208;}
+.ft_square_sep{ background:#208208 url(http://quiverpodcast.com/wp-content/themes/strings/images/ft_squares_sep.png) repeat center top;}
+.APV1_volume_bar, .APV1_play_bar {background:#208208 url(http://quiverpodcast.com/wp-content/themes/strings/css/player/sprite.png) repeat-x 0px -163px !important; }
+.slogan strong{ color:#208208;}
+.slogan a{ color:#FFF; background:#208208; padding:2px 5px;}
+#footer .widget ul li a:hover{ background:#208208; color:#fff; }
+#page_illustration{ background:#208208; }
+#sidebar a:hover{ color:#208208; }
+.fullpage_wrap a:hover{ color:#208208 !important; }
+h3 a:hover{ color:#208208 !important; }
+.left_part a:hover{ color:#208208 !important; }
+#main .page_wrap, #main .fullpage_wrap a{ color:#202020; }
+.entry-tags a:hover{
+	background:#208208;
+	color:#FFF;
+}
+.hover a:hover{
+	color:#FFF !important;
+}
+#contact_form textarea:focus, #contact_form input:focus, .wpcf7-submit textarea:focus, .wpcf7-submit input:focus{
+	background: #fff;
+	border:1px solid #208208;
+}
+.pullquote{ border-right: 5px solid #208208; }
+.pullquote_right{ border-left: 5px solid #208208; }
+	#sort-by a.active { background-color: #208208; color:#fff; }
+	
+	.current-menu-item a,
+	.current-menu-ancestor a,
+	.current_page_ancestor a,
+	.current-menu-item a,
+	.current_page_item a{color:#208208 !important;}
+	
+	.current-menu-item li a,
+	.current-menu-ancestor li a,
+	.current_page_ancestor li a,
+	.current-menu-item li a,
+	.current_page_item li a{color:#fff !important;}
+	.current-menu-item li a:hover,
+	.current-menu-ancestor li a:hover,
+	.current_page_ancestor li a:hover,
+	.current-menu-item li a:hover,
+	.current_page_item li a:hover{color:#208208 !important;}
+	
+	.pagination span.courante { color:#FFF; background:#208208;}
+	.paging a { color: #fff !important; background:#222; }
+	.paging a.active { background: #208208; color:#FFF !important; }
+
+.search_opener {display: none !important;}
+
+.date_post {
+    font-size: 14px !important;
+}
+</style>    <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" media="all" href="http://quiverpodcast.com/wp-content/themes/strings/css/ie7.css" />
+    <![endif]-->
+    
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" media="all" href="http://quiverpodcast.com/wp-content/themes/strings/css/ie8.css" />
+    <![endif]-->
+    
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+	<!-- JS -->
+    <link rel="alternate" type="application/rss+xml" title="Quiver: The Green Arrow Podcast &raquo; Feed" href="http://quiverpodcast.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Quiver: The Green Arrow Podcast &raquo; Comments Feed" href="http://quiverpodcast.com/comments/feed/" />
+<link rel='stylesheet' id='mediaelement-css'  href='http://quiverpodcast.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.15.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://quiverpodcast.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://quiverpodcast.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='jquery.lightbox.min.css-css'  href='http://quiverpodcast.com/wp-content/plugins/jquery.lightbox/styles/lightbox.min.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/plugins/powerpress/player.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/plugins/powerpress/powerpress-mejs.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/jquery.easing.1.3.js?ver=4.0.1'></script>
+<script type='text/javascript' src='https://apis.google.com/js/plusone.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/jquery.prettyPhoto.js?ver=4.0.1'></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/jquery.quovolver.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/jquery.nivo.slider.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/isotope.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/libs/AudioPlayerV1.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/libs/jquery.ui.widget.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/themes/strings/js/custom.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://quiverpodcast.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://quiverpodcast.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.1" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-53382915-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw){window.open('http://quiverpodcast.com/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+powerpress_url = 'http://quiverpodcast.com/wp-content/plugins/powerpress/';
+//-->
+</script>
+	<link rel="shortcut icon" href="http://quiverpodcast.com/wp-content/themes/strings/images/favicon.ico" />
+	    
+
+
+</head>
+
+<body class="error404 bg-leather cutive helvetica_text sliderbg-wood" id="top">
+
+<!-- Top Bar -->
+<section id="top_bar">
+    <!-- Content of Top Bar -->
+    <div class="content">
+    
+        
+        <!-- Top Navigation -->
+        <nav id="top_navigation">
+        <div class="menu-main-container"><ul id="menu-main" class=""><li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://quiverpodcast.com/category/news/">News</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="http://quiverpodcast.com/category/episodes/">Episodes</a></li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="http://quiverpodcast.com/store/">The Quiver Store</a></li>
+</ul></div>        </nav>
+        <!-- /Top Navigation -->
+        
+				
+
+
+    
+    </div>
+    <!-- /Content of Top Bar -->
+</section>
+<!-- /Top Bar -->
+
+<div id="header_wrap">
+<!-- HEADER -->
+<header id="header">
+    <!-- Content of HEADER -->
+    <div class="content">
+    
+		<!-- Logo -->
+        <hgroup id="logo">
+        
+        	<h1><a href="http://quiverpodcast.com/" title="Quiver: The Green Arrow Podcast" rel="home"><span class="inv">Quiver: The Green Arrow Podcast</span><img src="http://quiverpodcast.com/wp-content/uploads/2012/09/quiver-logo-alone.png" alt="" /></a></h1>
+        
+        </hgroup>
+        <!-- /Logo -->
+        
+         
+        <!-- banner_ads -->
+        <div class="banner_ads">
+        <a href="http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=arrow&linkCode=ur2&rh=i%3Aaps%2Ck%3Aarrow&tag=quithegrearrp-20&url=search-alias%3Daps&linkId=WIPXGNV4XKJ6X4JN"><img src="http://quiverpodcast.com/wp-content/uploads/2014/10/amazon-40-off-movies-banner-468x60.gif" alt="Quiver Amazon Link" /></a>        
+        </div>
+        <!-- /banner_ads -->
+		                
+        <br class="clear" />
+        
+        <!-- Navigation -->
+        <nav id="navigation" role="navigation">
+		        </nav>
+        <!-- /Navigation -->
+        
+        <!-- Search Popup -->
+        <div class="search_opener">
+            <a href="#" id="magnify_open"><span class="inv">Open</span></a>
+            <div class="search_tab">
+            <a href="#" id="magnify_close"><span class="inv">Close</span></a>
+            	<form action="http://quiverpodcast.com/" method="post">
+                	<input type="text" name="s" title="Hit enter to search..." value="Hit enter to search..." onFocus="if (this.value == 'Hit enter to search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Hit enter to search...';}" />
+                </form>
+            </div>
+        </div>
+        <!-- /Search Popup -->
+        
+        <br class="clear" />
+            
+    </div>
+    <!-- /Content of HEADER -->
+</header>
+<!-- /HEADER -->
+</div>
+
+<!-- MAIN -->
+<section id="main" class="innerpage">
+    <!-- Content of MAIN -->
+    <div class="content">
+
+
+        <div class="fullpage_wrap">
+        
+        <!-- fullpage wrap -->
+                <div class="title_page class=""" id="post-">
+            <div class="padding_20">
+                <h2 class="center gfont">Oops you are lost!</h2>
+            </div>
+        </div>
+        </div>
+        
+        <div class="fullpage_wrap">
+            <div class="padding_20_0_20_0 fullwidth_page">
+                <div class="grid_col_1_1">
+                Your text here                </div>
+                <br class="clear" />
+                <br />
+                <div class="grid_col_1_3">
+                    <h4 class="stylized gfont"><span>Last 20 Posts</span></h4>
+                                                
+                    <ul class="icon_dcb_arrow">
+                                            <li><a href="http://quiverpodcast.com/news/slade-wilson-to-return-later-this-season/">Slade Wilson To Return Later This Season</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/new-flash-vs-arrow-extended-trailer/">New Flash VS Arrow Extended Trailer</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/sin-to-return-in-the-12th-episode-of-this-season/">Sin To Return In The 12th Episode Of This Season</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/producer-marc-guggenheim-talks-laurel-lance-ray-palmers-costume-ras-al-ghul-in-a-new-interview/">Producer Marc Guggenheim Talks Laurel Lance, Ray Palmer&#8217;s Costume &#038; Ra&#8217;s Al Ghul In A New Interview</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/new-promo-video-for-flash-vs-arrow/">New Promo Video For &#8220;Flash VS. Arrow&#8221;</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/highlights-from-the-arrowflash-crossover-premiere/">Highlights From The Arrow/Flash Crossover Premiere</a></li>
+                                            <li><a href="http://quiverpodcast.com/episodes/quiver-season-3-episode-7/">Quiver Season 3: Episode 7</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/official-description-for-season-3-episode-09-the-climb/">Official Description For Season 3 Episode 09 &#8220;The Climb&#8221;</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/promo-images-for-season-3-episode-08-the-brave-and-the-bold/">Promo Images For Season 3 Episode 08 “The Brave And The Bold”</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/first-promo-images-for-the-arrowflash-crossover/">First Promo Images For The Arrow/Flash Crossover!</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/promo-video-for-season-3-episode-08-the-brave-and-the-bold/">Promo Video For Season 3 Episode 08 &#8220;The Brave And The Bold&#8221;</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/video-of-the-tv-guide-cover-shoot-with-stephen-amell-grant-gustin/">Video Of The TV Guide Cover Shoot With Stephen Amell &#038; Grant Gustin!</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/two-clips-from-season-3-episode-07-draw-back-your-bow/">Two Clips From Season 3 Episode 07 &#8220;Draw Back Your Bow&#8221;</a></li>
+                                            <li><a href="http://quiverpodcast.com/episodes/quiver-season-3-episode-6/">Quiver Season 3: Episode 6</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/contest-for-a-private-screening-of-the-arrowflash-crossover/">Contest For A Private Screening Of The Arrow/Flash Crossover!</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/promo-images-for-season-3-episode-07-draw-back-your-bow/">Promo Images For Season 3 Episode 07 &#8220;Draw Back Your Bow&#8221;</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/official-descriptions-for-the-arrowflash-crossover/">Official Descriptions For The Arrow/Flash Crossover</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/second-promo-video-for-season-3-episode-07-draw-back-your-bow/">Second Promo Video For Season 3 Episode 07 “Draw Back Your Bow”</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/promo-video-for-season-3-episode-07-draw-back-your-bow/">Promo Video For Season 3 Episode 07 “Draw Back Your Bow”</a></li>
+                                            <li><a href="http://quiverpodcast.com/news/first-look-at-laurel-lance-as-the-black-canary/">First Look At Laurel Lance As The Black Canary!</a></li>
+                                        </ul>
+                </div>
+                
+                <div class="grid_col_1_3">
+                    <h4 class="stylized gfont"><span>Archives by Month:</span></h4>
+                                  
+                    <ul class="icon_dcb_arrow">
+                        	<li><a href='http://quiverpodcast.com/2014/12/'>December 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/11/'>November 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/10/'>October 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/09/'>September 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/08/'>August 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/07/'>July 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/06/'>June 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/05/'>May 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/04/'>April 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/03/'>March 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/02/'>February 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2014/01/'>January 2014</a></li>
+	<li><a href='http://quiverpodcast.com/2013/12/'>December 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/11/'>November 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/10/'>October 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/07/'>July 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/05/'>May 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/04/'>April 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/03/'>March 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/02/'>February 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2013/01/'>January 2013</a></li>
+	<li><a href='http://quiverpodcast.com/2012/12/'>December 2012</a></li>
+	<li><a href='http://quiverpodcast.com/2012/11/'>November 2012</a></li>
+	<li><a href='http://quiverpodcast.com/2012/10/'>October 2012</a></li>
+	<li><a href='http://quiverpodcast.com/2012/09/'>September 2012</a></li>
+                    </ul>
+                </div>
+                
+                <div class="grid_col_1_3">
+                    <h4 class="stylized gfont"><span>Archives by Category:</span></h4>
+                                  
+                    <ul class="icon_dcb_arrow">
+                        	<li class="cat-item cat-item-5"><a href="http://quiverpodcast.com/category/episodes/" >Episodes</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://quiverpodcast.com/category/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://quiverpodcast.com/category/uncategorized/" >Uncategorized</a>
+</li>
+                    </ul>
+                </div>
+                <br class="clear" />
+            </div>
+        </div>
+        <!-- /fullpage wrap -->
+    
+    
+    
+    </div>
+    <!-- /Content of MAIN -->
+</section>
+<!-- /MAIN -->
+
+
+
+<!-- FOOTER -->
+<div class="ft_square_sep"></div>
+<footer id="footer">
+    <!-- Content of widgets -->
+    <div class="content">
+    
+        
+    <br class="clear" />
+   
+        <!-- Social networks -->
+            <ul class="social_networks">
+                <li class="sorting-01"><a href="http://www.facebook.com/QuiverPodcast" class="facebook"><span class="inv">Facebook</span></a></li><li class="sorting-02"><a href="http://twitter.com/#!/QuiverPodcast" class="twitter"><span class="inv">twitter</span></a></li><li class="sorting-03"><a href="http://www.youtube.com/user/QuiverPodcast" class="youtube"><span class="inv">youtube</span></a></li>            </ul>
+        <!-- /Social networks -->
+    
+    </div>
+    <!-- /Content of widgets -->
+    
+    <!-- Footer infos -->
+    <div id="ft_infos">
+        <!-- Content of Footer infos -->
+        <div class="content">
+        © Copyright 2012 - Quiver Podcast        </div>
+        <!-- /Content of Footer infos -->
+    </div>
+    <!-- /Footer infos -->
+
+</footer>
+<!-- /FOOTER -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.15.0'></script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/plugins/jquery.lightbox/jquery.touchwipe.min.js?ver=1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"showInfo":"1","fitToScreen":"1","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","resizeCenter":"","marginSize":"0","linkTarget":"_self","slideshowSpeed":"4000","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://quiverpodcast.com/wp-content/plugins/jquery.lightbox/jquery.lightbox.min.js?ver=1.4'></script>
+<script type="text/javascript">
+// PrettyPhoto Setting light_rounded / dark_rounded / light_square / dark_square / facebook
+$j(function() {	
+	$j("a[rel^='prettyPhoto']").prettyPhoto({
+			animationSpeed:'400',
+			theme:'pp_default',
+			deeplinking: false
+	}); 
+});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UI-XXXXX-XX']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

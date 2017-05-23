@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title></title>
+    
+<meta name="description" content=""> 
+
+<link rel="icon" type="image/ico" href="http://www.dinnerinminutes.com/favicon.ico">
+<link rel="icon" href="http://www.dinnerinminutes.com/favicon.ico">
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/style.css" />
+<link rel="pingback" href="http://www.dinnerinminutes.com/xmlrpc.php" />
+<link rel='stylesheet' id='wptoolset-field-datepicker-css'  href='http://www.dinnerinminutes.com/wp-content/plugins/types/embedded/common/toolset-forms/css/wpt-jquery-ui/datepicker.css?ver=0.1.1' type='text/css' media='all' />
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/js/jquery.bxslider.min.js"></script>
+
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/js/fancybox/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript">
+
+
+	$(document).ready(function(){
+		// Homepage Hero Slider Code
+		$('.bxslider').bxSlider({
+			auto: true,
+			infiniteLoop: true,
+			preloadImages: 'visible',
+			mode: 'fade',
+			controls: false,
+			pager: true,
+			pause: 10000
+		});
+
+
+		//fancybox
+		$(".video").fancybox({
+			maxWidth	: 800,
+			maxHeight	: 600,
+			fitToView	: false,
+			width		: '70%',
+			height		: '70%',
+			autoSize	: false,
+			closeClick	: false,
+			openEffect	: 'none',
+			closeEffect	: 'none'
+		});
+	});
+
+</script>
+
+</head>
+
+<body class="error404">
+
+<div id="header">
+
+<div class="wrapper">
+
+	<form method="get" id="searchform" action="http://www.dinnerinminutes.com/">
+	<input value="Search this site" onblur="if (this.value=='') this.value = 'Search this site'" onfocus="if (this.value=='Search this site') this.value = ''" type="text" size="14" name="s" id="s" class="s" /><input type="submit" id="searchsubmit" value="Search" />
+</form>
+	<a id="logo" href="http://www.dinnerinminutes.com/" title="Dinner In Minutes" rel="home">
+		<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/logo.png" alt="Dinner In Minutes">
+	</a>
+
+	<div id="access" role="navigation">
+		<div class="menu-header"><ul id="menu-main" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.dinnerinminutes.com/">Home</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.dinnerinminutes.com/cookbooks/">Cookbooks</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.dinnerinminutes.com/about-linda/">About Linda</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.dinnerinminutes.com/recipes/">Recipes</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.dinnerinminutes.com/videos/">Videos</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-22"><a href="http://www.dinnerinminutes.com/blog/">Blog</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.dinnerinminutes.com/contact-me/">Contact Me</a></li>
+</ul></div>	</div><!-- #access -->
+	
+	<div id="menu_bg"></div>
+
+</div> <!-- END WRAPPER -->
+
+</div> <!-- END HEADER -->
+
+
+				<h1>Not Found</h1>
+				<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+				<form method="get" id="searchform" action="http://www.dinnerinminutes.com/">
+	<input value="Search this site" onblur="if (this.value=='') this.value = 'Search this site'" onfocus="if (this.value=='Search this site') this.value = ''" type="text" size="14" name="s" id="s" class="s" /><input type="submit" id="searchsubmit" value="Search" />
+</form>
+	<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+
+
+<div id="footer">
+
+<div class="wrapper">
+
+<div class="bio">
+	<div class="inside">
+	
+		
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		<p>Linda Gassenheimer is the author of 30 books including her newest ones, No-Fuss Diabetes Desserts and Simply Smoothies: Fresh and Fast Diabetes-Friendly Snacks &#038; Complete Meals, published by the American Diabetes Association. Contact <a href="mailto:Linda@DinnerInMinutes.com">Linda@DinnerInMinutes.com</a></p>
+
+	 
+
+	</div>
+</div>
+
+
+<div class="books">
+	<h1>Award Winning Author</h1>
+
+		
+		<a href="http://www.amazon.com/No-Fuss-Diabetes-Desserts-Fresh-Diabetes-Friendly/dp/1580405282/ref=sr_1_6?ie=UTF8&qid=1415389222&sr=8-6&keywords=linda+gassenheimer" target="_blank">
+			<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/mask.png" class="mask">
+			<img src="http://www.dinnerinminutes.com/wp-content/uploads/2014/11/no-fuss-diabetes-desserts.jpg">
+		</a>
+
+		
+		<a href="http://www.amazon.com/Simply-Smoothies-Fresh-Diabetes-Friendly/dp/1580405274/ref=sr_1_2?ie=UTF8&qid=1415389222&sr=8-2&keywords=linda+gassenheimer" target="_blank">
+			<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/mask.png" class="mask">
+			<img src="http://www.dinnerinminutes.com/wp-content/uploads/2014/11/simply-smoothies.jpg">
+		</a>
+
+		
+		<a href="http://www.amazon.com/Fast-Flavorful-Great-Diabetes-Market/dp/1580404448/ref=sr_1_2?ie=UTF8&qid=1415051110&sr=8-2&keywords=linda+gassenheimer" target="_blank">
+			<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/mask.png" class="mask">
+			<img src="http://www.dinnerinminutes.com/wp-content/uploads/2014/11/ada-fast-and-flavorful.jpg">
+		</a>
+
+		
+		<a href="http://www.amazon.com/Match-Meals-Minutes-People-Diabetes/dp/1580402895/ref=sr_1_3?ie=UTF8&qid=1415051137&sr=8-3&keywords=linda+gassenheimer" target="_blank">
+			<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/mask.png" class="mask">
+			<img src="http://www.dinnerinminutes.com/wp-content/uploads/2014/11/mix-n-match.jpg">
+		</a>
+
+		
+		<a href="http://www.amazon.com/Dinner-Minutes-Memorable-Meals-Cooks-ebook/dp/B007MRQFY4/ref=sr_1_1?ie=UTF8&qid=1415051077&sr=8-1&keywords=dinner+in+minutes+linda+gassenheimer" target="_blank">
+			<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/mask.png" class="mask">
+			<img src="http://www.dinnerinminutes.com/wp-content/uploads/2014/11/dinner-in-minutes1.jpg">
+		</a>
+
+		
+		<a href="http://www.amazon.com/Flavors-Florida-Keys-Linda-Gassenheimer/dp/B005EP2HD4/ref=sr_1_4?ie=UTF8&qid=1415389222&sr=8-4&keywords=linda+gassenheimer" target="_blank">
+			<img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/mask.png" class="mask">
+			<img src="http://www.dinnerinminutes.com/wp-content/uploads/2014/11/flavors-florida-keys.jpg">
+		</a>
+
+	  
+
+	<!-- <a href="" target="_blank"><img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/book1.jpg"></a>
+	<a href="" target="_blank"><img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/book2.jpg"></a>
+	<a href="" target="_blank"><img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/book3.jpg"></a>
+	<a href="" target="_blank"><img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/book4.jpg"></a>
+	<a href="" target="_blank"><img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/book5.jpg"></a>
+	<a href="" target="_blank"><img src="http://www.dinnerinminutes.com/wp-content/themes/dinnerinminutes/images/book6.jpg"></a> -->
+	<div class="separator"></div>
+	<div class="clear">&nbsp;</div>
+</div>
+
+
+<div class="menu">
+
+	<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.dinnerinminutes.com/">Home</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="http://wlrn.org/people/linda-gassenheimer">WLRN Radio Show</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="http://www.miamiherald.com/living/food-drink/dinner-in-minutes/">Miami Herald Column</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.dinnerinminutes.com/cookbooks/">Cookbooks</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://www.dinnerinminutes.com/recipes/">Recipes</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.dinnerinminutes.com/videos/">Videos</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.dinnerinminutes.com/about-linda/">About Linda</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-33"><a href="http://www.dinnerinminutes.com/blog/">Blog</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.dinnerinminutes.com/contact-me/">Contact Me</a></li>
+</ul></div></div>
+
+<div class="copyright">Copyright © 2014 Dinner In Minutes. All Rights Reserved.</div>
+
+</div> <!-- END WRAPPER -->
+
+</div> <!-- END FOOTER -->
+
+</body>
+</html>

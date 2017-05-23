@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<script type="text/javascript">
+
+SITE_URL = 'http://www.zeusbox.com';
+SEO_ON = '3';
+COMMENT_WAIT = 'Please wait 60 seconds between comments';
+COMMENT_ERROR = 'An error occured in sending your comment';
+WALLPAPER_SUBMIT_COMMENT = 'Submit comment';
+ADDING_COMMENT = 'Adding comment';
+COMMENT_ADDED = 'Comment added';
+function WallpaperAddHit(id) {
+	AjaxPost("http://www.zeusbox.com/includes/wallpaper/ajax/wallpaper_hit.php", "wallpaper_id="+id, 
+			 function () {}
+	)
+}
+</script>
+
+<script type="text/javascript" src="http://www.zeusbox.com/includes/wss.js"></script>
+<link rel="alternate" type="application/rss+xml" title="http://www.zeusbox.com" href="http://www.zeusbox.com/rss.php" />
+
+<title>Page not found - Zeusbox Wallpaper Site</title><meta name="description" content="Download wallpapers for your computer, phone and more!" />
+	<meta name="keywords" content="wallpapers, desktops, downloads" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<link rel="shortcut icon" href="http://www.zeusbox.com/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://www.zeusbox.com/favicon.ico" type="image/x-icon" />
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1642290-16']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+     
+    <!-- Bootstrap styles -->
+    
+<link rel="stylesheet" href="http://www.zeusbox.com/templates/whitewall/css/bootstrap.css" />
+
+<!-- Main Template styles -->
+<link rel="stylesheet" href="http://www.zeusbox.com/templates/whitewall/style.css" />
+
+<!-- Font Awesome styles (icons) -->
+<link rel="stylesheet" href="http://www.zeusbox.com/templates/whitewall/fonts/font-awesome-4.0.3/css/font-awesome.min.css" />
+
+
+
+</head>
+<body>
+
+
+
+<!--[if lt IE 9]>
+   <script type="text/javascript" src="http://www.zeusbox.com/templates/whitewall/js/respond.min.js"></script>
+   <script type="text/javascript" src="http://www.zeusbox.com/templates/whitewall/js/respond.src.js"></script>
+<![endif]-->
+
+
+<!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+         <a class="navbar-brand" href="http://www.zeusbox.com"><img src="http://www.zeusbox.com/templates/whitewall/images/logo.png" alt="hd wallpapers" width="224" height="48"></a>
+        </div>
+        
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+               <li class="active"><a href="http://www.zeusbox.com"><i class="fa fa-home fa-lg"></i> Home</a></li>
+<li><a href="http://www.zeusbox.com/all"><i class="fa fa-bell"></i> New wallpapers</a></li>
+<li><a href="http://www.zeusbox.com/all/rating/1"><i class="fa fa-trophy"></i> Top rated</a></li>              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-folder-open"></i>  Categories<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.zeusbox.com/abstract"><i class="fa fa-plus-square-o"></i> Abstract</a></li><li><a href="http://www.zeusbox.com/girls"><i class="fa fa-plus-square-o"></i> Girls</a></li><li><a href="http://www.zeusbox.com/nature"><i class="fa fa-plus-square-o"></i> Nature</a></li><li><a href="http://www.zeusbox.com/animals"><i class="fa fa-plus-square-o"></i> Animals</a></li>                </ul>
+              </li>
+            </ul>
+            <div class="nav navbar-nav navbar-right">
+            	<form class="navbar-form navbar-left" role="search" action="http://www.zeusbox.com/index.php?task=search" method="get" onsubmit="searchSubmit('http://www.zeusbox.com', ''); return false;">
+ 				<input name="task" type="hidden" value="search" />
+  				<div class="form-group">
+  						<input name="q" type="text" size="20" id="search_textbox" value="Search..." onclick="clickclear(this, 'Search...')" onblur="clickrecall(this,'Search...')" class="form-control col-lg-8" placeholder="Search"/>  </div>
+       <button type="submit" class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button>
+  			</form>
+          </div>
+        </div><!--/.nav-collapse -->
+    </div>
+
+         
+
+
+
+<!-- Report popup and overlay !-->
+<div id="ava-popup">
+	<div id="ava-popup-header">
+		<div id="ava-popup-title"></div>
+		<div id="popup-close-button" onclick="HidePopup('ava-popup');"></div>
+	</div>
+	<div id="ava-popup-content"></div>
+</div>
+<div id="overlay" onclick="HidePopup('ava-popup')"></div>
+<div class="container">
+  	 
+<br />
+
+<div class="well">
+<div class="row">
+		<div class="col-md-12">
+		<h1><a href="http://www.zeusbox.com">Homepage</a> &raquo; Page not found</h1>
+				<div class="single-top"></div>  
+     <br />
+			<div class="row">
+				<div class="row text-center hidden-xs"><!-- Conversant Media 728x90 LEADERBOARD CODE for Zeusbox -->
+<script type="text/javascript">var vclk_options = {sid:60645,media_type:5,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=60645&media_type=5&version=1.4&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=60645&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=60645&tp=5&d=s&c=1&vcm_acv=1.4" width="728" height="90" border="1"></a></noscript>
+<!-- Conversant Media 728x90 LEADERBOARD CODE for Zeusbox --></div>
+				<div class="row text-center visible-xs"><!-- Conversant Media 468x60 Banner Rich Media Code for Zeusbox -->
+<script type="text/javascript">var vclk_options = {sid:60645,media_id:1,media_type:1,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=60645&media_id=1&media_type=1&version=1.4&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=60645&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=60645&m=1&tp=1&d=s&c=1&vcm_acv=1.4" width="468" height="60" border="1"></a></noscript>
+<!-- Conversant Media 468x60 Banner Rich Media Code for Zeusbox --></div>
+			</div>	
+
+<div class="single-top"></div>  
+     <br />
+				
+			<div class="text-center">	
+			
+				Sorry, we couldn't find anything at the url you entered. The page may have been previously existed but is no longer active.			</div>
+			
+			<div class="row hidden-xs text-center">
+			<br />
+				<!-- Conversant Media 300x250 Medium Rectangle CODE for Zeusbox -->
+<script type="text/javascript">var vclk_options = {sid:60645,media_id:6,media_type:8,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=60645&media_id=6&media_type=8&version=1.4&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=60645&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=60645&m=6&tp=8&d=s&c=1&vcm_acv=1.4" width="300" height="250" border="1"></a></noscript>
+<!-- Conversant Media 300x250 Medium Rectangle CODE for Zeusbox -->&nbsp;&nbsp;&nbsp; <!-- Conversant Media 300x250 Medium Rectangle CODE for Zeusbox -->
+<script type="text/javascript">var vclk_options = {sid:60645,media_id:6,media_type:8,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=60645&media_id=6&media_type=8&version=1.4&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=60645&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=60645&m=6&tp=8&d=s&c=1&vcm_acv=1.4" width="300" height="250" border="1"></a></noscript>
+<!-- Conversant Media 300x250 Medium Rectangle CODE for Zeusbox -->			<br />
+			</div>
+			</div>
+</div>
+
+<!-- Please call pinit.js only once per page -->
+<script type="text/javascript" async  data-pin-color="red" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+
+			
+						
+</div>
+</div>
+				
+<footer id="footer">
+				<div class="container">
+					<div class="row">
+						<div class="footer-ribon">
+							<span>Stats</span>
+						</div>
+						<div class="col-md-3 col-sm-3 col-xs-10 col-hs-10">
+						 
+<ul class="stats_ul"> 
+<li><strong>87</strong> users online</li>
+<li><strong>715</strong> wallpapers</li> 
+<li><strong>7</strong> members</li> 
+<li><strong>0</strong> news posts</li> 
+<li><strong>0</strong> comments</li> 
+<li><strong>4</strong> categories</li> 
+</ul>              							
+						<h2>Links</h2>
+              							
+       		        			<ul></ul><div class="more_links"><a href="http://www.zeusbox.com/links">More links</a></div>   
+              							
+						</div>
+						<div class="col-md-3 col-sm-3 col-xs-10 col-hs-10">
+						<h2>Your account</h2>
+						
+
+<form method="post" action="http://www.zeusbox.com/login.php?done=1">
+<div class="mini_login_form">
+  <p>Username</p>
+  <input name="username" type="text" id="username" class="mini_login_textbox" /><br />
+  <p>Password</p>
+    <input name="password" type="password" id="password" class="mini_login_textbox" /><br />
+    <p><label><input type="checkbox" name="remember" id="remember" checked="checked" /> Keep me logged in</label></p>
+      <input type="submit" name="Submit" value="Login" class="mini_login_button" />
+      
+      <a href="http://www.zeusbox.com/index.php?task=lost_password">Forgotten your password?</a>
+</div>
+</form>
+<a href="http://www.zeusbox.com/index.php?task=register">Register new account</a>
+	
+	
+
+<br />
+												</div>
+						<div class="col-md-3 col-sm-3 col-xs-10 col-hs-10">
+							<h2>Recently viewed</h2>
+							<div class="no_recents">None...</div>							
+							
+						</div>
+						<div class="col-md-3 col-sm-3 col-xs-10 col-hs-10">
+						<h2>Tags</h2>
+						<div class="tag_cloud"><a href="http://www.zeusbox.com/tag/animals" style="font-size: 13px">Animals</a> <a href="http://www.zeusbox.com/tag/girls" style="font-size: 13px">Girls</a> <a href="http://www.zeusbox.com/tag/nature" style="font-size: 13px">Nature</a> </div>						</div>
+						
+						
+					</div>
+				</div>
+				<div class="footer-copyright">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-1">
+								<a href="http://www.zeusbox.com" class="logo">
+									<img alt="White Wall Wallpaper Theme" class="img-responsive" src="http://www.zeusbox.com/templates/whitewall/images/logo.png"></a>
+							</div>
+							<div class="col-md-5">
+								
+							</div>
+							
+							<div class="col-md-6">
+								<nav id="sub-menu">
+								
+									<ul>
+										<li><a href="http://www.zeusbox.com/news"><i class="fa fa-bullhorn"></i> News</a></li>
+	<li><a href="http://www.zeusbox.com/rss.php"><i class="fa fa-rss"></i> Subscribe</a></li>
+	<li><a href="http://www.zeusbox.com/members"><i class="fa fa-users"></i> Member list</a></li>
+	<li><a href="http://www.zeusbox.com/links"><i class="fa fa-link"></i> Links</a></li>									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+
+	
+
+<script src="http://www.zeusbox.com/templates/whitewall/scripts/jquery.min.js" type="text/javascript"></script> 
+<script type="text/javascript" src="http://www.zeusbox.com/templates/whitewall/js/bootstrap.min.js"></script>
+
+
+<script src="http://www.zeusbox.com/templates/whitewall/js/jquery.unveil.js"></script>
+
+    <script>
+$("img").unveil(200, function() {
+  $(this).load(function() {
+    this.style.opacity = 1;
+  });
+});
+
+    </script>
+
+<script src="http://www.zeusbox.com/templates/whitewall/scripts/carousel/jquery.carouFredSel-6.2.0-packed.js" type="text/javascript"></script><script type="text/javascript">$('#list_photos').carouFredSel({ responsive: true, width: '100%', scroll: 2, items: {width: 320,visible: {min: 2, max: 6}} });</script><script src="http://www.zeusbox.com/templates/whitewall/scripts/camera/scripts/camera.min.js" type="text/javascript"></script>
+<script src="http://www.zeusbox.com/templates/whitewall/scripts/easing/jquery.easing.1.3.js" type="text/javascript"></script>
+<script type="text/javascript">function startCamera() {$('#camera_wrap').camera({ fx: 'scrollLeft', time: 2000, loader: 'none', playPause: false, navigation: true, height: '65%', pagination: true });}$(function(){startCamera()});</script>
+
+<script type="text/javascript">
+		$(function(){ // document ready
+
+		  if (!!$('.sticky').offset()) { // make sure ".sticky" element exists
+
+		    var stickyTop = $('.sticky').offset().top; // returns number 
+
+		    $(window).scroll(function(){ // scroll event
+
+		      var windowTop = $(window).scrollTop(); // returns number 
+
+		      if (stickyTop < windowTop){
+		        $('.sticky').css({ position: 'fixed', top: 0 });
+		      }
+		      else {
+		        $('.sticky').css('position','static');
+		      }
+
+		    });
+
+		  }
+
+		});
+	</script> 
+    
+
+<a href="#" class="scrollup"></a>
+
+<script type="text/javascript">
+  $(document).ready(function () {
+
+      $(window).scroll(function () {
+          if ($(this).scrollTop() > 500) {
+              $('.scrollup').fadeIn();
+          } else {
+              $('.scrollup').fadeOut();
+          }
+      });
+
+      $('.scrollup').click(function () {
+          $("html, body").animate({
+              scrollTop: 0
+          }, 600);
+          return false;
+      });
+
+  });
+</script>
+
+</body>
+</html>
