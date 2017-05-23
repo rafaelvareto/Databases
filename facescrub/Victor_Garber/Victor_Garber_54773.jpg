@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Page not found | goldcoastmama.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://goldcoastmama.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://goldcoastmama.com/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="goldcoastmama.com &raquo; Feed" href="http://goldcoastmama.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="goldcoastmama.com &raquo; Comments Feed" href="http://goldcoastmama.com/comments/feed/" />
+<link rel='stylesheet' id='cntctfrm_stylesheet-css'  href='http://goldcoastmama.com/wp-content/plugins/contact-form-plugin/css/style.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://goldcoastmama.com/wp-content/themes/twentytwelve/style.css?ver=3.8.5' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://goldcoastmama.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://goldcoastmama.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://goldcoastmama.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.8.5" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #e6e6e6; }
+</style>
+</head>
+
+<body class="error404 custom-background custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://goldcoastmama.com/" title="goldcoastmama.com" rel="home">goldcoastmama.com</a></h1>
+			<h2 class="site-description">Facile de télécharger des jeux en ligne et les réseaux wifi</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li ><a href="http://goldcoastmama.com/">Home</a></li><li class="page_item page-item-6"><a href="http://goldcoastmama.com/nous-contacter/">Nous Contacter</a></li><li class="page_item page-item-8"><a href="http://goldcoastmama.com/privacy/">Privacy</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			<article id="post-0" class="post error404 no-results not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">This is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+					<form role="search" method="get" id="searchform" class="searchform" action="http://goldcoastmama.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://goldcoastmama.com/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+</body>
+</html>

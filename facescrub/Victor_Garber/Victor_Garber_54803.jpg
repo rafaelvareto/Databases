@@ -1,0 +1,910 @@
+<!DOCTYPE html> <html class="ltr no-js" dir="ltr" lang="en-US"> <head> <!-- Theme Version: 20141027-115212.1.72435 --> <!-- Build Type: prod --> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <meta http-equiv="refresh" content="1800"> <link rel="apple-touch-icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns-knoxville/apple-touch-icon.png"> <link rel="icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns-knoxville/favicon.ico" type="image/x-icon"> <link rel="shortcut icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns-knoxville/favicon.ico" type="image/x-icon"> <title>Go Knoxville</title> <meta content="text/html; charset=UTF-8" http-equiv="content-type" /> <script>/*<![CDATA[*/var _head_start = new Date();/*]]>*/</script> <!-- used for Google CSE --><!--<PageMap><DataObject type="Date"><Attribute name="sdateformat" value="20141106 09:20:35"/><Attribute name="edate" value="Thu Nov 06 21:20:35 GMT 2014"/><Attribute name="edateformat" value="20141106 09:20:35"/><Attribute name="sdate" value="1415308835918"/></DataObject><DataObject type="Site"><Attribute name="siteId" value="100106"/></DataObject><DataObject type="PageAttr"><Attribute name="Category" value="Knoxville"/></DataObject><DataObject type="Story"><Attribute name="ModDate" value="20141106 09:20:35"/><Attribute name="PubDate" value="20141106 09:20:35"/></DataObject></PageMap>--> <!-- social sharing tools --> <link href="http&#x3a;&#x2f;&#x2f;www&#x2e;knoxnews&#x2e;com&#x2f;knoxville" rel="canonical" /> <link href="&#x2f;html&#x2f;css&#x2f;public&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6110&#x26;t&#x3d;1416534435000" rel="stylesheet" type="text/css" /> <link href="/html/portlet/journal_content/css/main.css?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;languageId=en_US&amp;b=6110&amp;t=1416534285000" rel="stylesheet" type="text/css" /> <script type="text/javascript">/*<![CDATA[*/
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return true;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return true;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10155";
+				},
+				getCompanyGroupId: function() {
+					return "10195";
+				},
+				getUserId: function() {
+					return "10159";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "453756388";
+				},
+
+				
+					getLayoutId: function() {
+						return "212";
+					},
+					getLayoutURL: function() {
+						return "http://www.knoxnews.com/knoxville";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "3";
+					},
+				
+
+				getScopeGroupId: function() {
+					return "221604423";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "221604423";
+				},
+				getParentGroupId: function() {
+					return "221604423";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "en_US";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "http://www.knoxnews.com/newspaper-responsive-base-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/newspaper-responsive-base-theme/";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?doAsGroupId=221604423&refererPlid=453756388";
+				},
+				getURLHome: function() {
+					return "http://www.knoxnews.com/web/guest";
+				},
+				getSessionId: function() {
+					return "376989A379C9A284C1E4E1228A88E5FE";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getBaseURL: function() {
+				return 'http://www.knoxnews.com/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6110&t=1416534435000&p=/html/js&';
+			},
+			getFilter: function() {
+				
+					
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&)/([^&]+)'
+						};
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function () {
+				return 'aui_lang.jsp?browserId=other&themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&colorSchemeId=11&minifierType=js&languageId=en_US&b=6110&t=1416534435000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		
+
+		Liferay.currentURL = '\x2fknoxville';
+		Liferay.currentURLEncoded = '%2Fknoxville';
+	// ]]>
+/*]]>*/</script> <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;colorSchemeId=11&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1&amp;epversion=47298" type="text/javascript"></script> <script type="text/javascript">/*<![CDATA[*/
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['56_INSTANCE_9huyFpMEZ1DJ','56_INSTANCE_12UdVBuuvilp','56_INSTANCE_j8qyavpIgWlb','56_INSTANCE_upr0L7HQmokM','56_INSTANCE_UXvthjG1Jjls','56_INSTANCE_SAkfdVjS8eAh','56_INSTANCE_uTQi2SwqT49K','56_INSTANCE_FWRyIxSTXWX8','56_INSTANCE_bU9xsv8vy0j3','56_INSTANCE_XpXpvdM8haY1','56_INSTANCE_lPOB2aFPQNRw','56_INSTANCE_BK8xRNxvMHay','56_INSTANCE_jPEDt34XIpkQ','56_INSTANCE_CmIEs18gMPsf','56_INSTANCE_hadCMUDFp6ky','56_INSTANCE_KGuxtv0p7yKq','56_INSTANCE_o6Zhkq5xUtQg','56_INSTANCE_bxKN0YLHoeZV','56_INSTANCE_3bOxYP0CRyA0','56_INSTANCE_cJuTB53CBnWS','56_INSTANCE_LB21yQB5qclr','56_INSTANCE_8zDr3izrvYg9','56_INSTANCE_2UObub2H8ChQ','56_INSTANCE_4C3q6e1fWJEt'];
+			
+		
+
+		
+
+		
+	// ]]>
+/*]]>*/</script> <!-- Add for optimization --> <script src="/html/js/barebone.jsp?browserId=other&amp;themeId=newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&amp;colorSchemeId=11&amp;minifierType=js&amp;minifierBundleId=endplay.javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1&amp;epversion=47298" type="text/javascript"></script> <!-- JQUERY --> <script src="/html/js/endplay/framework/jquery/jquery-1.6.2.min.js?epversion=47298" type="text/javascript"></script> <!-- ENDPLAY FRAMEWORK --> <script type="text/javascript">/*<![CDATA[*/
+			if( !window.EP ){ var EP = {}; } EP.CONST = {};
+		/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+		EP.CONST.versionStr = "?epversion=47298";
+		EP.CONST.useTempData = false;
+		
+		//Extend Liferay's global JS ThemeDisplay object to include methods in the JSP one
+		(function(A){
+			A.mix(Liferay.ThemeDisplay, {
+				
+				getScopeGroupName: function(){
+					return 'KNS';
+				},
+				getParentGroupName: function(){
+					return 'KNS';
+				},
+				isControlPanel: function(){
+					return false;
+				}
+				
+			});
+		})(AUI());
+	/*]]>*/</script> <script src="/html/js/endplay/public.js?epversion=47298&minifierType=js"></script> <script type="text/javascript">/*<![CDATA[*/
+	var viewStoryUrl = "/group/kns/create-story?type=story&storyId=";
+	var viewNonstoryUrl = "/web/kns-staging/-/";
+	var viewGalleryUrl = "/group/kns/create-gallery?type=gallery&storyId=";
+	
+	var companyId = themeDisplay.getCompanyId();
+	var groupId = 221604427;
+	
+/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+	Liferay.ThemeDisplay.getVocabularyIds = function() {
+		return "226654130";
+	};
+	Liferay.ThemeDisplay.getVocabularyGroupIds = function() {
+		return "221604427";
+	};
+/*]]>*/</script> <link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;www&#x2e;knoxnews&#x2e;com&#x2f;newspaper-responsive-base-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;newspaperresponsivebasetheme_WAR_newspaperresponsivebasetheme&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6110&#x26;t&#x3d;1414645957000" rel="stylesheet" type="text/css" /> <style type="text/css">
+	/* <![CDATA[ */
+		
+	/* ]]> */
+</style> <style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style> <link rel="apple-touch-icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns-knoxville/apple-touch-icon.png"> <link rel="icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns-knoxville/favicon.ico" type="image/x-icon"> <link rel="shortcut icon" href="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns-knoxville/favicon.ico" type="image/x-icon"> <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1.0, maximum-scale=1.0"> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:site" content="@knoxnews"> <meta name="twitter:app:id:iphone" content="369943355"> <meta name="twitter:app:id:ipad" content="556099383"> <!-- Font Stylesheet --> <!-- <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> --> <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> <script>/*<![CDATA[*/var jsHeadVal = ""; var jsHeadMediaServerUrl = "http://media.scrippsnationalnews.com/cms"; var cseAPI = "AIzaSyCMGfdDaSfjqv5zYoS0mTJnOT3e9MURWkU"; var cseCX = "015583692002286327862:v6jejsesdn4"; var jsCallLetters = "kns-knoxville";  var jsSiteType = "np"; var navitronRefreshInterval = "2"; var jsConfig = {}; $.extend(jsConfig, {});/*]]>*/</script> <!--[if lte IE 7]> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/ie-7.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <![endif]--> <!--[if IE 8]> <script>/*<![CDATA[*/jsHeadVal = "ie8";/*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/head.js?v=20141027-115212.1.72435"></script> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/ie-8.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <![endif]--> <!--[if !IE]><!--> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/all.css?v=20141027-115212.1.72435"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/small.css?v=20141027-115212.1.72435" media="screen and (max-width: 699px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/medium.css?v=20141027-115212.1.72435" media="screen and (min-width: 700px) and (max-width: 1019px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/large.css?v=20141027-115212.1.72435" media="screen and (min-width: 1020px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <!--<![endif]--> <!-- colorScheme: kns-knoxville --> <!--[if gte IE 9]> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/all.css?v=20141027-115212.1.72435"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/small.css?v=20141027-115212.1.72435" media="screen and (max-width: 699px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/medium.css?v=20141027-115212.1.72435" media="screen and (min-width: 700px) and (max-width: 1019px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/large.css?v=20141027-115212.1.72435" media="screen and (min-width: 1020px)"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/site.css?v=20141027-115212.1.72435" media="screen"> <link rel="stylesheet" href="http://media.scrippsnationalnews.com/cms/css/print.css?v=20141027-115212.1.72435" media="print"> <![endif]--> <script src="http://media.scrippsnationalnews.com/cms/js/vendor/modernizr.custom.min.js?v=20141027-115212.1.72435"></script> <script>/*<![CDATA[*/
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + 
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    /*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/site.utils.detect.js?v=20141027-115212.1.72435"></script> <script src="http://media.scrippsnationalnews.com/cms/js/site.utils.ads.js?v=20141027-115212.1.72435"></script> <!-- Sponsored Content (disable: false) --> <script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22218"></script> <!-- Timezone --> <script>/*<![CDATA[*//*<![CDATA[*/var timeZone='EST';/*]]>*//*]]>*/</script> <!-- Smart Banners --> <script>/*<![CDATA[*/
+        if (Detect.Device.isiOS() && Detect.Screen.isTablet()) {
+             document.write('<meta content="app-id=556099383" name="apple-itunes-app" />');         } else if (Detect.Device.isiOS() && Detect.Screen.isPhone()) {
+            document.write('<meta content="app-id=369943355" name="apple-itunes-app" />');         }
+
+    /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/var switchTo5x=true;/*]]>*/</script> <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> <script type="text/javascript">/*<![CDATA[*/stLight.options({publisher: "d33b1e43-c02e-44e7-9336-e1856d0e9661", doNotHash: true, doNotCopy: true, hashAddressBar: false, onhover: false});/*]]>*/</script> <!-- Begin head_embed --> </head> <body class="kns-knoxville controls-visible signed-out public-page organization-site site__image-ratio--$siteImageRatio site__color--blue site__type--np page__long-form-story--false "> <!-- isLongformStory: false --> <div class="body__inner"> <!--[if lte IE 7]> <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p> <![endif]--> <!-- BUILD_TYPE: prod --> <script>/*<![CDATA[*/ 
+var paywallGtmCookie = (function() { 
+  var getCookie = function(name) { 
+    var value = "; " + document.cookie; 
+    var parts = value.split("; " + name + "="); 
+    if (parts.length == 2) { return parts.pop().split(";").shift(); } 
+  }; 
+  var value = getCookie("paywall-gtm-variables"); 
+  var returnObj; 
+  if (value) { try { value = decodeURIComponent(value); var obj = JSON.parse(value); if (typeof obj === "object") { returnObj = obj; } else if (typeof obj === "string") { returnObj = JSON.parse(obj); } } catch(err) {} } 
+  if (typeof returnObj !== "object") { returnObj = {}; } 
+  if (returnObj.LoggedIn === undefined) { returnObj.LoggedIn = false } 
+  if (!returnObj.SubscriberID) { returnObj.SubscriberID = '' } 
+  if (returnObj.SubscriberStatus === undefined) { returnObj.SubscriberStatus = false } 
+  if (!returnObj.Zip) { returnObj.Zip = '' } 
+  return returnObj; 
+})(); 
+/*]]>*/</script> <!-- Begin : Adding Data Layer Variables to Google Tag Manager!--><script>/*<![CDATA[*/
+var gtmObj = {
+'DatePublished': '110614', 'Author': '', 'Editor': '', 'Category':
+'Knoxville', 'SubCat': '', 'IsPremium': 'false', 'DaysSincePublished':
+'18','LoggedIn': paywallGtmCookie.LoggedIn.toString(),'SubscriberStatus': paywallGtmCookie.SubscriberStatus.toString()};
+
+if (paywallGtmCookie.SubscriberID != "") gtmObj.SubscriberId = paywallGtmCookie.SubscriberID;
+if (paywallGtmCookie.Zip != "") gtmObj.Zip = paywallGtmCookie.Zip
+
+dataLayer = [gtmObj]; /*]]>*/</script><!-- END : Adding Data Layer Variables to Google Tag Manager!--> <!-- Google Tag Manager --> <noscript><iframe src=""//www.googletagmanager.com/ns.html?id=GTM-LPC5"" height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript> <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var
+            f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-LPC5');/*]]>*/</script> <!-- End Google Tag Manager --> <header id="header" class="js-toggleGroup header--np" data-toggle-class="is-active" role="banner"> <div class="header--bg"> <div class="container"> <div class="masthead--bg"> <div class="masthead masthead--np"> <div class="masthead__nav"> <button type="button" data-icon="nav" class="navitron-toggle js-nav-toggle"></button> <a href="/" class="site-logo site-logo--np">KNS</a> <div class="gray-box"> <form class="site-search js-search" id="search"> <input class="site-search__field" type="search" /> <input class="site-search__button" type="submit" value="search" /> </form> </div> </div> <div class="masthead__content"> <div class="link-list link-list--inline"> <a class="e_link" href="http://knoxvillenews.tn.newsmemory.com/">E-Edition</a> <a class="e_link" href="http://www.kns-deals.com">Reader Rewards</a> </div> <div class="subscriber-box js-member-links"> <p class="">Want full access?</p> <div class="links"> <div class="link link--subscribe js-member-link-subscribe"> <a class="button" href="/subscribe">Subscribe</a> </div> <div class="link link--activate js-member-link-activate"> <p><span class="hide-phone hide-tablet show-desktop">Current subscriber?</span><a href="/subscribe">Activate</a></p> </div> <div class="link link--login js-member-link-login"> <p><span class="hide-phone hide-tablet show-desktop">Have an account? </span><a href="/subscribe">Login</a></p> </div> </div> </div> <div class="site-dashboard"> <div class="block block--weather"> <div class="module module--dashboard--weather"> <a class="inner" href="/weather" target="_top"> <div class="block"> <img class="side__media" src="http://content.wdtinc.com/images/icons_scripps/150x100/night/mostlyclear.png" /> <div class="side__body"> <div class="text--secondary">Weather</div> <div class="text--primary js-current-wx" data-weather-condition="mostly clear">Mostly clear</div> <div class="dashboard__text--primary js-current-temp" data-temperature="61">61&deg;</div> <div class="link">Weather</div> </div> </div> </a> </div> </div> </div> </div> </div> <div class="container container--ad"> <div id="mKNS-KNOXVILLE_AD_994_BY_30" class="module module--ad content-box ad--994x30 show-desktop hide-tablet hide-phone "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "above", "Zone" : "knoxville/landing", "renderOn" : "[DESKTOP]", "fname" : "knoxville", "Size" : "994x30"};
+                    ScrippsAdUtils.createAd(adData, 'mKNS-KNOXVILLE_AD_994_BY_30');
+//ScrippsAdUtils.createAd_GPT(adData, 'mKNS-KNOXVILLE_AD_994_BY_30');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> <div class="navbar navbar--np navbar--bg"> <div class="container"> <!-- NAVITRON --> <!-- current_page = http://www.knoxnews.com/knoxville --> <!-- current_parent_page = http://www.knoxnews.com/sections --> <!-- nothing_selected = false --> <nav class="sort-pages modify-pages nocontent nav nav--navitron" id="navigation"> <div class="nav__left js-navitron js-ajax"> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.knoxnews.com/home" >Home</a> </section> <section class="nav-item nav-item--lvl-1 is-current-parent"> <button type="button" class="button--text">Sections</button> <div class="navitron__dropdown"> <div class="nav-item nav-item--lvl-2"> <button class="js-back">Back</button> </div> <div class="nav-item nav-item--lvl-2 navitron-is-hidden navitron-featured"> <button type="button" class="button--text">Featured</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">News</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/news" class=" navitron-is-hidden" >All News</a> <a class="" href="http://www.knoxnews.com/news/local" >Local</a> <a class="" href="http://www.knoxnews.com/news/state" >State</a> <a class="" href="http://www.knoxnews.com/news/watchful-eye" >Watchful Eye</a> <a class="" href="http://www.knoxnews.com/news/my-kid-my-school" >My Kid, My School</a> <a class="" href="http://www.knoxnews.com/news/columnists" >Columnists</a> <a class="" href="http://www.knoxnews.com/news/nation-world" >Nation &amp; World</a> <a class="" href="http://www.legacy.com/obituaries/knoxnews/" >Obituaries</a> <a class="" href="http://gosmokies.ning.com" >GoSmokies</a> <a class="" href="http://www.knoxnews.com/news/databases" >Databases</a> <a class="" href="http://knoxblogs.com" >Blogs</a> <a class="" href="http://www.knoxnews.com/traffic" >Traffic</a> <a class="" href="http://www.knoxnews.com/decodedc" >DecodeDC</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Sports</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/sports" class=" navitron-is-hidden" >All Sports</a> <a class="" href="http://www.knoxnews.com/sports/local-national" >Local &amp; National</a> <a class="" href="http://www.knoxnews.com/sports/prepxtra" >PrepXtra</a> <a class="" href="http://www.knoxnews.com/govolsxtra" >GoVolsXtra</a> <a class="" href="http://tennessee.247sports.com/" >Govols247.com</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Business</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/business" class=" navitron-is-hidden" >All Business</a> <a class="" href="http://www.knoxnews.com/business/local-national" >Local &amp; National</a> <a class="" href="http://www.knoxnews.com/business/columnists" >Business Columnists</a> <a class="" href="http://www.knoxnews.com/business/business-journal" >Business Journal</a> <a class="" href="http://knoxvillebookoflists.com/" >Book of Lists</a> <a class="" href="http://www.knoxnews.com/business/business-profiles" >Sponsored Business Profiles</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 is-current"> <button type="button" class="button--text">Go Knoxville</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/knoxville" class=" navitron-is-hidden" >All Go Knoxville</a> <a class="" href="http://www.knoxnews.com/knoxville/arts" >Arts</a> <a class="" href="http://www.knoxnews.com/knoxville/family" >Family</a> <a class="" href="http://www.knoxnews.com/knoxville/food-dining" >Food &amp; Dining</a> <a class="" href="http://www.knoxnews.com/knoxville/life" >Life</a> <a class="" href="http://www.knoxnews.com/knoxville/movies" >Movies</a> <a class="" href="http://www.knoxnews.com/knoxville/music" >Music</a> <a class="" href="http://www.knoxnews.com/knoxville/outdoors" >Outdoors</a> <a class="" href="http://www.knoxnews.com/knoxville/pop-culture" >Pop Culture</a> <a class="" href="http://www.knoxnews.com/knoxville/puzzles" >Puzzles</a> <a class="" href="http://www.knoxnews.com/knoxville/blue-plate-special" >Blue Plate Special</a> <a class="" href="http://events.knoxnews.com" >Events</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Opinion</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/opinion" class=" navitron-is-hidden" >All Opinion</a> <a class="" href="http://www.knoxnews.com/opinion/todays-editorial" >Today&#039;s Editorial</a> <a class="" href="http://www.knoxnews.com/opinion/letters-to-the-editor" >Letters to the Editor</a> <a class="" href="http://www.knoxnews.com/opinion/columnists" >Columnists</a> <a class="" href="http://www.knoxnews.com/opinion/charlie-daniel" >Charlie Daniel</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">Media</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/media" class=" navitron-is-hidden" >All Media</a> <a class="" href="http://www.knoxnews.com/media/videos" >Videos</a> <a class="" href="http://www.knoxnews.com/media/photo-galleries" >Photo Galleries</a> <a class="" href="http://knoxvillenews.tn.newsmemory.com/" >E-Edition</a> <a class="" href="http://www.knoxnews.com/newsletters" >Newsletters</a> <a class="" href="http://im.knoxnews.com" >Submit a Photo</a> <a class="" href="http://www.knoxnews.com/media/red-panda-cam" >Knoxville Zoo Red Panda Cam</a> </div> <aside class="navitron__content"> </aside> </article> </div> <div class="nav-item nav-item--lvl-2 "> <button type="button" class="button--text">About Us</button> <article class="navitron__dropdown"> <div class="navitron__links"> <button class="js-back">Back</button> <a href="http://www.knoxnews.com/about-us" class=" navitron-is-hidden" >All About Us</a> <a class="" href="http://www.knoxnews.com/events" >News Sentinel Events</a> <a class="" href="http://www.knoxnews.com/charities" >Charities</a> <a class="" href="http://www.knoxnews.com/advertising" >Advertising</a> <a class="" href="http://www.knoxnews.com/kns-careers" >KNS Careers</a> <a class="" href="http://www.knoxnews.com/contact-us" >Contact Us</a> <a class="" href="http://www.knoxnews.com/faq" >Frequently asked questions</a> <a class="" href="http://www.knoxnews.com/contests" >Contests</a> </div> <aside class="navitron__content"> </aside> </article> </div> </div> </section> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.knoxnews.com/weather" >Weather</a> </section> <section class="nav-item nav-item--lvl-1 "> <a href="http://www.knoxnews.com/traffic" >Traffic</a> </section> </div> <div class="nav__right"> <a class="" href="http://www.knoxnews.com/jobs" >Jobs</a> <a class="" href="http://www.knoxnews.com/homes" >Homes</a> <a class="" href="http://www.knoxnews.com/cars" >Cars</a> <a class="" href="http://www.knoxnews.com/classified" >Classifieds</a> <a class="" href="http://www.knoxnews.com/circulars" >Weekly Ads</a> </div> <div id="mKNS-KNOXVILLE_AD_113_BY_38" class="module module--ad content-box ad--113x38 show-desktop show-tablet hide-phone "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "", "Zone" : "knoxville/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "knoxville", "Size" : "113x38"};
+                    ScrippsAdUtils.createAd(adData, 'mKNS-KNOXVILLE_AD_113_BY_38');
+//ScrippsAdUtils.createAd_GPT(adData, 'mKNS-KNOXVILLE_AD_113_BY_38');
+                })();
+            /*]]>*/</script> </div> </nav> <!-- End NAVITRON --> </div> </div> </header> <section class="container--alerts"> <!-- Breaking News & Alerts --> <article id="BREAKING_NEWS_ALERTS" class="module module--alerts alerts--news " data-toggle-class="is-active"> <div class="container"> <header class="header">Alerts</header> <div class="module__body"> <article class="alerts__story__container"> <div class="alerts__story"> <!-- Falling Back to default image width --> <!-- Falling Back to default image height --> <!-- 640 x 480 --> <a title="Ferguson grand jury has reached a decision" href="/news/nation-and-world/uncertainty-fuels-speculation-on-ferguson-decision_03465063" >Ferguson grand jury has reached a decision</a> </div> </article> </div> </div> </article> <!-- Weather Alerts --> <article id="WEATHER_ALERTS" class="module module--alerts alerts--weather is-loading is-hidden "> <div class="container"> <div class="module__body"> <div class="counts "> </div> </div> </div> </article> </section> <section class="container--happening-now"> </section> <div class="container container--ad"> <div id="mKNS-KNOXVILLE_AD_728_BY_90_ABOVE" class="module module--ad content-box ad--728x90 show-desktop show-tablet hide-phone "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "above", "Zone" : "knoxville/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "knoxville", "Size" : "728x90"};
+                    ScrippsAdUtils.createAd(adData, 'mKNS-KNOXVILLE_AD_728_BY_90_ABOVE');
+//ScrippsAdUtils.createAd_GPT(adData, 'mKNS-KNOXVILLE_AD_728_BY_90_ABOVE');
+                })();
+            /*]]>*/</script> </div> <div id="mKNS-KNOXVILLE_AD_320_BY_50" class="module module--ad content-box ad--320x50 hide-desktop hide-tablet show-phone "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "above", "Zone" : "knoxville/landing", "renderOn" : "[MOBILE]", "fname" : "knoxville", "Size" : "320x50"};
+                    ScrippsAdUtils.createAd(adData, 'mKNS-KNOXVILLE_AD_320_BY_50');
+//ScrippsAdUtils.createAd_GPT(adData, 'mKNS-KNOXVILLE_AD_320_BY_50');
+                })();
+            /*]]>*/</script> </div> </div> <div class="is-hidden"> <div id="p_p_id_searchbox_WAR_sitesearchportlet_" class="portlet-boundary portlet-boundary_searchbox_WAR_sitesearchportlet_ portlet-static portlet-static-end portlet-borderless search-box-portlet " > <span id="p_searchbox_WAR_sitesearchportlet"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div id="searchbox__searchbox_WAR_sitesearchportlet_"> <form id="searchbox_form" action="http://www.knoxnews.com/search?p_p_id=searchresult_WAR_sitesearchportlet&p_p_lifecycle=1&p_p_state=normal&_searchresult_WAR_sitesearchportlet_javax.portlet.action=search" method="GET" name="sf" > <input type="text" id="searchTerm" name="searchTerm" value=""/> <select name="scopeType" id="scopeType"> <option value="0" >Site</option> <option value="1" >Web</option> </select> <input class="lsb" type="button" name="btnS" onclick="submit_searchbox_WAR_sitesearchportlet_Form()" value="Search"/> <select name="sortType" id="sortType" style="display: none;"> <option value="0" >Relevance</option> <option value="1" >Date</option> </select> </form> </div> <script type="text/javascript">/*<![CDATA[*/
+	function submit_searchbox_WAR_sitesearchportlet_Form(){
+		var url = $("#searchbox__searchbox_WAR_sitesearchportlet_ #searchbox_form").attr("action");
+		var amp = "&";
+		
+		var appendSnippet = "";
+		if($("#searchbox__searchbox_WAR_sitesearchportlet_ #searchTerm").val()){
+			appendSnippet += amp + "searchTerm=" + encodeURIComponent($("#searchbox__searchbox_WAR_sitesearchportlet_ #searchTerm").val());
+			appendSnippet += amp + "scopeType="  + $("#searchbox__searchbox_WAR_sitesearchportlet_ #scopeType").val();
+			appendSnippet += amp + "sortType="   + $("#searchbox__searchbox_WAR_sitesearchportlet_ #sortType").val();
+		}		
+		window.location = url+appendSnippet;
+	}
+	$('#searchbox__searchbox_WAR_sitesearchportlet_ #searchbox_form').submit(function(e) {
+		e.preventDefault();
+		submit_searchbox_WAR_sitesearchportlet_Form();
+	});
+/*]]>*/</script> </div> </div> </div> </div> </div> <div class="container"></div> <div id="content" class="container" data-role="content"> <div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_ portlet-static portlet-static-end portlet-borderless " > <span id="p_103"></span> <div class="portlet-body"> </div> </div> <div class="page page__two-col" id="main-content" role="main"> <div class="layout__container area__full-col--top area__break--first portlet-area portlet-area--1" id="column-1"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-1"></div> </div> <div class="layout__container area__full-col--top area__break--second"> <div class="layout__content"> <div class="grid__container has-full"> <div class="grid__full"> <div class="portlet-area portlet-area--2" id="column-2"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-2"> <div id="p_p_id_56_INSTANCE_9huyFpMEZ1DJ_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_9huyFpMEZ1DJ"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475192240_1.0"> <div class="module module--advanced-page-title topper--bg topper--double-nav page-title--gradient show-desktop show-tablet show-phone "> <style type="text/css">
+		.topper--bg__background{
+			background-image: url("http://mediaassets.knoxnews.com/images/goknoxville/gourbanscape-background.png");
+			position: relative;
+		}
+	</style> <header> <div class="header"><div class="topper--bg__background"></div><h1 class="header--light">Go Knoxville</h1></div> <p class="abstract"> Local things to do, music, movies, nightlife, dining, entertainment and tourist activities. </p> <div class="link-list__secondary"> <div class="link-list--inline"> <a class="" href="http://events.knoxnews.com">Events</a> <a class="" href="/knoxville/blue-plate-special">Blue Plate Special</a> <a class="" href="http://www.notsville.com">Notsville.com</a> <a class="" href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=91l">TV Guide</a> <a class="" href="http://affiliate.zap2it.com/theaters/movie-theaters?aid=91l">Movie Times</a> </div> </div> <div class="link-list__primary"> <div class="link-list--inline"> <a class="is-active" href="/knoxville">Home</a> <a class="" href="/knoxville/arts">Arts</a> <a class="" href="/knoxville/family">Family</a> <a class="" href="/knoxville/food-dining">Food & Dining</a> <a class="" href="/knoxville/life">Life</a> <a class="" href="/knoxville/movies">Movies</a> <a class="" href="/knoxville/music">Music</a> <a class="" href="/knoxville/outdoors">Outdoors</a> <a class="" href="/knoxville/pop-culture">Pop Culture</a> </div> </div> </header> </div> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_12UdVBuuvilp_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_12UdVBuuvilp"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475247779_1.0"> <article id="m475247779" class="module module--featured-content featured-content--index live-streaming--false show-desktop show-tablet show-phone " > <div class="inner"> <div class="module__body"> <div class="inner"> <div class="blocks "> <div class=" layout--featured-content"> <div class=" layout--featured-content__first"> <!-- 640 x 480 --> <!-- Large story --> <article class="block block--large "> <a href="/knoxville/star-wars-the-force-awakens-trailer-to-debut-in-knoxville-friday" class="inner"> <h1 class="headline">New 'Star Wars' trailer to debut in Knoxville</h1> <p class="abstract"> Knoxville is one of nine U.S. cities that will get the world debut of the 88-second teaser for &quot;Star Wars: The&hellip; </p> <div> <figure class="media__container--4x3"> <img alt="New 'Star Wars' trailer to debut in Knoxville" src="http://mediaassets.knoxnews.com/photo/2014/11/24/force_1416858152973_9834140_ver1.0_640_480.jpg" class="media" /> </figure> </div> </a> <div class="block__complex complex--social js-featuredShares" data-url="/knoxville/star-wars-the-force-awakens-trailer-to-debut-in-knoxville-friday"> <span class="shares"><span class="color--skin js-featuredShareCount" data-url="/knoxville/star-wars-the-force-awakens-trailer-to-debut-in-knoxville-friday"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </article> <!-- 320 x 240 --> <article class="block block--mini "> <a href="/knoxville/food-and-dining/grub-scout-quality-and-quantity-abound-at-north-knox-taqueria-la-esperanza_98372057" class="inner" > <div class="side__media"> <figure class="media__container--4x3"> <img alt="Grub Scout: Quality (and quantity!) at taqueria" src="http://mediaassets.knoxnews.com/photo/2014/11/24/dining_9820474_ver1.0_320_240.jpg" class="media" /> </figure> </div> <div class="side__body"> <h1 class="headline">Grub Scout: Quality (and quantity!) at taqueria</h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/knoxville/food-and-dining/grub-scout-quality-and-quantity-abound-at-north-knox-taqueria-la-esperanza_98372057"> <span class="shares"><span class="color--skin js-shareCount" data-url="/knoxville/food-and-dining/grub-scout-quality-and-quantity-abound-at-north-knox-taqueria-la-esperanza_98372057"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </a> </article> </div> <div class="layout--featured-content__second"> <!-- 320 x 240 --> <article class="block block--mini "> <a href="/knoxville/pop-culture/katy-perry-to-perform-at-super-bowl-halftime" class="inner" > <div class="side__media"> <figure class="media__container--4x3"> <img alt="Katy Perry to perform at Super Bowl halftime" src="http://mediaassets.knoxnews.com/photo/2014/11/23/katyperrry_1416801884209_9792361_ver1.0_320_240.jpg" class="media" /> </figure> </div> <div class="side__body"> <h1 class="headline">Katy Perry to perform at Super Bowl halftime</h1> <time class="updated is-empty"></time> <div class="block__complex complex--social js-socialCounts" data-url="/knoxville/pop-culture/katy-perry-to-perform-at-super-bowl-halftime"> <span class="shares"><span class="color--skin js-shareCount" data-url="/knoxville/pop-culture/katy-perry-to-perform-at-super-bowl-halftime"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </a> </article> <!-- 320 x 240 --> <article class="block block--mini "> <a href="/knoxville/food-and-dining/holiday-offers-at-krispy-kreme_29057014" class="inner" > <div class="side__media"> <figure class="media__container--4x3"> <img alt="Holiday specials at Krispy Kreme" src="http://mediaassets.knoxnews.com/photo/2014/11/24/krispyxmas_9836631_ver1.0_320_240.jpg" class="media" /> </figure> </div> <div class="side__body"> <h1 class="headline">Holiday specials at Krispy Kreme</h1> <time class="updated ">4 hours ago</time> <div class="block__complex complex--social js-socialCounts" data-url="/knoxville/food-and-dining/holiday-offers-at-krispy-kreme_29057014"> <span class="shares"><span class="color--skin js-shareCount" data-url="/knoxville/food-and-dining/holiday-offers-at-krispy-kreme_29057014"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </a> </article> <!-- 320 x 240 --> <article class="block block--mini "> <a href="/knoxville/family/salvation-armys-angel-tree-needs-holiday-help_37465772" class="inner" > <div class="side__media"> <figure class="media__container--4x3"> <img alt="Salvation Army asks for help for its angels" src="http://mediaassets.knoxnews.com/photo/2014/11/24/angel tree_9844798_ver1.0_320_240.jpg" class="media" /> </figure> </div> <div class="side__body"> <h1 class="headline">Salvation Army asks for help for its angels</h1> <time class="updated ">50 mins ago</time> <div class="block__complex complex--social js-socialCounts" data-url="/knoxville/family/salvation-armys-angel-tree-needs-holiday-help_37465772"> <span class="shares"><span class="color--skin js-shareCount" data-url="/knoxville/family/salvation-armys-angel-tree-needs-holiday-help_37465772"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </a> </article> <!-- 320 x 240 --> <article class="block block--mini "> <a href="/knoxville/arts/new-books-at-knox-county-public-libraries_57939937" class="inner" > <div class="side__media"> <figure class="media__container--4x3"> <img alt="New books at Knox County Public Libraries" src="http://mediaassets.knoxnews.com/photo/2014/11/24/new_9843447_ver1.0_320_240.jpg" class="media" /> </figure> </div> <div class="side__body"> <h1 class="headline">New books at Knox County Public Libraries</h1> <time class="updated ">2 hours ago</time> <div class="block__complex complex--social js-socialCounts" data-url="/knoxville/arts/new-books-at-knox-county-public-libraries_57939937"> <span class="shares"><span class="color--skin js-shareCount" data-url="/knoxville/arts/new-books-at-knox-county-public-libraries_57939937"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </a> </article> <!-- 320 x 240 --> <article class="block block--mini "> <a href="/knoxville/arts/a-guide-to-fine-art-exhibits-theater-and-music_02881168" class="inner" > <div class="side__media"> <figure class="media__container--4x3"> <img alt="A guide to fine art exhibits, music and more" src="http://mediaassets.knoxnews.com/photo/2014/11/24/Finearts_9841110_ver1.0_320_240.jpg" class="media" /> </figure> </div> <div class="side__body"> <h1 class="headline">A guide to fine art exhibits, music and more</h1> <time class="updated ">2 hours ago</time> <div class="block__complex complex--social js-socialCounts" data-url="/knoxville/arts/a-guide-to-fine-art-exhibits-theater-and-music_02881168"> <span class="shares"><span class="color--skin js-shareCount" data-url="/knoxville/arts/a-guide-to-fine-art-exhibits-theater-and-music_02881168"></span></span> <span class="comments"><span class="color--skin js-comments"></span></span> </div> </div> </a> </article> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_j8qyavpIgWlb_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_j8qyavpIgWlb"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475252064_1.1"> <article id="m475252064" class="module module--carousel carousel--media show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Go Knoxville Galleries</header> <div class="module__body"> <div class="inner"> <div class="component__carousel js-carousel" data-interval="6" data-startOffset="1" data-ajaxmaxnum="30" data-ajaxurl="/web/kns/refresh-article/453756388/475252064/SCRIPPS_RESPONSIVE_CAROUSEL_AJAX?resultsPerPage=6"> <div class="carousel__pager"> <div class="pager__container pager--prev"> <button type="button" class="btn--ui-block js-prev is-disabled"> <span aria-hidden="true" data-icon="prev"></span> <span class="screen-reader-text" hidden="">Previous</span> </button> </div> <div class="pager__container pager--next"> <button type="button" class="btn--ui-block js-next"> <span aria-hidden="true" data-icon="next"></span> <span class="screen-reader-text" hidden="">Next</span> </button> </div> </div> <div class="carousel__overflow"> <div class="js-carousel__content"> <div class="blocks"> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/knoxville/pop-culture/photos-chris-hemsworth-named-peoples-sexiest-man-alive" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/shareccct/photo/2014/11/19/AP454570200130_1416424337460_9689485_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="PHOTOS: Hemsworth is People's Sexiest Man Alive" src="" data-src="http://sharing.knoxnews.com/shareccct/photo/2014/11/19/AP454570200130_1416424337460_9689485_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="PHOTOS: Hemsworth is People's Sexiest Man Alive" src="http://sharing.knoxnews.com/shareccct/photo/2014/11/19/AP454570200130_1416424337460_9689485_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">PHOTOS: Hemsworth is People's Sexiest Man Alive</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/knoxville/movies/hunger-games-mockingjay-part-1-in-pictures" class="inner" > <!-- Thumbnail: http://mediaassets.knoxnews.com/photo/2014/11/17/hunger2_9648428_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="&lsquo;Hunger Games: Mockingjay &mdash; Part 1' in pictures" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/17/hunger2_9648428_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="&lsquo;Hunger Games: Mockingjay &mdash; Part 1' in pictures" src="http://mediaassets.knoxnews.com/photo/2014/11/17/hunger2_9648428_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">‘Hunger Games: Mockingjay — Part 1' in pictures</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/knoxville/pop-culture/pics-house-featured-in-the-godfather-for-sale" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/sharewrtv/photo/2014/11/13/godfatherhouse1_1415906295700_9580184_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="PICS: House featured in 'The Godfather' for sale" src="" data-src="http://sharing.knoxnews.com/sharewrtv/photo/2014/11/13/godfatherhouse1_1415906295700_9580184_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="PICS: House featured in 'The Godfather' for sale" src="http://sharing.knoxnews.com/sharewrtv/photo/2014/11/13/godfatherhouse1_1415906295700_9580184_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">PICS: House featured in 'The Godfather' for sale</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/knoxville/life/community-news-in-photos-6" class="inner" > <!-- Thumbnail: http://mediaassets.knoxnews.com/photo/2014/11/13/AM141_9577882_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Community News in Photos" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/13/AM141_9577882_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Community News in Photos" src="http://mediaassets.knoxnews.com/photo/2014/11/13/AM141_9577882_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Community News in Photos</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/knoxville/outdoors/will-hammond-and-iris-russell-thru-hike-continental-divide-trail" class="inner" > <!-- Thumbnail: http://mediaassets.knoxnews.com/photo/2014/11/12/divide-iris3_9572545_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Continental Divide Trail thru-hike" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/12/divide-iris3_9572545_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Continental Divide Trail thru-hike" src="http://mediaassets.knoxnews.com/photo/2014/11/12/divide-iris3_9572545_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Continental Divide Trail thru-hike</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block block--gallery "> <a href="/news/local-news/furries-gather-at-fangcon-2014" class="inner" > <!-- Thumbnail: http://mediaassets.knoxnews.com/photo/2014/11/07/1108_KCLO_furry_01_AL_1415413424156_9493936_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Furries gather at FangCon 2014" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/07/1108_KCLO_furry_01_AL_1415413424156_9493936_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Furries gather at FangCon 2014" src="http://mediaassets.knoxnews.com/photo/2014/11/07/1108_KCLO_furry_01_AL_1415413424156_9493936_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Furries gather at FangCon 2014</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> </div> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_upr0L7HQmokM_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_upr0L7HQmokM"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_506245861_1.0"> <article id="m506245861" class="module module-- show-desktop show-tablet show-phone " > <div class="inner"> <div class="module__body"> <div class="inner"> <div class="blocks "> <div id="newsy-widget-container"></div> <script>/*<![CDATA[*/
+    (function(){
+
+            new srNewsyPlayer({
+
+            scriptUrl : 'http://www.newsy.com/widget/script.js',
+            autoplay : false,
+            hideIfStoryHasVideo: 'false',
+            
+                        player_id : 'aa4dcd715d7a4dff93de14594bc95ad9',
+            
+                        widget_id : '31',
+            
+                        adset : 'f5ca1f1d7d9b4cc3906ef3da9161d1a7',
+            
+                          bgcolor: '#000000',
+             
+                                                                 
+                categories: [ 'entertainment']
+
+                     });        
+        })();
+    /*]]>*/</script> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_UXvthjG1Jjls_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_UXvthjG1Jjls"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_476581510_1.0"> <article id="m476581510" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Life</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/life/holiday/black-friday/more-black-friday-ads-released-including-kohls" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Kohl's and others announce Black Friday deals" src="" data-src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/KohlsCirculars112414_1416851666370_9828808_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Kohl's and others announce Black Friday deals" src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/KohlsCirculars112414_1416851666370_9828808_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Kohl's and others announce Black Friday deals</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/knoxville/life/merry-marijuana-pot-sellers-woo-holiday-shoppers_65276659" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Merry marijuana: Pot sellers woo holiday shop..." src="" data-src="http://mediaassets.knoxnews.com/photo/2014/04/11/default-image_1397241698190_4050141_ver1.0_140_105.png" class="media" /> <noscript> <img alt="Merry marijuana: Pot sellers woo holiday shop..." src="http://mediaassets.knoxnews.com/photo/2014/04/11/default-image_1397241698190_4050141_ver1.0_140_105.png" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Merry marijuana: Pot sellers woo holiday shop...</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/knoxville/life/holiday/black-friday/tips-on-getting-deals-during-black-friday-blitz" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Tips on getting deals during Black Friday blitz" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/23/SmartSpendingBlack_1416774654418_9780513_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Tips on getting deals during Black Friday blitz" src="http://mediaassets.knoxnews.com/photo/2014/11/23/SmartSpendingBlack_1416774654418_9780513_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Tips on getting deals during Black Friday blitz</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block has-video su-2n "> <a href="/knoxville/life/simple-steals-40-discount-at-saks-off-5th-avenue-50-saks-off-5th-ave-credit-shoes-and-big-tvs" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Simple Steals: Pre-Black Friday discounts" src="" data-src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/21/Simple_steals__Pre__Black_Friday_deals_2279790000_9738871_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Simple Steals: Pre-Black Friday discounts" src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/21/Simple_steals__Pre__Black_Friday_deals_2279790000_9738871_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Simple Steals: Pre-Black Friday discounts</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/life" target="_top">More Life</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_SAkfdVjS8eAh_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_SAkfdVjS8eAh"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475306192_1.0"> <article id="m475306192" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Arts</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/arts/new-books-at-knox-county-public-libraries_57939937" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="New books at Knox County Public Libraries" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/new_9843447_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="New books at Knox County Public Libraries" src="http://mediaassets.knoxnews.com/photo/2014/11/24/new_9843447_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">New books at Knox County Public Libraries</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/knoxville/arts/a-guide-to-fine-art-exhibits-theater-and-music_02881168" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="A guide to fine art exhibits, music and more" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/Finearts_9841110_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="A guide to fine art exhibits, music and more" src="http://mediaassets.knoxnews.com/photo/2014/11/24/Finearts_9841110_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">A guide to fine art exhibits, music and more</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 is-premium"> <a href="/knoxville/homepage-gallery/a-christmas-carol-imitates-life-with-fatherson-pair_20483448" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="'A Christmas Carol' is a family affair" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/21/carol1_9730192_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="'A Christmas Carol' is a family affair" src="http://mediaassets.knoxnews.com/photo/2014/11/21/carol1_9730192_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">'A Christmas Carol' is a family affair</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/knoxville/arts/in-sound-man-glyn-johns-recalls-encounters-with-rocknroll-royalty_48179775" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Book review: 'Sound Man'" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/21/sound_man_9730309_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Book review: 'Sound Man'" src="http://mediaassets.knoxnews.com/photo/2014/11/21/sound_man_9730309_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Book review: 'Sound Man'</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/arts" target="_top">More Arts</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_uTQi2SwqT49K_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_uTQi2SwqT49K"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475427823_1.0"> <article id="m475427823" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Music</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/music/one-direction-iggy-azalea-shine-at-2014-amas" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="One Direction, Iggy Azalea shine at 2014 AMAs" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/42nd Annual American _Wood_1416828984116_9812411_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="One Direction, Iggy Azalea shine at 2014 AMAs" src="http://mediaassets.knoxnews.com/photo/2014/11/24/42nd Annual American _Wood_1416828984116_9812411_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">One Direction, Iggy Azalea shine at 2014 AMAs</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/knoxville/pop-culture/katy-perry-to-perform-at-super-bowl-halftime" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Katy Perry to perform at Super Bowl halftime" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/23/katyperrry_1416801884209_9792361_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Katy Perry to perform at Super Bowl halftime" src="http://mediaassets.knoxnews.com/photo/2014/11/23/katyperrry_1416801884209_9792361_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Katy Perry to perform at Super Bowl halftime</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/knoxville/music/country-artist-billy-gilman-comes-out-as-gay_84695027" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Country artist Billy Gilman comes out as gay" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/21/gilman_9727217_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Country artist Billy Gilman comes out as gay" src="http://mediaassets.knoxnews.com/photo/2014/11/21/gilman_9727217_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Country artist Billy Gilman comes out as gay</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/knoxville/country-singer-ty-herndon-says-hes-a-proud-and-happy-gay-man" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Country singer Ty Herndon comes out as gay" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/20/tyherndon_1416525937410_9712167_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Country singer Ty Herndon comes out as gay" src="http://mediaassets.knoxnews.com/photo/2014/11/20/tyherndon_1416525937410_9712167_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Country singer Ty Herndon comes out as gay</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/music" target="_top">More Music</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_FWRyIxSTXWX8_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_FWRyIxSTXWX8"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475294220_1.0"> <article id="m475294220" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Food & Dining</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/food-and-dining/holiday-offers-at-krispy-kreme_29057014" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Holiday specials at Krispy Kreme" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/krispyxmas_9836631_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Holiday specials at Krispy Kreme" src="http://mediaassets.knoxnews.com/photo/2014/11/24/krispyxmas_9836631_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Holiday specials at Krispy Kreme</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/knoxville/food-and-dining/restaurant-scores-for-the-week-of-nov-24_59605085" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Restaurant Health Scores for week of Nov. 24" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/healthscores_9835506_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Restaurant Health Scores for week of Nov. 24" src="http://mediaassets.knoxnews.com/photo/2014/11/24/healthscores_9835506_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Restaurant Health Scores for week of Nov. 24</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/knoxville/food-and-dining/grub-scout-quality-and-quantity-abound-at-north-knox-taqueria-la-esperanza_98372057" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Grub Scout: Quality (and quantity!) at taqueria" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/dining_9820474_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Grub Scout: Quality (and quantity!) at taqueria" src="http://mediaassets.knoxnews.com/photo/2014/11/24/dining_9820474_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Grub Scout: Quality (and quantity!) at taqueria</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/knoxville/food-and-dining/krystal-signature-secret-stuffing_69269539" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Krystal's Signature Secret Stuffing" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/21/krystal_9738478_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Krystal's Signature Secret Stuffing" src="http://mediaassets.knoxnews.com/photo/2014/11/21/krystal_9738478_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Krystal's Signature Secret Stuffing</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/food-dining" target="_top">More Food & Dining</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_bU9xsv8vy0j3_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_bU9xsv8vy0j3"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_476674318_1.0"> <article id="m476674318" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Outdoors</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/outdoors/ober-gatlinburg-to-offer-winter-fun-snow-tubing_69213103" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Ober Gatlinburg to offer winter fun, snow tubing" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/20/ober_9704042_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Ober Gatlinburg to offer winter fun, snow tubing" src="http://mediaassets.knoxnews.com/photo/2014/11/20/ober_9704042_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Ober Gatlinburg to offer winter fun, snow tubing</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n is-premium"> <a href="/knoxville/outdoors/sue-hamilton-camellias-brighten-winter-landscapes_39218629" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Sue Hamilton's favorite plants" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/20/Camellia_'Carolina_Moon_Mist'__9709986_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Sue Hamilton's favorite plants" src="http://mediaassets.knoxnews.com/photo/2014/11/20/Camellia_'Carolina_Moon_Mist'__9709986_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Sue Hamilton's favorite plants</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/news/state/report-la-black-bears-unlikely-to-go-extinct_77358539_" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Report: La. black bears unlikely to go extinct" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/04/11/default-image_1397241698190_4050141_ver1.0_140_105.png" class="media" /> <noscript> <img alt="Report: La. black bears unlikely to go extinct" src="http://mediaassets.knoxnews.com/photo/2014/04/11/default-image_1397241698190_4050141_ver1.0_140_105.png" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Report: La. black bears unlikely to go extinct</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/knoxville/outdoors/south-knox-trails-invite-repeat-visits_37349389" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Outdoors: S. Knox trails invite repeat visits" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/19/greenway_9690995_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Outdoors: S. Knox trails invite repeat visits" src="http://mediaassets.knoxnews.com/photo/2014/11/19/greenway_9690995_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Outdoors: S. Knox trails invite repeat visits</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/outdoors" target="_top">More Outdoors</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_XpXpvdM8haY1_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_XpXpvdM8haY1"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475302975_1.0"> <article id="m475302975" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Family</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/family/salvation-armys-angel-tree-needs-holiday-help_37465772" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Salvation Army asks for help for its angels" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/angel tree_9844798_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Salvation Army asks for help for its angels" src="http://mediaassets.knoxnews.com/photo/2014/11/24/angel tree_9844798_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Salvation Army asks for help for its angels</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="/knoxville/family/go-knoxvilles-fun-things-to-do_74065984" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Happy Monday: Here's what's happening" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/21/knoxvillecom_rail_9735387_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Happy Monday: Here's what's happening" src="http://mediaassets.knoxnews.com/photo/2014/11/21/knoxvillecom_rail_9735387_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Happy Monday: Here's what's happening</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/knoxville/family/go-knoxvilles-fun-things-to-do_64585005" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Fun things to do today" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/21/opera_9730412_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Fun things to do today" src="http://mediaassets.knoxnews.com/photo/2014/11/21/opera_9730412_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Fun things to do today</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block has-video su-2n "> <a href="/knoxville/family/simple-steals-portable-high-char-inflatable-booster-seat-decorative-throws-recycled-duffel-bags" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Simple Steals: Inflatable kids seats, home decor" src="" data-src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/19/Simple_Steals__Inflatable_kids_seats__ho_2268870000_9692170_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Simple Steals: Inflatable kids seats, home decor" src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/19/Simple_Steals__Inflatable_kids_seats__ho_2268870000_9692170_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Simple Steals: Inflatable kids seats, home decor</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/family" target="_top">More Family</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_lPOB2aFPQNRw_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_lPOB2aFPQNRw"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475308990_1.0"> <article id="m475308990" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Pop Culture</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/star-wars-the-force-awakens-trailer-to-debut-in-knoxville-friday" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="New 'Star Wars' trailer to debut in Knoxville" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/force_1416858152973_9834140_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="New 'Star Wars' trailer to debut in Knoxville" src="http://mediaassets.knoxnews.com/photo/2014/11/24/force_1416858152973_9834140_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">New 'Star Wars' trailer to debut in Knoxville</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block has-video su-nth-child-2 su-2n "> <a href="/knoxville/pop-culture/the-top-3-firsts-of-the-2014-american-music-awards" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="The top three firsts of the 2014 AMAs" src="" data-src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416815869_9807270_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="The top three firsts of the 2014 AMAs" src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416815869_9807270_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">The top three firsts of the 2014 AMAs</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/knoxville/pop-culture/katy-perry-to-perform-at-super-bowl-halftime" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Katy Perry to perform at Super Bowl halftime" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/23/katyperrry_1416801884209_9792361_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Katy Perry to perform at Super Bowl halftime" src="http://mediaassets.knoxnews.com/photo/2014/11/23/katyperrry_1416801884209_9792361_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Katy Perry to perform at Super Bowl halftime</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/knoxville/pop-culture/iggy-azalea-taylor-swift-set-for-2014-amas" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Iggy Azalea, Taylor Swift set for 2014 AMAs" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/23/AmericanMusicAwards_0_1416773479918_9780511_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Iggy Azalea, Taylor Swift set for 2014 AMAs" src="http://mediaassets.knoxnews.com/photo/2014/11/23/AmericanMusicAwards_0_1416773479918_9780511_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Iggy Azalea, Taylor Swift set for 2014 AMAs</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/pop-culture" target="_top">More Pop Culture</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_BK8xRNxvMHay_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_BK8xRNxvMHay"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_475420899_1.0"> <article id="m475420899" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Movies</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block "> <a href="/knoxville/star-wars-the-force-awakens-trailer-to-debut-in-knoxville-friday" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="New 'Star Wars' trailer to debut in Knoxville" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/24/force_1416858152973_9834140_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="New 'Star Wars' trailer to debut in Knoxville" src="http://mediaassets.knoxnews.com/photo/2014/11/24/force_1416858152973_9834140_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">New 'Star Wars' trailer to debut in Knoxville</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block has-video su-nth-child-2 su-2n "> <a href="/knoxville/movies/box-office-top-3-hunger-games-has-biggest-weekend-of-2014" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Box Office Top 3" src="" data-src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416786924_9789846_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Box Office Top 3" src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416786924_9789846_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Box Office Top 3</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="/knoxville/movies/hunger-games-mockingjay-part-1-opens-with-123-million_90869107" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Mockingjay Part 1' opens with $123 million" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/23/hunger11_9780449_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Mockingjay Part 1' opens with $123 million" src="http://mediaassets.knoxnews.com/photo/2014/11/23/hunger11_9780449_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Mockingjay Part 1' opens with $123 million</h1> </div> </a> </article> <!-- 140 x 105 --> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="/knoxville/movies/review-jennifer-lawrence-marvelous-in-hunger-games-mockingjay-part-1_29204905" class="inner" > <div class="side__media"> <figure class="media__container--4x3 is-loading"> <img alt="Lawrence marvelous in 'Mockingjay Part 1'" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/20/hunger1_9704659_ver1.0_140_105.jpg" class="media" /> <noscript> <img alt="Lawrence marvelous in 'Mockingjay Part 1'" src="http://mediaassets.knoxnews.com/photo/2014/11/20/hunger1_9704659_ver1.0_140_105.jpg" class="media" /> </noscript> </figure> </div> <div class="side__body"> <h1 class="headline">Lawrence marvelous in 'Mockingjay Part 1'</h1> </div> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/knoxville/movies" target="_top">More Movies</a> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_jPEDt34XIpkQ_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_jPEDt34XIpkQ"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_511878539_1.4"> <article id="m511878539" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Notsville.com, a parody blog</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- isDecodeDC : false --> <article class="block "> <a href="http://www.notsville.com/2014/11/knoxville-pigeons-enjoy-vacant-710-and-712-walnut-street.html" class="inner" > <h1 class="headline">Knoxville pigeons enjoy vacant 710 and 712 Walnut Street</h1> <p class="abstract"> More than a year after historic buildings at 710 and 712 Walnut St. were demolished by a downtown church, Knoxville pigeons say they really&hellip; </p> </a> </article> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <a href="http://www.notsville.com/2014/11/area-food-truck-to-sell-thanksgiving-dinner-black-friday-body-armor.html" class="inner" > <h1 class="headline">Area food truck to sell Thanksgiving dinner, Black Friday body armor</h1> <p class="abstract"> A new Knoxville food truck has announced that it will be open on Thanksgiving at 6 p.m. so that shoppers can eat turkey and all the&hellip; </p> </a> </article> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <a href="http://www.notsville.com/2014/11/marvel-announces-squirrel-girl-superhero-movie.html" class="inner" > <h1 class="headline">Marvel announces Squirrel Girl superhero movie</h1> <p class="abstract"> In a sign that Marvel Studios may have finally run out of superhero film franchises, the company today announced that it will release a&hellip; </p> </a> </article> <!-- isDecodeDC : false --> <article class="block su-2n "> <a href="http://www.notsville.com/2014/11/tennessee-fans-announce-they-love-to-see-will-muschamp-disappointed.html" class="inner" > <h1 class="headline">Tennessee fans announce they love to see Will Muschamp disappointed</h1> <p class="abstract"> University of Tennessee football fans Saturday announced that they love to see former Florida head coach Will Muschamp disappointed. The&hellip; </p> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="grid__container has-two"> <div class="grid__half"> <div class="portlet-area portlet-area--3" id="column-3"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-3"></div> </div> </div> <div class="grid__half su-2 su-2n"> <div class="portlet-area portlet-area--4" id="column-4"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-4"></div> </div> </div> </div> <div class="grid__container has-full"> <div class="grid__full"> <div class="portlet-area portlet-area--7" id="column-7"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-7"></div> </div> </div> </div> </div> <div class="layout__side portlet-area portlet-area--5" id="column-5"> <div class="portlet-dropzone portlet-column-content" id="layout-column_column-5"> <div id="p_p_id_56_INSTANCE_CmIEs18gMPsf_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_CmIEs18gMPsf"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_453751658_1.0"> <article id="m453751658" class="module module--stay-connected-flat stay-connected--horizontal show-desktop show-tablet show-phone "> <div class="inner"> <div class="module__body"> <div class="blocks"> <header class="header--inline"> <h1 class="title">Connect</h1> <div class="social-list"> <a class="social-item item--facebook" href="http://www.facebook.com/knoxvilledotcom" target="_blank" title="knoxvilledotcom on Facebook"> <i class="rsp-icon icon--facebook"></i> <span class="item-title">Facebook</span> </a> <a class="social-item item--twitter" href="http://www.twitter.com/knoxvilledotcom" target="_blank" title="knoxvilledotcom on Twitter"> <i class="rsp-icon icon--twitter"></i> <span class="item-title">Twitter</span> </a> <div class="more-container"> <button>MORE</button> <div class="more--links"> <a class="social-item item--instagram" href="http://www.instagram.com/knoxvilledotcom" target="_blank" title="knoxvilledotcom on Instagram"> <i class="rsp-icon icon--instagram"></i> <span class="item-title">Instagram</span> </a> <a class="social-item item--pinterest" href="http://www.pinterest.com/knoxvilledotcom" target="_blank" title="knoxvilledotcom on Pinterest"> <i class="rsp-icon icon--pinterest"></i> <span class="item-title">Pinterest</span> </a> </div> </div> </div> </header> </div> <footer class="module__footer"></footer> </div> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_hadCMUDFp6ky_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_hadCMUDFp6ky"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_AD_300_BY_250_ABOVE_1.0"> <div id="mAD_300_BY_250_ABOVE" class="module module--ad content-box ad--300x250 show-desktop show-tablet show-phone companionAd "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "above", "Zone" : "knoxville/landing", "renderOn" : "[DESKTOP, MOBILE, TABLET]", "fname" : "knoxville", "Size" : "300x250"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_300_BY_250_ABOVE');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_300_BY_250_ABOVE');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_KGuxtv0p7yKq_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_KGuxtv0p7yKq"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_453772993_1.0"> <article id="m" class="module module--twitter-feed show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Follow Us on Twitter</header> <div class="module__body"> <div class="inner"> <div class="blocks "> <a class="twitter-timeline" href="https://twitter.com/knoxvilledotcom" data-tweet-limit="3" data-widget-id="490519538551644161">Tweets by @knoxvilledotcom</a> <script>/*<![CDATA[*/!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");/*]]>*/</script> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_o6Zhkq5xUtQg_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_o6Zhkq5xUtQg"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_563925829_1.0"> <article id="m563925829" class="module module--events-list flex-card js-eventful show-desktop show-tablet show-phone " data-api-token="0fcc63e2cade6722dd26018365116981" data-domain="events.knoxnews.com" data-category="" data-num-future-days="7" data-module-type="" data-page-size="5" > <div class="inner"> <header class="header--dark">This week's events</header> <div class="module__body"> <div class="inner"> <div class="blocks "> <div class="loading is-active"></div> <div class="calendar--days"></div> <div class="js-results"></div> <div class="nav nav--pagination"> <button type="button" class="js-prev is-disabled"></button> <button type="button" class="js-next is-disabled"></button> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_bxKN0YLHoeZV_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_bxKN0YLHoeZV"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_505606054_1.0"> <article id="m505606054" class="module module--html-iframe show-desktop show-tablet show-phone " > <div class="inner"> <div class="module__body"> <div class="inner"> <iframe style=" height:415px; " src='http://events.knoxnews.com/widget' frameBorder='0' scrolling='no'></iframe> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_3bOxYP0CRyA0_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_3bOxYP0CRyA0"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_453870251_1.0"> <article id="m453870251" class="module module--flex flex--promo skin--module-box show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Movies</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- 320 x 240 --> <!-- isDecodeDC : false --> <article class="block "> <a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=91l" class="inner" > <h1 class="headline">See what's playing in local theatres</h1> <figure class="media__container--4x3 is-loading"> <img alt="See what's playing in local theatres" src="" data-src="http://mediaassets.knoxnews.com/photo/2014/11/06/gomovies280x237_1415305249356_9471347_ver1.0_320_240.png" class="media" /> <noscript> <img alt="See what's playing in local theatres" src="http://mediaassets.knoxnews.com/photo/2014/11/06/gomovies280x237_1415305249356_9471347_ver1.0_320_240.png" class="media" /> </noscript> </figure> </a> </article> </section> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_cJuTB53CBnWS_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_cJuTB53CBnWS"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_316438224_1.0"> <article id="316438224" class="module module--trending nocontent show-desktop show-tablet show-phone "> <div class="inner"> <header class="header--dark">Now Trending</header> <div class="module__body"> <div id="m316438224_trending_container" class="blocks js-trending-now" data-apikey="06de469f576be61d2dcc350e4e602f0a" data-numheadlines="3" data-host="knoxnews.com"> </div> </div> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_LB21yQB5qclr_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_LB21yQB5qclr"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_467087562_1.0"> <article id="467087562" class="module module--tabs js-tabs show-desktop show-tablet show-phone "> <header class="header--dark"> <div class="tabs__triggers js-tabs__triggers"> <button type="button" class="js-trigger is-active">Jobs</button> <button type="button" class="js-trigger ">Homes</button> <button type="button" class="js-trigger ">Autos</button> </div> </header> <div class="tabs__targets js-tabs__targets"> <div class="tab is-active"> <article id="m467080953" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Top Jobs</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- isDecodeDC : false --> <article class="block "> <h1 class="headline">SALESPERSON</h1> </article> <!-- isDecodeDC : false --> <article class="block su-nth-child-2 su-2n "> <h1 class="headline">INSTRUCTIONAL FACULTY, BUSINE</h1> </article> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <h1 class="headline">NURSE PRACTITIONER OR PA</h1> </article> <!-- isDecodeDC : false --> <article class="block su-2n "> <h1 class="headline">MEDICAL ASSISTANT</h1> </article> <!-- isDecodeDC : false --> <article class="block su-2n-plus-3 "> <h1 class="headline">SENIOR SUBSTATION TECHNICIAN/E</h1> </article> <!-- isDecodeDC : false --> <article class="block su-2n "> <h1 class="headline">Careers</h1> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/classified/top-jobs" target="_top">All Top Jobs</a> </footer> </div> </article> </div> <div class="tab "> <article id="m467084958" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Top Homes </header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> <!-- isDecodeDC : false --> <article class="block "> </article> </section> </div> </div> </div> <footer class="module__footer"> <a href="/classified/top-homes" target="_top">All Top Homes</a> </footer> </div> </article> </div> <div class="tab "> <article id="m467085037" class="module module--flex flex--card show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Top Autos</header> <div class="module__body"> <div class="inner"> <div class="blocks"> <section class="is-active"> </section> </div> </div> </div> <footer class="module__footer"> <a href=" /classified/top-autos" target="_top">All Top Autos</a> </footer> </div> </article> </div> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_8zDr3izrvYg9_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_8zDr3izrvYg9"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_476604204_1.0"> <article id="m476604204" class="module module--carousel carousel--media show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">Go Knoxville Video</header> <div class="module__body"> <div class="inner"> <div class="component__carousel js-carousel" data-interval="6" data-startOffset="1" data-ajaxmaxnum="30" data-ajaxurl="/web/kns/refresh-article/453756388/476604204/SCRIPPS_RESPONSIVE_CAROUSEL_AJAX?resultsPerPage=6"> <div class="carousel__pager"> <div class="pager__container pager--prev"> <button type="button" class="btn--ui-block js-prev is-disabled"> <span aria-hidden="true" data-icon="prev"></span> <span class="screen-reader-text" hidden="">Previous</span> </button> </div> <div class="pager__container pager--next"> <button type="button" class="btn--ui-block js-next"> <span aria-hidden="true" data-icon="next"></span> <span class="screen-reader-text" hidden="">Next</span> </button> </div> </div> <div class="carousel__overflow"> <div class="js-carousel__content"> <div class="blocks"> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/knoxville/pop-culture/the-top-3-firsts-of-the-2014-american-music-awards?autoplay=true" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416815869_9807270_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="The top three firsts of the 2014 AMAs" src="" data-src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416815869_9807270_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="The top three firsts of the 2014 AMAs" src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416815869_9807270_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">The top three firsts of the 2014 AMAs</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/knoxville/movies/box-office-top-3-hunger-games-has-biggest-weekend-of-2014?autoplay=true" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416786924_9789846_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Box Office Top 3" src="" data-src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416786924_9789846_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Box Office Top 3" src="http://sharing.knoxnews.com/sharescnn/photo/2014/11/24/1416786924_9789846_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Box Office Top 3</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/knoxville/life/simple-steals-40-discount-at-saks-off-5th-avenue-50-saks-off-5th-ave-credit-shoes-and-big-tvs?autoplay=true" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/shareknxv/photo/2014/11/21/Simple_steals__Pre__Black_Friday_deals_2279790000_9738871_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Simple Steals: Pre-Black Friday discounts" src="" data-src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/21/Simple_steals__Pre__Black_Friday_deals_2279790000_9738871_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Simple Steals: Pre-Black Friday discounts" src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/21/Simple_steals__Pre__Black_Friday_deals_2279790000_9738871_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Simple Steals: Pre-Black Friday discounts</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/knoxville/family/simple-steals-portable-high-char-inflatable-booster-seat-decorative-throws-recycled-duffel-bags?autoplay=true" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/shareknxv/photo/2014/11/19/Simple_Steals__Inflatable_kids_seats__ho_2268870000_9692170_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Simple Steals: Inflatable kids seats, home decor" src="" data-src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/19/Simple_Steals__Inflatable_kids_seats__ho_2268870000_9692170_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Simple Steals: Inflatable kids seats, home decor" src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/19/Simple_Steals__Inflatable_kids_seats__ho_2268870000_9692170_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Simple Steals: Inflatable kids seats, home decor</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/knoxville/life/simple-steals-bluetooth-speakers-and-neckband-smart-watch-iphone-case?autoplay=true" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/shareknxv/photo/2014/11/17/Simple_Steals__Bluetooth_speakers_and_ne_2259270000_9654049_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Simple Steals: Tech gadgets at amazing discounts" src="" data-src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/17/Simple_Steals__Bluetooth_speakers_and_ne_2259270000_9654049_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Simple Steals: Tech gadgets at amazing discounts" src="http://sharing.knoxnews.com/shareknxv/photo/2014/11/17/Simple_Steals__Bluetooth_speakers_and_ne_2259270000_9654049_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Simple Steals: Tech gadgets at amazing discounts</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> <!-- 320 x 240 --> <article class="block has-video block--video "> <a href="/knoxville/life/kansas-city-woman-receives-legal-threat-for-3-star-yelp-review-of-orthodontist_?autoplay=true" class="inner" > <!-- Thumbnail: http://sharing.knoxnews.com/sharekshb/photo/2014/11/17/20141117_153249_1416260064714_9651175_ver1.0_320_240.jpg --> <figure class="overlay__media"> <div class="media__container media--16x9 is-loading"> <img alt="Online reviews can land some in hot water" src="" data-src="http://sharing.knoxnews.com/sharekshb/photo/2014/11/17/20141117_153249_1416260064714_9651175_ver1.0_320_240.jpg" class="media" /> <noscript> <img alt="Online reviews can land some in hot water" src="http://sharing.knoxnews.com/sharekshb/photo/2014/11/17/20141117_153249_1416260064714_9651175_ver1.0_320_240.jpg" class="media" /> </noscript> </div> <figcaption class="overlay__body no-time"> <h1 class="headline">Online reviews can land some in hot water</h1> <div class="updated is-empty"></div> </figcaption> </figure> </a> </article> </div> </div> </div> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_2UObub2H8ChQ_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_2UObub2H8ChQ"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_581716503_1.2"> <article id="m" class="module module--twitter-feed show-desktop show-tablet show-phone " > <div class="inner"> <header class="header--dark">We're Following</header> <div class="module__body"> <div class="inner"> <div class="blocks "> <a class="twitter-timeline" href="https://twitter.com/knoxvilledotcom-adds" data-tweet-limit="3" data-widget-id="505026545455353856">Tweets by @knoxvilledotcom-adds</a> <script>/*<![CDATA[*/!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");/*]]>*/</script> </div> </div> </div> <footer class="module__footer"> </footer> </div> </article> </div> </div> </div> </div> </div> <div id="p_p_id_56_INSTANCE_4C3q6e1fWJEt_" class="portlet-boundary portlet-boundary_56_ portlet-static portlet-static-end portlet-borderless portlet-journal-content " > <span id="p_56_INSTANCE_4C3q6e1fWJEt"></span> <div class="portlet-body"> <div class="portlet-borderless-container" style=""> <div class="portlet-body"> <div class="journal-content-article" id="article_10155_221604423_AD_300_BY_250_BELOW_1.0"> <div id="mAD_300_BY_250_BELOW" class="module module--ad content-box ad--300x250 show-desktop show-tablet show-phone "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "below", "Zone" : "knoxville/landing", "renderOn" : "[DESKTOP, MOBILE, TABLET]", "fname" : "knoxville", "Size" : "300x250"};
+                    ScrippsAdUtils.createAd(adData, 'mAD_300_BY_250_BELOW');
+//ScrippsAdUtils.createAd_GPT(adData, 'mAD_300_BY_250_BELOW');
+                })();
+            /*]]>*/</script> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="layout__container area__full-col--bottom portlet-area area__break--third portlet-area--6" id="column-6"> <div class="portlet-dropzone empty portlet-column-content" id="layout-column_column-6"></div> </div> </div> <form action="#" id="hrefFm" method="post" name="hrefFm"> <span></span> </form> </div> <!-- FOOT DEFAULT --> <section class="container"> <div id="mKNS-KNOXVILLE_AD_728_BY_90_BELOW" class="module module--ad content-box ad--728x90 show-desktop show-tablet hide-phone "> <!-- siteType: kns-knoxville.type --> <script>/*<![CDATA[*/
+                (function(){
+                    var adData = { "pageType" : "subindex", "kw" : "", "siteType" : "np", "primaryCategory" : "233027130", "Call_Letters" : "kns", "Position" : "below", "Zone" : "knoxville/landing", "renderOn" : "[DESKTOP, TABLET]", "fname" : "knoxville", "Size" : "728x90"};
+                    ScrippsAdUtils.createAd(adData, 'mKNS-KNOXVILLE_AD_728_BY_90_BELOW');
+//ScrippsAdUtils.createAd_GPT(adData, 'mKNS-KNOXVILLE_AD_728_BY_90_BELOW');
+                })();
+            /*]]>*/</script> </div> </section> <footer class="footer footer--bg" id="footer" role="contentinfo"> <div class="container"><a class="footer--logo" href="/"><img class="media" src="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns/logo-footer@2x.png" /></a> <nav class="nav nav--footer link-list--inline"> <a href="/subscribe">Subscribe/Login</a> <a href="/news/local">Local</a><a href="/weather">Weather</a> <a href="/sports">Sports</a> <a href="/govolsxtra">GoVolsXtra</a> <a href="/sports/prepxtra">PrepXtra</a> <a href="/business">Business</a> <a href="/knoxville">Knoxville.com</a> <a href="/opinion">Opinion</a></nav> <div class="nav--container"> <section class="nav nav--sponsored grid-row"> <header class="header"> knoxnews.com</header> <div class="section__body grid-container"><div class="grid grid-half link-list link-list--stacked"><ul><li><a href="/advertising">Advertise with Us</a></li><li><a href="/contact-us">Contact Us</a></li><li><a href="http://www.scripps.com/careers/jobsearch.html?searchInterestCategoryID=&amp;searchStateID=&amp;searchLocationID=43&amp;txtKeyword=" target="_blank">Jobs at The News Sentinel</a></li><li><a href="/e-edition">E-edition</a></li><li><a href="/classified/legal-ads">Legal Notices</a></li></ul><ul><li><a href="http://knoxblogs.com">Blogs</a></li></ul></div><div class="grid grid-half link-list link-list--stacked"><ul><li><a href="http://www.publicnoticeads.com/TN/search/searchnotices.asp?A=N ">TN Legal Notices</a></li></ul><ul><li><a href="http://www.legacy.com/obituaries/knoxnews/">Obits</a></li><li><a href="http://events.knoxnews.com/">Events</a></li><li><a href="/classified">Classifieds</a></li><li><a href="/cars">Cars</a></li><li><a href="/homes">Homes</a></li><li><a href="/jobs">Jobs</a></li></ul></div></div></section> <section class="nav nav--site-apps"> <header class="header"> Mobile Apps</header> <div class="items"><div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://media.scrippsnationalnews.com/cms/images/color_schemes/kns/logo-footer@2x.png" width="50" /></div><div class="side__body"><div class="title">News Sentinel</div><div class="link-list link-list--inline"><a href="https://itunes.apple.com/us/app/knoxnews/id369943355?mt=8">iPhone</a> <a href="https://itunes.apple.com/us/app/knoxville-news-sentinel-for/id556099383?mt=">iPad</a> <a href="http://www.amazon.com/Knoxville-News-Sentinel-Tenn/dp/B00BYFBQLC/ref=sr_1_c">Kindle</a> <a href="https://market.android.com/details?id=com.scripps.knoxnews.mobile">Android</a> <a href="http://apps.microsoft.com/windows/en-us/app/knoxville-news-sentinel/ff974130-c6ee-429e-9a94-6c5c7ce14afc">Windows</a></div></div></div><div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://media2.kjrh.com/image/mobile-apps/ss-app-icon144x144.png" width="50" /></div><div class="side__body"><div class="title">Storm Shield</div><div class="link-list link-list--inline"><a href="https://itunes.apple.com/app/id526831380?mt=8&amp;&amp;referrer=click%3D452add7c-cf41-4c98-823a-1f0fd5adb629">iPhone</a><a href="http://ad.apps.fm/3ebvB-G8sA5mrMHIqsMkhF5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYfd6tPJqQPBDDn1HzX6IT7BfXcwGRN_GiE6coA78nc9aqSTn4WnLXPzP2yzA3DL2LcBbjF2vwrPVx8cG7-CR6qTwXiKn3Jz3ukzKc7lWTH770">Android</a></div></div></div></div></section> <section class="nav nav--stay-connected"> <header class="header"> Stay Connected</header> <div class="links link-list--inline"></div><div class="link-list link-list--stacked"><ul><li><a href="http://www.facebook.com/knoxnews"><i class="rsp-icon icon--facebook"></i> facebook</a></li><li><a href="http://twitter.com/knoxnews"><i class="rsp-icon icon--twitter"></i> twitter</a></li><li><a href="http://instagram.com/knoxvillephoto"><i class="rsp-icon icon--instagram"></i> instagram</a></li><li><a href="http://www.youtube.com/knoxnews"><i class="rsp-icon icon--youtube"> </i> youtube</a></li><li><a href="http://myknoxnews.com"><i class="rsp-icon icon--email"></i>&nbsp;text alerts</a></li><li><a href="/rss"><img src="http://mediaassets.knoxnews.com/photo/2014/07/23/rss2_1406136481096_7020385_ver1.0.jpg" />&nbsp; rss</a></li></ul></div></section> <section class="nav nav--business-directory"> <header class="header"> Business Directory</header> <form action="http://local.knoxnews.com/search.pg" class="submit_form default_form" method="get" style="margin:0;color:#C2C2C2;background:transparent;border:0;padding:12px 0;" target="_top"> <label for="id_business"><span class="submit_label">Business: <span class="formtip">e.g. salon</span></span> <input class="CatTxtBxMojo" kl_virtual_keyboard_secure_input="on" maxlength="2048" name="q" style="width: 160px;color:#666666;" type="text" value="" /></label> <label for="id_business"><span class="submit_label">Location: <span class="formtip">e.g. Knoxville, TN</span></span> <input class="CatTxtBxMojo" kl_virtual_keyboard_secure_input="on" maxlength="2048" name="z" style="width: 160px;color:#666666;" type="text" value="Knoxville, TN" /></label><div class="CatBtnSubmitMojo"><input style="font-size:8pt;" type="submit" value="Search" /></div><br /> <div style="font-size:11px;"></div></form> </section> <section class="scripps-brand"> <div class="block"><div class="side__media media__container--1x1"><img class="media" src="http://www.wcpo.com/wcpo-digital-theme/images/custom/logo-scripps.png" /></div><div class="side__body"><strong>Scripps Media Inc.</strong> © 2014 The E.W. Scripps Co</div></div> <section class="soft-right"> <div class="link-list link-list--inline"><a href="/about-us/privacy-policy">Privacy Policy</a> <a href="/about-us/user-agreement">Terms of Use</a></div></section> </section> </div></div></footer> <p></p> <!-- omniture scripts --> <script type="text/javascript">/*<![CDATA[*/
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+		Liferay.Portlet.runtimePortletIds = ['searchbox_WAR_sitesearchportlet','103'];
+	
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+/*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+// <![CDATA[
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_103_',
+						portletId: '103',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d103\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_9huyFpMEZ1DJ_',
+						portletId: '56_INSTANCE_9huyFpMEZ1DJ',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_9huyFpMEZ1DJ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_12UdVBuuvilp_',
+						portletId: '56_INSTANCE_12UdVBuuvilp',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_12UdVBuuvilp\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_j8qyavpIgWlb_',
+						portletId: '56_INSTANCE_j8qyavpIgWlb',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_j8qyavpIgWlb\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 3,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_upr0L7HQmokM_',
+						portletId: '56_INSTANCE_upr0L7HQmokM',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_upr0L7HQmokM\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 4,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_UXvthjG1Jjls_',
+						portletId: '56_INSTANCE_UXvthjG1Jjls',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_UXvthjG1Jjls\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d4\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 5,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_SAkfdVjS8eAh_',
+						portletId: '56_INSTANCE_SAkfdVjS8eAh',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_SAkfdVjS8eAh\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d5\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 6,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_uTQi2SwqT49K_',
+						portletId: '56_INSTANCE_uTQi2SwqT49K',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_uTQi2SwqT49K\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d6\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 7,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_FWRyIxSTXWX8_',
+						portletId: '56_INSTANCE_FWRyIxSTXWX8',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_FWRyIxSTXWX8\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d7\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 8,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_bU9xsv8vy0j3_',
+						portletId: '56_INSTANCE_bU9xsv8vy0j3',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_bU9xsv8vy0j3\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d8\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 9,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_XpXpvdM8haY1_',
+						portletId: '56_INSTANCE_XpXpvdM8haY1',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_XpXpvdM8haY1\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d9\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 10,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_lPOB2aFPQNRw_',
+						portletId: '56_INSTANCE_lPOB2aFPQNRw',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_lPOB2aFPQNRw\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d10\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 11,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_BK8xRNxvMHay_',
+						portletId: '56_INSTANCE_BK8xRNxvMHay',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_BK8xRNxvMHay\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d11\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 12,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_jPEDt34XIpkQ_',
+						portletId: '56_INSTANCE_jPEDt34XIpkQ',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_jPEDt34XIpkQ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d12\x26p_p_col_count\x3d13\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_CmIEs18gMPsf_',
+						portletId: '56_INSTANCE_CmIEs18gMPsf',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_CmIEs18gMPsf\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 1,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_hadCMUDFp6ky_',
+						portletId: '56_INSTANCE_hadCMUDFp6ky',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_hadCMUDFp6ky\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 2,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_KGuxtv0p7yKq_',
+						portletId: '56_INSTANCE_KGuxtv0p7yKq',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_KGuxtv0p7yKq\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 3,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_o6Zhkq5xUtQg_',
+						portletId: '56_INSTANCE_o6Zhkq5xUtQg',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_o6Zhkq5xUtQg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 4,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_bxKN0YLHoeZV_',
+						portletId: '56_INSTANCE_bxKN0YLHoeZV',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_bxKN0YLHoeZV\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d4\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 5,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_3bOxYP0CRyA0_',
+						portletId: '56_INSTANCE_3bOxYP0CRyA0',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_3bOxYP0CRyA0\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d5\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 6,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_cJuTB53CBnWS_',
+						portletId: '56_INSTANCE_cJuTB53CBnWS',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_cJuTB53CBnWS\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d6\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 7,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_LB21yQB5qclr_',
+						portletId: '56_INSTANCE_LB21yQB5qclr',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_LB21yQB5qclr\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d7\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 8,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_8zDr3izrvYg9_',
+						portletId: '56_INSTANCE_8zDr3izrvYg9',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_8zDr3izrvYg9\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d8\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 9,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_2UObub2H8ChQ_',
+						portletId: '56_INSTANCE_2UObub2H8ChQ',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_2UObub2H8ChQ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d9\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 10,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_56_INSTANCE_4C3q6e1fWJEt_',
+						portletId: '56_INSTANCE_4C3q6e1fWJEt',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3d56_INSTANCE_4C3q6e1fWJEt\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d10\x26p_p_col_count\x3d11\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_searchbox_WAR_sitesearchportlet_',
+						portletId: 'searchbox_WAR_sitesearchportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d453756388\x26p_p_id\x3dsearchbox_WAR_sitesearchportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fknoxville'
+					}
+				);
+			AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]>
+/*]]>*/</script> <script src="http://www.knoxnews.com/newspaper-responsive-base-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1414645957000" type="text/javascript"></script> <script type="text/javascript">/*<![CDATA[*/
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	/*]]>*/</script> <script src="http://media.scrippsnationalnews.com/cms/js/vendor/jquery.unveil.min.js"></script> <script src="http://media.scrippsnationalnews.com/cms/js/videoplayer.js?v=20141027-115212.1.72435"></script> <script src="http://media.scrippsnationalnews.com/cms/js/site.global.min.js?v=20141027-115212.1.72435"></script> <!-- Chartbeat Snippet --> <script type="text/javascript">/*<![CDATA[*/
+
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 15115;
+_sf_async_config.domain = 'www.knoxnews.com'; 
+_sf_async_config.sections = 'News' 
+
+
+if (!window._story_authors) {
+  window._story_authors = '';
+}
+if (_story_authors != '') {
+    _sf_async_config.authors = _story_authors; /* Set by the STORY template */
+} else {
+    _sf_async_config.authors = 'Scripps Only Content ' + new Date().getFullYear();
+}
+
+/** CONFIGURATION END **/
+
+(function(){
+function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute("src", (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != "function") ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+/*]]>*/</script> </div> <!-- /.body__inner --> </body> </html> 

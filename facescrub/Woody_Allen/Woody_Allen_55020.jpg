@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie ie9" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) | !(IE 9)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, width=device-width">
+	<title>Page Not Found - Awful Announcing</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://awfulannouncing.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://cdn1.bloguin.com/wp-content/themes/bloguin/js/html5shiv.js"></script>
+	<![endif]-->
+	
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.1.5) - http://goroost.com/ -->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Awful Announcing" />
+<meta property="og:site_name" content="Awful Announcing" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Awful Announcing &raquo; Feed" href="http://awfulannouncing.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Awful Announcing &raquo; Comments Feed" href="http://awfulannouncing.com/comments/feed" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-8613428-63']);
+				            _gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel='stylesheet' id='locker-modal-css'  href='http://awfulannouncing.com/wp-content/plugins/locker/css/locker-modal.css?ver=0.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the-locker-css'  href='http://awfulannouncing.com/wp-content/plugins/locker/css/the-locker.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bloguin-fonts-css'  href='http://fonts.googleapis.com/css?family=Francois+One|Droid+Serif:400,700,400italic,700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='src-bloguin-style-css'  href='http://awfulannouncing.com/wp-content/themes/bloguin/style.css?ver=2014-09-06' type='text/css' media='all' />
+<link rel='stylesheet' id='src-responsive-nav-css'  href='http://awfulannouncing.com/wp-content/themes/bloguin/css/responsive-nav.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='network-menu-css'  href='http://awfulannouncing.com/wp-content/themes/bloguin/css/network-menu.css?ver=2014-04-09' type='text/css' media='all' />
+<link rel='stylesheet' id='follow-widget-css'  href='http://awfulannouncing.com/wp-content/themes/bloguin/css/follow-widget.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://awfulannouncing.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://awfulannouncing.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://awfulannouncing.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.3" />
+		<style>
+				#main .hentry .entry-title a,
+		#main .hentry .by-line a,
+		#main .hentry.format-twitter .comments-number,
+		#main .hentry.format-quote .comments-number,
+		#network-drawer ul .drawer ul li.head, #network-drawer ul .drawer ul li.subheading,
+		.the-locker .hentry a,
+		a {
+			color: #990a0a;
+		}
+		#sidebar .clone-widget .widget-title {
+			background: #990a0a;
+		}
+				#sidebar .colored-widget,
+		#main .hentry.format-quote,
+		#main .hentry .comments-number,
+		.modal-close,
+		.previous-locker-post-button a,
+		.next-locker-post-button a,
+		.comments-locker-button a,
+		.widget.the-locker h3.widget-title {
+			background-color: #4f4f4f;
+		}
+		#sidebar .colored-widget {
+			padding: 15px;
+		}
+		#sidebar .colored-widget-white-text {
+			color: #fff;
+		}
+		#main .hentry .comments-number:after {
+			border-right-color: #4f4f4f;;
+		}
+		#main .hentry.sticky:after {
+			border-bottom-color: #4f4f4f;;
+		}
+				.sticky-featured .feat-post {
+			background: #513939;
+		}
+		.sticky-featured .feat-post img {
+			opacity: .5;
+		}
+				</style>
+		<script src="http://network.yardbarker.com/network/ybn_pixel/9754" type="text/javascript"></script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/bloguin-network/loader.js');
+</script><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #bdbfbf; }
+</style>
+	<link rel="shortcut icon" href="http://cdn1.bloguin.com/wp-content/plugins/white-label/favicon.ico" />
+	<!--
+	generated in 0.725 seconds
+	76529 bytes batcached for 300 seconds
+-->
+</head>
+
+<body class="error404 custom-background">
+
+		<div id="network-drawer" class='no-js'>
+	<div class="liner">
+		<ul>
+			<li class="toplevel logo"><a href="http://bloguin.com"><img src="http://cdn1.bloguin.com/wp-content/themes/bloguin/images/bloguin-logo.png" alt="Bloguin Logo" /></a></li>
+			<li class="toplevel parent"><span>Football</span>
+				<div class="drawer"><div class="liner">
+					<div class="alignleft feat-posts">
+						<div class="alignleft feat-post">
+								<a href="http://bloguin.com/thisgivensunday/uncategorized/quarterbacks-of-the-future-how-8-needy-teams-will-address-the-position-after-the-season.html"><img width="220" height="220" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/Marcus-Mariota2-220x220.jpg" class="attachment-drawer-featured wp-post-image" alt="Marcus-Mariota2" />
+								<p><span class="title">Quarterbacks of the Future: How 8 Needy Teams Will Address the Position After the Season</span><span class="subtitle">This Given Sunday</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/thisgivensunday/2014-articles/8-nfl-records-that-wont-be-broken-for-a-long-time.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/10/peyton-throw22-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="peyton-throw22" />
+								<p><span class="title">8 NFL records that won&#8217;t be broken for a long time</span><span class="subtitle">This Given Sunday</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/thisgivensunday/2014-articles/five-nfl-dynasties-that-never-were.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/10/elway12-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="elway12" />
+								<p><span class="title">Five NFL dynasties that never were</span><span class="subtitle">This Given Sunday</span></p></a>
+							</div>
+					</div>
+					<div class="menu-football-dropdown-container"><ul class="nav-menu"><li id="menu-item-73" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-73">General</li>	<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="http://bloguin.com/thisgivensunday" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">This Given Sunday &star;</a></li>	<li id="menu-item-638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-638"><a href="http://bloguin.com/optimumscouting" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Optimum Scouting</a></li>	<li id="menu-item-1658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1658"><a href="http://thesportsdaily.net" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://thesportsdaily.net']);">The Sports Daily</a></li></ul><ul class="nav-menu"><li id="menu-item-643" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-643">AFC</li>	<li id="menu-item-622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-622"><a href="http://bloguin.com/ravensfootballmachine" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Baltimore Ravens</a></li>	<li id="menu-item-623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-623"><a href="http://bloguin.com/buffalowins" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Buffalo Bills</a></li>	<li id="menu-item-640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640"><a href="http://bloguin.com/coltsauthority" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Indianapolis Colts</a></li>	<li id="menu-item-627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-627"><a href="http://bloguin.com/phinsphocus" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Miami Dolphins</a></li>	<li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59"><a href="http://bloguin.com/foxboroblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">New England Patriots</a></li>	<li id="menu-item-632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-632"><a href="http://bloguin.com/tfds" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Oakland Raiders</a></li>	<li id="menu-item-633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-633"><a href="http://bloguin.com/blitzburghblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Pittsburgh Steelers</a></li>	<li id="menu-item-636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-636"><a href="http://bloguin.com/justiceiscoming" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">San Diego Chargers</a></li>	<li id="menu-item-637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-637"><a href="http://bloguin.com/totaltitans" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Tennessee Titans</a></li></ul><ul class="nav-menu"><li id="menu-item-642" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-642">NFC</li>	<li id="menu-item-624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-624"><a href="http://www.purplejesusdiaries.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.purplejesusdiaries.com']);">Minnesota Vikings</a></li>	<li id="menu-item-628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-628"><a href="http://bloguin.com/thesaintsnation" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">New Orleans Saints</a></li>	<li id="menu-item-629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-629"><a href="http://bloguin.com/ultimatenyg" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">New York Giants</a></li>	<li id="menu-item-631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-631"><a href="http://bloguin.com/eagleseye" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Philadelphia Eagles</a></li>	<li id="menu-item-641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641"><a href="http://bloguin.com/bucstop" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Tampa Bay Buccaneers</a></li>	<li id="menu-item-635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-635"><a href="http://bloguin.com/redskinshogheaven" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Washington Redskins</a></li></ul></div>
+				<span class="close">&times;</span>
+				</div></div>
+			</li>
+			<li class="toplevel parent"><span>Baseball</span>
+				<div class="drawer"><div class="liner">
+					<div class="alignleft feat-posts">
+						<div class="alignleft feat-post">
+								<a href="http://metstradamusblog.com/2014-articles/a-half-century-of-doc.html"><img width="220" height="220" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/Doc-Gooden1-220x220.jpg" class="attachment-drawer-featured wp-post-image" alt="Doc-Gooden1" />
+								<p><span class="title">A Half Century Of Doc</span><span class="subtitle">Metstradamus Blog</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/theoutsidecorner/2014-articles/baseballs-postseason-resembled-sports.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/10/giantsalt2-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="giantsalt2" />
+								<p><span class="title">What if baseball&#8217;s Postseason resembled other sports?</span><span class="subtitle">Metstradamus Blog</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/theoutsidecorner/2014-articles/the-most-significant-failed-dynasties-in-the-divisional-era.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/10/detdyn2-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="detdyn2" />
+								<p><span class="title">The most disappointing potential dynasties of the divisional era</span><span class="subtitle">Metstradamus Blog</span></p></a>
+							</div>
+					</div>
+					<div class="menu-baseball-dropdown-container"><ul class="nav-menu"><li id="menu-item-74" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74">General</li>	<li id="menu-item-535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-535"><a href="http://bloguin.com/theoutsidecorner" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The Outside Corner &star;</a></li>	<li id="menu-item-545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-545"><a href="http://hallofverygood.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://hallofverygood.com']);">Hall of Very Good</a></li>	<li id="menu-item-1121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1121"><a href="http://tatertrottracker.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://tatertrottracker.com']);">Tater Trot Tracker</a></li></ul><ul class="nav-menu"><li id="menu-item-552" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-552">American League</li>	<li id="menu-item-536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536"><a href="http://fenwaywest.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://fenwaywest.com']);">Boston Red Sox</a></li>	<li id="menu-item-4778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4778"><a href="http://firebrandal.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://firebrandal.com']);">Boston Red Sox</a></li>	<li id="menu-item-534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-534"><a href="http://grabsomebench.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://grabsomebench.com']);">Chicago White Sox</a></li>	<li id="menu-item-549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-549"><a href="http://wezen-ball.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://wezen-ball.com']);">Wezen Ball</a></li>	<li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-546"><a href="http://platoonadvantage.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://platoonadvantage.com']);">Platoon Advantage</a></li>	<li id="menu-item-540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540"><a href="http://burningriverbaseball.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://burningriverbaseball.com']);">Cleveland Indians</a></li>	<li id="menu-item-541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541"><a href="http://monkeywithahalo.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://monkeywithahalo.com']);">L.A. Angels</a></li></ul><ul class="nav-menu"><li id="menu-item-553" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-553">National League</li>	<li id="menu-item-1082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1082"><a href="http://obstructedview.net" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://obstructedview.net']);">Chicago Cubs</a></li>	<li id="menu-item-543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-543"><a href="http://thebrewersbar.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://thebrewersbar.com']);">Milwaukee Brewers</a></li>	<li id="menu-item-542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-542"><a href="http://www.metstradamusblog.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.metstradamusblog.com']);">New York Mets</a></li>	<li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-544"><a href="http://macho-row.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://macho-row.com']);">Philadelphia Phillies</a></li>	<li id="menu-item-533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-533"><a href="http://whygavs.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://whygavs.com']);">Pittsburgh Pirates</a></li>	<li id="menu-item-550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-550"><a href="http://thegiantscove.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://thegiantscove.com']);">San Francisco Giants</a></li>	<li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-548"><a href="http://cardsdiaspora.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://cardsdiaspora.com']);">Cards Diaspora</a></li>	<li id="menu-item-539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-539"><a href="http://thenatsblog.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://thenatsblog.com']);">Washington Nationals</a></li></ul></div>
+				<span class="close">&times;</span>
+				</div></div>
+			</li>
+			<li class="toplevel parent"><span>Basketball</span>
+				<div class="drawer"><div class="liner">
+					<div class="alignleft feat-posts">
+						<div class="alignleft feat-post">
+								<a href="http://bloguin.com/crossoverchronicles/2014-articles/the-nba-continues-to-have-a-tortured-relationship-with-race.html"><img width="220" height="220" src="http://cdn1.bloguin.com/wp-content/uploads/2014/09/JeffTeagueHawks_Magic1229133-220x220.jpg" class="attachment-drawer-featured wp-post-image" alt="JeffTeagueHawks_Magic1229133" />
+								<p><span class="title">The NBA continues to have a tortured relationship with race</span><span class="subtitle">Crossover Chronicles</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/crossoverchronicles/2014-articles/our-favorite-discarded-court-ideas.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/09/HornetsNewCourt2-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="HornetsNewCourt2" />
+								<p><span class="title">Our favorite discarded court ideas</span><span class="subtitle">Crossover Chronicles</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/crossoverchronicles/lebron-james/lebrons-return-home-about-redemption-home.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/07/LeBronJamesCavaliers0711142-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="LeBronJamesCavaliers0711142" />
+								<p><span class="title">LeBron&#8217;s return about redemption, home</span><span class="subtitle">Crossover Chronicles</span></p></a>
+							</div>
+					</div>
+					<div class="menu-basketball-dropdown-container"><ul class="nav-menu"><li id="menu-item-76" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-76">General</li>	<li id="menu-item-558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-558"><a href="http://bloguin.com/crossoverchronicles" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Crossover Chronicles &star;</a></li>	<li id="menu-item-572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-572"><a href="http://bloguin.com/hoopsmanifesto" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Hoops Manifesto</a></li>	<li id="menu-item-1106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1106"><a href="http://bloguin.com/lotterymafia" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The Lottery Mafia</a></li></ul><ul class="nav-menu"><li id="menu-item-567" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-567">East</li>	<li id="menu-item-6225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6225"><a href="http://dailyhawks.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://dailyhawks.com']);">Atlanta Hawks</a></li>	<li id="menu-item-557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-557"><a href="http://bloguin.com/brooklynballin" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Brooklyn Nets</a></li>	<li id="menu-item-560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-560"><a href="http://bloguin.com/tradestreetpost" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Charlotte Bobcats</a></li>	<li id="menu-item-561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561"><a href="http://bloguin.com/stepienrules" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Cleveland Cavaliers</a></li>	<li id="menu-item-569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569"><a href="http://bloguin.com/orlandomagicdaily" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Orlando Magic</a></li>	<li id="menu-item-570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-570"><a href="http://bloguin.com/hoopheadsnorth" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Toronto Raptors</a></li></ul><ul class="nav-menu"><li id="menu-item-568" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-568">West</li>	<li id="menu-item-566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-566"><a href="http://bloguin.com/withimalice" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Los Angeles Lakers</a></li>	<li id="menu-item-559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-559"><a href="http://www.twolvesblog.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.twolvesblog.com']);">Minnesota T-Wolves</a></li>	<li id="menu-item-562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-562"><a href="http://bloguin.com/projectspurs" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">San Antonio Spurs</a></li></ul></div>
+				<span class="close">&times;</span>
+				</div></div>
+			</li>
+			<li class="toplevel parent"><span>Hockey</span>
+				<div class="drawer"><div class="liner">
+					<div class="alignleft feat-posts">
+						<div class="alignleft feat-post">
+								<a href="http://bloguin.com/puckdrunklove/2014-articles/28-things-i-like-about-hockey.html"><img width="220" height="220" src="http://cdn1.bloguin.com/wp-content/uploads/2014/10/JaromirJagrDevils2-220x220.jpg" class="attachment-drawer-featured wp-post-image" alt="JaromirJagrDevils2" />
+								<p><span class="title">28 things I like about hockey</span><span class="subtitle">Puck Drunk Love</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/puckdrunklove/2014-articles/5-nhl-teams-who-will-take-a-step-forward-in-2014-15.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/08/Wild-24-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="Wild-24" />
+								<p><span class="title">5 NHL teams who will take a step forward in 2014-15</span><span class="subtitle">Puck Drunk Love</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/puckdrunklove/2014-articles/7-rules-the-nhl-needs-to-change.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/07/Official2-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="Official2" />
+								<p><span class="title">7 rules the NHL needs to change</span><span class="subtitle">Puck Drunk Love</span></p></a>
+							</div>
+					</div>
+					<div class="menu-hockey-dropdown-container"><ul class="nav-menu"><li id="menu-item-78" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-78">General</li>	<li id="menu-item-602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-602"><a href="http://bloguin.com/puckdrunklove" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Puck Drunk Love &star;</a></li>	<li id="menu-item-620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-620"><a href="http://bloguin.com/barrymelroserocks" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Barry Melrose Rocks</a></li>	<li id="menu-item-617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-617"><a href="http://hockeywithoutpropriety.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://hockeywithoutpropriety.com']);">Hockey Without Propriety</a></li>	<li id="menu-item-621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-621"><a href="http://bloguin.com/thehockeyprogram" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The Hockey Program</a></li></ul><ul class="nav-menu"><li id="menu-item-600" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-600">East</li>	<li id="menu-item-607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-607"><a href="http://bloguin.com/daysofyorr" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Boston Bruins</a></li>	<li id="menu-item-1659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1659"><a href="http://bshockey.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bshockey.com']);">Columbus Blue Jackets</a></li>	<li id="menu-item-609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-609"><a href="http://bloguin.com/nohs" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Detroit Red Wings</a></li>	<li id="menu-item-610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-610"><a href="http://bloguin.com/runningwiththedevils" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">New Jersey Devils</a></li>	<li id="menu-item-605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-605"><a href="http://bloguin.com/nyrangersblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">New York Rangers</a></li>	<li id="menu-item-604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-604"><a href="http://bloguin.com/the6thsens" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Ottawa Senators</a></li>	<li id="menu-item-606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-606"><a href="http://bloguin.com/thepensblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Pittsburgh Penguins</a></li>	<li id="menu-item-614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614"><a href="http://bloguin.com/rockthered" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Washington Capitals</a></li></ul><ul class="nav-menu"><li id="menu-item-601" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-601">West</li>	<li id="menu-item-603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-603"><a href="http://bloguin.com/ontheduckpond" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Anaheim Ducks</a></li>	<li id="menu-item-613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-613"><a href="http://bloguin.com/starsofbigd" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Dallas Stars</a></li>	<li id="menu-item-611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-611"><a href="http://bloguin.com/stateofhockeynews" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Minnesota Wild</a></li>	<li id="menu-item-612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612"><a href="http://bloguin.com/fangfaction" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Nashville Predators</a></li>	<li id="menu-item-616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-616"><a href="http://bloguin.com/hipchecks" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Phoenix Coyotes</a></li>	<li id="menu-item-615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615"><a href="http://bloguin.com/frozennotes" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">St. Louis Blues</a></li>	<li id="menu-item-618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-618"><a href="http://bloguin.com/jetsallout" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Winnipeg Jets</a></li></ul></div>
+				<span class="close">&times;</span>
+				</div></div>
+			</li>
+			<li class="toplevel parent"><span>College</span>
+				<div class="drawer"><div class="liner">
+					<div class="alignleft feat-posts">
+						<div class="alignleft feat-post">
+								<a href="http://bloguin.com/thestudentsection/2014/will-muschamp-at-florida-a-lesson-in-failed-relationships.html"><img width="220" height="220" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/CFB-Will-Muschamp-fired-220x220.png" class="attachment-drawer-featured wp-post-image" alt="CFB-Will-Muschamp-fired" />
+								<p><span class="title">Will Muschamp at Florida a lesson in failed relationships</span><span class="subtitle">The Student Section</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/thestudentsection/2014/college-footballs-emergent-absurdity-why-its-time-for-divisions-to-be-eliminated.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/USATSI_ugaMORGAN-e14148839884432-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="USATSI_ugaMORGAN-e14148839884432" />
+								<p><span class="title">College Football&#8217;s Emergent Absurdity: Why It&#8217;s Time For Divisions To Be Eliminated</span><span class="subtitle">The Student Section</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://bloguin.com/thestudentsection/uncategorized/chris-fowler-in-the-crosshairs-what-his-sec-rant-says-about-espn-and-college-football.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/10/Chris-Fowler-lands-in-the-top-ESPN-ABC-college-football-package2-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="Chris-Fowler-lands-in-the-top-ESPN-ABC-college-football-package2" />
+								<p><span class="title">Chris Fowler In the Crosshairs: What His SEC Rant Says About ESPN And College Football</span><span class="subtitle">The Student Section</span></p></a>
+							</div>
+					</div>
+					<div class="menu-college-dropdown-container"><ul class="nav-menu"><li id="menu-item-80" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80">General</li>	<li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579"><a href="http://bloguin.com/thestudentsection" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The Student Section &star;</a></li>	<li id="menu-item-595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-595"><a href="http://bloguin.com/aarontorressports" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Aaron Torres Sports</a></li>	<li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592"><a href="http://bloguin.com/thebellyofthebeast" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The Belly of the Beast</a></li>	<li id="menu-item-594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-594"><a href="http://bloguin.com/collegefootballzealots" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">College Football Zealots</a></li></ul><ul class="nav-menu"><li id="menu-item-598" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-598">School Blogs</li>	<li id="menu-item-578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-578"><a href="http://bloguin.com/bearcatsblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Cincinnati</a></li>	<li id="menu-item-996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-996"><a href="http://noledout.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://noledout.com']);">Florida State</a></li>	<li id="menu-item-583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-583"><a href="http://bloguin.com/subwaydomer" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Notre Dame</a></li>	<li id="menu-item-4416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4416"><a href="http://thebuckeyebattlecry.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://thebuckeyebattlecry.com']);">Ohio State</a></li>	<li id="menu-item-585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-585"><a href="http://bloguin.com/theduckstopshere" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Oregon</a></li>	<li id="menu-item-584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-584"><a href="http://bloguin.com/nittanylionsden" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Penn State</a></li>	<li id="menu-item-587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-587"><a href="http://bloguin.com/boiledsports" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Purdue</a></li>	<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-586"><a href="http://bloguin.com/leftoverhotdog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">South Carolina</a></li>	<li id="menu-item-591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591"><a href="http://bloguin.com/wsufootballblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Washington State</a></li>	<li id="menu-item-597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-597"><a href="http://bloguin.com/madtownbadgers" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Wisconsin</a></li></ul><ul class="nav-menu"></ul></div>
+				<span class="close">&times;</span>
+				</div></div>
+			</li>
+			<li class="toplevel parent"><span>General</span>
+				<div class="drawer"><div class="liner">
+					<div class="alignleft feat-posts">
+						<div class="alignleft feat-post">
+								<a href="http://bloguin.com/theapparty/2014-articles/snl-needs-to-be-edgy-again.html"><img width="220" height="220" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/20140927011941Saturday_Night_Live_original_cast1-220x220.jpg" class="attachment-drawer-featured wp-post-image" alt="20140927011941Saturday_Night_Live_original_cast1" />
+								<p><span class="title">&#8216;SNL&#8217; Needs To Be Edgy Again</span><span class="subtitle">The AP Party</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://awfulannouncing.com/2014/wrestlemedia-favorite-media-feuds-wwe-ppv.html"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/simmonspunk4-145x98.png" class="attachment-drawer-featured-sm wp-post-image" alt="simmonspunk4" />
+								<p><span class="title">WrestleMedia: Your favorite media feuds as a WWE PPV</span><span class="subtitle">The AP Party</span></p></a>
+							</div><div class="alignright feat-post feat-post-small">
+								<a href="http://thesportsdaily.net/top-10-greatest-moments-in-new-york-yankees-derek-jeter-all-time-career/"><img width="145" height="98" src="http://cdn1.bloguin.com/wp-content/uploads/2014/09/USATSI_80721632-145x98.jpg" class="attachment-drawer-featured-sm wp-post-image" alt="MLB: Kansas City Royals at New York Yankees" />
+								<p><span class="title">Top 10 greatest moments in New York Yankees Derek Jeter&#8217;s career</span><span class="subtitle">The AP Party</span></p></a>
+							</div>
+					</div>
+					<div class="menu-drawer-general-container"><ul class="nav-menu"><li id="menu-item-818" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-818">Media</li>	<li id="menu-item-827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="http://bloguin.com/theapparty" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The AP Party &star;</a></li>	<li id="menu-item-840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-840"><a href="http://bloguin.com/awfulannouncing" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Awful Announcing</a></li>	<li id="menu-item-823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-823"><a href="http://bloguin.com/awfuladvertisements" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Awful Advertisements</a></li>	<li id="menu-item-835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-835"><a href="http://bloguin.com/fangsbites" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Fang&#8217;s Bites</a></li></ul><ul class="nav-menu"><li id="menu-item-819" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-819">Regional</li>	<li id="menu-item-828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828"><a href="http://bloguin.com/detroit4lyfe" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Detroit4lyfe</a></li>	<li id="menu-item-839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-839"><a href="http://www.soxanddawgs.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.soxanddawgs.com']);">Sox and Dawgs</a></li></ul><ul class="nav-menu"><li id="menu-item-817" class="subheading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-817">Other Sports</li>	<li id="menu-item-2259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2259"><a href="http://bloguin.com/32flags" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">32 Flags &star;</a></li>	<li id="menu-item-1661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1661"><a href="http://bloguin.com/attackingthenet" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Attacking the Net &star;</a></li>	<li id="menu-item-1660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1660"><a href="http://analyticsgame.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://analyticsgame.com']);">Analytics Game</a></li>	<li id="menu-item-824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-824"><a href="http://bloguin.com/mmamanifesto" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">MMA Manifesto</a></li>	<li id="menu-item-833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-833"><a href="http://bloguin.com/thenetset" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">The Net Set Blog</a></li>	<li id="menu-item-825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-825"><a href="http://bloguin.com/northtexasfisticuffs" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">North Texas Fisticuffs</a></li>	<li id="menu-item-3514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3514"><a href="http://oregonsportsnews.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://oregonsportsnews.com']);">Oregon Sports News</a></li>	<li id="menu-item-830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-830"><a href="http://bloguin.com/pitstopblog" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Pit Stop Blog</a></li>	<li id="menu-item-2180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2180"><a href="http://www.queensberry-rules.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.queensberry-rules.com']);">The Queensberry Rules</a></li>	<li id="menu-item-832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-832"><a href="http://bloguin.com/sonsofroto" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Sons of Roto</a></li>	<li id="menu-item-3515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3515"><a href="http://tapingolfblog.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://tapingolfblog.com']);">Tap In Golf</a></li>	<li id="menu-item-838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-838"><a href="http://bloguin.com/totalmls" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Total MLS</a></li>	<li id="menu-item-1764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1764"><a href="http://undercardsuperstar.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://undercardsuperstar.com']);">Undercard Superstar</a></li></ul></div>
+				<span class="close">&times;</span>
+				</div></div>
+			</li>
+			<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841 toplevel"><a href="http://bloguin.com/site-list" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">All</a></li>
+
+		</ul>
+	</div>
+	</div>
+	<div id="masthead">
+		<div class="liner">
+			
+				<div class="header">
+					<a href='http://awfulannouncing.com'><img width="250" height="87" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/03/AA_Logo_SM.png" class="blog-logo" alt="AA_Logo_SM" /></a>					<div class="banner">
+						<aside id="ad-25" class="widget widget_text hide-in-mobile"><div class='adwidget'><script type="text/javascript"> Caspion = { 'cfg': { 'id': 'awfulannouncingcom' } };</script>
+<script type="text/javascript" src="//gae.caspion.com/cas.js"></script></div></aside><aside id="ad-17" class="widget widget_text"><div class='adwidget'><center><!-- YB Awful Announcing -->
+<script type="text/javascript" src="http://ad.doubleclick.net/N5702/adj/yb.awfulannouncing2;dcopt=ist;sz=728x90;ord=[timestamp]?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5702/jump/yb.awfulannouncing2;sz=728x90;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N5702/ad/yb.awfulannouncing2;sz=728x90;ord=[timestamp]?" width="728" height="90" />
+</a>
+</noscript></center></div></aside>					</div>
+				</div>
+
+					</div>
+	</div>
+
+	<div class="liner">
+	<div id="content">
+		<div id="primary-menu" class="menu-primary-container"><ul id="menu-primary" class="nav-menu"><li id="menu-item-13216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13216"><a href="http://bloguin.com/awfulannouncing/" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://bloguin.com']);">Home</a></li>
+<li id="menu-item-13217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13217"><a href="http://awfulannouncing.com/about-awful-announcing" >About</a></li>
+<li id="menu-item-13218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13218"><a href="http://awfulannouncing.com/contact-aa" >Contact AA</a></li>
+<li id="menu-item-13219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13219"><a href="#">Archives</a>
+<ul class="sub-menu">
+	<li id="menu-item-24560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24560"><a href="http://awfulannouncing.com/category/the-locker" >The Locker</a></li>
+	<li id="menu-item-13228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13228"><a href="http://awfulannouncing.com/category/2014" >2014 Archives</a></li>
+	<li id="menu-item-13227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13227"><a href="http://awfulannouncing.com/category/2013" >2013 Archives</a></li>
+	<li id="menu-item-13226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13226"><a href="http://awfulannouncing.com/category/2012-articles" >2012 Archives</a></li>
+	<li id="menu-item-13220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13220"><a href="http://awfulannouncing.com/category/2011-articles" >2011 Archives</a></li>
+	<li id="menu-item-13221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13221"><a href="http://awfulannouncing.com/category/2010-articles" >2010 Archives</a></li>
+	<li id="menu-item-13223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13223"><a href="http://awfulannouncing.com/category/2009-articles" >2009 Archives</a></li>
+	<li id="menu-item-13224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13224"><a href="http://awfulannouncing.com/category/2008-articles" >2008 Archives</a></li>
+	<li id="menu-item-13222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13222"><a href="http://awfulannouncing.com/category/2007-articles" >2007 Archives</a></li>
+	<li id="menu-item-13225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13225"><a href="http://awfulannouncing.com/category/2006-articles" >2006 Archives</a></li>
+</ul>
+</li>
+<li id="menu-item-21182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21182"><a href="http://awfulannouncing.com/aa-newsletter-sign-up" >Newsletter</a></li>
+</ul></div>
+		<div class="featured sticky-featured">			<div class="feat-post">
+			<img width="320" height="224" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/03/brentmusburger-320x224.jpg" class="attachment-sticky-featured wp-post-image" alt="brentmusburger" />			<h3><a href="http://awfulannouncing.com/2014/brent-musburger-will-call-iron-bowl-saturday-night.html" title="Brent Musburger will call the Iron Bowl on Saturday night">Brent Musburger will call the Iron Bowl on Saturday night</a></h3>
+			</div>			<div class="feat-post">
+			<img width="333" height="224" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2013/06/herbie-333x224.jpg" class="attachment-sticky-featured wp-post-image" alt="herbie" />			<h3><a href="http://awfulannouncing.com/2014/western-carolina-coach-dead-wrong-bizarre-personal-attack-kirk-herbstreit.html" title="Western Carolina coach is dead wrong in personal attack against Kirk Herbstreit">Western Carolina coach is dead wrong in personal attack against Kirk Herbstreit</a></h3>
+			</div>			<div class="feat-post">
+			<img width="333" height="224" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/11/DirecTV-Red-Zone-Channel-333x224.jpg" class="attachment-sticky-featured wp-post-image" alt="DirecTV Red Zone Channel" />			<h3><a href="http://awfulannouncing.com/2014/aa-sunday-studio-spectacular-directvs-red-zone-channel.html" title="The AA Sunday Studio Spectacular: DirecTV&#8217;s Red Zone Channel">The AA Sunday Studio Spectacular: DirecTV&#8217;s Red Zone Channel</a></h3>
+			</div></div>
+	<div id="main">
+
+			<article id="post-" >
+
+				<header class="entry-header">
+
+					<h1 class="entry-title">Bad karma: we can't find that page!</h1>
+
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+
+					<p>You asked for <strong>/wp-content/uploads/sites/94/images/woodyallen.jpg</strong>, but despite our computers looking very hard, we could not find it. What happened?</p>
+					<ul>
+					<li>the link you clicked to arrive here has a typo in it</li>
+					<li>or somehow we removed that page, or gave it another name</li>
+					<li>or, quite unlikely for sure, maybe you typed it yourself and there was a little mistake?</li>
+					</ul>
+
+				</div><!-- .entry-content -->
+
+			</article><!-- #post -->
+
+			
+	</div>
+
+
+<div id="sidebar">
+	<aside id="ad-40" class="widget widget_text hide-in-tablet hide-in-desktop"><div class='adwidget'><!-- Ad Unit [15435] Mobile_Bloguin_320x50 -->
+<div id="switch_placeholder_35fdde5154134831306cdd6f4da067e0" class="switch_placeholder"></div>
+<script type="text/javascript" src="//delivery.us.myswitchads.com/adserver/sat.js"></script>
+<script type="text/javascript"> __switch_obj.addInstance({"z":15435,"targetId":"switch_placeholder_35fdde5154134831306cdd6f4da067e0","width":"320","height":"50"}); </script></div></aside><aside id="followwidget-2" class="widget follow-widget">		<a class="follow-twitter" href="https://twitter.com/awfulannouncing">Follow Us</a>
+		<a class="follow-facebook" href="https://www.facebook.com/awfulannouncing">Like Us</a>
+		<a class="follow-rss" href="http://bloguin.com/awfulannouncing/feed/rss">Subscribe with RSS</a>
+		</aside><aside id="ad-39" class="widget widget_text hide-in-mobile"><div class='adwidget'><!-- BEGIN JS TAG - Awfulannouncing.com_300*250_US_ATF < - DO NOT MODIFY -->
+<SCRIPT SRC="http://ib.adnxs.com/ttj?id=3720524&cb=[CACHEBUSTER]" TYPE="text/javascript"></SCRIPT>
+<!-- END TAG --></div></aside><aside id="thelocker-2" class="widget the-locker"><h3 class="widget-title">The Locker</h3><div class="locker-wrapper"><div id='locker-post-31169' class="post-31169 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/woman-weeps-getting-piece-cake-tim-tebow.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/10/timtebowsecnetwork-150x150.png" class="attachment-thumbnail wp-post-image" alt="timtebowsecnetwork" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/woman-weeps-getting-piece-cake-tim-tebow.html">Woman weeps over getting piece of cake from Tim Tebow</a></div></div></div><div id='locker-post-31161' class="post-31161 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/tampa-bay-wants-chicago-take-josh-mccown-back.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/11/joshmccown-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="joshmccown" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/tampa-bay-wants-chicago-take-josh-mccown-back.html">Tampa Bay Times wants Chicago to take Josh McCown back</a></div></div></div><aside id="ad-34" class="widget widget_text hide-in-mobile"><div class='adwidget'><!-- YB Awful Announcing -->
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N5702/adj/yb.awfulannouncing2;sz=300x250,300x600;ord=' + ord + '?"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5702/jump/yb.awfulannouncing2;sz=300x250,300x600;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N5702/ad/yb.awfulannouncing2;sz=300x250,300x600;ord=[timestamp]?" />
+</a>
+</noscript></div></aside><div id='locker-post-31151' class="post-31151 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/keith-law-quotes-galileo-return-twitter.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2012/01/keithlaw-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="keithlaw" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/keith-law-quotes-galileo-return-twitter.html">Keith Law quotes Galileo in cryptic return to Twitter</a></div></div></div><div id='locker-post-31138' class="post-31138 post type-post status-publish format-aside hentry category-the-locker"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/t-y-hilton-chokes-postgame-interview.html"><img src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/03/placeholder1-150x150.png" width="100" height="100" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/t-y-hilton-chokes-postgame-interview.html">T.Y. Hilton chokes up during postgame interview</a></div></div></div><div id='locker-post-31134' class="post-31134 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/marshawn-lynch-gives-one-word-answers-locker-room-interview.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/11/Screen-Shot-2014-11-24-at-8.26.45-AM-150x150.png" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2014-11-24 at 8.26.45 AM" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/marshawn-lynch-gives-one-word-answers-locker-room-interview.html">Marshawn Lynch gives one word answers in locker room interview</a></div></div></div><div id='locker-post-31131' class="post-31131 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/awkward-moment-michael-irvin-mocks-producer-white-guys-headline.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/11/irvin-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="irvin" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/awkward-moment-michael-irvin-mocks-producer-white-guys-headline.html">Awkward moment: Michael Irvin mocks producer for &#8220;white guy&#8217;s headline&#8221;</a></div></div></div><div id='locker-post-31116' class="post-31116 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/sportswriter-ann-killion-jameis-winston-beat-rapist.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2013/12/jameiswinston-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="jameiswinston" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/sportswriter-ann-killion-jameis-winston-beat-rapist.html">San Francisco Chronicle sportswriter Ann Killion on Jameis Winston: &#8220;Beat the rapist&#8221;</a></div></div></div><div id='locker-post-31089' class="post-31089 post type-post status-publish format-aside has-post-thumbnail hentry category-2014 has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/2014/college-gameday-already-decided-next-stop-will-auburn-alabama.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2013/12/sabanstatue-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="sabanstatue" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/2014/college-gameday-already-decided-next-stop-will-auburn-alabama.html">College GameDay has already decided their next stop will be Auburn-Alabama</a></div></div></div><div id='locker-post-31085' class="post-31085 post type-post status-publish format-aside has-post-thumbnail hentry category-2014 has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/2014/video-chicago-radio-hosts-find-theyre-fired-air.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/11/TheGameChicago-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="TheGameChicago" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/2014/video-chicago-radio-hosts-find-theyre-fired-air.html">Video &#8211; Chicago radio hosts find out they&#8217;re fired on air</a></div></div></div><div id='locker-post-31065' class="post-31065 post type-post status-publish format-aside has-post-thumbnail hentry category-the-locker has-thumbnail"><div class="content"><div class="thumb"><a href="http://awfulannouncing.com/the-locker/phil-simms-blasts-critics-thursday-night-football.html"><img width="150" height="150" src="http://cdn1.bloguin.com/wp-content/uploads/sites/94/2013/01/nantzsimms2-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="nantzsimms2" /></a></div><div class="excerpt"><a href="http://awfulannouncing.com/the-locker/phil-simms-blasts-critics-thursday-night-football.html">Phil Simms blasts critics of Thursday Night Football</a></div></div></div></div></aside><div class="the-locker-toggle"></div><aside id="ad-2" class="widget widget_text hide-in-tablet hide-in-desktop"><div class='adwidget'><!-- YB Awful Announcing -->
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N5702/adj/yb.awfulannouncing2;sz=300x250,300x600;ord=' + ord + '?"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5702/jump/yb.awfulannouncing2;sz=300x250,300x600;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N5702/ad/yb.awfulannouncing2;sz=300x250,300x600;ord=[timestamp]?" />
+</a>
+</noscript></div></aside><aside id="ad-4" class="widget widget_text"><div class='adwidget'><center>
+<!-- YB Awful Announcing -->
+<script type="text/javascript" src="http://ad.doubleclick.net/N5702/adj/yb.awfulannouncing2;sz=160x600;ord=[timestamp]?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5702/jump/yb.awfulannouncing2;sz=160x600;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N5702/ad/yb.awfulannouncing2;sz=160x600;ord=[timestamp]?" width="160" height="600" />
+</a>
+</noscript>
+</center></div></aside><aside id="clonesplitwidget-3" class="widget clone-widget"><div class='featuredsidebar'>			<div class="feat-post">
+			<img width="333" height="224" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/Prust-333x224.jpg" class="attachment-sticky-featured wp-post-image" alt="Prust" />			<h3><a href="http://bloguin.com/puckdrunklove/2014-articles/hockey-fights-of-the-week-1117-1123.html" title="Best hockey fights of the week">Best hockey fights of the week</a><b class='blogname'>Puck Drunk Love</b></h3>
+			</div>
+			<div class="feat-post">
+			<img width="200" height="200" src="http://cdn1.bloguin.com/wp-content/uploads/2014/03/bug.png" class="attachment-sticky-featured" alt="bug" />			<h3><a href="http://bloguin.com/thisgivensunday/2014-articles/five-possible-head-coaching-candidates-for-next-year.html" title="Five possible head coaching candidates for next year">Five possible head coaching candidates for next year</a><b class='blogname'>This Given Sunday</b></h3>
+			</div>
+			<div class="feat-post">
+			<img width="320" height="224" src="http://cdn1.bloguin.com/wp-content/uploads/2014/11/brentmusburger-320x224.jpg" class="attachment-sticky-featured wp-post-image" alt="brentmusburger" />			<h3><a href="http://awfulannouncing.com/2014/brent-musburger-will-call-iron-bowl-saturday-night.html" title="Brent Musburger will call the Iron Bowl on Saturday night">Brent Musburger will call the Iron Bowl on Saturday night</a><b class='blogname'>Awful Announcing</b></h3>
+			</div>
+</div></aside><aside id="ad-5" class="widget widget_text"><div class='adwidget'><!-- Start CineSport Code -->
+<iframe id="rail-csprt" name="rail-csprt" frameborder="0" align="top,left" marginheight="0" marginwidth="0" scrolling="no" width="300" height="500"  src="http://cinesport.awfulannouncing.com/embed/awfulannouncing-national-sports-video/"></iframe>
+<script type="text/javascript">
+  (function() {
+    var csprtjs = document.createElement('script'); csprtjs.type = 'text/javascript'; csprtjs.async = true;
+    csprtjs.src = 'http://edgecdn.cinesport.com/container.js';
+    var first_s = document.getElementsByTagName('script')[0]; first_s.parentNode.insertBefore(csprtjs, first_s);
+  })();
+</script>
+<!-- End CineSport Code --></div></aside><aside id="search-2" class="widget widget_search hide-in-mobile"><form role="search" method="get" class="search-form" action="http://awfulannouncing.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="ad-36" class="widget widget_text hide-in-mobile hide-in-tablet"><div class='adwidget'><div id='TiqiqWidget' class=''><a title='Sports Tickets' href="http://www.tiqiq.com’><img alt=" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.tiqiq.com’imgalt=']);"Sports Tickets' src='http://images.tiqiq.com/tiqiq/images/tiqiq-power.png'></img></a><script type="text/javascript" src='http://www.tiqiq.com/jscripts/widget.aspx'></script></div></div></aside><aside id="ad-22" class="widget widget_text hide-in-mobile"><div class='adwidget'><!-- Ad Unit [2954] Bloguin.com-300x250-2 -->
+<div id="switch_placeholder_0ec874bae35e67a7cd77590a60e64ac0" class="switch_placeholder"></div>
+<script type="text/javascript" src="//delivery.us.myswitchads.com/adserver/sat.js"></script>
+<script type="text/javascript"> __switch_obj.addInstance({"z":2954,"targetId":"switch_placeholder_0ec874bae35e67a7cd77590a60e64ac0","width":"300","height":"250"}); </script></div></aside><aside id="ad-6" class="widget widget_text hide-in-mobile"><div class='adwidget'><script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=95029&u=bloguin&width=300&height=250"></script></div></aside></div>
+		<div id="main2">
+			<!-- "YOU MIGHT LIKE" ADS -->
+			<div id="contentad12641"></div>
+			<script type="text/javascript">
+			    (function() {
+			        var params =
+			        {
+			            id: "90c29ac5-e644-40ed-a822-ae4ad0260173",
+			            d:  "YmxvZ3Vpbi4xMHVwbGFicy5jb20=",
+			            wid: "12641",
+			            cb: (new Date()).getTime()
+			        };
+			        var qs="";
+			        for(var key in params){qs+=key+"="+params[key]+"&"}
+			        qs=qs.substring(0,qs.length-1);
+			        var s = document.createElement("script");
+			        s.type= 'text/javascript';
+			        s.src = "http://api.content.ad/Scripts/widget.aspx?" + qs;
+			        s.async = true;
+			        document.getElementById("contentad12641").appendChild(s);
+			    })();
+			</script>
+
+			<!-- YARDBARKER WIDGET -->
+			<script src='http://www.yardbarker.com/widget/backyard/bloguin'></script>
+
+		</div>
+
+
+		<div class="clear"></div>
+
+		
+	</div>
+		<div id="footer"><div class="liner">
+
+			<div class="banner">
+				<aside id="ad-23" class="widget widget_text hide-in-mobile"><div class='adwidget'><!-- Ad Unit [2955] Bloguin.com-728x90-3 -->
+<div id="switch_placeholder_eb36343b06a8259ecf236fb022535d5e" class="switch_placeholder"></div>
+<script type="text/javascript" src="//delivery.us.myswitchads.com/adserver/sat.js"></script>
+<script type="text/javascript"> __switch_obj.addInstance({"z":2955,"targetId":"switch_placeholder_eb36343b06a8259ecf236fb022535d5e","width":"728","height":"90"}); </script></div></aside><aside id="ad-10" class="widget widget_text hide-in-mobile"><div class='adwidget'><script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=95028&u=bloguin&width=728&height=90"></script></div></aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Gum Gum</h3>			<div class="textwidget"><script>ggv2id='e7eb9bea';</script>
+<script src="http://g2.gumgum.com/javascripts/ggv2.js"></script></div>
+		</aside>			</div>
+
+			<div id="footer-menu" class="menu-footer-container"><ul id="menu-footer" class="nav-menu"><li id="menu-item-13213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13213"><a href="http://www.bloguin.com/legal-disclaimer.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.bloguin.com']);">Legal Information</a></li>
+<li id="menu-item-13214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13214"><a href="http://awfulannouncing.com/privacy-policy" >Privacy Policy</a></li>
+<li id="menu-item-13215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13215"><a href="http://awfulannouncing.com/disclaimer" >Disclaimer</a></li>
+</ul></div>
+			<div class="copyright"><p>AwfulAnnouncing.com is a Sports fan web site and is in no way affiliated with any media organization, any professional sports league, team, organization, or its Properties. This site is for informational and entertainment purposes only. AwfulAnnouncing.com is not an official web site for any media organization, professional sports league, team, or organization.<br />
+Copyright © 2014 www.AwfulAnnouncing.com - All Rights Reserved - Trademarks used herein are property of their respective owners.</p>
+</div>
+
+			<div class="subfooter">
+				<aside id="ad-13" class="widget widget_text hide-in-mobile hide-in-tablet"><div class='adwidget'><center>
+<a href="http://www.yardbarker.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.yardbarker.com']);"><img border="0" width="100" src="http://www.yardbarker.com/images/ybn/badge_100.gif" height="50" /></a>
+</center></div></aside><aside id="ad-14" class="widget widget_text"><div class='adwidget'><center>
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s21.sitemeter.com/js/counter.js?site=s52bloguinsports">
+</script>
+<noscript>
+<a href="http://s21.sitemeter.com/stats.asp?site=s52bloguinsports" target="_top">
+<img src="http://s21.sitemeter.com/meter.asp?site=s52bloguinsports" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter -->
+
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s45.sitemeter.com/js/counter.js?site=s45awfulannouncing">
+</script>
+<noscript>
+<a href="http://s45.sitemeter.com/stats.asp?site=s45awfulannouncing" target="_top">
+<img src="http://s45.sitemeter.com/meter.asp?site=s45awfulannouncing" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2009 Site Meter -->
+</center></div></aside><aside id="ad-38" class="widget widget_text"><div class='adwidget'><script type="text/javascript">
+    adroll_adv_id = "SZZEWM7KTFET3B2HAL2U4C";
+    adroll_pix_id = "PU3JXK63XRE5RMFBFG2BRK";
+ (function () {
+  var _onload = function(){
+   if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+   if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);};
+  if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+  else {window.attachEvent('onload', _onload)}}());
+</script></div></aside>			</div>
+
+		</div></div>
+	</div>
+		<style>
+	#wp-admin-bar-my-sites-search {
+		height: 34px;
+	}
+	</style>
+	<script>
+	jQuery(document).ready( function($) {
+		$('#wp-admin-bar-my-sites-search input').keyup( function( ) {
+
+			var searchValRegex = new RegExp( $(this).val(), 'i');
+
+			$('#wp-admin-bar-my-sites-list > li.menupop').hide().filter(function() {
+
+				return searchValRegex.test( $(this).find('> a').text() );
+
+			}).show();
+
+		});
+	});
+	</script>
+	            <script>var _roost = _roost || [];_roost.push(['appkey','85ba4eb68df540cda9caa4074889f8e2']);</script><noscript><a href="https://goroost.com/site-contact?noscript&appkey=85ba4eb68df540cda9caa4074889f8e2" title="Contact Us" target="_blank">Questions or feedback? Need help?</a> powered by <a href="https://goroost.com" title="Roost Web Push">Roost - Push notifications for websites</a></noscript><script src="//cdn.goroost.com/js/roost.js" async></script>
+        <!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-1cHTv1mHJldKk"
+});
+</script>
+
+
+<div>
+<img src="//pixel.quantserve.com/pixel/p-1cHTv1mHJldKk.gif" border="0" height="1" width="1" alt="Quantcast" />
+</div>
+
+<!-- End Quantcast tag -->
+
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script><script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/plugins/locker/js/writeCapture.js?ver=0.1.0'></script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/plugins/locker/js/jquery.writeCapture.js?ver=0.1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lockerVars = {"homeURL":"http:\/\/awfulannouncing.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/plugins/locker/js/locker-modal.js?ver=0.1.8'></script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/themes/bloguin/js/responsive-nav.min.js?ver=1.0.23'></script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/themes/bloguin/js/jquery.hoverflow.min.js?ver=1.00'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bloguin = {"ajaxUrl":"http:\/\/awfulannouncing.com\/wp-admin\/admin-ajax.php","contactSuccessMessage":"Thank you for contacting us.","loading":"http:\/\/awfulannouncing.com\/wp-admin\/images\/loading.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/themes/bloguin/js/functions.js?ver=2014-10-27'></script>
+<script type='text/javascript' src='http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js?ver=1.0'></script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/plugins/locker/js/jquery.jscrollpane.min.js?ver=2.0.19'></script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/plugins/locker/js/jquery.mousewheel.js?ver=3.1.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var theLocker = {"ajaxUrl":"http:\/\/awfulannouncing.com\/wp-admin\/admin-ajax.php","height":"660"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cdn1.bloguin.com/wp-content/plugins/locker/js/the-locker.js?ver=1.1'></script>
+
+</body>
+</html>

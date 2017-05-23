@@ -1,0 +1,442 @@
+<!DOCTYPE HTML>
+<head>
+    <title>Ego Dialogues</title>
+	<meta name="description" content="A treasure trove of the bizarre and the extra-ordinary, the beautiful and the refreshing.">
+    <meta name="keywords" content="egodialogues, ego dialogs, art, words, language, poetry, stories, humor, love, quotes">
+	<meta name="author" content="Sabina Nore">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+    <!-- Masonry -->
+	<script src="js/jquery.masonry.min.js"></script>
+    <script>
+      $(function(){
+    
+        var $container = $('#container');
+      
+        $container.imagesLoaded( function(){
+          $container.masonry({
+            itemSelector : '.box',
+			isFitWidth: true,
+			isAnimated: true
+          });
+        });
+      
+      });
+    </script>
+	
+<link rel="stylesheet" href="css/colorbox.css" />
+<script src="js/jquery.colorbox.js"></script>
+		<script>
+			$(document).ready(function(){
+				//Examples of how to assign the Colorbox event to elements
+				$(".group1").colorbox({rel:'group1'});
+				$(".group2").colorbox({rel:'group2', transition:"fade"});
+				$(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
+				$(".group4").colorbox({rel:'group4', slideshow:true});
+				$(".ajax").colorbox();
+				$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
+				$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
+				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+				$(".inline").colorbox({inline:true, width:"50%"});
+				$(".callbacks").colorbox({
+					onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+					onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+					onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+					onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+					onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+				});
+
+				$('.non-retina').colorbox({rel:'group5', transition:'none'})
+				$('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+				
+				//Example of preserving a JavaScript event for inline calls.
+				$("#click").click(function(){ 
+					$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+					return false;
+				});
+			});
+		</script>
+
+</head>
+
+<body>
+	<header>
+	<div id="lara_kit"><img src="img/lara-kit.png" alt="For Lara &amp; Kit" title="For Lara &amp; Kit" /></div>
+	<div id="guestbook"><a class="iframe" href="comments/" title="Guestbook"><img src="img/guestbook.png" alt="Guestbook" title="Guestbook" /></a></div>
+    <div id="site_title"><a href="http://www.egodialogues.com/"><img src="img/ego-dialogues-logo.png" alt="Ego Dialogues" title="Ego Dialogues" /></a></div>
+	<p style="text-align: center; font-size: 22px" class="bronze">A treasure trove of the bizarre &amp; the extra-ordinary, the beautiful &amp; the refreshing.</p>
+	</header>
+    <!-- END header -->
+
+    <div id="container">
+	
+    <div class="box col3">
+		<p class="quote center"><em>"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion"</em></p>
+		<p class="center">~ Albert Camus</p>
+    </div>
+	
+    <div class="box col3">
+		<p class="quote center"><em>"As if you could kill time without injuring eternity."</em></p>
+		<p class="center">~ Henry David Thoreau (from "Walden")</p>
+    </div>
+
+	<div class="box photo col3">
+      <a class="iframe" href="cinnamon-peeler.php" title="The Cinnamon Peeler"><img src="img/hamish-blakely.jpg" alt="Painting by Hamish Blakely" title="Painting by Hamish Blakely" /></a>
+	  <h3>The Cinnamon Peeler</h3>
+	  <div style="margin: 0 0 0 30px"><p><em> 	
+		If I were a cinnamon peeler
+		<br/>I would ride your bed
+		<br/>And leave the yellow bark dust
+		<br/>On your pillow</em>
+		<a class="iframe" href="cinnamon-peeler.php" title="The Cinnamon Peeler">(...)</a></p></div>
+		<hr/>
+		<p class="center" style="font-size: smaller">Painting by Hamish Blakely</p>
+    </div>
+
+	<div class="box photo col3">
+      <a class="iframe" href="dust-if-you-must.php" title="Dust If You Must"><img src="img/dust-if-you-must.jpg" alt="Dust If You Must" title="Dust If You Must" /></a>
+      <h3>Dust If You Must</h3>
+	  <p><em> 	
+		Dust if you must, but wouldn't it be better,
+		<br/>To paint a picture or write a letter,
+		<br/>Bake a cake or plant a seed,
+		<br/>Ponder the difference between want and need?
+		<br/><a class="iframe" href="dust-if-you-must.php" title="Dust If You Must">(...)</a>
+		</em></p>
+    </div>
+	
+	<div class="box photo col3">
+      <a class="iframe" href="let-it-storm.php" title="Let it storm"><img src="img/snowstorm.jpg" alt="Let it storm" title="Let it storm" /></a>
+      <h3>Let it storm</h3>
+	  <p class="center"><a class="iframe" href="let-it-storm.php" title="Let it storm">A quote by Herman Hesse</a></p>
+    </div>
+	
+	
+    <div class="box photo col3">
+      <img src="img/michelangelo-cleopatra.jpg" alt="Cleopatra by Michelangelo Buonarroti" title="Cleopatra by Michelangelo Buonarroti" />
+      <h3>At Times I Almost Dream</h3>
+		<p>At times I almost dream
+		<br/>I too have spent a life the sages’ way,
+		<br/>And tread once more familiar paths.
+		<br/>Perchance
+		<br/>I perished in an arrogant self-reliance
+		<br/>Ages ago; and in that act, a prayer
+		<br/>For one more chance went up so earnest, so
+		<br/>Instinct with better light let in by death,
+		<br/>That life was blotted out—not so completely
+		<br/>But scattered wrecks enough of it remain,
+		<br/>Dim memories, as now, when once more seems
+		<br/>The goal in sight again.
+		<br/> 
+		<br/>From "Paracelsus" by Robert Browning
+		<br/>Drawing: Cleopatra by Michelangelo Buonarroti</p>
+    </div>
+  
+    <div class="box photo col3">
+      <img src="img/lovers18-nicoletta.jpg" alt="Lovers" title="Lovers" />
+      <p style="font-size: x-large" class="center">Sonnet XVII</p>
+		<p>I do not love you as if you were the salt-rose, or topaz,
+		<br/>or the arrow of carnations the fire shoots off.
+		<br/>I love you as certain dark things are to be loved,
+		<br/>in secret, between the shadow and the soul.
+		<br/>
+		<br/>I love you as the plant that never blooms
+		<br/>but carries in itself the light of hidden flowers;
+		<br/>thanks to your love a certain solid fragrance,
+		<br/>risen from the earth, lives darkly in my body.
+		<br/>
+		<br/>I love you without knowing how, or when, or from where.
+		<br/>I love you straightforwardly, without complexities or pride;
+		<br/>so I love you because I know no other way
+		<br/>
+		<br/>than this: where I does not exist, nor you,
+		<br/>so close that your hand on my chest is my hand,
+		<br/>so close that your eyes close as I fall asleep.
+		<br/>
+		<br/>Pablo Neruda</p>
+    </div>
+  
+    <div class="box col3">
+		<p class="quote center"><em>"Some lose all mind and become soul, insane.
+		<br/>some lose all soul and become mind, intellectual.
+		<br/>some lose both and become accepted"</em></p>
+		<p class="center">~ Charles Bukowski</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="100percent-perfect-girl.php" title="On seeing the 100% perfect girl one beautiful April morning, story by Haruki Murakami"><img src="img/cherry-blossom.jpg" alt="Cherry Blossom" title="Cherry Blossom" /></a>
+      <h3>100% Perfect Girl</h3>
+		<p><a class="iframe" href="100percent-perfect-girl.php" title="On seeing the 100% perfect girl one beautiful April morning, story by Haruki Murakami">On seeing the 100% perfect girl one beautiful April morning</a>, story by Haruki Murakami
+		</p><p class="center" style="font-size: smaller">
+		Painting: Joanna Szmerdt</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="krieger-warrior.php" title="Krieger (Warrior)"><img src="img/krieger.jpg" alt="Krieger (Warrior)" title="Krieger (Warrior)" /></a>
+      <h3>Krieger (Warrior)</h3>
+	  <p class="center"><a class="iframe" href="krieger-warrior.php" title="Krieger (Warrior)">Original lyrics and the first English translation</a></p>
+    </div>
+
+    <div class="box photo col3">
+    <p class="quote center"><em>"I’m going to paraphrase Thoreau here… rather than love, than money, than faith, than fame, than fairness… <span style="font-size: larger">give me truth</span>."</em></p>
+      <iframe width="280" height="158" src="//www.youtube-nocookie.com/embed/iRw1V2dgWTg?rel=0" frameborder="0" allowfullscreen></iframe>
+		<p>There is a pleasure in the pathless woods;
+		<br/>There is a rapture on the lonely shore;
+		<br/>There is society, where none intrudes,
+		<br/>By the deep sea, and music in its roar;
+		<br/>I love not man the less, but Nature more...</p>
+		<p class="center">~ Lord Byron</p>
+    </div>
+
+    <div class="box col3">
+		<p><em><span style="font-size: larger">"Sadness gives depth.
+		<br/>Happiness gives height.</span>
+		<br/>
+		<br/>Sadness gives roots.
+		<br/>Happiness gives branches.
+		<br/>
+		<br/>Happiness is like a tree going into the sky, and sadness is like the roots going down into the womb of the earth.
+		<br/>
+		<br/>But both are needed, and the higher a tree goes, the deeper it goes simultaneously.
+		<br/>
+		<br/>The bigger the tree, the bigger will be the roots.
+		<br/>In fact it is always in proportion.
+		<br/>That’s its balance."</em></p>
+		<p class="center">~ Osho</p>
+    </div>
+		
+    <div class="box photo col3">
+      <p class="quote center"><a class="iframe" href="two-sentences.php" title="Two Sentences">She took a sip of coffee.
+	<br/>I swallowed.</a></p>
+      <h3>Two Sentences</h3>
+		<p></p>
+    </div>
+	
+    <div class="box col3">
+		<p class="center">Last night I lay in bed looking up at the stars in the sky and I thought to myself, "Where the heck is the ceiling?!"</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="gossip.php" title="Gossip"><img src="img/gossip.jpg" alt="Gossip" title="Gossip" /></a>
+      <h3>Gossip</h3>
+	  A woman was gossiping with a friend about a man she hardly knew - I know none of you have ever done this - that night she had a dream <a class="iframe" href="gossip.php" title="Gossip">(...)</a>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="road-not-taken.php" title="The Road not Taken"><img src="img/road-less-traveled-sm.jpg" alt="The Road not Taken" title="The Road not Taken" /></a>
+	  <h3>The Road not Taken</h3>
+		<p class="center">Two roads diverged in a yellow wood <a class="iframe" href="road-not-taken.php" title="The Road not Taken">(...)</a></p>		
+    </div>
+	
+    <div class="box col3">
+		<p style="margin: 0 0 0 40px; font-size: 40px; line-height: 36px;">
+		<strong style="color: #990000;">F</strong>alse
+		<br/><strong style="color: #990000;">E</strong>vidence
+		<br/><strong style="color: #990000;">A</strong>ppearing
+		<br/><strong style="color: #990000;">R</strong>eal
+		</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="invictus.php" title="Invictus"><img src="img/invictus.jpg" alt="Invictus" title="Invictus" /></a>
+      <h3>Invictus</h3>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="man-and-ostrich.php" title="The Man &amp; the Ostrich"><img src="img/ostrich.jpg" alt="The man and the ostrich" title="The man and the ostrich" /></a>
+	  <h3>The Man &amp; the Ostrich</h3>
+	  <p class="center">A man walks into a restaurant with a full-grown ostrich behind him. As he sits, the waitress comes over and asks for their orders <a class="iframe" href="man-and-ostrich.php">(...)</a></p>
+    </div>
+  
+    <div class="box photo col3">
+      <img src="img/immortal-quest-sabina-nore.jpg" alt="Immortal Quest by Sabina Nore" title="Immortal Quest by Sabina Nore" />
+		<p class="quote center"><em>"A coward is incapable of exhibiting love;
+		it is the prerogative of the brave."</em></p>
+		<p class="center">Mahatma Gandhi</p>
+		<hr/>
+		<p class="center">Painting: Sabina Nore</p>
+    </div>
+	
+	
+    <div class="box col3">
+		<p class="quote center"><em>"Some people never go crazy.
+		<br/>What truly horrible lives they must lead."</em></p>
+		<p class="center">~ Charles Bukowski</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="group1" href="img/boudewijn-smit.jpg" title="Photo by Boudewijn Smit"><img src="img/butler.jpg" alt="Fun and relaxation are important" title="Fun and relaxation are important" /></a>
+	  <p class="center">Fun and relaxation are important...</p>
+    </div>
+	
+    <div class="box col3">
+		<p class="center"><strong class="blue">Never argue with an idiot.</strong> They'll drag you down to their level and then beat you with experience.</p>
+    </div>
+	
+    <div class="box photo col3">
+    <p class="quote center">A Bit of Fry and Laurie</p>
+	<a class="youtube" href="http://www.youtube-nocookie.com/embed/qUxWdIQVT_c?rel=0&amp;wmode=transparent" title="Psychic Spoon Bender"><img src="img/psychic-spoon-bender.jpg" alt="Psychic Spoon Bender" title="Psychic Spoon Bender" /></a>
+		<h3>Psychic Spoon Bender</h3>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="shortest-story-ever-told.php" title="Shortest Story Ever Told"><img src="img/ernest-hemingway.jpg" alt="Ernest Hemingway" title="Ernest Hemingway" /></a>
+      <h3>Shortest Story Ever Told</h3>
+<p class="center"><span style="font-size: larger">It is said</span> that the shortest story ever told was written by the then young Ernest Hemingway, who said he could write a complete story in only six words! <a class="iframe" href="shortest-story-ever-told.php" title="Shortest Story Ever Told">(...)</a></p>
+    </div>
+	
+    <div class="box col3">
+	<a class="iframe" href="persistence-of-frog.php" title="The Persistence of Frog"><img src="img/persistence-of-frog.jpg" alt="The Persistence of Frog" title="The Persistence of Frog" /></a>
+		<h3>The Persistence of Frog</h3>
+    </div>
+	
+	<div class="box photo col3">
+	  <p><em>"<span style="font-size:larger">If I am walking with two other men</span>, each of them will serve as my teacher. 
+	  <br/>I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself."</em></p>
+      <h3>Confucius</h3>
+    </div>
+	
+    <div class="box photo col3">
+    <p class="quote center">Aldous Huxley vs. George Orwell</p>
+	<a class="iframe" href="aldous-huxley-george-orwell.php" title="Aldous Huxley vs. George Orwell"><img src="img/huxley-orwell.jpg" alt="Aldous Huxley vs. George Orwell" title="Aldous Huxley vs. George Orwell" /></a>
+	<h3>Amusing Ourselves To Death</h3>
+    </div>
+	
+    <div class="box photo col3">
+    <p class="quote center">Comfortably Numb</p>
+	<a class="iframe" href="comfortably-numb.php" title="Numbness versus Sensitivity"><img src="img/comfortably-numb.jpg" alt="Comfortably Numb" title="Comfortably Numb" /></a>
+	<h3>Numbness versus Sensitivity</h3>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="group1" href="img/education-system.jpg" title="The Education System"><img src="img/education-system.jpg" alt="Education System" title="Education System" /></a>
+	  <h3>The Education System</h3>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="matter-of-equipment.php" title="A matter of equipment"><img src="img/matter-of-equipment.jpg" alt="A matter of equipment" title="A matter of equipment" /></a>
+      <h3>A matter of equipment</h3>
+		<p>A couple went on vacation to a fishing resort up north. The husband liked to fish at the crack of dawn. 
+		The wife liked to read <a class="iframe" href="matter-of-equipment.php" title="A matter of equipment">(...)</a></p>
+    </div>
+	
+    <div class="box photo col3">
+    <p class="quote center">Fawlty Towers</p>
+	<a class="youtube" href="http://www.youtube-nocookie.com/embed/H-oH-TELcLE?rel=0&amp;wmode=transparent" title="Fawlty Towers - There is too much butter on those trays"><img src="img/fawlty-towers.jpg" alt="Fawlty Towers" title="Fawlty Towers" /></a>
+		<h3>Too much butter on those trays</h3>
+    </div>
+  
+    <div class="box photo col3">
+      <img src="img/woody-allen.jpg" alt="Woody Allen" title="Woody Allen" />
+      <h3>Woody Allen</h3>
+		<p class="quote center">"When I was kidnapped, my parents snapped into action. They rented out my room."</p>
+		<p class="center">"For some reason I'm more appreciated in France than I am back home.
+		<br/>The subtitles must be incredibly good."</p> 
+		<p class="quote center">"Some guy hit my fender, and I told him, 'Be fruitful and multiply,' but not in those words."</p> 
+    </div>
+	
+    <div class="box col3">
+		<p class="quote center bronze"><em>"Work like you don’t need the money,
+		<br/>love like you’ve never been hurt
+		<br/>and dance like no one is watching."</em></p>
+		<p class="center">~ Randall G Leighton</p>
+    </div>
+	
+    <div class="box photo col3">
+      <img src="img/butterfly-drawing.jpg" alt="Butterfly" title="Butterfly" />
+		<div style="margin: 0 0 0 30px"><p>"When she transformed into a butterfly, 
+		<br/>the caterpillars spoke not of her beauty,
+		<br/>but of her weirdness.
+		</p><p>
+		They wanted her to change back 
+		<br/>into what she always had been.
+		</p><p class="quote">
+		But she had wings."</p></div>
+		<p class="center" style="font.size: small">~ Dean Jackson</p>
+		<p class="center" style="font-size: smaller">Butterfly, liquid drawing by Shin Young Ho</p>
+    </div>
+
+  
+    <div class="box photo col3">
+      <a class="group2" href="img/stanley-kubrick-children.jpg" title="Photo by Stanley Kubrick"><img src="img/stanley-kubrick-children.jpg" alt="Photo by Stanley Kubrick" title="Photo by Stanley Kubrick" /></a>
+      <h3>Kahlil Gibran on Children</h3>
+		<p><span style="font-size: larger">Your children are not your children.</span>
+		They are the sons and daughters of Life’s longing for itself.
+		</p><p>
+		They come through you but not from you,
+		And though they are with you, yet they belong not to you.
+		</p><p>
+		You may give them your love but not your thoughts.
+		For they have their own thoughts.
+		</p><p>
+		You may house their bodies but not their souls,
+		For their souls dwell in the house of tomorrow, which you cannot visit, not even in your dreams.
+		</p><p>
+		You may strive to be like them, but seek not to make them like you.
+		For life goes not backward nor tarries with yesterday.</p>
+		<p class="center" style="font-size: smaller">Photo by Stanley Kubrick</p>
+    </div>
+	
+    <div class="box col3">
+		<p class="quote center"><em>"An intellectual
+		<br/>says a simple thing in a hard way.</p>
+		<p class="quote center">An artist
+		<br/>says a hard thing in a simple way."</em></p>
+		<p class="center">~ Charles Bukowski</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="australian-humor.php" title="Australian Humor"><img src="img/australian-humor.jpg" alt="Australian Humor" title="Australian Humor" /></a>
+      <h3>Australian Humor</h3>
+	  Questions asked on an Australian Tourism site &amp; answered by helpful Australians <a class="iframe" href="australian-humor.php" title="Australian Humor">(...)</a>
+    </div>
+	
+    <div class="box photo col3">
+      <h3>When you are old</h3>
+		<p class="center"><a class="iframe" href="when-you-are-old.php" title="When you are old">A poem by William Butler Yeats</a></p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="love-passion-obsession.php" title="Love vs. Passion vs. Obsession"><img src="img/love-passion-obsession.jpg" alt="Love Passion Obsession" title="Love Passion Obsession" /></a>
+      <h3>Love Passion Obsession</h3>
+	  <hr/>
+	  <p class="center" style="font-size: smaller">Painting by Fabian Perez</p>
+    </div>
+	
+    <div class="box col3">
+		<p class="quote center"><em>"Every word is a prejudice."</em></p>
+		<p class="center">~ F. W. Nietzsche</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="the-story-of-two-wolves.php" title="The Story of Two Wolves"><img src="img/two-wolves.jpg" alt="The Story of Two Wolves" title="The Story of Two Wolves" /></a>
+      <h3>The Story of Two Wolves</h3>
+	  A Grandfather from the Cherokee Nation was talking with his grandson <a class="iframe" href="the-story-of-two-wolves.php" title="The Story of Two Wolves">(...)</a>
+    </div>
+	
+    <div class="box col3">
+		<p class="quote center"><em>"Happiness only real when shared."</em></p>
+		<p class="center">~ Christopher McCandless</p>
+    </div>
+	
+    <div class="box photo col3">
+      <a class="iframe" href="3-worst-chinese-tortures.php" title="The 3 Worst Chinese Tortures"><img src="img/3worst-chinese-tortures.jpg" alt="The 3 Worst Chinese Tortures" title="The 3 Worst Chinese Tortures" /></a>
+      <h3>The 3 Worst Chinese Tortures</h3>
+	  A young man was lost wandering in a forest, when he came upon a small house. He knocked on the door and was greeted by an ancient Chinese man with a long, grey beard <a class="iframe" href="3-worst-chinese-tortures.php" title="The 3 Worst Chinese Tortures">(...)</a>
+    </div>
+ 
+    <div class="box col3">
+		<p class="quote center red">Always remember you're unique, just like everyone else.</p>
+    </div>
+	
+<div style="clear:both; height: 40px"></div>
+</div>
+<!-- END container -->
+
+<p class="center"><a class="iframe" href="comments/" title="Guestbook"><img src="img/guestbook2.png" alt="Guestbook" title="Guestbook" /></a></p>
+
+</body>
+</html>
